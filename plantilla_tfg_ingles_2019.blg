@@ -1,0 +1,15 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'plantilla_tfg_ingles_2019.blg'
+[46] biber-darwin:315> INFO - === Wed Jan 15, 2020, 20:27:45
+[80] Biber.pm:371> INFO - Reading 'plantilla_tfg_ingles_2019.bcf'
+[198] Biber.pm:889> INFO - Found 19 citekeys in bib section 0
+[215] Biber.pm:4093> INFO - Processing section 0
+[229] Biber.pm:4254> INFO - Looking for bibtex format file 'bibliografia/refs.bib' for section 0
+[234] bibtex.pm:1523> INFO - LaTeX decoding ...
+[315] bibtex.pm:1340> INFO - Found BibTeX data source 'bibliografia/refs.bib'
+[543] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[544] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[544] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[544] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[561] bbl.pm:636> INFO - Writing 'plantilla_tfg_ingles_2019.bbl' with encoding 'UTF-8'
+[576] bbl.pm:739> INFO - Output to plantilla_tfg_ingles_2019.bbl
