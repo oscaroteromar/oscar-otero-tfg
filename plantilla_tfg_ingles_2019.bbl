@@ -814,6 +814,327 @@
       \verb 10.1016/S0140-6736(02)11133-0
       \endverb
     \endentry
+    \entry{Demarty2013}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=1cfcfd6b95053490ce13f39a2f9fc831}{%
+           family={Demarty},
+           familyi={D\bibinitperiod},
+           given={Claire\bibnamedelima H{é}l{è}ne},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=369e4a23a04ce26754dacdeb5204a807}{%
+           family={Penet},
+           familyi={P\bibinitperiod},
+           given={C{é}dric},
+           giveni={C\bibinitperiod}}}%
+        {{hash=28b51640509c48a3b9b4bbbb0b26c578}{%
+           family={Schedl},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e431854cbe69ee8d6f8d60d4e33e26a0}{%
+           family={Ionescu},
+           familyi={I\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e4a85ed94c01fe19740378a7ed805e27}{%
+           family={Quang},
+           familyi={Q\bibinitperiod},
+           given={Vu\bibnamedelima Lam},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=058f9bb989e2b6aa619f923aa82450df}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Yu\bibnamedelima Gang},
+           giveni={Y\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c9c2b1b97453f9570bbba23c1804ee0}
+      \strng{fullhash}{98ccbf1d5a5ccc90c6e7297ee34b538a}
+      \strng{bibnamehash}{c31f8473bce8ffe1b2892ee3bb019605}
+      \strng{authorbibnamehash}{c31f8473bce8ffe1b2892ee3bb019605}
+      \strng{authornamehash}{7c9c2b1b97453f9570bbba23c1804ee0}
+      \strng{authorfullhash}{98ccbf1d5a5ccc90c6e7297ee34b538a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper provides a description of the MediaEval 2013 Affect Task Violent Scenes Detection. This task, which is proposed for the third year to the research community, derives directly from a Technicolor use case which aims at easing a user's selection process from a movie database. This task will therefore apply to movie content. We provide some insight into the Technicolor use case, before giving details on the task itself, which has seen some changes in 2013. Dataset, annotations, and evaluation criteria as well as the required and optional runs are described.}
+      \field{booktitle}{CEUR Workshop Proceedings}
+      \field{issn}{16130073}
+      \field{title}{{The MediaEval 2013 affect task: Violent Scenes Detection}}
+      \field{year}{2013}
+    \endentry
+    \entry{Giannakopoulos2006}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e032ec645401a1838ee933a73d41794f}{%
+           family={Giannakopoulos},
+           familyi={G\bibinitperiod},
+           given={Theodoros},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4910c9f2e5d6feca84c56fc6bca10fda}{%
+           family={Kosmopoulos},
+           familyi={K\bibinitperiod},
+           given={Dimitrios},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3b50a230f9dd108433d683b1417c549f}{%
+           family={Aristidou},
+           familyi={A\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fd3acabdbe6cc1c8fdbab64dd76ae135}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={Sergios},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{91fdaae41bab2442477f6059454f1c6b}
+      \strng{fullhash}{535eb30dba8849193930b58e15868b81}
+      \strng{bibnamehash}{535eb30dba8849193930b58e15868b81}
+      \strng{authorbibnamehash}{535eb30dba8849193930b58e15868b81}
+      \strng{authornamehash}{91fdaae41bab2442477f6059454f1c6b}
+      \strng{authorfullhash}{535eb30dba8849193930b58e15868b81}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This work studies the problem of violence detection in audio data, which can be used for automated content rating. We employ some popular frame-level audio features both from the time and frequency domain. Afterwards, several statistics of the calculated feature sequences are fed as input to a Support Vector Machine classifier, which decides about the segment content with respect to violence. The presented experimental results verify the validity of the approach and exhibit a better performance than the other known approaches. {©} Springer-Verlag Berlin Heidelberg 2006.}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{isbn}{354034117X}
+      \field{issn}{03029743}
+      \field{title}{{Violence content classification using audio features}}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1007/11752912_55
+      \endverb
+    \endentry
+    \entry{Giannakopoulos2010}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=e032ec645401a1838ee933a73d41794f}{%
+           family={Giannakopoulos},
+           familyi={G\bibinitperiod},
+           given={Theodoros},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c45ba1037f24a9ad6866153a209f54bb}{%
+           family={Makris},
+           familyi={M\bibinitperiod},
+           given={Alexandros},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4910c9f2e5d6feca84c56fc6bca10fda}{%
+           family={Kosmopoulos},
+           familyi={K\bibinitperiod},
+           given={Dimitrios},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5e81142e26ff9012396dded1c3a1dfcc}{%
+           family={Perantonis},
+           familyi={P\bibinitperiod},
+           given={Stavros},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fd3acabdbe6cc1c8fdbab64dd76ae135}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={Sergios},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{85a934c0c1802132e4e20bd06066ea50}
+      \strng{fullhash}{b9fceb18c1424cbfdf1828c71ea663fe}
+      \strng{bibnamehash}{b9fceb18c1424cbfdf1828c71ea663fe}
+      \strng{authorbibnamehash}{b9fceb18c1424cbfdf1828c71ea663fe}
+      \strng{authornamehash}{85a934c0c1802132e4e20bd06066ea50}
+      \strng{authorfullhash}{b9fceb18c1424cbfdf1828c71ea663fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper we present our research towards the detection of violent scenes in movies, employing fusion methodologies, based on learning. Towards this goal, a multi-step approach is followed: initially, automated auditory and visual processing and analysis is performed in order to estimate probabilistic measures regarding particular audio and visual related classes. At a second stage, a meta-classification architecture is adopted, which combines the audio and visual information, in order to classify mid-term video segments as "violent" or "non-violent". The proposed scheme has been evaluated on a real dataset from 10 films. {©} Springer-Verlag Berlin Heidelberg 2010.}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{isbn}{3642128416}
+      \field{issn}{03029743}
+      \field{title}{{Audio-visual fusion for detecting violent scenes in videos}}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1007/978-3-642-12842-4_13
+      \endverb
+      \keyw{Multi-modal video classification,Violence detection}
+    \endentry
+    \entry{Ali2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fdcb4772c49be5c6e264e67eae9e56aa}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Ashikin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eff078098dc38e55217993b529280211}{%
+           family={Senan},
+           familyi={S\bibinitperiod},
+           given={Norhalina},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{aff433f1660ce99ead1696e8eeb59c31}
+      \strng{fullhash}{aff433f1660ce99ead1696e8eeb59c31}
+      \strng{bibnamehash}{aff433f1660ce99ead1696e8eeb59c31}
+      \strng{authorbibnamehash}{aff433f1660ce99ead1696e8eeb59c31}
+      \strng{authornamehash}{aff433f1660ce99ead1696e8eeb59c31}
+      \strng{authorfullhash}{aff433f1660ce99ead1696e8eeb59c31}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Violence is autonomous, the contents that one would not let children to see in movies or web videos. This is a challenging problem due to strong content variations among the positive instances. To solve this problem, implementation of deep neural network to classify the violence content in videos is proposed. Currently, deep neural network has shown its efficiency in natural language processing, fraud detection, social media, text classification, image classification. Regardless of the conventional methods applied to overcome this issue, but these techniques seem insufficiently accurate and does not adopt well to certain webs or user needs. Therefore, the purpose of this study is to assess the classification performances on violence video using Deep Neural Network (DNN). Hence, in this paper different architectures of hidden layers and hidden nodes in DNN have been implemented using the try-error method and equation based method, to examine the effect of the number of hidden layers and hidden nodes to the classification performance. From the results, it indicates 53{\%} accuracy rate for try and error approach, meanwhile for equation based approach it indicates 51{\%} accuracy rate.}
+      \field{isbn}{9783319725499}
+      \field{issn}{21945357}
+      \field{journaltitle}{Advances in Intelligent Systems and Computing}
+      \field{title}{{Violence video classification performance using deep neural networks}}
+      \field{volume}{700}
+      \field{year}{2018}
+      \field{pages}{225\bibrangedash 233}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/978-3-319-72550-5_22
+      \endverb
+      \verb{file}
+      \verb :Users/Oscar/Downloads/Ali-Senan2018{\_}Chapter{\_}ViolenceVideoClassificationPer.pdf:pdf
+      \endverb
+      \keyw{Artificial neural network,Classification,Deep neural network,Violence video}
+    \endentry
+    \entry{Chua2014}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=d436e6485a2785e7cf90c5b0d669698d}{%
+           family={Chua},
+           familyi={C\bibinitperiod},
+           given={Teck\bibnamedelima Wee},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=882bb0b25a103fa5e9823dfb2502d89a}{%
+           family={Leman},
+           familyi={L\bibinitperiod},
+           given={Karianto},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c8c5bb9f8ba6ff0df0521ea75cae9bda}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{2987f3d62b41136d596910e540aeaa10}
+      \strng{fullhash}{2987f3d62b41136d596910e540aeaa10}
+      \strng{bibnamehash}{2987f3d62b41136d596910e540aeaa10}
+      \strng{authorbibnamehash}{2987f3d62b41136d596910e540aeaa10}
+      \strng{authornamehash}{2987f3d62b41136d596910e540aeaa10}
+      \strng{authorfullhash}{2987f3d62b41136d596910e540aeaa10}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Modern elevators are equipped with closed-circuit television (CCTV) cameras to record videos for post-incident investigation rather than providing proactive event monitoring. While there are some attempts at automated video surveillance, events such as urinating, vandalism, and crimes that involved vulnerable targets may not exhibit significant visual cues. On contrary, such events are more discerning from audio cues. In this work, we propose a hierarchical audio-visual surveillance framework for elevators. Audio analytic module acts as the front line detector to monitor for such events. This means audio cue is the main determining source to infer the event occurrence. The secondary inference process involves queries to visual analytic module to build-up the evidences leading to event detection. We validate the performance of our system at a residential trial site and the initial results are promising. {©} 2014 Springer International Publishing.}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{isbn}{9783319041162}
+      \field{issn}{03029743}
+      \field{title}{{Hierarchical audio-visual surveillance for passenger elevators}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1007/978-3-319-04117-9_5
+      \endverb
+    \endentry
+    \entry{Garcia-Gomez2016}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=7f0280add579ec87f2409c8ec89fbc6e}{%
+           family={Garc{í}a-G{ó}mez},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={Joaqu{í}n},
+           giveni={J\bibinitperiod}}}%
+        {{hash=115b1f7caed7019c4ddce1e07b47efbf}{%
+           family={Bautista-Dur{á}n},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=00390bd046602da7f8801f4764a8400f}{%
+           family={Gil-Pita},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2e1237bf39c89be621943b6888e7032b}{%
+           family={Mohino-Herranz},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={Inma},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9262296bcd40ac19d2654f0421d2bed6}{%
+           family={Rosa-Zurera},
+           familyi={R\bibinithyphendelim Z\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1eb1fb8882bb3358ee563b9b23918ab0}
+      \strng{fullhash}{9302244f8a6a6e012cbc74b32700b068}
+      \strng{bibnamehash}{9302244f8a6a6e012cbc74b32700b068}
+      \strng{authorbibnamehash}{9302244f8a6a6e012cbc74b32700b068}
+      \strng{authornamehash}{1eb1fb8882bb3358ee563b9b23918ab0}
+      \strng{authorfullhash}{9302244f8a6a6e012cbc74b32700b068}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Violence continues being an important problem in the society. Thousands of people suffer its effects every day and statistics show this number has maintained or almost increased recently. In the modern environment of smart cities there is a necessity to develop a system capable of detecting if a violent situation is taking place or not. In this paper we present an automatic acoustic violence detection system for smart cities, integrating both signal processing and pattern recognition techniques. The proposed software has been implemented in three steps: feature extraction in time and frequency domain, genetic algorithm implementation in order to select the best features, and classification to take a binary decision. Results derived from the experiments show that MFCCs are the best features for violence detection, and others like pitch or short time energy have also a good performance. In other words, features that can distinguish between voiced and unvoiced frames seem to be a good election for violence detection in real environments.}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{isbn}{9783319487984}
+      \field{issn}{16113349}
+      \field{title}{{Violence detection in real environments for smart cities}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1007/978-3-319-48799-1_52
+      \endverb
+      \keyw{Audio features,Audio processing,Feature selection,Violence detection}
+    \endentry
+    \entry{Bautista-Duran2017}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=4c4e6a04694f3a10c5216618152fb73b}{%
+           family={Bautista-Duran},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7f0280add579ec87f2409c8ec89fbc6e}{%
+           family={Garc{í}a-G{ó}mez},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={Joaqu{í}n},
+           giveni={J\bibinitperiod}}}%
+        {{hash=00390bd046602da7f8801f4764a8400f}{%
+           family={Gil-Pita},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f7cb65fa761287cc1f7383f6090ba245}{%
+           family={S{á}nchez-Hevia},
+           familyi={S\bibinithyphendelim H\bibinitperiod},
+           given={H{é}ctor},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2e1237bf39c89be621943b6888e7032b}{%
+           family={Mohino-Herranz},
+           familyi={M\bibinithyphendelim H\bibinitperiod},
+           given={Inma},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9262296bcd40ac19d2654f0421d2bed6}{%
+           family={Rosa-Zurera},
+           familyi={R\bibinithyphendelim Z\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a08c26f45ac7720fc96440b4ea7ebebb}
+      \strng{fullhash}{ffe4ce4907b163158e179e33d2499150}
+      \strng{bibnamehash}{7a52fc90ff014c90d4b2e38788725d89}
+      \strng{authorbibnamehash}{7a52fc90ff014c90d4b2e38788725d89}
+      \strng{authornamehash}{a08c26f45ac7720fc96440b4ea7ebebb}
+      \strng{authorfullhash}{ffe4ce4907b163158e179e33d2499150}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Detecting violence is an important task due to the amount of people who suffer its effects daily. There is a tendency to focus the problem either in real situations or in non real ones, but both of them are useful on its own right. Until this day there has not been clear effort to try to relate both environments. In this work we try to detect violent situations on two different acoustic databases through the use of crossed information from one of them into the other. The system has been divided into three stages: feature extraction, feature selection based on genetic algorithms and classification to take a binary decision. Results focus on comparing performance loss when a database is evaluated with features selected on itself, or selection based in the other database. In general, complex classifiers tend to suffer higher losses, whereas simple classifiers, such as linear and quadratic detectors, offers less than a 10{\%} loss in most situations.}
+      \field{booktitle}{ICPRAM 2017 - Proceedings of the 6th International Conference on Pattern Recognition Applications and Methods}
+      \field{isbn}{9789897582226}
+      \field{title}{{Acoustic detection of violence in real and fictional environments}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5220/0006195004560462
+      \endverb
+      \keyw{Audio processing,Feature selection,Fictional environment,Real environment,Violence detection}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

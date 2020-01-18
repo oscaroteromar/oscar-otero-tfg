@@ -2016,6 +2016,14 @@
     <bcf:citekey order="18">Lee2013</bcf:citekey>
     <bcf:citekey order="19">Mesaros2010</bcf:citekey>
     <bcf:citekey order="20">Krug2002</bcf:citekey>
+    <bcf:citekey order="21">Demarty2013</bcf:citekey>
+    <bcf:citekey order="22">Giannakopoulos2006</bcf:citekey>
+    <bcf:citekey order="23">Giannakopoulos2010</bcf:citekey>
+    <bcf:citekey order="24">Giannakopoulos2006</bcf:citekey>
+    <bcf:citekey order="25">Ali2018</bcf:citekey>
+    <bcf:citekey order="26">Chua2014</bcf:citekey>
+    <bcf:citekey order="27">Garcia-Gomez2016</bcf:citekey>
+    <bcf:citekey order="28">Bautista-Duran2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
