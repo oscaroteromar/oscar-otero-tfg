@@ -1,0 +1,90 @@
+\ifglsentryexists{asc}{}%
+{%
+\gls@defglossaryentry{asc}%
+{%
+name={ASC},%
+sort={ASC},%
+type={main},%
+first={Acoustic Scene Classification\glsspace (ASC)},%
+firstplural={Acoustic Scene Classifications\glsspace (ASCs)},%
+text={ASC},%
+plural={ASCs},%
+description={Acoustic Scene Classification},%
+descriptionplural={Acoustic Scene Classification\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Acoustic Scene Classification},%
+longplural={Acoustic Scene Classifications},%
+short={ASC},%
+shortplural={ASCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{aedc}{}%
+{%
+\gls@defglossaryentry{aedc}%
+{%
+name={AED/C},%
+sort={AED/C},%
+type={main},%
+first={Acoustic Event Detection and Classification\glsspace (AED/C)},%
+firstplural={Acoustic Event Detection and Classifications\glsspace (AED/Cs)},%
+text={AED/C},%
+plural={AED/Cs},%
+description={Acoustic Event Detection and Classification},%
+descriptionplural={Acoustic Event Detection and Classification\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Acoustic Event Detection and Classification},%
+longplural={Acoustic Event Detection and Classifications},%
+short={AED/C},%
+shortplural={AED/Cs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MFCC}{}%
+{%
+\gls@defglossaryentry{MFCC}%
+{%
+name={MFCC},%
+sort={MFCC},%
+type={main},%
+first={Mel Frequency Cepstrum Coefficients\glsspace (MFCC)},%
+firstplural={Mel Frequency Cepstrum Coefficientss\glsspace (MFCCs)},%
+text={MFCC},%
+plural={MFCCs},%
+description={Mel Frequency Cepstrum Coefficients},%
+descriptionplural={Mel Frequency Cepstrum Coefficients\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Mel Frequency Cepstrum Coefficients},%
+longplural={Mel Frequency Cepstrum Coefficientss},%
+short={MFCC},%
+shortplural={MFCCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

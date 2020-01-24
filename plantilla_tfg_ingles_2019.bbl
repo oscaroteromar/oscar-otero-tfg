@@ -48,8 +48,8 @@
       \strng{authorbibnamehash}{5995851aaebc41e48a03ba98ad7c85d5}
       \strng{authornamehash}{2558a8d1e36f9596aa286adf5968f03e}
       \strng{authorfullhash}{5995851aaebc41e48a03ba98ad7c85d5}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this article, we present an account of the state of the art in acoustic scene classification (ASC), the task of classifying environments from the sounds they produce. Starting from a historical review of previous research in this area, we define a general framework for ASC and present different implementations of its components. We then describe a range of different algorithms submitted for a data challenge that was held to provide a general and fair benchmark for ASC techniques. The data set recorded for this purpose is presented along with the performance metrics that are used to evaluate the algorithms and statistical significance tests to compare the submitted methods.}
@@ -85,8 +85,8 @@
       \strng{authorbibnamehash}{dfc1a8821db0b25a34c11df9fe8d4259}
       \strng{authornamehash}{dfc1a8821db0b25a34c11df9fe8d4259}
       \strng{authorfullhash}{dfc1a8821db0b25a34c11df9fe8d4259}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The present research on cognitive categories mediates between individual experiences of soundscapes and collective representations shared in language and elaborated as knowledge. This approach focuses on meanings attributed to soundscapes in an attempt to bridge the gap between individual perceptual categories and sociological representations. First, results of several free categorisation experiments are presented, namely the categorical structures elicited using soundscape recordings and the underlying principles of organisation derived from the analysis of verbal comments. People categorised sound samples on the basis of semantic features that integrate perceptual ones. Specifically, soundscapes reflecting human activity were perceived as more pleasant than soundscapes where mechanical sounds were predominant. Second, the linguistic exploration of free-format verbal description of soundscapes indicated that the meanings attributed to sounds act as a determinant for sound quality evaluations. Soundscape evaluations are therefore qualitative first as they are semiotic in nature as grounded in cultural values given to different types of activities. Physical descriptions of sound properties have to be reconsidered as cues pointing to diverse cognitive objects to be identified first rather as the only adequate, exhaustive and objective description of the sound itself. Finally, methodological and theoretical consequences of these findings are drawn, highlighting the need to address not only noise annoyance but rather sound quality of urban environments. To do so, cognitive evaluations must be conducted in the first place to identify relevant city users' categories of soundscapes and then to use physical measurement to characterize corresponding acoustic events. {©} S. Hlrzel Verlag EAA.}
@@ -114,8 +114,8 @@
       \strng{authorbibnamehash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
       \strng{authornamehash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
       \strng{authorfullhash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{How can we engineer systems capable of “cocktail party” listening? Human listeners are able to perceptually segregate one sound source from an acoustic mixture, such as a single voice from a mixture of other voices and music at a busy cocktail party. How can we engineer “machine listening” systems that achieve this perceptual feat? Albert Bregmans book Auditory Scene Analysis, published in 1990, drew an analogy between the perception of auditory scenes and visual scenes, and described a coherent framework for understanding the perceptual organization of sound. His account has stimulated much interest in computational studies of hearing. Such studies are motivated in part by the demand for practical sound separation systems, which have many applications including noiserobust automatic speech recognition, hearing prostheses, and automatic music transcription. This emerging field has become known as computational auditory scene analysis (CASA). Computational Auditory Scene Analysis: Principles, Algorithms, and Applications provides a comprehensive and coherent account of the state of the art in CASA, in terms of the underlying principles, the algorithms and system architectures that are employed, and the potential applications of this exciting new technology. With a Foreword by Bregman, its chapters are written by leading researchers and cover a wide range of topics including: Estimation of multiple fundamental frequenciesFeaturebased and modelbased approaches to CASASound separation based on spatial locationProcessing for reverberant environmentsSegregation of speech and musical signalsAutomatic speech recognition in noisy environmentsNeural and perceptual modeling of auditory organizationThe text is written at a level that will be accessible to graduate students and researchers from related science and engineering disciplines. The extensive bibliography accompanying each chapter will also make this book a valuable reference source. A web site accompanying the text, http://www.casabook.org, features software tools and sound demonstrations.}
@@ -176,8 +176,8 @@
       \strng{authorbibnamehash}{1ee8905d80cfdb8f82349ed5532990aa}
       \strng{authornamehash}{23d7c54e2aef3b2e605d3b5cfee4a5b9}
       \strng{authorfullhash}{8077df8e18908c3440c9777fe49cac07}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of this paper is to investigate the feasibility of an audio-based context recognition system. Here, context recognition refers to the automatic classification of the context or an environment around a device. A system is developed and compared to the accuracy of human listeners in the same task. Particular emphasis is placed on the computational complexity of the methods, since the application is of particular interest in resource-constrained portable devices. Simplistic low-dimensional feature vectors are evaluated against more standard spectral features. Using discriminative training, competitive recognition accuracies are achieved with very low-order hidden Markov models (1-3 Gaussian components). Slight improvement in recognition accuracy is observed when linear data-driven feature transformations are applied to mel-cepstral features. The recognition rate of the system as a function of the test sequence length appears to converge only after about 30 to 60 s. Some degree of accuracy can be achieved even with less than 1-s test sequence lengths. The average reaction time of the human listeners was 14 s, i.e., somewhat smaller, but of the same order as that of the system. The average recognition accuracy of the system was 58{\%} against 69{\%}, obtained in the listening tests in recognizing between 24 everyday contexts. The accuracies in recognizing six high-level classes were 82{\%} for the system and 88{\%} for the subjects. {©} 2006 IEEE.}
@@ -204,8 +204,8 @@
       \strng{authorbibnamehash}{54889d121e06c21637190270580ab7b9}
       \strng{authornamehash}{54889d121e06c21637190270580ab7b9}
       \strng{authorfullhash}{54889d121e06c21637190270580ab7b9}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we present the pattern recognition methods proposed to classify respiratory sounds into normal and wheeze classes. We evaluate and compare the feature extraction techniques based on Fourier transform, linear predictive coding, wavelet transform and Mel-frequency cepstral coefficients (MFCC) in combination with the classification methods based on vector quantization, Gaussian mixture models (GMM) and artificial neural networks, using receiver operating characteristic curves. We propose the use of an optimized threshold to discriminate the wheezing class from the normal one. Also, post-processing filter is employed to considerably improve the classification accuracy. Experimental results show that our approach based on MFCC coefficients combined to GMM is well adapted to classify respiratory sounds in normal and wheeze classes. McNemar's test demonstrated significant difference between results obtained by the presented classifiers (p {<} 0.05). {©} 2009 Elsevier Ltd. All rights reserved.}
@@ -242,8 +242,8 @@
       \strng{authorbibnamehash}{3985dcfc90fef93802d45d7e6fbc8297}
       \strng{authornamehash}{3985dcfc90fef93802d45d7e6fbc8297}
       \strng{authorfullhash}{3985dcfc90fef93802d45d7e6fbc8297}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of New Music Research}
@@ -293,8 +293,8 @@
       \strng{authorbibnamehash}{aa4d25906bf690a96eae1cb147750dc0}
       \strng{authornamehash}{51f032f7845b62202f6963ef7fe3eec0}
       \strng{authorfullhash}{0f37c002b63f9b3c7d16889851da659f}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The human activity that takes place in meeting-rooms or class-rooms is reflected in a rich variety of acoustic events, either produced by the human body or by objects handled by humans, so the determination of both the identity of sounds and their position in time may help to detect and describe that human activity. Additionally, detection of sounds other than speech may be useful to enhance the robustness of speech technologies like automatic speech recognition. Automatic detection and classification of acoustic events is the objective of this thesis work. It aims at processing the acoustic signals collected by distant microphones in meeting-room or classroom environments to convert them into symbolic descriptions corresponding to a listener's perception of the different sound events that are present in the signals and their sources. First of all, the task of acoustic event classification is faced using Support Vector Machine (SVM) classifiers, which are motivated by the scarcity of training data. A confusion-matrix-based variable-feature-set clustering scheme is developed for the multiclass recognition problem, and tested on the gathered database. With it, a higher classification rate than the GMM-based technique is obtained, arriving to a large relative average error reduction with respect to the best result from the conventional binary tree scheme. Moreover, several ways to extend SVMs to sequence processing are compared, in an attempt to avoid the drawback of SVMs when dealing with audio data, i.e. their restriction to work with fixed-length vectors, observing that the dynamic time warping kernels work well for sounds that show a temporal structure. Furthermore, concepts and tools from the fuzzy theory are used to investigate, first, the importance of and degree of interaction among features, and second, ways to fuse the outputs of several classification systems. The developed AEC systems are tested also by participating in several international evaluations from 2004 to 2006, and the results are reported. The second main contribution of this thesis work is the development of systems for detection of acoustic events. The detection problem is more complex since it includes both classification and determination of the time intervals where the sound takes place. Two system versions are developed and tested on the datasets of the two CLEAR international evaluation campaigns in 2006 and 2007. Two kinds of databases are used: two databases of isolated acoustic events, and a database of interactive seminars containing a significant number of acoustic events of interest. Our developed systems, which consist of SVM-based classification within a sliding window plus post-processing, were the only submissions not using HMMs, and each of them obtained competitive results in the corresponding evaluation. Speech activity detection was also pursued in this thesis since, in fact, it is a – especially important – particular case of acoustic event detection. An enhanced SVM training approach for the speech activity detection task is developed, mainly to cope with the problem of dataset reduction. The resulting SVM-based system is tested with several NIST Rich Transcription (RT) evaluation datasets, and it shows better scores than our GMM-based system, which ranked among the best systems in the RT06 evaluation. Finally, it is worth mentioning a few side outcomes from this thesis work. As it has been carried out in the framework of the CHIL EU project, the author has been responsible for the organization of the above mentioned international evaluations in acoustic event classification and detection, taking a leading role in the specification of acoustic event classes, databases, and evaluation protocols, and, especially, in the proposal and implementation of the various metrics that have been used. Moreover, the detection systems have been implemented in the UPC's smart-room and work in real time for purposes of testing and demonstration.}
@@ -345,8 +345,8 @@
       \strng{authorbibnamehash}{aa4d25906bf690a96eae1cb147750dc0}
       \strng{authornamehash}{96fd8bed1a82e6a324d4f3e27758a2eb}
       \strng{authorfullhash}{274c3e255818716c9806ad7c03bffd96}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we present the results of the Acoustic Event Detection (AED) and Classification (AEC) evaluations carried out in February 2006 by the three participant partners from the CHIL project. The primary evaluation task was AED of the testing portions of the isolated sound databases and seminar recordings produced in CHIL. Additionally, a secondary AEC evaluation task was designed using only the isolated sound databases. The set of meetingroom acoustic event classes and the metrics were agreed by the three partners and ELDA was in charge of the scoring task. In this paper, the various systems for the tasks of AED and AEC and their results are presented. {©} Springer-Verlag Berlin Heidelberg 2007.}
@@ -398,8 +398,8 @@
       \strng{authorbibnamehash}{98d6f257d3e6d2eaa440d324a9df078a}
       \strng{authornamehash}{ed4ec4973fc2de157ec053f9d1820f1b}
       \strng{authorfullhash}{e2d31c8ccc8fcdfe09686a8b5daaaf60}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Our understanding of etiology of obesity and overweight is incomplete due to lack of objective and accurate methods for monitoring of ingestive behavior (MIB) in the free-living population. Our research has shown that frequency of swallowing may serve as a predictor for detecting food intake, differentiating liquids and solids, and estimating ingested mass. This paper proposes and compares two methods of acoustical swallowing detection from sounds contaminated by motion artifacts, speech, and external noise. Methods based on mel-scale Fourier spectrum, wavelet packets, and support vector machines are studied considering the effects of epoch size, level of decomposition, and lagging on classification accuracy. The methodology was tested on a large dataset (64.5 h with a total of 9966 swallows) collected from 20 human subjects with various degrees of adiposity. Average weighted epoch-recognition accuracy for intravisit individual models was 96.8{\%}, which resulted in 84.7{\%} average weighted accuracy in detection of swallowing events. These results suggest high efficiency of the proposed methodology in separation of swallowing sounds from artifacts that originate from respiration, intrinsic speech, head movements, food ingestion, and ambient noise. The recognition accuracy was not related to body mass index, suggesting that the methodology is suitable for obese individuals. {©} 2006 IEEE.}
@@ -719,8 +719,8 @@
       \strng{authorbibnamehash}{30244510521533ff899be917eeb74ed8}
       \strng{authornamehash}{30244510521533ff899be917eeb74ed8}
       \strng{authorfullhash}{30244510521533ff899be917eeb74ed8}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Recently unsupervised learning algorithms have been successfully used to represent data in many of machine recognition tasks. In particular, sparse feature learning algorithms have shown that they can not only discover meaningful structures from raw data but also outperform many hand-engineered features. In this paper, we apply the sparse feature learning approach to acoustic scene classification. We use a sparse restricted Boltzmann machine to capture manyfold local acoustic structures from audio data and represent the data in a high-dimensional sparse feature space given the learned structures. For scene classification, we summarize the local features by pooling over audio scene data. While the feature pooling is typically performed over uniformly divided segments, we suggest a new pooling method, which first detects audio events and then performs pooling only over detected events, considering the irregular occurrence of audio events in acoustic scene data. We evaluate the learned features on the IEEE AASP Challenge development set, comparing them with a baseline model using mel-frequency cepstral coefficients (MFCCs). The results show that learned features outperform MFCCs, event-based pooling achieves higher accuracy than uniform pooling and, furthermore, a combination of the two methods performs even better than either one used alone. {©} 2013 IEEE.}
@@ -762,8 +762,8 @@
       \strng{authorbibnamehash}{7f7aa4fda807631643057e918c669622}
       \strng{authornamehash}{6ec81f98008f0b995e46fd50d3209b4d}
       \strng{authorfullhash}{7f7aa4fda807631643057e918c669622}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a system for acoustic event detection in recordings from real life environments. The events are modeled using a network of hidden Markov models; their size and topology is chosen based on a study of isolated events recognition. We also studied the effect of ambient background noise on event classification performance. On real life recordings, we tested recognition of isolated sound events and event detection. For event detection, the system performs recognition and temporal positioning of a sequence of events. An accuracy of 24{\%} was obtained in classifying isolated sound events into 61 classes. This corresponds to the accuracy of classifying between 61 events when mixed with ambient background noise at 0dB signal-to-noise ratio. In event detection, the system is capable of recognizing almost one third of the events, and the temporal positioning of the events is not correct for 84{\%} of the time. {©} EURASIP, 2010.}
@@ -1121,8 +1121,8 @@
       \strng{authorbibnamehash}{7a52fc90ff014c90d4b2e38788725d89}
       \strng{authornamehash}{a08c26f45ac7720fc96440b4ea7ebebb}
       \strng{authorfullhash}{ffe4ce4907b163158e179e33d2499150}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Detecting violence is an important task due to the amount of people who suffer its effects daily. There is a tendency to focus the problem either in real situations or in non real ones, but both of them are useful on its own right. Until this day there has not been clear effort to try to relate both environments. In this work we try to detect violent situations on two different acoustic databases through the use of crossed information from one of them into the other. The system has been divided into three stages: feature extraction, feature selection based on genetic algorithms and classification to take a binary decision. Results focus on comparing performance loss when a database is evaluated with features selected on itself, or selection based in the other database. In general, complex classifiers tend to suffer higher losses, whereas simple classifiers, such as linear and quadratic detectors, offers less than a 10{\%} loss in most situations.}
@@ -1134,6 +1134,148 @@
       \verb 10.5220/0006195004560462
       \endverb
       \keyw{Audio processing,Feature selection,Fictional environment,Real environment,Violence detection}
+    \endentry
+    \entry{UnitedNations1989}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{No Title}}
+      \field{year}{1989}
+      \field{pages}{11}
+      \range{pages}{1}
+    \endentry
+    \entry{WHO2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7847ad5f34be3d081b6fa006e3062025}{%
+           family={{WHO. Department of Reproductive Health Research. London School of Hygiene and Tropical Medicine. South African Medical Research Council.}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{7847ad5f34be3d081b6fa006e3062025}
+      \strng{fullhash}{7847ad5f34be3d081b6fa006e3062025}
+      \strng{bibnamehash}{7847ad5f34be3d081b6fa006e3062025}
+      \strng{authorbibnamehash}{7847ad5f34be3d081b6fa006e3062025}
+      \strng{authornamehash}{7847ad5f34be3d081b6fa006e3062025}
+      \strng{authorfullhash}{7847ad5f34be3d081b6fa006e3062025}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The report presents the first global systematic review of scientific data on the prevalence of two forms of violence against women: violence by an intimate partner (intimate partner violence) and sexual violence by someone other than a partner (non-partner sexual violence). It shows, for the first time, global and regional estimates of the prevalence of these two forms of violence, using data from around the world. Previous reporting on violence against women has not differentiated between partner and non-partner violence.}
+      \field{booktitle}{WHO}
+      \field{title}{{WHO | Global and regional estimates of violence against women}}
+      \field{year}{2013}
+    \endentry
+    \entry{EuropeanUnionAgencyforFundamentalRights2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=609c512976cff8b20bc8500b3d198999}{%
+           family={{European Union Agency for Fundamental Rights}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{609c512976cff8b20bc8500b3d198999}
+      \strng{fullhash}{609c512976cff8b20bc8500b3d198999}
+      \strng{bibnamehash}{609c512976cff8b20bc8500b3d198999}
+      \strng{authorbibnamehash}{609c512976cff8b20bc8500b3d198999}
+      \strng{authornamehash}{609c512976cff8b20bc8500b3d198999}
+      \strng{authorfullhash}{609c512976cff8b20bc8500b3d198999}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Violence against women undermines women's core fundamental rights such as dignity, access to justice and gender equality. For example, one in three women has experienced physical and/or sexual violence since the age of 15; one in five women has experienced stalking; every second woman has been confronted with one or more forms of sexual harassment. What emerges is a picture of extensive abuse that affects many women's lives but is systematically under-reported to the authorities. The scale of violence against women is therefore not reflected by official data. This FRA survey is the first of its kind on violence against women across the 28 Member States of the European Union (EU). It is based on interviews with 42,000 women across the EU, who were asked about their experiences of physical, sexual and psychological violence, including incidents of intimate partner violence (‘domestic violence'). The survey also included questions on stalking, sexual harassment, and the role played by new technologies in women's experiences of abuse. In addition, it asked about their experiences of violence in childhood. Based on the detailed findings, FRA suggests courses of action in different areas that are touched by violence against women and go beyond the narrow confines of criminal law, ranging from employment and health to the medium of new technologies.}
+      \field{booktitle}{Publications Office of the European Union,}
+      \field{isbn}{9789292393427}
+      \field{title}{{Violence against women : An EU-wide survey}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.2811/62230
+      \endverb
+      \keyw{Violence against women,$\backslash$access to justice,attitudes and awareness,awareness of laws and political initiatives addres,awareness of selected organisations and specialise,carrying something for self-defence,characteristics of perpetrators,characteristics of victims,children's exposure to domestic violence,comprehensive and comparable data,confidence intervals and characteristics of the re,consequences,contact with police or other services,context,criminal law,details about intimate partner violence,details about non-partner violence,dignity,domestic violence,effect of the interview mode when asking sensitive,emotional responses,employment,fear of victimisation and its impact,forms of violence,fundamental rights,gender equality,health,impact of age,injuries,interviews,intimate partner violence,key results for selected respondent groups,methodology,national surveys on violence against women,needs of vitims,new technologies,official data,perceptions on frequency of violence against women,physical violence,prevalence rates,psychological consequences,psychological violence,relationship between violence in childhood and lat,relationship between worry and risk avoidance beha,respondant background variables,sexual harassment,sexual violence,stalking,survey,survey fieldwork outcomes,type of offender,under-reporting,violence in childhood,weighting,women's attitude towards doctors' role in identify,women's awareness of campaigns addressing violence,women's awareness of organisations and specialised,women's knowledge about other women victims of int,women's risk avoidance behaviour,worry about physical or sexual assault}
+    \endentry
+    \entry{Heise1999}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=ce7fcd7bebad71e8d3deabf27bebf1c1}{%
+           family={Heise},
+           familyi={H\bibinitperiod},
+           given={Lori},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3ae4cda81b1a3fdef3b4c531498fc686}{%
+           family={Ellsberg},
+           familyi={E\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a13c980bc429da246389ee92a8704824}{%
+           family={Gottemoeller},
+           familyi={G\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d242cd889d17afcf342d3a6643767931}
+      \strng{fullhash}{d242cd889d17afcf342d3a6643767931}
+      \strng{bibnamehash}{d242cd889d17afcf342d3a6643767931}
+      \strng{authorbibnamehash}{d242cd889d17afcf342d3a6643767931}
+      \strng{authornamehash}{d242cd889d17afcf342d3a6643767931}
+      \strng{authorfullhash}{d242cd889d17afcf342d3a6643767931}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Population reports. Series L, Issues in world health}
+      \field{issn}{01975838}
+      \field{title}{{Ending violence against women.}}
+      \field{year}{1999}
+      \verb{doi}
+      \verb 10.4324/9780429269516-5
+      \endverb
+    \endentry
+    \entry{Beyer2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e60c618abdddba17e71d62d1b079d742}{%
+           family={Beyer},
+           familyi={B\bibinitperiod},
+           given={Kirsten},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3efa62039ba92300edf22e3eb545939a}{%
+           family={Wallis},
+           familyi={W\bibinitperiod},
+           given={Anne\bibnamedelima Baber},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d4427826df3100e1283e9c9b0e8d8584}{%
+           family={Hamberger},
+           familyi={H\bibinitperiod},
+           given={L.\bibnamedelimi Kevin},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f45ddca38fedc418b6b10fbcdba44b7d}
+      \strng{fullhash}{f45ddca38fedc418b6b10fbcdba44b7d}
+      \strng{bibnamehash}{f45ddca38fedc418b6b10fbcdba44b7d}
+      \strng{authorbibnamehash}{f45ddca38fedc418b6b10fbcdba44b7d}
+      \strng{authornamehash}{f45ddca38fedc418b6b10fbcdba44b7d}
+      \strng{authorfullhash}{f45ddca38fedc418b6b10fbcdba44b7d}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Intimate partner violence (IPV) is an important global public health problem, affecting women across the life span and increasing risk for a number of unfavorable health outcomes. Typically conceptualized as a private form of violence, most research has focused on individual-level risk markers. Recently, more scholarly attention has been paid to the role that the residential neighborhood environment may play in influencing the occurrence of IPV. With research accumulating since the 1990s, increasing prominence of the topic, and no comprehensive literature reviews yet undertaken, it is time to take stock of what is known, what remains unknown, and the methods and concepts investigators have considered. In this article, we undertake a comprehensive, systematic review of the literature to date on the relationship between neighborhood environment and IPV, asking, “what is the status of scholarship related to the association between neighborhood environment and IPV occurrence?” Although the literature is young, it is receiving increasing attention from researchers in sociology, public health, criminology, and other fields. Obvious gaps in the literature include limited consideration of nonurban areas, limited theoretical motivation, and limited consideration of the range of potential contributors to environmental effects on IPV—such as built environmental factors or access to services. In addition, explanations of the pathways by which place influences the occurrence of IPV draw mainly from social disorganization theory that was developed in urban settings in the United States and may need to be adapted, especially to be useful in explaining residential environmental correlates of IPV in rural or non-U.S. settings. A more complete theoretical understanding of the relationship between neighborhood environment and IPV, especially considering differences among urban, semiurban, and rural settings and developed and developing country settings, will be necessary to advance research questions and improve policy and intervention responses to reduce the burden of IPV.}
+      \field{issn}{15528324}
+      \field{journaltitle}{Trauma, Violence, and Abuse}
+      \field{title}{{Neighborhood Environment and Intimate Partner Violence: A Systematic Review}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1177/1524838013515758
+      \endverb
+      \keyw{community violence,cultural contexts,domestic violence}
     \endentry
   \enddatalist
 \endrefsection

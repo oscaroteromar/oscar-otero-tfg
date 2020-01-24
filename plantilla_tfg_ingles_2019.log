@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.13)  18 JAN 2020 17:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.13)  24 JAN 2020 11:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1398,6 +1398,182 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count466
 \c@blind@pangrammax=\count467
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2019/01/06 v4.42 (NLCT)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+\@glsmfirst=\toks53
+\@glsmrest=\toks54
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2018/12/07 v2.31 (NLCT)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count468
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2018/12/07 v2.31 (NLCT)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count469
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count470
+\FP@xia=\count471
+\FP@xib=\count472
+\FP@xfa=\count473
+\FP@xfb=\count474
+\FP@rega=\count475
+\FP@regb=\count476
+\FP@regs=\count477
+\FP@times=\count478
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count479
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks55
+\@dtl@tmpcount=\count480
+\dtl@tmplength=\skip111
+\dtl@sortresult=\count481
+\@dtl@numgrpsepcount=\count482
+\@dtl@datatype=\count483
+\dtl@codeA=\count484
+\dtl@codeB=\count485
+\@dtl@foreach@level=\count486
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/base/glossaries-compat
+ible-307.sty
+Package: glossaries-compatible-307 2019/01/06 v4.42 (NLCT)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2018/05/13 v1.3.6 (NLCT) Track Languages
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tracklang/tracklang.tex))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries-english/glossaries-eng
+lish.ldf
+File: glossaries-english.ldf 2014/11/23 v1.0
+)
+\gls@level=\count487
+\@gls@tmpb=\toks56
+\gls@tmplen=\skip112
+\glskeylisttok=\toks57
+\glslabeltok=\toks58
+\glsshorttok=\toks59
+\glslongtok=\toks60
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
+av.sty
+Package: glossary-hypernav 2019/01/06 v4.42 (NLCT)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
+ty
+Package: glossary-list 2019/01/06 v4.42 (NLCT)
+\glslistdottedwidth=\skip113
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
+ty
+Package: glossary-long 2019/01/06 v4.42 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip114
+\LTright=\skip115
+\LTpre=\skip116
+\LTpost=\skip117
+\LTchunksize=\count488
+\LTcapwidth=\dimen287
+\LT@head=\box67
+\LT@firsthead=\box68
+\LT@foot=\box69
+\LT@lastfoot=\box70
+\LT@cols=\count489
+\LT@rows=\count490
+\c@LT@tables=\count491
+\c@LT@chunks=\count492
+\LT@p@ftn=\toks61
+)
+\glsdescwidth=\skip118
+\glspagelistwidth=\skip119
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-super.
+sty
+Package: glossary-super 2019/01/06 v4.42 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count493
+\ST@wd=\dimen288
+\ST@rightskip=\skip120
+\ST@leftskip=\skip121
+\ST@parfillskip=\skip122
+\ST@pageleft=\dimen289
+\ST@headht=\dimen290
+\ST@tailht=\dimen291
+\ST@pagesofar=\dimen292
+\ST@pboxht=\dimen293
+\ST@lineht=\dimen294
+\ST@stretchht=\dimen295
+\ST@prevht=\dimen296
+\ST@toadd=\dimen297
+\ST@dimen=\dimen298
+\ST@pbox=\box71
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
+ty
+Package: glossary-tree 2019/01/06 v4.42 (NLCT)
+\glstreeindent=\skip123
+))
+\glswrite=\write6
+\glo@main@file=\write7
+\openout7 = `plantilla_tfg_ingles_2019.glo'.
+
+Package glossaries Info: Writing glossary file plantilla_tfg_ingles_2019.glo on
+ input line 227.
+\glo@acronym@file=\write8
+\openout8 = `plantilla_tfg_ingles_2019.acn'.
+
+Package glossaries Info: Writing glossary file plantilla_tfg_ingles_2019.acn on
+ input line 227.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
@@ -1413,47 +1589,47 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 (./plantilla_tfg_ingles_2019.aux)
 \openout1 = `plantilla_tfg_ingles_2019.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 229.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 229
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 238.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 238
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 229.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 229.
-LaTeX Font Info:    ... okay on input line 229.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 229.
-LaTeX Font Info:    ... okay on input line 229.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 229.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 229
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 238.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 238
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 229.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 229.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 229
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 238.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 238
 .
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 229.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 229.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 229.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 238.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 238.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 229.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 229.
-LaTeX Font Info:    ... okay on input line 229.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 229.
-LaTeX Font Info:    ... okay on input line 229.
-LaTeX Font Info:    Try loading font information for T1+txr on input line 229.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Try loading font information for T1+txr on input line 238.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
@@ -1494,17 +1670,17 @@ File: t1txr.fd 2000/12/15 v3.1
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count468
-\scratchdimen=\dimen287
-\scratchbox=\box67
-\nofMPsegments=\count469
-\nofMParguments=\count470
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count471
-\MPscratchDim=\dimen288
-\MPnumerator=\count472
-\makeMPintoPDFobject=\count473
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count494
+\scratchdimen=\dimen299
+\scratchbox=\box72
+\nofMPsegments=\count495
+\nofMParguments=\count496
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count497
+\MPscratchDim=\dimen300
+\MPnumerator=\count498
+\makeMPintoPDFobject=\count499
+\everyMPtoPDFconversion=\toks63
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1523,8 +1699,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box68
-Package hyperref Info: Link coloring ON on input line 229.
+\AtBeginShipoutBox=\box73
+Package hyperref Info: Link coloring ON on input line 238.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1532,22 +1708,36 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count474
+\c@section@level=\count500
 )
-LaTeX Info: Redefining \ref on input line 229.
-LaTeX Info: Redefining \pageref on input line 229.
-LaTeX Info: Redefining \nameref on input line 229.
+LaTeX Info: Redefining \ref on input line 238.
+LaTeX Info: Redefining \pageref on input line 238.
+LaTeX Info: Redefining \nameref on input line 238.
 
 (./plantilla_tfg_ingles_2019.out) (./plantilla_tfg_ingles_2019.out)
-\@outlinefile=\write6
-\openout6 = `plantilla_tfg_ingles_2019.out'.
+\@outlinefile=\write9
+\openout9 = `plantilla_tfg_ingles_2019.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: floatrow package is loaded.
 Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count475
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/floatrow/fr-longtable.sty
+Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
+\flrow@LT@lasthead=\box74
+\flrow@LT@prelastfoot=\box75
+\c@FBLTpage=\count501
+)
+\c@lstlisting=\count502
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1557,78 +1747,82 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'plantilla_tfg_ingles_2019.bbl' found.
 
 (./plantilla_tfg_ingles_2019.bbl)
-Package biblatex Info: Reference section=0 on input line 229.
-Package biblatex Info: Reference segment=0 on input line 229.
+Package biblatex Info: Reference section=0 on input line 238.
+Package biblatex Info: Reference segment=0 on input line 238.
 
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 229.
+loading the todonotes package. on input line 238.
 
-LaTeX Font Info:    Try loading font information for T1+txss on input line 236.
+(./plantilla_tfg_ingles_2019.glsdefs)
+LaTeX Font Info:    Try loading font information for T1+txss on input line 245.
+
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/t1txss.fd
 File: t1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 236.
-<imagenes/Portada_Logo.png, id=80, 456.2865pt x 45.99pt>
+(Font)              scaled to size 11.39996pt on input line 245.
+<imagenes/Portada_Logo.png, id=85, 456.2865pt x 45.99pt>
 File: imagenes/Portada_Logo.png Graphic file (type png)
 <use imagenes/Portada_Logo.png>
-Package pdftex.def Info: imagenes/Portada_Logo.png  used on input line 240.
+Package pdftex.def Info: imagenes/Portada_Logo.png  used on input line 249.
 (pdftex.def)             Requested size: 455.24408pt x 45.88531pt.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 243.
+(Font)              scaled to size 16.41594pt on input line 252.
 LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 16.41594pt on input line 247.
+(Font)              scaled to size 16.41594pt on input line 256.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 23.63593pt on input line 251.
+(Font)              scaled to size 23.63593pt on input line 260.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 255.
-<imagenes/creativecommons.png, id=82, 338.76563pt x 118.19156pt>
+(Font)              scaled to size 19.70294pt on input line 264.
+<imagenes/creativecommons.png, id=87, 338.76563pt x 118.19156pt>
 File: imagenes/creativecommons.png Graphic file (type png)
 <use imagenes/creativecommons.png>
-Package pdftex.def Info: imagenes/creativecommons.png  used on input line 265.
+Package pdftex.def Info: imagenes/creativecommons.png  used on input line 274.
 (pdftex.def)             Requested size: 119.50148pt x 41.69228pt.
 LaTeX Font Info:    Font shape `T1/txss/m/it' in size <12> not available
-(Font)              Font shape `T1/txss/m/sl' tried instead on input line 266.
+(Font)              Font shape `T1/txss/m/sl' tried instead on input line 275.
 LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 266.
+(Font)              scaled to size 11.39996pt on input line 275.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 11.39996pt on input line 267.
+(Font)              scaled to size 11.39996pt on input line 276.
  [1
+
+\openout6 = `plantilla_tfg_ingles_2019.ist'.
 
  <./imagenes/Portada_Logo.png> <./imagenes/creativecommons.png>]pdfTeX warning 
 (ext4): destination with the same identifier (name{page.i}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \begin{abstract}
+l.288 \begin{abstract}
                        [1] [3]pdfTeX warning (ext4): destination with the same 
 identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.298 \chapter
+l.307 \chapter
               *{Dedication} [1] [5
 
 ] [6] (./plantilla_tfg_ingles_2019.toc)
-\tf@toc=\write7
-\openout7 = `plantilla_tfg_ingles_2019.toc'.
+\tf@toc=\write10
+\openout10 = `plantilla_tfg_ingles_2019.toc'.
 
 
 [7
 
 ] [8] (./plantilla_tfg_ingles_2019.lof)
-\tf@lof=\write8
-\openout8 = `plantilla_tfg_ingles_2019.lof'.
+\tf@lof=\write11
+\openout11 = `plantilla_tfg_ingles_2019.lof'.
 
  [9
 
 ] [10]
 (./plantilla_tfg_ingles_2019.lot)
-\tf@lot=\write9
-\openout9 = `plantilla_tfg_ingles_2019.lot'.
+\tf@lot=\write12
+\openout12 = `plantilla_tfg_ingles_2019.lot'.
 
  [11
 
@@ -1637,133 +1831,156 @@ Chapter 1.
 (./introduction.tex [1
 
 
-]) [2]
+]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 21.
+) [2]
 Chapter 2.
 (./state-of-the-art.tex
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 10.
-
-Overfull \hbox (2.97202pt too wide) in paragraph at lines 10--10
+Overfull \hbox (2.97202pt too wide) in paragraph at lines 12--12
 [][]\T1/txr/m/n/12 Explain 
  []
 
 
-Overfull \hbox (4.31601pt too wide) in paragraph at lines 10--10
+Overfull \hbox (4.31601pt too wide) in paragraph at lines 12--12
 \T1/txr/m/n/12 MFCC?  
  []
 
 
-Overfull \hbox (2.97202pt too wide) in paragraph at lines 10--10
+Overfull \hbox (2.97202pt too wide) in paragraph at lines 12--12
 [][]\T1/txr/m/n/12 Explain 
  []
 
 
-Overfull \hbox (4.31601pt too wide) in paragraph at lines 10--10
+Overfull \hbox (4.31601pt too wide) in paragraph at lines 12--12
 \T1/txr/m/n/12 MFCC?  
  []
 
 [3
 
 ]
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 13--13
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 15--15
 [][]\T1/txr/m/n/12 Include 
  []
 
 
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 13--13
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 15--15
 [][]\T1/txr/m/n/12 Include 
  []
 
 
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 16--16
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 18--18
 [][]\T1/txr/m/n/12 Include 
  []
 
 
-Overfull \hbox (9.63202pt too wide) in paragraph at lines 16--16
+Overfull \hbox (9.63202pt too wide) in paragraph at lines 18--18
 \T1/txr/m/n/12 pipeline?  
  []
 
 
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 16--16
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 18--18
 [][]\T1/txr/m/n/12 Include 
  []
 
 
-Overfull \hbox (9.63202pt too wide) in paragraph at lines 16--16
+Overfull \hbox (9.63202pt too wide) in paragraph at lines 18--18
 \T1/txr/m/n/12 pipeline?  
  []
 
 [4]
-Overfull \hbox (13.97601pt too wide) in paragraph at lines 21--21
-\T1/txr/m/n/12 DCASE...  
- []
-
-
-Overfull \hbox (13.97601pt too wide) in paragraph at lines 21--21
-\T1/txr/m/n/12 DCASE...  
- []
-
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-[5]) [6]
-LaTeX Font Info:    Try loading font information for T1+txtt on input line 369.
+
+Overfull \hbox (2.94803pt too wide) in paragraph at lines 20--20
+\T1/txr/m/n/12 deeper? 
+ []
+
+
+Overfull \hbox (2.94803pt too wide) in paragraph at lines 20--20
+\T1/txr/m/n/12 deeper? 
+ []
+
+[5]
+Overfull \hbox (13.62802pt too wide) in paragraph at lines 33--33
+[][]\T1/txr/m/n/12 Glossary?  
+ []
+
+
+Overfull \hbox (13.62802pt too wide) in paragraph at lines 33--33
+[][]\T1/txr/m/n/12 Glossary?  
+ []
+
+[6]
+Overfull \hbox (19.30402pt too wide) in paragraph at lines 44--44
+\T1/txr/m/n/12 DCASE...?  
+ []
+
+
+Overfull \hbox (19.30402pt too wide) in paragraph at lines 44--44
+\T1/txr/m/n/12 DCASE...?  
+ []
+
+) [7]
+LaTeX Font Info:    Try loading font information for T1+txtt on input line 377.
 
  (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 369.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 377.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsya on input line 369.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 377.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 369.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 377.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 369.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 377.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 369.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 377.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Overfull \hbox (0.68356pt too wide) in paragraph at lines 370--370
+Overfull \hbox (0.68356pt too wide) in paragraph at lines 378--378
 \T1/txr/m/it/12 Au-dio, Speech and Lan-guage Pro-cess-ing\T1/txr/m/n/12 , 2006.
  \T1/txr/m/sc/12 doi\T1/txr/m/n/12 : [][]$\T1/txtt/m/n/12 10 . 1109 / TSA . 200
 5 . 854103$[][]\T1/txr/m/n/12 . 
  []
 
 
-Overfull \hbox (2.59337pt too wide) in paragraph at lines 370--370
+Overfull \hbox (2.59337pt too wide) in paragraph at lines 378--378
 []\T1/txr/m/n/12 D. Van Nort, P. Oliv-eros, and J. Braasch, ^^P  Elec-tro/a-cou
 s-tic im-pro-vi-sa-tion and deeply
  []
 
-[7
+[8
 
 
-] [8]
-Overfull \hbox (0.69048pt too wide) in paragraph at lines 370--370
+] [9]
+Overfull \hbox (0.69048pt too wide) in paragraph at lines 378--378
 []\T1/txr/m/n/12 J. García-Gómez, M. Bautista-Durán, R. Gil-Pita, I. Mohino-Her
 ranz, and M. Rosa-
  []
 
+[10]
+No file plantilla_tfg_ingles_2019.acr.
 
 Package caption Warning: Unused \captionsetup[table] on input line 128.
 See the caption package documentation for explanation.
@@ -1772,41 +1989,47 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 199.
 See the caption package documentation for explanation.
 
-[9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
+[11
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
  (./plantilla_tfg_ingles_2019.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
 Package rerunfilecheck Info: File `plantilla_tfg_ingles_2019.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: D46693E6B4B85286119AFF3AFBF36526;757.
+(rerunfilecheck)             Checksum: 7D58418F45FF82AEB06FF678136FF9F4;916.
 Package logreq Info: Writing requests to 'plantilla_tfg_ingles_2019.run.xml'.
 \openout1 = `plantilla_tfg_ingles_2019.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 383.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 400.
  ) 
 Here is how much of TeX's memory you used:
- 45717 strings out of 492616
- 819464 string characters out of 6129480
- 1299977 words of memory out of 5000000
- 48943 multiletter control sequences out of 15000+600000
+ 51450 strings out of 492616
+ 931384 string characters out of 6129480
+ 1446898 words of memory out of 5000000
+ 54544 multiletter control sequences out of 15000+600000
  583941 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,11n,81p,4120b,3092s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/
-2019/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2019/te
-xmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/local/texlive/2019/texmf-di
-st/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2019/texmf-dist/fon
-ts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
-1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/h
-elvetic/uhvr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/ut
-mb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
-/usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on plantilla_tfg_ingles_2019.pdf (21 pages, 206856 bytes).
+pdfTeX warning (dest): name{glo:mfcc} has been referenced but does not exist,
+ replaced by a fixed one
+
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2019/texm
+f-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2019/texmf-dist/
+fonts/type1/public/txfonts/rtxsc.pfb></usr/local/texlive/2019/texmf-dist/fonts/
+type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/
+urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/hel
+vetic/uhvr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/u
+hvr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on plantilla_tfg_ingles_2019.pdf (23 pages, 219963 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
- 227 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 400 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
 

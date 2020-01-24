@@ -221,6 +221,15 @@ hmargin=3cm
 \usepackage{todonotes}
 \usepackage{blindtext}
 
+% Define Glossary
+\usepackage[acronym]{glossaries}
+% Generate the glossary
+\makeglossaries
+% Define acronyms
+\newacronym{asc}{ASC}{Acoustic Scene Classification}
+\newacronym{aedc}{AED/C}{Acoustic Event Detection and Classification}
+\newacronym{mfcc}{MFCC}{Mel-frequency Cepstrum Coefficients}
+
 
 %-------------
 %	DOCUMENTO
@@ -307,7 +316,6 @@ hmargin=3cm
 	\thispagestyle{empty}
 	\mbox{}
 	
-
 %----------
 %	ÍNDICES
 %----------	
@@ -377,6 +385,15 @@ hmargin=3cm
 % Si tu trabajo incluye anexos, puedes descomentar las siguientes líneas
 %\chapter* {Appendix x}
 %\pagenumbering{gobble} % Las páginas de los anexos no se numeran
+
+%--------------
+%	ACRÓNIMOS
+%--------------
+\chapter*{Acronyms}
+\printacronyms
+%\printglossaries
+%\printglossary[type=\acronymtype]
+%\printacronyms
 
 
 
