@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.13)  25 JAN 2020 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.13)  25 JAN 2020 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2140,26 +2140,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 396.
  (./plantilla_tfg_ingles_2019.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 396.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 396.
-
-
-Package rerunfilecheck Warning: File `plantilla_tfg_ingles_2019.out' has change
-d.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `plantilla_tfg_ingles_2019.out':
-(rerunfilecheck)             Before: DDA5A3F946BEFB2413B5D3F8DDAC427C;916
-(rerunfilecheck)             After:  3D7E63FB1786CA2AB11E980591BB1571;921.
+Package rerunfilecheck Info: File `plantilla_tfg_ingles_2019.out' has not chang
+ed.
+(rerunfilecheck)             Checksum: 3D7E63FB1786CA2AB11E980591BB1571;921.
 Package logreq Info: Writing requests to 'plantilla_tfg_ingles_2019.run.xml'.
 \openout1 = `plantilla_tfg_ingles_2019.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 396.
  ) 
 Here is how much of TeX's memory you used:
- 51726 strings out of 492616
- 936356 string characters out of 6129480
- 1458288 words of memory out of 5000000
- 54789 multiletter control sequences out of 15000+600000
+ 51719 strings out of 492616
+ 936221 string characters out of 6129480
+ 1458143 words of memory out of 5000000
+ 54783 multiletter control sequences out of 15000+600000
  586912 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,11n,81p,4120b,3096s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2178,9 +2171,6 @@ placed by a fixed one
 pdfTeX warning (dest): name{glo:mfcc} has been referenced but does not exist, r
 eplaced by a fixed one
 
-pdfTeX warning (dest): name{section*.18} has been referenced but does not exist
-, replaced by a fixed one
-
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
 live/2019/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/20
 19/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2019/texm
@@ -2192,9 +2182,9 @@ vetic/uhvr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/u
 hvr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/loca
 l/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on plantilla_tfg_ingles_2019.pdf (26 pages, 238611 bytes).
+Output written on plantilla_tfg_ingles_2019.pdf (26 pages, 238548 bytes).
 PDF statistics:
- 460 PDF objects out of 1000 (max. 8388607)
- 102 named destinations out of 1000 (max. 500000)
+ 459 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
  235 words of extra memory for PDF output out of 10000 (max. 10000000)
 
