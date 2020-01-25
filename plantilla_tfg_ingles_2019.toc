@@ -25,5 +25,5 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Databases}{7}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{8}{section*.17}% 
+\contentsline {chapter}{Bibliography}{10}{table.caption.17}% 
 \contentsfinish 

@@ -220,18 +220,11 @@ hmargin=3cm
 % NEW COMMANDS
 \usepackage{todonotes}
 \usepackage{blindtext}
+\usepackage{lscape}
 \newcommand{\doubt}[1]{\textbf{\color{red}{#1}}}
 
-% Define Glossary
-\usepackage[acronym]{glossaries}
-% Generate the glossary
-\makeglossaries
 % Define acronyms
-\newacronym{uc3m}{UC3M}{Universidad Carlos III de Madrid}
-\newacronym{asc}{ASC}{Acoustic Scene Classification}
-\newacronym{aedc}{AED/C}{Acoustic Event Detection and Classification}
-\newacronym{mfcc}{MFCC}{Mel-frequency Cepstrum Coefficients}
-\newacronym{ipv}{IPV}{Intimate Partner Violence}
+\input{acrons.tex}
 
 
 %-------------

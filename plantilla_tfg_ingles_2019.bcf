@@ -2029,6 +2029,15 @@
     <bcf:citekey order="33">EuropeanUnionAgencyforFundamentalRights2014</bcf:citekey>
     <bcf:citekey order="34">Heise1999</bcf:citekey>
     <bcf:citekey order="35">Beyer2015</bcf:citekey>
+    <bcf:citekey order="36">Salamon2017</bcf:citekey>
+    <bcf:citekey order="37">Mapell2012</bcf:citekey>
+    <bcf:citekey order="38">Foggia2015</bcf:citekey>
+    <bcf:citekey order="39">Fagerlund2017</bcf:citekey>
+    <bcf:citekey order="40">Stowell2013</bcf:citekey>
+    <bcf:citekey order="41">Cakir2016</bcf:citekey>
+    <bcf:citekey order="42">Demarty2015</bcf:citekey>
+    <bcf:citekey order="43">Gemmeke2017</bcf:citekey>
+    <bcf:citekey order="44">Fonseca2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

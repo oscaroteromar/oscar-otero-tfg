@@ -38,8 +38,13 @@
 	
 	The definition that is assigned to violence is really important in order to define which audio events should be taken into account. However, considering the subjectiveness of this concept, categorizing violence for every type of user is an extremely difficult task. For this reason, the final idea to answer this question is to make the victim able to decide which kind of hearing events the system must be aware of. In the complete project, this can be carried out by a phone user interface which displays a list of sound events and she has the labour of picking up those that are violent according to her criteria. Since the development of this tool is out of the scope of this work, we have decided to implement a simpler mechanism which will be explained \doubt{further on}.
 	
-\section{Databases} \todo{Talk about different DB: TUT, DCASE...?}
+\section{Databases}
 
-	A fundamental objective was to find a database that allows for building a system with these characteristics, so a rich variety of acoustic events is needed with a essential big representation of violent sounds.
+	A fundamental objective was to find a database that allows for building a system with these characteristics, so a rich variety of acoustic events is needed with an essential big representation of violent sounds. In the table \ref{table:1} is represented a relation of the different databases that have been considered for the realization of this work.
 	
-	\todo{Insert table}
+	% Databases table
+	\input{databases.tex}
+	
+	The last three options shown in table \ref{table:1} are the ones that better adapted to the problem of the work. \textit{VSD Benchmark} was the first option we were happy with. Within the two ways of working given, the movies and the YouTube videos, the former was the easiest to use since the annotation specified exactly what kind of violent events were present in the scene and the onset and offset within the whole film. However, to access the data it was necessary to pay. The latter was alright but it just indicated the presence of violence, without determining the type of event. Another choice was \textit{Freesound dataset} because it is formed with all type of videos so we could extract those classes that are more interesting for us. However, it is still in an annotation process and it is not ready to download yet. As a final conclusion, we decided to go for \textit{AudioSet}, which \doubt{will be explained further on}.
+	
+	

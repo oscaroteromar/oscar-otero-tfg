@@ -1,0 +1,32 @@
+% !TeX spellcheck = en_GB
+% Databases table
+
+\begin{table}[h!]
+\begin{center}
+	\begin{tabular}{|| m{5em} | m{12em} | m{17em} ||}
+	\hline
+	\textbf{Name} & \textbf{Description} & \textbf{Considerations} \\
+	\hline\hline
+	URBAN-SED \cite{Salamon2017} & 10,000 soundscapes with sound events. Every soundscape contains 1 to 9 sound events with strong annotations. & Events are completely specified but it just contains three interesting types of classes. \\
+	\hline
+	UPC-TALP \cite{Mapell2012} & It belongs to \acrshort{chil} project, for the \acrshort{aed} task. Isolated acoustic events that occur in a meeting room environment. & Payment is needed to achieve the data and the classes are a little out of our topic. \\
+	\hline
+	MIVIA: Audio Events Data Set for Surveillance Applications \cite{Foggia2015} & 6,000 events with background noise. & The classes included belong to our topic, but they are just three: glass breaking, gun shots and screams. \\
+	\hline
+	TUT rare sound events \cite{Fagerlund2017} & Source files for creating mixtures of rare sound events (classes baby cry, gun shot, glass break) with background audio. & Similar problem to MIVIA: just from three interesting classes. \\
+	\hline
+	IEEE AASP Challenge \cite{Stowell2013} & Composed by ASC and AED. It is formed by two subtasks: OL (Office-live) and OS (Office Synthetic) & Labels for both subtasks are out of our scope since they are likely to happen in an office environment: keyboard clicks, hitting table, etc. \\
+	\hline
+	TUT-SED Synthetic 2016 \cite{Cakir2016} & Isolated sound event samples were selected from commercial sound effects & The variety of classes is large enough but for our purpose just four of them are useful. \\
+	\hline
+	VSD benchmark \cite{Demarty2015} & Violent events from 32 Hollywood movies and 86 YouTube web videos, together with high-level audio and video concepts. & Payment is needed to purchase the movies and the videos do not specify the type of violent event \\
+	\hline
+	AudioSet \cite{Gemmeke2017} & An ontology of 632 audio event classes and a collection of 2,084,320 human labeled 10-seconds sound clips from YouTube videos. & The final pick. Plenty of the videos have more than one audio label but we were able to adapt the data to the problem because of the huge amount of clips. \\
+	\hline
+	Freesound dataset (FSD) \cite{Fonseca2017} & Filling AudioSet ontology with 297,144 audio samples from Freesound. & This may seem a very good option as well but it is not available yet. \\
+	\hline
+	\end{tabular}
+\end{center}
+\caption{Table of studied databases}
+\label{table:1}
+\end{table}

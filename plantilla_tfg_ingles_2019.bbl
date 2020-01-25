@@ -1277,6 +1277,378 @@
       \endverb
       \keyw{community violence,cultural contexts,domestic violence}
     \endentry
+    \entry{Salamon2017}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=6f29e3fb8b241a304c6a9778479b58d2}{%
+           family={Salamon},
+           familyi={S\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=440f2ec19b7e6bd89e9b0e137b96153e}{%
+           family={MacConnell},
+           familyi={M\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8aeab975280e4a1240315fc0e989af47}{%
+           family={Cartwright},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=137297e0019ba55bca6f9b200782ae52}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dc1dca849ac4954f3a5b35d55cd40631}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9180d64e469adf6b63b10942a5d23f46}
+      \strng{fullhash}{5e1fe6669f4ffd74d53112a012971882}
+      \strng{bibnamehash}{5e1fe6669f4ffd74d53112a012971882}
+      \strng{authorbibnamehash}{5e1fe6669f4ffd74d53112a012971882}
+      \strng{authornamehash}{9180d64e469adf6b63b10942a5d23f46}
+      \strng{authorfullhash}{5e1fe6669f4ffd74d53112a012971882}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sound event detection (SED) in environmental recordings is a key topic of research in machine listening, with applications in noise monitoring for smart cities, self-driving cars, surveillance, bioa-coustic monitoring, and indexing of large multimedia collections. Developing new solutions for SED often relies on the availability of strongly labeled audio recordings, where the annotation includes the onset, offset and source of every event. Generating such precise annotations manually is very time consuming, and as a result existing datasets for SED with strong labels are scarce and limited in size. To address this issue, we present Scaper, an open-source library for soundscape synthesis and augmentation. Given a collection of iso-lated sound events, Scaper acts as a high-level sequencer that can generate multiple soundscapes from a single, probabilistically defined, 'specification'. To increase the variability of the output, Scaper supports the application of audio transformations such as pitch shifting and time stretching individually to every event. To illustrate the potential of the library, we generate a dataset of 10,000 sound-scapes and use it to compare the performance of two state-of-The-Art algorithms, including a breakdown by soundscape characteristics. We also describe how Scaper was used to generate audio stimuli for an audio labeling crowdsourcing experiment, and conclude with a discussion of Scaper's limitations and potential applications.}
+      \field{booktitle}{IEEE Workshop on Applications of Signal Processing to Audio and Acoustics}
+      \field{isbn}{9781538616321}
+      \field{title}{{Scaper: A library for soundscape synthesis and augmentation}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1109/WASPAA.2017.8170052
+      \endverb
+      \keyw{Soundscape,sound event detection,synthesis}
+    \endentry
+    \entry{Mapell2012}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3f02c19a413912033db647b913ccef77}{%
+           family={Mapell},
+           familyi={M\bibinitperiod},
+           given={Val{é}rie},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f02c19a413912033db647b913ccef77}
+      \strng{fullhash}{3f02c19a413912033db647b913ccef77}
+      \strng{bibnamehash}{3f02c19a413912033db647b913ccef77}
+      \strng{authorbibnamehash}{3f02c19a413912033db647b913ccef77}
+      \strng{authornamehash}{3f02c19a413912033db647b913ccef77}
+      \strng{authorfullhash}{3f02c19a413912033db647b913ccef77}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{UPC-TALP database of isolated meeting-room acoustic events}}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb http://catalog.elra.info/en-us/repository/browse/ELRA-S0268/
+      \endverb
+      \verb{url}
+      \verb http://catalog.elra.info/en-us/repository/browse/ELRA-S0268/
+      \endverb
+    \endentry
+    \entry{Foggia2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=761465c5516ba160c8add4d6165ceed5}{%
+           family={Foggia},
+           familyi={F\bibinitperiod},
+           given={Pasquale},
+           giveni={P\bibinitperiod}}}%
+        {{hash=eef9a82a22125c381c2932d53b56b78c}{%
+           family={Petkov},
+           familyi={P\bibinitperiod},
+           given={Nicolai},
+           giveni={N\bibinitperiod}}}%
+        {{hash=fa9310366f918cdf2d108c6116ebe16b}{%
+           family={Saggese},
+           familyi={S\bibinitperiod},
+           given={Alessia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a39af5e8ff61dd45815ce2652ffaafb}{%
+           family={Strisciuglio},
+           familyi={S\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9b180a65744f70a23bdcd75a767f4184}{%
+           family={Vento},
+           familyi={V\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3cc5901fc26a37b1821bc7b64b691fb}
+      \strng{fullhash}{21181897ce2528f104c5444cf0344c1b}
+      \strng{bibnamehash}{21181897ce2528f104c5444cf0344c1b}
+      \strng{authorbibnamehash}{21181897ce2528f104c5444cf0344c1b}
+      \strng{authornamehash}{e3cc5901fc26a37b1821bc7b64b691fb}
+      \strng{authorfullhash}{21181897ce2528f104c5444cf0344c1b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper we propose a novel method for the detection of audio events for surveillance applications. The method is based on the bag of words approach, adapted to deal with the specific issues of audio surveillance: the need to recognize both short and long sounds, the presence of a significant noise level and of superimposed background sounds of intensity comparable to the audio events to be detected. In order to test the proposed method in complex, realistic scenarios, we have built a large, publicly available dataset of audio events. The dataset has allowed us to evaluate the robustness of our method with respect to varying levels of the Signal-to-Noise Ratio; the experimentation has confirmed its applicability under real world conditions, and has shown a significant performance improvement with respect to other methods from the literature.}
+      \field{issn}{01678655}
+      \field{journaltitle}{Pattern Recognition Letters}
+      \field{title}{{Reliable detection of audio events in highly noisy environments}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1016/j.patrec.2015.06.026
+      \endverb
+      \keyw{Audio surveillance,Bag of words,Event detection}
+    \endentry
+    \entry{Fagerlund2017}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=d2017ae3d6f85b25f73b6d2aa2908eb1}{%
+           family={Fagerlund},
+           familyi={F\bibinitperiod},
+           given={Eemi},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c0f1b501dca2cfde0bc9c0803c7fdf85}{%
+           family={Hiltunen},
+           familyi={H\bibinitperiod},
+           given={Aku},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d74a4cad455393c2fef7dc47d5466888}
+      \strng{fullhash}{d74a4cad455393c2fef7dc47d5466888}
+      \strng{bibnamehash}{d74a4cad455393c2fef7dc47d5466888}
+      \strng{authorbibnamehash}{d74a4cad455393c2fef7dc47d5466888}
+      \strng{authornamehash}{d74a4cad455393c2fef7dc47d5466888}
+      \strng{authorfullhash}{d74a4cad455393c2fef7dc47d5466888}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{TUT Rare sound events}}
+      \field{year}{2017}
+    \endentry
+    \entry{Stowell2013}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=720621ffa11137749699f824497e8e0b}{%
+           family={Stowell},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b068724f00d17295882e712edcc6315c}{%
+           family={Benetos},
+           familyi={B\bibinitperiod},
+           given={Emmanouil},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d78ce7a9be213be35fbe009a089746ae}
+      \strng{fullhash}{d78ce7a9be213be35fbe009a089746ae}
+      \strng{bibnamehash}{d78ce7a9be213be35fbe009a089746ae}
+      \strng{authorbibnamehash}{d78ce7a9be213be35fbe009a089746ae}
+      \strng{authornamehash}{d78ce7a9be213be35fbe009a089746ae}
+      \strng{authorfullhash}{d78ce7a9be213be35fbe009a089746ae}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{IEEE AASP Challenge: Detection and Classification of Acoustic Scenes and Events}}
+      \field{year}{2013}
+    \endentry
+    \entry{Cakir2016}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=8f2a35c32bdb4a55458172c6ed8caf7e}{%
+           family={Cakir},
+           familyi={C\bibinitperiod},
+           given={Emre},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6c32fc555cb6cb65401de698f7673917}{%
+           family={Heittola},
+           familyi={H\bibinitperiod},
+           given={Toni},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
+      \strng{fullhash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
+      \strng{bibnamehash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
+      \strng{authorbibnamehash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
+      \strng{authornamehash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
+      \strng{authorfullhash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{TUT-SED Synthetic}}
+      \field{year}{2016}
+    \endentry
+    \entry{Demarty2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1cfcfd6b95053490ce13f39a2f9fc831}{%
+           family={Demarty},
+           familyi={D\bibinitperiod},
+           given={Claire\bibnamedelima H{é}l{è}ne},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=369e4a23a04ce26754dacdeb5204a807}{%
+           family={Penet},
+           familyi={P\bibinitperiod},
+           given={C{é}dric},
+           giveni={C\bibinitperiod}}}%
+        {{hash=102f5f953b96751cafe841ae28608655}{%
+           family={Soleymani},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=55a5f11a329674c150b3185dd236f3d8}{%
+           family={Gravier},
+           familyi={G\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{485394e3fa224735d319c3edd4af4f5e}
+      \strng{fullhash}{77a75ae3972b2c2bb343278394a24558}
+      \strng{bibnamehash}{77a75ae3972b2c2bb343278394a24558}
+      \strng{authorbibnamehash}{77a75ae3972b2c2bb343278394a24558}
+      \strng{authornamehash}{485394e3fa224735d319c3edd4af4f5e}
+      \strng{authorfullhash}{77a75ae3972b2c2bb343278394a24558}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Content-based analysis to find where violence appears in multimedia content has several applications, from parental control and children protection to surveillance. This paper presents the design and annotation of the Violent Scene Detection dataset, a corpus targeting the detection of physical violence in Hollywood movies. We discuss definitions of physical violence and provide a simple and objective definition which was used to annotate a set of 18 movies, thus resulting in the largest freely-available dataset for such a task. We discuss borderline cases and compare with annotations based on a subjective definition which requires multiple annotators. We provide a detailed analysis of the corpus, in particular regarding the relationship between violence and a set of key audio and visual concepts which were also annotated. The VSD dataset results from two years of benchmarking in the framework of the MediaEval initiative. We provide results from the 2011 and 2012 benchmarks as a validation of the dataset and as a state-of-the-art baseline. The VSD dataset is freely available at the address:http://www.technicolor.com/en/innovation/research-innovation/scientific-data-sharing/violent-scenes-dataset.}
+      \field{issn}{15737721}
+      \field{journaltitle}{Multimedia Tools and Applications}
+      \field{title}{{VSD, a public dataset for the detection of violent scenes in movies: design, annotation, analysis and evaluation}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1007/s11042-014-1984-4
+      \endverb
+      \keyw{Content-based analysis,Corpus design,Multimedia evaluation,Physical violence definition,Semantic audio concepts,Semantic video concepts,Violent scene detection}
+    \endentry
+    \entry{Gemmeke2017}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=91a565291c0e3c0bfd0bafb832bf2bf6}{%
+           family={Gemmeke},
+           familyi={G\bibinitperiod},
+           given={Jort\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8c2dba7002458c6a90760f98d2e441f1}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Daniel\bibnamedelima P.W.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=62ea759066a9bbd8dd7fb84cf45bc2f7}{%
+           family={Freedman},
+           familyi={F\bibinitperiod},
+           given={Dylan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ff1b8e2ee4f94eecee46d9c11902ccae}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={Aren},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ece9c0f3c018e20ef7ede094b10059fb}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Wade},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2f9e6cba84a097d64d79fb6451a2d846}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi Channing},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fc103b936ff1d8fa40cfdc0b5ee79f52}{%
+           family={Plakal},
+           familyi={P\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod}}}%
+        {{hash=02ca56291c902c02cf20caa730c79895}{%
+           family={Ritter},
+           familyi={R\bibinitperiod},
+           given={Marvin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f38ee742789c0f86200fcbd9bbdd127}
+      \strng{fullhash}{b358d3108cf3fe1ec468f471471cf9c2}
+      \strng{bibnamehash}{c73dd6c6deec934e5e3b65d9e22bdbdb}
+      \strng{authorbibnamehash}{c73dd6c6deec934e5e3b65d9e22bdbdb}
+      \strng{authornamehash}{1f38ee742789c0f86200fcbd9bbdd127}
+      \strng{authorfullhash}{b358d3108cf3fe1ec468f471471cf9c2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Audio event recognition, the human-like ability to identify and re-late sounds from audio, is a nascent problem in machine percep-tion. Comparable problems such as object detection in images have reaped enormous benefits from comprehensive datasets – principally ImageNet. This paper describes the creation of Audio Set, a large-scale dataset of manually-annotated audio events that endeavors to bridge the gap in data availability between image and audio research. Using a carefully structured hierarchical ontology of 632 audio classes guided by the literature and manual curation, we collect data from human labelers to probe the presence of specific audio classes in 10 second segments of YouTube videos. Segments are proposed for labeling using searches based on metadata, context (e.g., links), and content analysis. The result is a dataset of unprecedented breadth and size that will, we hope, substantially stimulate the de-velopment of high-performance audio event recognizers.}
+      \field{booktitle}{ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings}
+      \field{isbn}{9781509041176}
+      \field{issn}{15206149}
+      \field{title}{{Audio Set: An ontology and human-labeled dataset for audio events}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1109/ICASSP.2017.7952261
+      \endverb
+      \keyw{Audio event detection,audio databases,data collection,sound ontology}
+    \endentry
+    \entry{Fonseca2017}{inproceedings}{}
+      \name{author}{9}{}{%
+        {{hash=65e2e2a8e414294d5c501fee29cb321c}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b6a381b9b1b8ef5372019dcb3faf2d5d}{%
+           family={Pons},
+           familyi={P\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3a9953d4026ca5d333db1136bd19e2bd}{%
+           family={Favory},
+           familyi={F\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=cdf5acb3a05edeecfb76307b9c727574}{%
+           family={Font},
+           familyi={F\bibinitperiod},
+           given={Frederic},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ad7d1c5f77687a9eb63c48597b5503c7}{%
+           family={Bogdanov},
+           familyi={B\bibinitperiod},
+           given={Dmitry},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8632f2fb7b3ab06a821fd5aae9887567}{%
+           family={Ferraro},
+           familyi={F\bibinitperiod},
+           given={Andres},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a60ff36288eaeef4d2b3958e6e6ea73e}{%
+           family={Oramas},
+           familyi={O\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ee5bc53a7f69f1ecc5d21d77fccbd50b}{%
+           family={Porter},
+           familyi={P\bibinitperiod},
+           given={Alastair},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f69acf45f53ac7c6a66d991fef16781a}{%
+           family={Serra},
+           familyi={S\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{d66b2acc37f093f9c748fc4efec407ae}
+      \strng{fullhash}{de432f92663322d3479409d5243b91ed}
+      \strng{bibnamehash}{23c9d9a68e7445ef1010c445771a7420}
+      \strng{authorbibnamehash}{23c9d9a68e7445ef1010c445771a7420}
+      \strng{authornamehash}{d66b2acc37f093f9c748fc4efec407ae}
+      \strng{authorfullhash}{de432f92663322d3479409d5243b91ed}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Openly available datasets are a key factor in the advancement of data-driven research approaches, including many of the ones used in sound and music computing. In the last few years, quite a number of new audio datasets have been made available but there are still major shortcomings in many of them to have a significant research impact. Among the common shortcomings are the lack of transparency in their creation and the difficulty of making them completely open and sharable. They often do not include clear mechanisms to amend errors and many times they are not large enough for current machine learning needs. This paper introduces Freesound Datasets, an online platform for the collaborative creation of open audio datasets based on principles of transparency, openness, dynamic character, and sustainability. As a proof-of-concept, we present an early snapshot of a large-scale audio dataset built using this platform. It consists of audio samples from Freesound organised in a hierarchy based on the AudioSet Ontology. We believe that building and maintaining datasets following the outlined principles and using open tools and collaborative approaches like the ones presented here will have a significant impact in our research community.}
+      \field{booktitle}{Proceedings of the 18th International Society for Music Information Retrieval Conference, ISMIR 2017}
+      \field{isbn}{9789811151798}
+      \field{title}{{Freesound datasets: A platform for the creation of open audio datasets}}
+      \field{year}{2017}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
