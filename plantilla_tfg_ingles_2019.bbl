@@ -1649,6 +1649,215 @@
       \field{title}{{Freesound datasets: A platform for the creation of open audio datasets}}
       \field{year}{2017}
     \endentry
+    \entry{Hearst1992}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=45330e5d45157c38c5519d8cdb6cb1d8}{%
+           family={Hearst},
+           familyi={H\bibinitperiod},
+           given={Marti\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{45330e5d45157c38c5519d8cdb6cb1d8}
+      \strng{fullhash}{45330e5d45157c38c5519d8cdb6cb1d8}
+      \strng{bibnamehash}{45330e5d45157c38c5519d8cdb6cb1d8}
+      \strng{authorbibnamehash}{45330e5d45157c38c5519d8cdb6cb1d8}
+      \strng{authornamehash}{45330e5d45157c38c5519d8cdb6cb1d8}
+      \strng{authorfullhash}{45330e5d45157c38c5519d8cdb6cb1d8}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe a method for the automatic acquisition of the hyponymy lexical relation from unrestricted text. Two goals motivate the approach: (i) avoidance of the need for pre-encoded knowledge and (ii) applicability across a wide range of text. We identify a set of lexicosyntactic patterns that are easily recognizable, that occur frequently and across text genre boundaries, and that indisputably indicate the lexical relation of interest. We describe a method for discovering these patterns and suggest that other lexical relations will also be acquirable in this way. A subset of the acquisition algorithm is implemented and the results are used to augment and critique the structure of a large hand-built thesaurus. Extensions and applications to areas such as information retrieval are suggested. 1 Introduction Currently there is much interest in the automatic acquisition of lexical syntax and semantics, with the goal of building up large lexicons for natural language processing. Projects ...}
+      \field{title}{{Automatic acquisition of hyponyms from large text corpora}}
+      \field{year}{1992}
+      \verb{doi}
+      \verb 10.3115/992133.992154
+      \endverb
+    \endentry
+    \entry{Singhal2012}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e842c74a8f00853e7e3ea135b41b55bd}{%
+           family={Singhal},
+           familyi={S\bibinitperiod},
+           given={Amit},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e842c74a8f00853e7e3ea135b41b55bd}
+      \strng{fullhash}{e842c74a8f00853e7e3ea135b41b55bd}
+      \strng{bibnamehash}{e842c74a8f00853e7e3ea135b41b55bd}
+      \strng{authorbibnamehash}{e842c74a8f00853e7e3ea135b41b55bd}
+      \strng{authornamehash}{e842c74a8f00853e7e3ea135b41b55bd}
+      \strng{authorfullhash}{e842c74a8f00853e7e3ea135b41b55bd}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Introducing the Knowledge Graph: things, not strings}}
+      \field{year}{2012}
+    \endentry
+    \entry{SoundUnderstandinggroup2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3d2dcf87c7fd114cc351a9ff1df8af4d}{%
+           family={{Sound Understanding group}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{fullhash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{bibnamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{authorbibnamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{authornamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{authorfullhash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{AudioSet}}
+      \field{year}{2017}
+    \endentry
+    \entry{Hershey2017}{inproceedings}{}
+      \name{author}{13}{}{%
+        {{hash=50935d083470bdca0850f858e6ad1004}{%
+           family={Hershey},
+           familyi={H\bibinitperiod},
+           given={Shawn},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b51a895a91010cdbc2ea5e0bf1a06ac5}{%
+           family={Chaudhuri},
+           familyi={C\bibinitperiod},
+           given={Sourish},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8c2dba7002458c6a90760f98d2e441f1}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Daniel\bibnamedelima P.W.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=91a565291c0e3c0bfd0bafb832bf2bf6}{%
+           family={Gemmeke},
+           familyi={G\bibinitperiod},
+           given={Jort\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ff1b8e2ee4f94eecee46d9c11902ccae}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={Aren},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2f9e6cba84a097d64d79fb6451a2d846}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi Channing},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fc103b936ff1d8fa40cfdc0b5ee79f52}{%
+           family={Plakal},
+           familyi={P\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod}}}%
+        {{hash=47098052dc9c4b8483027d40d8f7f872}{%
+           family={Platt},
+           familyi={P\bibinitperiod},
+           given={Devin},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7195887e1fff23cbe4d4606880c8f0da}{%
+           family={Saurous},
+           familyi={S\bibinitperiod},
+           given={Rif\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d133fd26959a532ebf4f625c31493878}{%
+           family={Seybold},
+           familyi={S\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=af3eb849c7bb824718da580e0514e62b}{%
+           family={Slaney},
+           familyi={S\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+        {{hash=79806915dad52902a35bf2249c791110}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Ron\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=aed46e9ead80441ec8b5d09f2a94c753}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c07131980526e0c1f2c2c20bfaef3e2e}
+      \strng{fullhash}{8b57a353f15cb4b8d68b57e6fc08092a}
+      \strng{bibnamehash}{93d0f26fe9a4a5f86c5b824b2a2d1aea}
+      \strng{authorbibnamehash}{93d0f26fe9a4a5f86c5b824b2a2d1aea}
+      \strng{authornamehash}{c07131980526e0c1f2c2c20bfaef3e2e}
+      \strng{authorfullhash}{8b57a353f15cb4b8d68b57e6fc08092a}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Convolutional Neural Networks (CNNs) have proven very effective in image classification and show promise for audio. We use various CNN architectures to classify the soundtracks of a dataset of 70M training videos (5.24 million hours) with 30,871 video-level labels. We examine fully connected Deep Neural Networks (DNNs), AlexNet [1], VGG [2], Inception [3], and ResNet [4]. We investigate varying the size of both training set and label vocabulary, finding that analogs of the CNNs used in image classification do well on our audio classification task, and larger training and label sets help up to a point. A model using embeddings from these classifiers does much better than raw features on the Audio Set [5] Acoustic Event Detection (AED) classification task.}
+      \field{booktitle}{ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{9781509041176}
+      \field{issn}{15206149}
+      \field{title}{{CNN architectures for large-scale audio classification}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1109/ICASSP.2017.7952132
+      \endverb
+      \verb{eprint}
+      \verb 1609.09430
+      \endverb
+      \keyw{Acoustic Event Detection,Acoustic Scene Classification,Convolutional Neural Networks,Deep Neural Networks,Video Classification}
+    \endentry
+    \entry{Simonyan2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9d16b7284df92c9adaee86c37ab992df}{%
+           family={Simonyan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c72fc39e94030f67717052309266a44d}{%
+           family={Zisserman},
+           familyi={Z\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{fullhash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{bibnamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authorbibnamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authornamehash}{25d2f3c4577a6632d37f0126cc781232}
+      \strng{authorfullhash}{25d2f3c4577a6632d37f0126cc781232}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting. Our main contribution is a thorough evaluation of networks of increasing depth using an architecture with very small (3 × 3) convolution filters, which shows that a significant improvement on the prior-art configurations can be achieved by pushing the depth to 16–19 weight layers. These findings were the basis of our ImageNet Challenge 2014 submission, where our team secured the first and the second places in the localisation and classification tracks respectively. We also show that our representations generalise well to other datasets, where they achieve state-of-the-art results. We have made our two best-performing ConvNet models publicly available to facilitate further research on the use of deep visual representations in computer vision.}
+      \field{booktitle}{3rd International Conference on Learning Representations, ICLR 2015 - Conference Track Proceedings}
+      \field{eprinttype}{arXiv}
+      \field{title}{{Very deep convolutional networks for large-scale image recognition}}
+      \field{year}{2015}
+      \verb{eprint}
+      \verb 1409.1556
+      \endverb
+    \endentry
+    \entry{VideoUnderstandingGroup2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e8d2840c46d2b2c276e5e6ca5eb536f6}{%
+           family={{Video Understanding Group}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
+      \strng{fullhash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
+      \strng{bibnamehash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
+      \strng{authorbibnamehash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
+      \strng{authornamehash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
+      \strng{authorfullhash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{YouTube-8M}}
+      \field{year}{2017}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

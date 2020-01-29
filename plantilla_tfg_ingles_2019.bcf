@@ -2038,6 +2038,13 @@
     <bcf:citekey order="42">Demarty2015</bcf:citekey>
     <bcf:citekey order="43">Gemmeke2017</bcf:citekey>
     <bcf:citekey order="44">Fonseca2017</bcf:citekey>
+    <bcf:citekey order="45">Gemmeke2017</bcf:citekey>
+    <bcf:citekey order="46">Hearst1992</bcf:citekey>
+    <bcf:citekey order="47">Singhal2012</bcf:citekey>
+    <bcf:citekey order="48">SoundUnderstandinggroup2017</bcf:citekey>
+    <bcf:citekey order="49">Hershey2017</bcf:citekey>
+    <bcf:citekey order="50">Simonyan2015</bcf:citekey>
+    <bcf:citekey order="51">VideoUnderstandingGroup2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
