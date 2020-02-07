@@ -54,6 +54,14 @@ hmargin=3cm
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
+% GLOSARIO Y ACRÓNIMOS
+\usepackage[acronym]{glossaries}
+\makenoidxglossaries
+
+% Generate the glossary
+\input{acrons.tex}
+
+
 \usepackage[english]{babel} 
 \usepackage[babel, english=american]{csquotes}
 \AtBeginEnvironment{quote}{\small}
@@ -139,6 +147,7 @@ hmargin=3cm
 
 % DISEÑO DE FIGURAS. Puedes elegir entre el estilo para ingeniería o para ciencias sociales y humanidades. Por defecto, está activado el estilo de ingeniería. Si deseas utilizar el otro, comenta las líneas del diseño de ingeniería y descomenta las del diseño de ciencias sociales y humanidades
 \usepackage{graphicx}
+\usepackage{subcaption}
 \graphicspath{{imagenes/}} %ruta a la carpeta de imágenes
 \DeclareGraphicsExtensions{.png}
 
@@ -219,15 +228,12 @@ hmargin=3cm
 \bibliography{bibliografia/refs.bib}
 
 % NEW COMMANDS
+\usepackage{wrapfig}
 \usepackage{todonotes}
 \usepackage{blindtext}
 \usepackage{lscape}
+
 \newcommand{\doubt}[1]{\textbf{\color{red}{#1}}}
-
-% Define acronyms
-\input{acrons.tex}
-
-
 %-------------
 %	DOCUMENTO
 %-------------
@@ -365,6 +371,15 @@ hmargin=3cm
 \chapter{Methods}
 \input{methods.tex}
 
+%--------------
+%	ACRÓNIMOS
+%--------------
+% \chapter*{Acronyms}
+\printnoidxglossary[type=acronym]
+%\printglossary[type=\acronymtype]
+\printacronyms
+
+
 
 %----------
 %	BIBLIOGRAFÍA
@@ -383,17 +398,10 @@ hmargin=3cm
 %----------	
 
 % Si tu trabajo incluye anexos, puedes descomentar las siguientes líneas
-%\chapter* {Appendix x}
-%\pagenumbering{gobble} % Las páginas de los anexos no se numeran
+\chapter* {Appendix x}
+\pagenumbering{gobble} % Las páginas de los anexos no se numeran
 
-%--------------
-%	ACRÓNIMOS
-%--------------
-\chapter*{Acronyms}
-\printacronyms
-\printglossaries
-%\printglossary[type=\acronymtype]
-%\printacronyms
+\input{appendix.tex}
 
 
 

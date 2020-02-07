@@ -1,3 +1,33 @@
+\ifglsentryexists{uc3m}{}%
+{%
+\gls@defglossaryentry{uc3m}%
+{%
+name={UC3M},%
+sort={UC3M},%
+type={acronym},%
+first={Universidad Carlos III de Madrid\glsspace (UC3M)},%
+firstplural={Universidad Carlos III de Madrid\acrpluralsuffix \glsspace (UC3M\acrpluralsuffix )},%
+text={UC3M},%
+plural={UC3M\acrpluralsuffix },%
+description={Universidad Carlos III de Madrid},%
+descriptionplural={Universidad Carlos III de Madrid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Universidad Carlos III de Madrid},%
+longplural={Universidad Carlos III de Madrids},%
+short={UC3M},%
+shortplural={UC3Ms},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{asc}{}%
 {%
 \gls@defglossaryentry{asc}%
@@ -58,19 +88,19 @@ parent={},%
 %
 }%
 }%
-\ifglsentryexists{MFCC}{}%
+\ifglsentryexists{aed}{}%
 {%
-\gls@defglossaryentry{MFCC}%
+\gls@defglossaryentry{aed}%
 {%
-name={MFCC},%
-sort={MFCC},%
-type={main},%
-first={Mel Frequency Cepstrum Coefficients\glsspace (MFCC)},%
-firstplural={Mel Frequency Cepstrum Coefficientss\glsspace (MFCCs)},%
-text={MFCC},%
-plural={MFCCs},%
-description={Mel Frequency Cepstrum Coefficients},%
-descriptionplural={Mel Frequency Cepstrum Coefficients\acrpluralsuffix },%
+name={AED},%
+sort={AED},%
+type={acronym},%
+first={Acoustic Event Detection\glsspace (AED)},%
+firstplural={Acoustic Event Detection\acrpluralsuffix \glsspace (AED\acrpluralsuffix )},%
+text={AED},%
+plural={AED\acrpluralsuffix },%
+description={Acoustic Event Detection},%
+descriptionplural={Acoustic Event Detection\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -79,10 +109,610 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={Mel Frequency Cepstrum Coefficients},%
-longplural={Mel Frequency Cepstrum Coefficientss},%
+long={Acoustic Event Detection},%
+longplural={Acoustic Event Detections},%
+short={AED},%
+shortplural={AEDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mfcc}{}%
+{%
+\gls@defglossaryentry{mfcc}%
+{%
+name={MFCC},%
+sort={MFCC},%
+type={acronym},%
+first={Mel-frequency Cepstrum Coefficients\glsspace (MFCC)},%
+firstplural={Mel-frequency Cepstrum Coefficients\acrpluralsuffix \glsspace (MFCC\acrpluralsuffix )},%
+text={MFCC},%
+plural={MFCC\acrpluralsuffix },%
+description={Mel-frequency Cepstrum Coefficients},%
+descriptionplural={Mel-frequency Cepstrum Coefficients\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Mel-frequency Cepstrum Coefficients},%
+longplural={Mel-frequency Cepstrum Coefficientss},%
 short={MFCC},%
 shortplural={MFCCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ipv}{}%
+{%
+\gls@defglossaryentry{ipv}%
+{%
+name={IPV},%
+sort={IPV},%
+type={acronym},%
+first={Intimate Partner Violence\glsspace (IPV)},%
+firstplural={Intimate Partner Violence\acrpluralsuffix \glsspace (IPV\acrpluralsuffix )},%
+text={IPV},%
+plural={IPV\acrpluralsuffix },%
+description={Intimate Partner Violence},%
+descriptionplural={Intimate Partner Violence\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Intimate Partner Violence},%
+longplural={Intimate Partner Violences},%
+short={IPV},%
+shortplural={IPVs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dcase}{}%
+{%
+\gls@defglossaryentry{dcase}%
+{%
+name={DCASE},%
+sort={DCASE},%
+type={acronym},%
+first={Detection and Classification of Acoustic Scenes and Events\glsspace (DCASE)},%
+firstplural={Detection and Classification of Acoustic Scenes and Events\acrpluralsuffix \glsspace (DCASE\acrpluralsuffix )},%
+text={DCASE},%
+plural={DCASE\acrpluralsuffix },%
+description={Detection and Classification of Acoustic Scenes and Events},%
+descriptionplural={Detection and Classification of Acoustic Scenes and Events\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Detection and Classification of Acoustic Scenes and Events},%
+longplural={Detection and Classification of Acoustic Scenes and Eventss},%
+short={DCASE},%
+shortplural={DCASEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{casa}{}%
+{%
+\gls@defglossaryentry{casa}%
+{%
+name={CASA},%
+sort={CASA},%
+type={acronym},%
+first={Computational Acoustic Scenes Analysis\glsspace (CASA)},%
+firstplural={Computational Acoustic Scenes Analysis\acrpluralsuffix \glsspace (CASA\acrpluralsuffix )},%
+text={CASA},%
+plural={CASA\acrpluralsuffix },%
+description={Computational Acoustic Scenes Analysis},%
+descriptionplural={Computational Acoustic Scenes Analysis\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Computational Acoustic Scenes Analysis},%
+longplural={Computational Acoustic Scenes Analysiss},%
+short={CASA},%
+shortplural={CASAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{chil}{}%
+{%
+\gls@defglossaryentry{chil}%
+{%
+name={CHIL},%
+sort={CHIL},%
+type={acronym},%
+first={Computers in the Human Interaction Loop\glsspace (CHIL)},%
+firstplural={Computers in the Human Interaction Loop\acrpluralsuffix \glsspace (CHIL\acrpluralsuffix )},%
+text={CHIL},%
+plural={CHIL\acrpluralsuffix },%
+description={Computers in the Human Interaction Loop},%
+descriptionplural={Computers in the Human Interaction Loop\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Computers in the Human Interaction Loop},%
+longplural={Computers in the Human Interaction Loops},%
+short={CHIL},%
+shortplural={CHILs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mid}{}%
+{%
+\gls@defglossaryentry{mid}%
+{%
+name={MID},%
+sort={MID},%
+type={acronym},%
+first={Machine ID\glsspace (MID)},%
+firstplural={Machine ID\acrpluralsuffix \glsspace (MID\acrpluralsuffix )},%
+text={MID},%
+plural={MID\acrpluralsuffix },%
+description={Machine ID},%
+descriptionplural={Machine ID\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Machine ID},%
+longplural={Machine IDs},%
+short={MID},%
+shortplural={MIDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{csv}{}%
+{%
+\gls@defglossaryentry{csv}%
+{%
+name={csv},%
+sort={csv},%
+type={acronym},%
+first={Comma-separated values\glsspace (csv)},%
+firstplural={Comma-separated values\acrpluralsuffix \glsspace (csv\acrpluralsuffix )},%
+text={csv},%
+plural={csv\acrpluralsuffix },%
+description={Comma-separated values},%
+descriptionplural={Comma-separated values\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Comma-separated values},%
+longplural={Comma-separated valuess},%
+short={csv},%
+shortplural={csvs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{vgg}{}%
+{%
+\gls@defglossaryentry{vgg}%
+{%
+name={VGG},%
+sort={VGG},%
+type={acronym},%
+first={Visual Geometry Group\glsspace (VGG)},%
+firstplural={Visual Geometry Group\acrpluralsuffix \glsspace (VGG\acrpluralsuffix )},%
+text={VGG},%
+plural={VGG\acrpluralsuffix },%
+description={Visual Geometry Group},%
+descriptionplural={Visual Geometry Group\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Visual Geometry Group},%
+longplural={Visual Geometry Groups},%
+short={VGG},%
+shortplural={VGGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dnn}{}%
+{%
+\gls@defglossaryentry{dnn}%
+{%
+name={DNN},%
+sort={DNN},%
+type={acronym},%
+first={Deep Neural Networks\glsspace (DNN)},%
+firstplural={Deep Neural Networks\acrpluralsuffix \glsspace (DNN\acrpluralsuffix )},%
+text={DNN},%
+plural={DNN\acrpluralsuffix },%
+description={Deep Neural Networks},%
+descriptionplural={Deep Neural Networks\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Deep Neural Networks},%
+longplural={Deep Neural Networkss},%
+short={DNN},%
+shortplural={DNNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cnn}{}%
+{%
+\gls@defglossaryentry{cnn}%
+{%
+name={CNN},%
+sort={CNN},%
+type={acronym},%
+first={Convolutional Neural Networks\glsspace (CNN)},%
+firstplural={Convolutional Neural Networks\acrpluralsuffix \glsspace (CNN\acrpluralsuffix )},%
+text={CNN},%
+plural={CNN\acrpluralsuffix },%
+description={Convolutional Neural Networks},%
+descriptionplural={Convolutional Neural Networks\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Convolutional Neural Networks},%
+longplural={Convolutional Neural Networkss},%
+short={CNN},%
+shortplural={CNNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{convnet}{}%
+{%
+\gls@defglossaryentry{convnet}%
+{%
+name={ConvNet},%
+sort={ConvNet},%
+type={acronym},%
+first={Convolutional Network\glsspace (ConvNet)},%
+firstplural={Convolutional Network\acrpluralsuffix \glsspace (ConvNet\acrpluralsuffix )},%
+text={ConvNet},%
+plural={ConvNet\acrpluralsuffix },%
+description={Convolutional Network},%
+descriptionplural={Convolutional Network\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Convolutional Network},%
+longplural={Convolutional Networks},%
+short={ConvNet},%
+shortplural={ConvNets},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cv}{}%
+{%
+\gls@defglossaryentry{cv}%
+{%
+name={CV},%
+sort={CV},%
+type={acronym},%
+first={Computer Vision\glsspace (CV)},%
+firstplural={Computer Vision\acrpluralsuffix \glsspace (CV\acrpluralsuffix )},%
+text={CV},%
+plural={CV\acrpluralsuffix },%
+description={Computer Vision},%
+descriptionplural={Computer Vision\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Computer Vision},%
+longplural={Computer Visions},%
+short={CV},%
+shortplural={CVs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ilsvrc}{}%
+{%
+\gls@defglossaryentry{ilsvrc}%
+{%
+name={ILSVRC},%
+sort={ILSVRC},%
+type={acronym},%
+first={ImageNew Large Scale Visual Recognition Challenge\glsspace (ILSVRC)},%
+firstplural={ImageNew Large Scale Visual Recognition Challenge\acrpluralsuffix \glsspace (ILSVRC\acrpluralsuffix )},%
+text={ILSVRC},%
+plural={ILSVRC\acrpluralsuffix },%
+description={ImageNew Large Scale Visual Recognition Challenge},%
+descriptionplural={ImageNew Large Scale Visual Recognition Challenge\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={ImageNew Large Scale Visual Recognition Challenge},%
+longplural={ImageNew Large Scale Visual Recognition Challenges},%
+short={ILSVRC},%
+shortplural={ILSVRCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rgb}{}%
+{%
+\gls@defglossaryentry{rgb}%
+{%
+name={RGB},%
+sort={RGB},%
+type={acronym},%
+first={red, green and blue\glsspace (RGB)},%
+firstplural={red, green and blue\acrpluralsuffix \glsspace (RGB\acrpluralsuffix )},%
+text={RGB},%
+plural={RGB\acrpluralsuffix },%
+description={red, green and blue},%
+descriptionplural={red, green and blue\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={red, green and blue},%
+longplural={red, green and blues},%
+short={RGB},%
+shortplural={RGBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fc}{}%
+{%
+\gls@defglossaryentry{fc}%
+{%
+name={FC},%
+sort={FC},%
+type={acronym},%
+first={Fully-Connected\glsspace (FC)},%
+firstplural={Fully-Connected\acrpluralsuffix \glsspace (FC\acrpluralsuffix )},%
+text={FC},%
+plural={FC\acrpluralsuffix },%
+description={Fully-Connected},%
+descriptionplural={Fully-Connected\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fully-Connected},%
+longplural={Fully-Connecteds},%
+short={FC},%
+shortplural={FCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{relu}{}%
+{%
+\gls@defglossaryentry{relu}%
+{%
+name={ReLU},%
+sort={ReLU},%
+type={acronym},%
+first={Rectified Linear Unit\glsspace (ReLU)},%
+firstplural={Rectified Linear Unit\acrpluralsuffix \glsspace (ReLU\acrpluralsuffix )},%
+text={ReLU},%
+plural={ReLU\acrpluralsuffix },%
+description={Rectified Linear Unit},%
+descriptionplural={Rectified Linear Unit\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Rectified Linear Unit},%
+longplural={Rectified Linear Units},%
+short={ReLU},%
+shortplural={ReLUs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{lrn}{}%
+{%
+\gls@defglossaryentry{lrn}%
+{%
+name={LRN},%
+sort={LRN},%
+type={acronym},%
+first={Local Response Normalisation\glsspace (LRN)},%
+firstplural={Local Response Normalisation\acrpluralsuffix \glsspace (LRN\acrpluralsuffix )},%
+text={LRN},%
+plural={LRN\acrpluralsuffix },%
+description={Local Response Normalisation},%
+descriptionplural={Local Response Normalisation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Local Response Normalisation},%
+longplural={Local Response Normalisations},%
+short={LRN},%
+shortplural={LRNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{stft}{}%
+{%
+\gls@defglossaryentry{stft}%
+{%
+name={STFT},%
+sort={STFT},%
+type={acronym},%
+first={Short-Time Fourier Transform\glsspace (STFT)},%
+firstplural={Short-Time Fourier Transform\acrpluralsuffix \glsspace (STFT\acrpluralsuffix )},%
+text={STFT},%
+plural={STFT\acrpluralsuffix },%
+description={Short-Time Fourier Transform},%
+descriptionplural={Short-Time Fourier Transform\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Short-Time Fourier Transform},%
+longplural={Short-Time Fourier Transforms},%
+short={STFT},%
+shortplural={STFTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fn}{}%
+{%
+\gls@defglossaryentry{fn}%
+{%
+name={F\textsubscript {n}},%
+sort={F\textsubscript {n}},%
+type={acronym},%
+first={Nyquist frequency\glsspace (F\protect \textsubscript  {n})},%
+firstplural={Nyquist frequency\acrpluralsuffix \glsspace (F\textsubscript {n}\acrpluralsuffix )},%
+text={F\protect \textsubscript  {n}},%
+plural={F\textsubscript {n}\acrpluralsuffix },%
+description={Nyquist frequency},%
+descriptionplural={Nyquist frequency\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nyquist frequency},%
+longplural={Nyquist frequencys},%
+short={F\protect \textsubscript  {n}},%
+shortplural={F\protect \textsubscript  {n}s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pca}{}%
+{%
+\gls@defglossaryentry{pca}%
+{%
+name={PCA},%
+sort={PCA},%
+type={acronym},%
+first={Principal Components Analysis\glsspace (PCA)},%
+firstplural={Principal Components Analysis\acrpluralsuffix \glsspace (PCA\acrpluralsuffix )},%
+text={PCA},%
+plural={PCA\acrpluralsuffix },%
+description={Principal Components Analysis},%
+descriptionplural={Principal Components Analysis\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Principal Components Analysis},%
+longplural={Principal Components Analysiss},%
+short={PCA},%
+shortplural={PCAs},%
 counter={page},%
 parent={},%
 %
