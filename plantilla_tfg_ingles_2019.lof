@@ -5,22 +5,24 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Difference between traditional machine learning (a) process and feature learning (b) \cite {Pan2010}\relax }}{6}{figure.caption.12}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Difference between traditional machine learning (a) process and feature learning (b) \cite {Pan2010}\relax }}{8}{figure.caption.14}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces First two layers of Audio Set Ontology \cite {Gemmeke2017}\relax }}{12}{figure.caption.18}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces First two layers of Audio Set Ontology \cite {Gemmeke2017}\relax }}{14}{figure.caption.20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces VGGish architecture\relax }}{17}{figure.caption.25}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces VGGish architecture\relax }}{19}{figure.caption.27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Flowchart about selecting violent classes\relax }}{20}{figure.caption.28}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Flowchart about selecting violent classes\relax }}{22}{figure.caption.30}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Confusion matrices\relax }}{23}{figure.caption.32}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Confusion matrices\relax }}{25}{figure.caption.34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Architecture to see how the different embeddings work\relax }}{24}{figure.caption.34}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Architecture to see how the different embeddings work\relax }}{26}{figure.caption.36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces t-SNE results from both formats with a legend that shows the labels of the data in the original 128D space\relax }}{26}{figure.caption.35}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces t-SNE results from both formats with a legend that shows the labels of the data in the original 128D space\relax }}{28}{figure.caption.37}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.40}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.42}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.43}% 
 \contentsfinish 
 \contentsfinish 

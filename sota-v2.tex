@@ -1,0 +1,55 @@
+% !TeX spellcheck = en_GB
+
+\subsection{Features and methods}
+	
+	As in many fields, the frontier between features and methods used for audio tasks have been blurred during the last decades. Usually, a problem is addressed with a pre processing period of the data and then the model or method is implemented. Right now, these two stages are sometimes maintained but also have been mixed or changed depending on how the algorithm used works. In this chapter, we are going to try to explain these difference between features and methods and try to separate them in order to ease its understanding.
+
+\subsubsection{Features}
+
+	In every machine learning or pattern recognition task, for the system to be able to infer and extract conclusions from the input given, it is necessary a pre processing period in order to make some transformations to the data so this can be readable by the model. This stage is known as feature extraction and the goal is to convert the original information into a set of of values or vectors that characterize the data regarding some desired properties \cite{Giannakopoulos2014}.
+	
+	There are several ways that allow us to perform this processing stage. The most common and basic one consists on extracting features that are really closely related to the original signal which are called \acrfull{lld}  \cite{Amatriain2004}. These are computed by performing some mathematical operations or formulas to the original data that can be considered rudimentary when comparing with other techniques. However, they are really extended and still in use nowadays \cite{Marr1982}. 
+	
+	In the audio field, there are two types in which all \acrshort{lld} can be grouped into. One of them is for the features that have been computed by considering the audio signal in its original form in the recording, i.e., in time-domain, and they are known, of course, as \textit{time-domain audio features}. The other case refers to those characteristics that are obtained from the signal after been transformed to frequency domain. These are commonly known as frequency-domain or spectral audio features. For the procedure of feature extraction, the signal is usually divided into frames that can be overlapped by using a sliding window so the calculations are done per frame, obtaining a final matrix with size $number\ of\ frames \times number\ of\ features$ \cite{Giannakopoulos2014}. It must be taken into account that the final application of the whole system is going to completely influence in which features have to be computed. For example, not the same features are used for speech recognition than for musical information retrieval. In tables \ref{}, \ref{} a summary of most used time and spectral features is included respectively.
+	
+	% Table of time domain features
+	\begin{table}[h!]
+		\begin{center}
+			\begin{tabular}{|| m{7em} | m{22em} ||}
+				\hline
+				\textbf{Feature} & \textbf{Description} \\
+				\hline\hline
+				Energy Entropy & It is a useful to detect sudden changes from the energy of a signal. To calculate this value for a certain subframe, it is necessary to first compute the normalized energy of the subframe with respect to all the frames energy \cite{Giannakopoulos2006}. \\
+				\hline
+				Short time energy & It is the energy for a short segment of signal. It is normally used in speech tasks in order to identify voiced form non-voiced fragments \cite{Garcia-Gomez2016}. \\
+				\hline
+				\acrfull{zcr} & This can be defined as the number of times the amplitude of the signal crosses the zero line, i.e., changes from negative to positive. It is computed by the number of zero-crossings by the amount of samples in the frame \cite{Giannakopoulos2006}. \\
+				\hline
+			\end{tabular}
+		\end{center}
+		\caption{Time-domain audio features}
+		\label{table:6}
+	\end{table}
+	
+	% Table of spectral features
+	\begin{table}[h!]
+		\begin{center}
+			\begin{tabular}{|| m{7em} | m{22em} ||}
+				\hline
+				\textbf{Feature} & \textbf{Description} \\
+				\hline\hline
+				Spectral Flux & It is computed to measure the spectral changes between two successive frames. To do so, the difference is calculated through their squared spectra coefficients normalized \cite{Giannakopoulos2006}. \\
+				\hline
+				Spectral Rollof & This represents the skewness of the shape of the spectrum by given the frequency below which a concrete percentage of the magnitude distribution of the frequency transform is concentrated \cite{Garcia-Gomez2016}. \\
+				\hline
+				\acrshort{mfcc} & It is a feature that it is commonly used in speech recognition because interprets the frequency bands in a very similar way to human perception. It is computed from the \acrshort{stft}. \doubt{A detailed explanation can be found in appendix \ref{}} \cite{Garcia-Gomez2016}. \\
+				\hline
+			\end{tabular}
+		\end{center}
+		\caption{Spectral audio features}
+		\label{table:7}
+	\end{table}
+
+	
+	
+	

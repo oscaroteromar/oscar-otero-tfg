@@ -38,3 +38,13 @@
 	\ \ \frac{100 +\ 50}{165} = 0.91
 	\]
 	
+	When the classification task consists on more than two classes, a multiclass problem, a similar definition of the confusion matrix can be extended from the binary problem. Considering a certain observation $C_k$, the True positive part of the matrix is placed in the exact point where the column and the row of this certain observation are crossed, i.e, when the predicted label is equal to the true label. The False positives samples are placed along the column $C_k$ for all the rows $C_0, ..., C_{k-1}, C{k+1}, ..., C_n$ which refers to all the samples that have been misclassified with the class $C_k$. The False negatives are, however, all the samples that originally are labelled with $C_k$ tag but have been wrongly categorized with $C_0, ..., C_{k-1}, C{k+1}, ..., C_n$ classes. Finally, the True negative samples are distributed across all the other positions in the matrix. In figure \ref{fig:mesh9}, a good example for this explanation is shown.
+	
+	\begin{figure}[h]
+		\centering
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.4]{conf-mat-multi}
+		\caption{Confusion matrix for a multiclass classification \cite{Kruger2018}}
+		\label{fig:mesh9}
+	\end{figure}
+	

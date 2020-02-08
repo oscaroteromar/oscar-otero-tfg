@@ -192,7 +192,7 @@
 	
 	\todo{Include json format of tfrecord files}
 	
-\subsection{Differences between two types of data access}
+\subsection{Exploring differences between two types of data access}
 
 	In order to check what is explained above we have decided to run a little experiment in which a small classification is performed. Also, we wanted to visualize the different features to check if we could appreciate patrons in common by using the \acrfull{tsne} algorithm, which will be explained later in this section.
 	
@@ -260,7 +260,7 @@
 			\hline
 			format / subset & \textbf{Train} & \textbf{Test} \\
 			\hline\hline
-			\textbf{Audio file} & 1.0 & 0.79 \\
+			\textbf{Audio file} & 0.98 & 0.23 \\
 			\hline
 			\textbf{.\textit{tfrecord}} & 1.0 & 0.72 \\
 			\hline
@@ -326,6 +326,10 @@
 	\end{figure}
 	
 	The selection of the perplexity value depends on the number of observations per class \cite{Wattenberg2016}. Since our subset has 80 samples for each category, we can consider that a proper value is 20 or 30. As we can see, a frontier cannot be extracted among the different labels, but we can see some grouping patterns in the data that correspond to the original labelling and helps us to confirm the similarity for the two different given types. It is true that this method should never use as an algorithm of clustering itself, but it is a good resource as a backing strategy to other results, as in this case. 
+	
+\section{Models}
+
+	\input{models.tex}
 	
 	
 

@@ -48,8 +48,8 @@
       \strng{authorbibnamehash}{5995851aaebc41e48a03ba98ad7c85d5}
       \strng{authornamehash}{2558a8d1e36f9596aa286adf5968f03e}
       \strng{authorfullhash}{5995851aaebc41e48a03ba98ad7c85d5}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this article, we present an account of the state of the art in acoustic scene classification (ASC), the task of classifying environments from the sounds they produce. Starting from a historical review of previous research in this area, we define a general framework for ASC and present different implementations of its components. We then describe a range of different algorithms submitted for a data challenge that was held to provide a general and fair benchmark for ASC techniques. The data set recorded for this purpose is presented along with the performance metrics that are used to evaluate the algorithms and statistical significance tests to compare the submitted methods.}
@@ -85,8 +85,8 @@
       \strng{authorbibnamehash}{dfc1a8821db0b25a34c11df9fe8d4259}
       \strng{authornamehash}{dfc1a8821db0b25a34c11df9fe8d4259}
       \strng{authorfullhash}{dfc1a8821db0b25a34c11df9fe8d4259}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The present research on cognitive categories mediates between individual experiences of soundscapes and collective representations shared in language and elaborated as knowledge. This approach focuses on meanings attributed to soundscapes in an attempt to bridge the gap between individual perceptual categories and sociological representations. First, results of several free categorisation experiments are presented, namely the categorical structures elicited using soundscape recordings and the underlying principles of organisation derived from the analysis of verbal comments. People categorised sound samples on the basis of semantic features that integrate perceptual ones. Specifically, soundscapes reflecting human activity were perceived as more pleasant than soundscapes where mechanical sounds were predominant. Second, the linguistic exploration of free-format verbal description of soundscapes indicated that the meanings attributed to sounds act as a determinant for sound quality evaluations. Soundscape evaluations are therefore qualitative first as they are semiotic in nature as grounded in cultural values given to different types of activities. Physical descriptions of sound properties have to be reconsidered as cues pointing to diverse cognitive objects to be identified first rather as the only adequate, exhaustive and objective description of the sound itself. Finally, methodological and theoretical consequences of these findings are drawn, highlighting the need to address not only noise annoyance but rather sound quality of urban environments. To do so, cognitive evaluations must be conducted in the first place to identify relevant city users' categories of soundscapes and then to use physical measurement to characterize corresponding acoustic events. {©} S. Hlrzel Verlag EAA.}
@@ -114,8 +114,8 @@
       \strng{authorbibnamehash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
       \strng{authornamehash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
       \strng{authorfullhash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{How can we engineer systems capable of “cocktail party” listening? Human listeners are able to perceptually segregate one sound source from an acoustic mixture, such as a single voice from a mixture of other voices and music at a busy cocktail party. How can we engineer “machine listening” systems that achieve this perceptual feat? Albert Bregmans book Auditory Scene Analysis, published in 1990, drew an analogy between the perception of auditory scenes and visual scenes, and described a coherent framework for understanding the perceptual organization of sound. His account has stimulated much interest in computational studies of hearing. Such studies are motivated in part by the demand for practical sound separation systems, which have many applications including noiserobust automatic speech recognition, hearing prostheses, and automatic music transcription. This emerging field has become known as computational auditory scene analysis (CASA). Computational Auditory Scene Analysis: Principles, Algorithms, and Applications provides a comprehensive and coherent account of the state of the art in CASA, in terms of the underlying principles, the algorithms and system architectures that are employed, and the potential applications of this exciting new technology. With a Foreword by Bregman, its chapters are written by leading researchers and cover a wide range of topics including: Estimation of multiple fundamental frequenciesFeaturebased and modelbased approaches to CASASound separation based on spatial locationProcessing for reverberant environmentsSegregation of speech and musical signalsAutomatic speech recognition in noisy environmentsNeural and perceptual modeling of auditory organizationThe text is written at a level that will be accessible to graduate students and researchers from related science and engineering disciplines. The extensive bibliography accompanying each chapter will also make this book a valuable reference source. A web site accompanying the text, http://www.casabook.org, features software tools and sound demonstrations.}
@@ -176,8 +176,8 @@
       \strng{authorbibnamehash}{1ee8905d80cfdb8f82349ed5532990aa}
       \strng{authornamehash}{23d7c54e2aef3b2e605d3b5cfee4a5b9}
       \strng{authorfullhash}{8077df8e18908c3440c9777fe49cac07}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of this paper is to investigate the feasibility of an audio-based context recognition system. Here, context recognition refers to the automatic classification of the context or an environment around a device. A system is developed and compared to the accuracy of human listeners in the same task. Particular emphasis is placed on the computational complexity of the methods, since the application is of particular interest in resource-constrained portable devices. Simplistic low-dimensional feature vectors are evaluated against more standard spectral features. Using discriminative training, competitive recognition accuracies are achieved with very low-order hidden Markov models (1-3 Gaussian components). Slight improvement in recognition accuracy is observed when linear data-driven feature transformations are applied to mel-cepstral features. The recognition rate of the system as a function of the test sequence length appears to converge only after about 30 to 60 s. Some degree of accuracy can be achieved even with less than 1-s test sequence lengths. The average reaction time of the human listeners was 14 s, i.e., somewhat smaller, but of the same order as that of the system. The average recognition accuracy of the system was 58{\%} against 69{\%}, obtained in the listening tests in recognizing between 24 everyday contexts. The accuracies in recognizing six high-level classes were 82{\%} for the system and 88{\%} for the subjects. {©} 2006 IEEE.}
@@ -204,8 +204,8 @@
       \strng{authorbibnamehash}{54889d121e06c21637190270580ab7b9}
       \strng{authornamehash}{54889d121e06c21637190270580ab7b9}
       \strng{authorfullhash}{54889d121e06c21637190270580ab7b9}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we present the pattern recognition methods proposed to classify respiratory sounds into normal and wheeze classes. We evaluate and compare the feature extraction techniques based on Fourier transform, linear predictive coding, wavelet transform and Mel-frequency cepstral coefficients (MFCC) in combination with the classification methods based on vector quantization, Gaussian mixture models (GMM) and artificial neural networks, using receiver operating characteristic curves. We propose the use of an optimized threshold to discriminate the wheezing class from the normal one. Also, post-processing filter is employed to considerably improve the classification accuracy. Experimental results show that our approach based on MFCC coefficients combined to GMM is well adapted to classify respiratory sounds in normal and wheeze classes. McNemar's test demonstrated significant difference between results obtained by the presented classifiers (p {<} 0.05). {©} 2009 Elsevier Ltd. All rights reserved.}
@@ -494,6 +494,87 @@
       \endverb
       \keyw{Multimedia event detection (MED),long short-term memory (LSTM),noisemes,recurrent neural networks (RNNs)}
     \endentry
+    \entry{Giannakopoulos2014}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e032ec645401a1838ee933a73d41794f}{%
+           family={Giannakopoulos},
+           familyi={G\bibinitperiod},
+           given={Theodoros},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dea050aeb2788734bc9987d69823bff5}{%
+           family={Pikrakis},
+           familyi={P\bibinitperiod},
+           given={Aggelos},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc772b43a6a4bc2243986fa01ac7de5d}
+      \strng{fullhash}{dc772b43a6a4bc2243986fa01ac7de5d}
+      \strng{bibnamehash}{dc772b43a6a4bc2243986fa01ac7de5d}
+      \strng{authorbibnamehash}{dc772b43a6a4bc2243986fa01ac7de5d}
+      \strng{authornamehash}{dc772b43a6a4bc2243986fa01ac7de5d}
+      \strng{authorfullhash}{dc772b43a6a4bc2243986fa01ac7de5d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Introduction to Audio Analysis serves as a standalone introduction to audio analysis, providing theoretical background to many state-of-the-art techniques. It covers the essential theory necessary to develop audio engineering applications, but also uses programming techniques, notably MATLAB{®}, to take a more applied approach to the topic. Basic theory and reproducible experiments are combined to demonstrate theoretical concepts from a practical point of view and provide a solid foundation in the field of audio analysis. Audio feature extraction, audio classification, audio segmentation, and music information retrieval are all addressed in detail, along with material on basic audio processing and frequency domain representations and filtering. Throughout the text, reproducible MATLAB{®} examples are accompanied by theoretical descriptions, illustrating how concepts and equations can be applied to the development of audio analysis systems and components. A blend of reproducible MATLAB{®} code and essential theory provides enable the reader to delve into the world of audio signals and develop real-world audio applications in various domains. {©} 2014 Elsevier Ltd. All rights reserved.}
+      \field{booktitle}{Introduction to Audio Analysis: A MATLAB Approach}
+      \field{isbn}{9780080993881}
+      \field{title}{{Introduction to Audio Analysis: A MATLAB Approach}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1016/C2012-0-03524-7
+      \endverb
+    \endentry
+    \entry{Amatriain2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=73d7725e7b8c19a7a179442f898f8a48}{%
+           family={Amatriain},
+           familyi={A\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{73d7725e7b8c19a7a179442f898f8a48}
+      \strng{fullhash}{73d7725e7b8c19a7a179442f898f8a48}
+      \strng{bibnamehash}{73d7725e7b8c19a7a179442f898f8a48}
+      \strng{authorbibnamehash}{73d7725e7b8c19a7a179442f898f8a48}
+      \strng{authornamehash}{73d7725e7b8c19a7a179442f898f8a48}
+      \strng{authorfullhash}{73d7725e7b8c19a7a179442f898f8a48}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{An Object-Oriented Metamodel for Digital Signal Processing with a focus on Audio and Music}}
+      \field{year}{2004}
+    \endentry
+    \entry{Marr1982}{article}{}
+      \name{author}{1}{}{%
+        {{hash=49d936583765e8a7bd38370987be2642}{%
+           family={Marr},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{49d936583765e8a7bd38370987be2642}
+      \strng{fullhash}{49d936583765e8a7bd38370987be2642}
+      \strng{bibnamehash}{49d936583765e8a7bd38370987be2642}
+      \strng{authorbibnamehash}{49d936583765e8a7bd38370987be2642}
+      \strng{authornamehash}{49d936583765e8a7bd38370987be2642}
+      \strng{authorfullhash}{49d936583765e8a7bd38370987be2642}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A text which approaches vision through an information processing framework, with particular attention to the computer processing of visual information. Machine information processing necessitates both a study of computer facilities and of human information processing. An introductory section outlines the philosophical approach using representational theories of the mind. Vision is then studied using theories of representation for images and surfaces, shapes and pattern recognition. Algorithmic approaches and theoretical models are discussed. A final chapter details a 'conversation' about the material undertaken by the author and colleagues. -M.Blakemore}
+      \field{isbn}{0716712849}
+      \field{issn}{00222496}
+      \field{journaltitle}{Vision: a computational investigation into the human representation and processing of visual information.}
+      \field{title}{{Vision: a computational investigation into the human representation and processing of visual information.}}
+      \field{year}{1982}
+      \verb{doi}
+      \verb 10.1016/0022-2496(83)90030-5
+      \endverb
+    \endentry
     \entry{Stowell2015}{article}{}
       \name{author}{5}{}{%
         {{hash=720621ffa11137749699f824497e8e0b}{%
@@ -528,8 +609,8 @@
       \strng{authorbibnamehash}{f8451221f4c11de97a3505fc08d1ff32}
       \strng{authornamehash}{d32ba681d4d29026b25af8194187e69d}
       \strng{authorfullhash}{f8451221f4c11de97a3505fc08d1ff32}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{For intelligent systems to make best use of the audio modality, it is important that they can recognize not just speech and music, which have been researched as specific tasks, but also general sounds in everyday environments. To stimulate research in this field we conducted a public research challenge: the IEEE Audio and Acoustic Signal Processing Technical Committee challenge on Detection and Classification of Acoustic Scenes and Events (DCASE). In this paper, we report on the state of the art in automatically classifying audio scenes, and automatically detecting and classifying audio events. We survey prior work as well as the state of the art represented by the submissions to the challenge from various research groups. We also provide detail on the organization of the challenge, so that our experience as challenge hosts may be useful to those organizing challenges in similar domains. We created new audio datasets and baseline systems for the challenge; these, as well as some submitted systems, are publicly available under open licenses, to serve as benchmarks for further research in general-purpose machine listening.}
@@ -566,8 +647,8 @@
       \strng{authorbibnamehash}{a6b4e69d116bdb7c5e53307255edaa3e}
       \strng{authornamehash}{a6b4e69d116bdb7c5e53307255edaa3e}
       \strng{authorfullhash}{a6b4e69d116bdb7c5e53307255edaa3e}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This work describes a system for acoustic scene classification using large-scale audio feature extraction. It is our contribution to the Scene Classification track of the IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events (D-CASE). The system classifies 30 second long recordings of 10 different acoustic scenes. From the highly variable recordings, a large number of spectral, cepstral, energy and voicing-related audio features are extracted. Using a sliding window approach, classification is performed on short windows. SVM are used to classify these short segments, and a majority voting scheme is employed to get a decision for longer recordings. On the official development set of the challenge, an accuracy of 73 {\%} is achieved. SVM are compared with a nearest neighbour classifier and an approach called Latent Perceptual Indexing, whereby SVM achieve the best results. A feature analysis using the t-statistic shows that mainly Mel spectra are the most relevant features. {©} 2013 IEEE.}
@@ -604,8 +685,8 @@
       \strng{authorbibnamehash}{ec134b52e053e7e2e22010f76134fb4a}
       \strng{authornamehash}{ec134b52e053e7e2e22010f76134fb4a}
       \strng{authorfullhash}{ec134b52e053e7e2e22010f76134fb4a}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The "bag-of-frames" approach (BOF) to audio pattern recognition represents signals as the long-term statistical distribution of their local spectral features. This approach has proved nearly optimal for simulating the auditory perception of natural and human environments (or soundscapes), and is also the most predominent paradigm to extract high-level descriptions from music signals. However, recent studies show that, contrary to its application to soundscape signals, BOF only provides limited performance when applied to polyphonic music signals. This paper proposes to explicitly examine the difference between urban soundscapes and polyphonic music with respect to their modeling with the BOF approach. First, the application of the same measure of acoustic similarity on both soundscape and music data sets confirms that the BOF approach can model soundscapes to near-perfect precision, and exhibits none of the limitations observed in the music data set. Second, the modification of this measure by two custom homogeneity transforms reveals critical differences in the temporal and statistical structure of the typical frame distribution of each type of signal. Such differences may explain the uneven performance of BOF algorithms on soundscapes and music signals, and suggest that their human perception rely on cognitive processes of a different nature.}
@@ -840,8 +921,8 @@
       \strng{authorbibnamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
       \strng{authornamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
       \strng{authorfullhash}{c5e4f71bd4434b12d6c6968ba9aafd16}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We learn rich natural sound representations by capitalizing on large amounts of unlabeled sound data collected in the wild. We leverage the natural synchronization between vision and sound to learn an acoustic representation using two-million unlabeled videos. Unlabeled video has the advantage that it can be economically acquired at massive scales, yet contains useful signals about natural sound. We propose a student-teacher training procedure which transfers discriminative visual knowledge from well established visual recognition models into the sound modality using unlabeled video as a bridge. Our sound representation yields significant performance improvements over the state-of-the-art results on standard benchmarks for acoustic scene/object classification. Visualizations suggest some high-level semantics automatically emerge in the sound network, even though it is trained without ground truth labels.}
@@ -873,8 +954,8 @@
       \strng{authorbibnamehash}{770fc1d95710074c9506ab4f7d386573}
       \strng{authornamehash}{770fc1d95710074c9506ab4f7d386573}
       \strng{authorfullhash}{770fc1d95710074c9506ab4f7d386573}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution. However, in many real-world applications, this assumption may not hold. For example, we sometimes have a classification task in one domain of interest, but we only have sufficient training data in another domain of interest, where the latter data may be in a different feature space or follow a different data distribution. In such cases, knowledge transfer, if done successfully, would greatly improve the performance of learning by avoiding much expensive data-labeling efforts. In recent years, transfer learning has emerged as a new learning framework to address this problem. This survey focuses on categorizing and reviewing the current progress on transfer learning for classification, regression, and clustering problems. In this survey, we discuss the relationship between transfer learning and other related machine learning techniques such as domain adaptation, multitask learning and sample selection bias, as well as covariate shift. We also explore some potential future issues in transfer learning research. {©} 2006 IEEE.}
@@ -901,8 +982,8 @@
       \strng{authorbibnamehash}{19620e2d7ebdec18c9c7f5c60d155d33}
       \strng{authornamehash}{19620e2d7ebdec18c9c7f5c60d155d33}
       \strng{authorfullhash}{19620e2d7ebdec18c9c7f5c60d155d33}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning}}
@@ -1097,8 +1178,8 @@
       \strng{authorbibnamehash}{b9fceb18c1424cbfdf1828c71ea663fe}
       \strng{authornamehash}{85a934c0c1802132e4e20bd06066ea50}
       \strng{authorfullhash}{b9fceb18c1424cbfdf1828c71ea663fe}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper we present our research towards the detection of violent scenes in movies, employing fusion methodologies, based on learning. Towards this goal, a multi-step approach is followed: initially, automated auditory and visual processing and analysis is performed in order to estimate probabilistic measures regarding particular audio and visual related classes. At a second stage, a meta-classification architecture is adopted, which combines the audio and visual information, in order to classify mid-term video segments as "violent" or "non-violent". The proposed scheme has been evaluated on a real dataset from 10 films. {©} Springer-Verlag Berlin Heidelberg 2010.}
@@ -1131,8 +1212,8 @@
       \strng{authorbibnamehash}{aff433f1660ce99ead1696e8eeb59c31}
       \strng{authornamehash}{aff433f1660ce99ead1696e8eeb59c31}
       \strng{authorfullhash}{aff433f1660ce99ead1696e8eeb59c31}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence is autonomous, the contents that one would not let children to see in movies or web videos. This is a challenging problem due to strong content variations among the positive instances. To solve this problem, implementation of deep neural network to classify the violence content in videos is proposed. Currently, deep neural network has shown its efficiency in natural language processing, fraud detection, social media, text classification, image classification. Regardless of the conventional methods applied to overcome this issue, but these techniques seem insufficiently accurate and does not adopt well to certain webs or user needs. Therefore, the purpose of this study is to assess the classification performances on violence video using Deep Neural Network (DNN). Hence, in this paper different architectures of hidden layers and hidden nodes in DNN have been implemented using the try-error method and equation based method, to examine the effect of the number of hidden layers and hidden nodes to the classification performance. From the results, it indicates 53{\%} accuracy rate for try and error approach, meanwhile for equation based approach it indicates 51{\%} accuracy rate.}
@@ -1176,8 +1257,8 @@
       \strng{authorbibnamehash}{2987f3d62b41136d596910e540aeaa10}
       \strng{authornamehash}{2987f3d62b41136d596910e540aeaa10}
       \strng{authorfullhash}{2987f3d62b41136d596910e540aeaa10}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Modern elevators are equipped with closed-circuit television (CCTV) cameras to record videos for post-incident investigation rather than providing proactive event monitoring. While there are some attempts at automated video surveillance, events such as urinating, vandalism, and crimes that involved vulnerable targets may not exhibit significant visual cues. On contrary, such events are more discerning from audio cues. In this work, we propose a hierarchical audio-visual surveillance framework for elevators. Audio analytic module acts as the front line detector to monitor for such events. This means audio cue is the main determining source to infer the event occurrence. The secondary inference process involves queries to visual analytic module to build-up the evidences leading to event detection. We validate the performance of our system at a residential trial site and the initial results are promising. {©} 2014 Springer International Publishing.}
@@ -1224,8 +1305,8 @@
       \strng{authorbibnamehash}{9302244f8a6a6e012cbc74b32700b068}
       \strng{authornamehash}{1eb1fb8882bb3358ee563b9b23918ab0}
       \strng{authorfullhash}{9302244f8a6a6e012cbc74b32700b068}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence continues being an important problem in the society. Thousands of people suffer its effects every day and statistics show this number has maintained or almost increased recently. In the modern environment of smart cities there is a necessity to develop a system capable of detecting if a violent situation is taking place or not. In this paper we present an automatic acoustic violence detection system for smart cities, integrating both signal processing and pattern recognition techniques. The proposed software has been implemented in three steps: feature extraction in time and frequency domain, genetic algorithm implementation in order to select the best features, and classification to take a binary decision. Results derived from the experiments show that MFCCs are the best features for violence detection, and others like pitch or short time energy have also a good performance. In other words, features that can distinguish between voiced and unvoiced frames seem to be a good election for violence detection in real environments.}
@@ -1420,8 +1501,8 @@
       \strng{authorbibnamehash}{f45ddca38fedc418b6b10fbcdba44b7d}
       \strng{authornamehash}{f45ddca38fedc418b6b10fbcdba44b7d}
       \strng{authorfullhash}{f45ddca38fedc418b6b10fbcdba44b7d}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Intimate partner violence (IPV) is an important global public health problem, affecting women across the life span and increasing risk for a number of unfavorable health outcomes. Typically conceptualized as a private form of violence, most research has focused on individual-level risk markers. Recently, more scholarly attention has been paid to the role that the residential neighborhood environment may play in influencing the occurrence of IPV. With research accumulating since the 1990s, increasing prominence of the topic, and no comprehensive literature reviews yet undertaken, it is time to take stock of what is known, what remains unknown, and the methods and concepts investigators have considered. In this article, we undertake a comprehensive, systematic review of the literature to date on the relationship between neighborhood environment and IPV, asking, “what is the status of scholarship related to the association between neighborhood environment and IPV occurrence?” Although the literature is young, it is receiving increasing attention from researchers in sociology, public health, criminology, and other fields. Obvious gaps in the literature include limited consideration of nonurban areas, limited theoretical motivation, and limited consideration of the range of potential contributors to environmental effects on IPV—such as built environmental factors or access to services. In addition, explanations of the pathways by which place influences the occurrence of IPV draw mainly from social disorganization theory that was developed in urban settings in the United States and may need to be adapted, especially to be useful in explaining residential environmental correlates of IPV in rural or non-U.S. settings. A more complete theoretical understanding of the relationship between neighborhood environment and IPV, especially considering differences among urban, semiurban, and rural settings and developed and developing country settings, will be necessary to advance research questions and improve policy and intervention responses to reduce the burden of IPV.}
@@ -1468,8 +1549,8 @@
       \strng{authorbibnamehash}{5e1fe6669f4ffd74d53112a012971882}
       \strng{authornamehash}{9180d64e469adf6b63b10942a5d23f46}
       \strng{authorfullhash}{5e1fe6669f4ffd74d53112a012971882}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Sound event detection (SED) in environmental recordings is a key topic of research in machine listening, with applications in noise monitoring for smart cities, self-driving cars, surveillance, bioa-coustic monitoring, and indexing of large multimedia collections. Developing new solutions for SED often relies on the availability of strongly labeled audio recordings, where the annotation includes the onset, offset and source of every event. Generating such precise annotations manually is very time consuming, and as a result existing datasets for SED with strong labels are scarce and limited in size. To address this issue, we present Scaper, an open-source library for soundscape synthesis and augmentation. Given a collection of iso-lated sound events, Scaper acts as a high-level sequencer that can generate multiple soundscapes from a single, probabilistically defined, 'specification'. To increase the variability of the output, Scaper supports the application of audio transformations such as pitch shifting and time stretching individually to every event. To illustrate the potential of the library, we generate a dataset of 10,000 sound-scapes and use it to compare the performance of two state-of-The-Art algorithms, including a breakdown by soundscape characteristics. We also describe how Scaper was used to generate audio stimuli for an audio labeling crowdsourcing experiment, and conclude with a discussion of Scaper's limitations and potential applications.}
@@ -1496,8 +1577,8 @@
       \strng{authorbibnamehash}{3f02c19a413912033db647b913ccef77}
       \strng{authornamehash}{3f02c19a413912033db647b913ccef77}
       \strng{authorfullhash}{3f02c19a413912033db647b913ccef77}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{UPC-TALP database of isolated meeting-room acoustic events}}
@@ -1543,8 +1624,8 @@
       \strng{authorbibnamehash}{21181897ce2528f104c5444cf0344c1b}
       \strng{authornamehash}{e3cc5901fc26a37b1821bc7b64b691fb}
       \strng{authorfullhash}{21181897ce2528f104c5444cf0344c1b}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper we propose a novel method for the detection of audio events for surveillance applications. The method is based on the bag of words approach, adapted to deal with the specific issues of audio surveillance: the need to recognize both short and long sounds, the presence of a significant noise level and of superimposed background sounds of intensity comparable to the audio events to be detected. In order to test the proposed method in complex, realistic scenarios, we have built a large, publicly available dataset of audio events. The dataset has allowed us to evaluate the robustness of our method with respect to varying levels of the Signal-to-Noise Ratio; the experimentation has confirmed its applicability under real world conditions, and has shown a significant performance improvement with respect to other methods from the literature.}
@@ -1576,8 +1657,8 @@
       \strng{authorbibnamehash}{d74a4cad455393c2fef7dc47d5466888}
       \strng{authornamehash}{d74a4cad455393c2fef7dc47d5466888}
       \strng{authorfullhash}{d74a4cad455393c2fef7dc47d5466888}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{TUT Rare sound events}}
@@ -1820,8 +1901,8 @@
       \strng{authorbibnamehash}{45330e5d45157c38c5519d8cdb6cb1d8}
       \strng{authornamehash}{45330e5d45157c38c5519d8cdb6cb1d8}
       \strng{authorfullhash}{45330e5d45157c38c5519d8cdb6cb1d8}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We describe a method for the automatic acquisition of the hyponymy lexical relation from unrestricted text. Two goals motivate the approach: (i) avoidance of the need for pre-encoded knowledge and (ii) applicability across a wide range of text. We identify a set of lexicosyntactic patterns that are easily recognizable, that occur frequently and across text genre boundaries, and that indisputably indicate the lexical relation of interest. We describe a method for discovering these patterns and suggest that other lexical relations will also be acquirable in this way. A subset of the acquisition algorithm is implemented and the results are used to augment and critique the structure of a large hand-built thesaurus. Extensions and applications to areas such as information retrieval are suggested. 1 Introduction Currently there is much interest in the automatic acquisition of lexical syntax and semantics, with the goal of building up large lexicons for natural language processing. Projects ...}
@@ -1845,8 +1926,8 @@
       \strng{authorbibnamehash}{e842c74a8f00853e7e3ea135b41b55bd}
       \strng{authornamehash}{e842c74a8f00853e7e3ea135b41b55bd}
       \strng{authorfullhash}{e842c74a8f00853e7e3ea135b41b55bd}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Introducing the Knowledge Graph: things, not strings}}
@@ -1864,8 +1945,8 @@
       \strng{authorbibnamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
       \strng{authornamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
       \strng{authorfullhash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{AudioSet}}
@@ -2083,8 +2164,8 @@
       \strng{authorbibnamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
       \strng{authornamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
       \strng{authorfullhash}{4d74d0f4dd3790b8b4c936a0a028f35e}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Spatial Convolution}}
@@ -2115,8 +2196,8 @@
       \strng{authorbibnamehash}{907aadb37fc60b0f083f20db847f6e26}
       \strng{authornamehash}{907aadb37fc60b0f083f20db847f6e26}
       \strng{authorfullhash}{907aadb37fc60b0f083f20db847f6e26}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Machine learning is an important task for learning artificial neural networks, and we find in the learning one of the common problems of learning the Artificial Neural Network (ANN) is over-fitting and under-fitting to outlier points. In this paper we performed various methods in avoiding over-fitting and under-fitting; that is penalty and early stopping methods. A comparative study has been presented for the aforementioned methods to evaluate their performance within a range of specific parameters such as; speed of training, over-fitting and under-fitting avoidance, difficulty, capacity, time of training, and their accuracy. Besides these parameters we have included comparison between over-fitting and under-fitting. We found the early stopping method as being better as compared to the penalty method, as it can avoid over- fitting and under-fitting with respect to validation time. Besides we find that Under-fitting neural networks perform poorly on both training and test sets, but Over-fitting networks may do very well on training sets though terribly on test sets.}
@@ -2145,8 +2226,8 @@
       \strng{authorbibnamehash}{e3f85673334154343d5bc138a399ef77}
       \strng{authornamehash}{e3f85673334154343d5bc138a399ef77}
       \strng{authorfullhash}{e3f85673334154343d5bc138a399ef77}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Dimensionality reduction is one of the basic operations in the toolbox of data analysts and designers of machine learning and pattern recognition systems. Given a large set of measured variables but few observations, an obvious idea is to reduce the degrees of freedom in the measurements by representing them with a smaller set of more condensed variables. Another reason for reducing the dimensionality is to reduce computational load in further processing. A third reason is visualization. {©} 2006 IEEE.}
@@ -2178,8 +2259,8 @@
       \strng{authorbibnamehash}{b2f7e8590d9978f96852b19f6522b6ef}
       \strng{authornamehash}{b2f7e8590d9978f96852b19f6522b6ef}
       \strng{authorfullhash}{b2f7e8590d9978f96852b19f6522b6ef}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Principal component analysis (PCA) is amultivariate technique that analyzes a data table in which observations are described by several inter-correlated quantitative dependent variables. Its goal is to extract the important information from the table, to represent it as a set of new orthogonal variables called principal components, and to display the pattern of similarity of the observations and of the variables as points in maps. The quality of the PCA model can be evaluated using cross-validation techniques such as the bootstrap and the jackknife. PCA can be generalized as correspondence analysis (CA) in order to handle qualitative variables and as multiple factor analysis (MFA) in order to handle heterogeneous sets of variables. Mathematically, PCA depends upon the eigen-decomposition of positive semidefinite matrices and upon the singular value decomposition (SVD) of rectangular matrices. {©} 2010 John Wiley {\&} Sons, Inc.}
@@ -2296,8 +2377,8 @@
       \strng{authorbibnamehash}{a59d8b98f80ac712b9ab7240b7403c98}
       \strng{authornamehash}{a59d8b98f80ac712b9ab7240b7403c98}
       \strng{authorfullhash}{a59d8b98f80ac712b9ab7240b7403c98}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Distill}
@@ -2325,8 +2406,8 @@
       \strng{authorbibnamehash}{ae928b07781d0af9cd222cc0af04ec88}
       \strng{authornamehash}{ae928b07781d0af9cd222cc0af04ec88}
       \strng{authorfullhash}{ae928b07781d0af9cd222cc0af04ec88}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Metrics and scoring: quantifying the quality of predictions}}
@@ -2351,8 +2432,8 @@
       \strng{authorbibnamehash}{a9097cfddbfd8854e2aa89fa5f47b0c7}
       \strng{authornamehash}{a9097cfddbfd8854e2aa89fa5f47b0c7}
       \strng{authorfullhash}{a9097cfddbfd8854e2aa89fa5f47b0c7}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Metrics to Evaluate your Machine Learning Algorithm}}
@@ -2363,6 +2444,29 @@
       \verb{url}
       \verb https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
       \endverb
+    \endentry
+    \entry{Kruger2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=98e13143be3453854b82e7cd0e56ba9d}{%
+           family={Kr{ü}ger},
+           familyi={K\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{98e13143be3453854b82e7cd0e56ba9d}
+      \strng{fullhash}{98e13143be3453854b82e7cd0e56ba9d}
+      \strng{bibnamehash}{98e13143be3453854b82e7cd0e56ba9d}
+      \strng{authorbibnamehash}{98e13143be3453854b82e7cd0e56ba9d}
+      \strng{authornamehash}{98e13143be3453854b82e7cd0e56ba9d}
+      \strng{authorfullhash}{98e13143be3453854b82e7cd0e56ba9d}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As computers are becoming more and more a part of our everyday life, the vision of Mark Weiser about ubiquitous computing becomes true. One of the core tasks of such devices is to assist the users in achieving their goals. To do this, the assistive system has to have knowledge about the current situation as well as the user's goal. Such knowledge allows the assistive system to provide strategies to support the users in achieving their goals beginning from the current situation. A GPS navigation device is a simple, yet well known instance of such an assistive system. It recommends a route based on the current location and the manually specified goal. Obviously, effective assistance can only be provided if accurate knowledge about the user's situation and his goal is available. This requires to reason about the actions of the user and to cope with uncertainties that are inherent to human behaviour. The problem becomes even harder, as in real world settings, users cannot be observed directly but through sensors that introduce noise and ambiguity as additional sources of uncertainty. Several applications in the literature showed that probabilistic methods can be used to infer the required information from sensor data. However, massive amounts of training data are needed in order to train classifiers to achieve good recognition rates. This is expensive and prevents trained models from being reused. Recently, researchers employed models of human behaviour in order to reduce the need for training data. These models are generalisable -- they allow the specification of human behaviour without the need for training samples. To this end, these models can be reused in different settings. While these models allow the synthesis of probabilistic models, only few attempts have been made to assess their capabilities with respect to low level sensors such as accelerometers. In fact, different researchers stated that inferring high level knowledge about the user from low level sensor data is an open research topic. To address the above problems, objective of this thesis is to answer the question "how to achieve efficient sensor-based reconstruction of causal structures of human behaviour in order to provide assistance?". To achieve that, in the first step the meaning of this question is analysed and requirements for an inference system are derived. A review of the literature is then conducted and a meta analysis is performed to assess the capabilities of the different approaches and the complexity of their evaluation setting. The results of this analysis show that none of the approaches from the literature satisfies all requirements. To answer the research question, the concept of CCBM is introduced. CCBM allows the specification of human behaviour by means of preconditions and effects and employs Bayesian filtering techniques to reconstruct action sequences from noisy and ambiguous sensor data. Furthermore, a novel approximative inference algorithm -- the Marginal Filter -- is introduced. The Marginal Filter is specifically tailored for categorical state spaces, which are generated by CCBM. To investigate the capabilities with respect to recognition performance and reusability, different experiments are then conducted. Each experiment addresses different aspects of the research question. A detailed analysis of the results of these experiments shows that CCBM is able to achieve good recognition rates. Moreover, the MF is shown to outperform the standard method for approximative Bayesian inference -- the Particle Filter. Furthermore, it is shown that CCBM satisfies the requirements.}
+      \field{journaltitle}{ResearchGate}
+      \field{title}{{Activity, Context, and Plan Recognition with Computational Causal Behaviour Models}}
+      \field{year}{2018}
     \endentry
   \enddatalist
 \endrefsection

@@ -5,16 +5,20 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {2.1}{\ignorespaces Table of studied databases\relax }}{10}{table.caption.16}% 
+\contentsline {table}{\numberline {2.1}{\ignorespaces Time-domain audio features\relax }}{5}{table.caption.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.2}{\ignorespaces Spectral audio features\relax }}{5}{table.caption.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {2.3}{\ignorespaces Table of studied databases\relax }}{12}{table.caption.18}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.1}{\ignorespaces Fields per category in the ontology\relax }}{13}{table.caption.19}% 
+\contentsline {table}{\numberline {3.1}{\ignorespaces Fields per category in the ontology\relax }}{15}{table.caption.21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.2}{\ignorespaces VGG ConvNet configurations\relax }}{16}{table.caption.24}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces VGG ConvNet configurations\relax }}{18}{table.caption.26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.3}{\ignorespaces Chosen classes for a small classification. \textit {Screaming}, \textit {Crying, sobbing} and \textit {Gunshot, gunfire} are considered as the violent ones.\relax }}{22}{table.caption.31}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces Chosen classes for a small classification. \textit {Screaming}, \textit {Crying, sobbing} and \textit {Gunshot, gunfire} are considered as the violent ones.\relax }}{24}{table.caption.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.4}{\ignorespaces Accuracy values for audio and .\textit {tfrecord} files\relax }}{23}{table.caption.33}% 
+\contentsline {table}{\numberline {3.4}{\ignorespaces Accuracy values for audio and .\textit {tfrecord} files\relax }}{25}{table.caption.35}% 
 \contentsfinish 
 \contentsfinish 
