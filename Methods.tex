@@ -260,7 +260,7 @@
 			\hline
 			format / subset & \textbf{Train} & \textbf{Test} \\
 			\hline\hline
-			\textbf{Audio file} & 0.98 & 0.23 \\
+			\textbf{Audio file} & 0.98 & 0.63 \\
 			\hline
 			\textbf{.\textit{tfrecord}} & 1.0 & 0.72 \\
 			\hline
@@ -272,7 +272,7 @@
 
 	\doubt{For the training phases, it can be appreciated that there is clearly an overfitting since the accuracy is perfect. This means that the \acrshort{nn} stop improving its capacity of learning how to solve the problem in a certain moment of the training task. Instead, it does learn some behaviour pattern that the training data follows. This impacts negatively in the model since the new data that the system will have to learn from will look different and will not follow these same rules \cite{Jabbar2015}}. In spite of this result, we did not give it so much importance since we just wanted to prove with this experiment the likeness between the two types of data which can be appreciated due to the similarity of both metrics results.
 	
-\subsubsection{\acrlong{tsne}}
+\subsubsection{Dimensionality reduction for visualization}
 	
 	Apart from the classification exercise, we wanted to see if by plotting the data samples we were really able to identify or appreciate some common patterns. In our problem, each of our samples is characterized by a matrix of features with 128 columns, which means that were are working with data belonging to high-dimensional space. Visualizing this type of data has always been a case of study for many different fields. Plenty methods have been published so as to find a solution for this task. Some of the most accepted methods consists on reducing the dimensionality of the data so this can be transformed from the high-dimensional space to a lower one and can be visualize in a common scatter plot of 2D or 3D. In particular, these techniques rely on the idea that a multivariate sample denoted as $x_i = [x_{i1},..., x_{in}]^T$ and considered to be a point that corresponds to a $n-dimensionality$ space, a $d-dimensionality$ space can be found, so that $d < n$, in which the data \doubt{is included}. If this is possible, then the observations can be transformed to this lower dimensional space $d$ without any loses \cite{Kaski2011}. 
 	
@@ -294,7 +294,7 @@
 	There are several considerations that should be known before looking at a representation of data from this algorithm \cite{Wattenberg2016}. Actually, it is not an easy task to understand this kind of plots, since the distance between points in the new subspace are not related to the real euclidean distance, which has been denoted as "The Crowding Problem" \cite{VanDerMaaten2008}. This means that the groups cannot be interpreted as real collections of data in the the original dimension. However, in order not to misunderstand the data distribution, a couple of visualizations varying the parameters usually tend to be done so the conclusions can be based on more than one result. In figure \ref{fig:mesh8} is shown ten \acrshort{tsne} outputs, five for each type of data for diverse values of perplexity from 2 to 50.
 	
 	% Four confussion matrices
-	\begin{figure}[ht]
+	\begin{figure}[bt]
 		% Whole figure
 		\captionsetup{justification=centering}
 		\begin{subfigure}[b]{\textwidth}
@@ -328,11 +328,27 @@
 	The selection of the perplexity value depends on the number of observations per class \cite{Wattenberg2016}. Since our subset has 80 samples for each category, we can consider that a proper value is 20 or 30. As we can see, a frontier cannot be extracted among the different labels, but we can see some grouping patterns in the data that correspond to the original labelling and helps us to confirm the similarity for the two different given types. It is true that this method should never use as an algorithm of clustering itself, but it is a good resource as a backing strategy to other results, as in this case. 
 	
 \section{Models}
+\label{section:models}
 
-	\input{models.tex}
+
+\subsection{\acrfull{svm}}
+\label{subsection:svm}
+
+	\todo{Adapt...}
+	Considering instances of data with their respective ground-truth labels, this classifier finds the frontier defined as a hyperplane that maximizes the distance between the two observations closest to each other that belong to different classes and are more likely to be misclassified. These two points are called support vectors \cite{Fu2011}. This type of method is characterized for being a binary classifier. However, its implementation has been transported to multiclass problems by combining various \acrshort{svm}s in order to stablish a decision criterion so the whole system can chose among $Q$ categories. This can be done by following either one-versus-all or one-versus-one approach. The former addresses the problem training $Q$ classifiers so as to differentiate between data from one class and data from the other $Q-1$ classes. The latter treats the problem by training $Q(Q-1)/2$ \acrshort{svm}s to distinguish among all possible combinations of categories. In any of the approaches, the classification of a certain observation is performed by computing the distance between the sample data and the hyperplane that defines the frontier \cite{Barchiesi2015}. The one-versus-one is the one implemented by \acrfull{svc} from Scikit-learn library and is the one we will use in one of the experiments explained in section \ref{}. In figure \ref{fig:mesh10} it is shown a representation of the decision boundaries that could designed by other type of methods against the hyperplane a \acrshort{svm} classifier would draw.
+	
+	\begin{figure}
+		\centering
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.2]{svm}
+		\caption{Visualization of a hyperplane set by \acrshort{svm} and other decision boundaries \cite{Drakos2018}}
+		\label{fig:mesh10}
+	\end{figure}
+	
+\todo{Add requisites for sklearn algorithm and details about implementation in our model}
+\todo{Include definition of kernel and cases}
 	
 	
-
 
 	
 	

@@ -48,3 +48,27 @@
 		\label{fig:mesh9}
 	\end{figure}
 	
+\section{\acrlong{kfold}}
+\label{appendix:kfold}
+
+	The cross-validation technique consists in a resampling practice that is commonly used in order to evaluate machine learning algorithms when the dataset is not very large. It just depends on the parameter $k$ which represents the amount of folds or groups the data is going to be split into. This is the reason of the k-fold prefix. When the method is referred to in a situation in which the parameter is already fixed, for example, if $k = 5$, it can becomes named as 5-fold cross-validation.
+	
+	The purpose of this procedure is to check the performance of a machine learning model on unseen data. This is for not evaluating with the data used for the training process. It is really used nowadays and allows to obtain a less biased estimation than if using other kind of techniques as just a simple train and test split \cite{Browniee2018}. The steps followed by the method are listed below \cite{M2018}.
+	
+	\begin{enumerate}
+		\item The data is split in a random way into $k$ folds. The value of this parameter can be chosen previously by running the algorithm for different options and picking the one with the best performance. However, a not very high value is usually chosen, keeping it in a range between 5 and 10.
+		\item Fit the model by using the data in the $k - 1$ folds as train set, and the other part in the $k$ fold for the validation process. Collect the results for this configuration.
+		\item The process must be repeated until all folds have been used as the validation set. Then, the average and standard deviation of all the results can be computed as the metric of the model. 
+	\end{enumerate}
+
+	Sometimes, instead of dividing the whole set of data in $k$ folds, it is first done a split into train and test sets. Then, the test set is excluded for a final measure and the train is split again with the \acrlong{kfold} procedure. The concept of the technique is shown in figure \ref{fig:mesh16}.
+	
+	\begin{figure}[ht]
+		\centering
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.35]{k-fold}
+		\caption{K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite{Scikit-learna}}
+		\label{fig:mesh16}
+	\end{figure}
+
+	
