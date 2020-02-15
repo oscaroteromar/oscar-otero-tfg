@@ -27,26 +27,60 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {3.6}{\ignorespaces t-SNE results from both formats with a legend that shows the labels of the data in the original 128D space\relax }}{34}{figure.caption.44}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Visualization of a hyperplane set by \acrshort {svm} and other decision boundaries \cite {Drakos2018}\relax }}{34}{figure.caption.46}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Visualization of a hyperplane set by \acrshort {svm} and other decision boundaries \cite {Drakos2018}\relax }}{35}{figure.caption.46}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Bar plot that shows the number of samples for each of the selected classes. Clearly, the violent categories are much less populated than the others, that did not have to much any semantic criteria\relax }}{37}{figure.caption.51}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Bar plot that shows the number of samples for each of the selected classes. Clearly, the violent categories are much less populated than the others, that did not have to much any semantic criteria\relax }}{38}{figure.caption.51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Number of observations for train, validation and test subsets used in the different experiments\relax }}{38}{figure.caption.52}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Number of observations for train, validation and test subsets used in the different experiments\relax }}{39}{figure.caption.52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces SVM multiclass classifier whole model. \textit {X} is the input data that can be from train, validation or test set. \textit {\^{Y}} is the predicting labels for \textit {X}.\relax }}{39}{figure.caption.54}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{40}{figure.caption.54}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{40}{figure.caption.55}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{41}{figure.caption.55}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Confusion matrix for the test set for the SVM multiclass classification\relax }}{41}{figure.caption.56}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Confusion matrix for the test set for the SVM multiclass classification\relax }}{42}{figure.caption.56}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Accuracy values for the three sets for the SVM multiclass classification\relax }}{41}{figure.caption.57}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Accuracy values for the three sets for the SVM multiclass classification\relax }}{43}{figure.caption.57}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.62}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Architecture for the LSTM multiclass classifier implementation\relax }}{43}{figure.caption.61}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.63}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Average confusion matrices for train and validation in the SVM multiclass + SVM binary classification\relax }}{44}{figure.caption.58}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.9}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.64}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Confusion matrix for the test set for the SVM multiclass + SVM binary classification\relax }}{45}{figure.caption.59}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Accuracy values for the three sets for the SVM multiclass + SVM binary classification\relax }}{46}{figure.caption.60}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Confusion matrices for LSTM multiclass classification for train and validation sets\relax }}{47}{figure.caption.63}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass classification\relax }}{48}{figure.caption.64}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass classification\relax }}{48}{figure.caption.65}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Average confusion matrices for train and validation in the LSTM multiclass + SVM binary classification\relax }}{49}{figure.caption.66}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass + SVM binary classification\relax }}{49}{figure.caption.67}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass + SVM binary classification\relax }}{50}{figure.caption.68}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Confusion matrices for CNN multiclass classification for train and validation sets\relax }}{51}{figure.caption.69}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Confusion matrix for the test set for the CNN multiclass classification\relax }}{52}{figure.caption.70}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Accuracy values for the three sets for the CNN multiclass classification\relax }}{52}{figure.caption.71}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Average confusion matrices for train and validation in the CNN multiclass + SVM binary classification\relax }}{53}{figure.caption.73}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Confusion matrix for the test set for the CNN multiclass + SVM binary classification\relax }}{53}{figure.caption.74}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Accuracy values for the three sets for the CNN multiclass + SVM binary classification\relax }}{54}{figure.caption.75}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.80}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.81}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.25}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.82}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Cross-entropy loss function when the true label is equals to 1. As the probability of the predicted class approaches to 1, the loss function tends to zero. However, if it the probability is closer to 0.0, then the loss function increases heavily \cite {MLGlossary2017}.\relax }}{}{figure.caption.83}% 
 \contentsfinish 
 \contentsfinish 

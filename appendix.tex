@@ -71,4 +71,35 @@
 		\label{fig:mesh16}
 	\end{figure}
 
+\section{Categorical cross-entropy}
+\label{appendix:categorical-cross-entropy}
+
+	In order to define this kind of loss function, it is necessary to consider the \textit{softmax} definition. As it was already explained in \ref{section:cnn}, this function takes a vector and represent its elements in the range (0,1) as probabilities, so all of the resulting values must sum up 1. In a multiclass classification, these are interpreted as class probabilities.
+	
+	These output probabilities can be evaluated with the cross-entropy loss. This is a way of measuring the performance of a model in which the output are probabilities between 0 and 1. The loss increases if the probability differs largely from the actual value of the true label. A perfect system would have a loss value of 0 \cite{MLGlossary2017}. In figure \ref{fig:mesh26}, it is shown an example of the loss function when the true label is 1.
+	
+	\begin{figure}
+		\centering
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.6]{ce}
+		\caption{Cross-entropy loss function when the true label is equals to 1. As the probability of the predicted class approaches to 1, the loss function tends to zero. However, if it the probability is closer to 0.0, then the loss function increases heavily \cite{MLGlossary2017}.}
+	\end{figure}
+
+	Its formula is defined for binary problems as follows:
+	
+	\[
+	\ CE = -(ylog(p) + (1 - y)log(1 - p))
+	\]
+
+	For a multiclass case, a unique loss is computed for each class label for each sample, and then add the results as follows:
+	
+	\[
+	\ CE = - \sum_{c=1}^{M} y_{o,c}log(p_{o,c})
+	\]
+	
+	Where $M$ is then number of classes, $y$ is a indication in binary format if the class $c$ is the right prediction for this sample $o$ and $p$ is the estimation probability of $c$ for $o$ \cite{MLGlossary2017}. 
+	
+	Then, the categorical cross-entropy is a combination of softmax and the cross-entropy loss.
+	
+	
 	

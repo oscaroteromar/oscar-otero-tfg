@@ -67,19 +67,29 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Dimensionality reduction for visualization}{32}{table.caption.42}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Models}{33}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Models}{34}{section.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}\acrfull {svm}}{33}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.1}\acrfull {svm}}{34}{subsection.3.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Experiments}{35}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Experiments}{36}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Input data preparation}{35}{section.4.1}% 
+\contentsline {section}{\numberline {4.1}Input data preparation}{36}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Implementations and results}{37}{section.4.2}% 
+\contentsline {section}{\numberline {4.2}Implementations and results}{38}{section.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Implementation 1: \acrshort {svm} classifier for a multiclass classification}{39}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.1}Implementation 1: \acrshort {svm} classifier for a multiclass classification}{40}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{44}{chapter*.59}% 
+\contentsline {subsection}{\numberline {4.2.2}Implementation 2: \acrshort {svm} multiclass classification and \acrshort {svm} binary classification}{41}{subsection.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Implementation 3: \acrshort {lstm} for multiclass classification}{42}{subsection.4.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}Implementation 4: \acrshort {lstm} multiclass + \acrshort {svm} for a final binary classification}{44}{subsection.4.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.5}Implementation 5: \acrshort {cnn} for multiclass classification}{44}{subsection.4.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.6}Implementation 6: \acrshort {cnn} multiclass + \acrshort {svm} for a final binary classification}{45}{subsection.4.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{58}{chapter*.77}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Metrics}{}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
@@ -88,4 +98,6 @@
 \contentsline {subsection}{\numberline {4.3.2}Confusion matrix}{}{subsection.4.3.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}\acrlong {kfold}}{}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Categorical cross-entropy}{}{section.4.5}% 
 \contentsfinish 

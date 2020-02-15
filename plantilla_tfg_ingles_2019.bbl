@@ -398,8 +398,8 @@
       \strng{authorbibnamehash}{98d6f257d3e6d2eaa440d324a9df078a}
       \strng{authornamehash}{ed4ec4973fc2de157ec053f9d1820f1b}
       \strng{authorfullhash}{e2d31c8ccc8fcdfe09686a8b5daaaf60}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Our understanding of etiology of obesity and overweight is incomplete due to lack of objective and accurate methods for monitoring of ingestive behavior (MIB) in the free-living population. Our research has shown that frequency of swallowing may serve as a predictor for detecting food intake, differentiating liquids and solids, and estimating ingested mass. This paper proposes and compares two methods of acoustical swallowing detection from sounds contaminated by motion artifacts, speech, and external noise. Methods based on mel-scale Fourier spectrum, wavelet packets, and support vector machines are studied considering the effects of epoch size, level of decomposition, and lagging on classification accuracy. The methodology was tested on a large dataset (64.5 h with a total of 9966 swallows) collected from 20 human subjects with various degrees of adiposity. Average weighted epoch-recognition accuracy for intravisit individual models was 96.8{\%}, which resulted in 84.7{\%} average weighted accuracy in detection of swallowing events. These results suggest high efficiency of the proposed methodology in separation of swallowing sounds from artifacts that originate from respiration, intrinsic speech, head movements, food ingestion, and ambient noise. The recognition accuracy was not related to body mass index, suggesting that the methodology is suitable for obese individuals. {©} 2006 IEEE.}
@@ -913,8 +913,8 @@
       \strng{authorbibnamehash}{eb69740a4f3f76303d133be440a6480b}
       \strng{authornamehash}{eb69740a4f3f76303d133be440a6480b}
       \strng{authorfullhash}{eb69740a4f3f76303d133be440a6480b}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The nearest neighbor decision rule assigns to an unclassified sample point the classification of the nearest of a set of previously classified points. This rule is independent of the underlying joint distribution on the sample points and their classifications, and hence the probability of error R of such a rule must be at least as great as the Bayes probability of error R*-the minimum probability of error over all decision rules taking underlying probability structure into account. However, in a large sample analysis, we will show in the M-category case that R* ≤ R ≤ R*(2 - MR*/(M-1)), where these bounds are the tightest possible, for all suitably smooth underlying distributions. Thus for any number of categories, the probability of error of the nearest neighbor rule is bounded above by twice the Bayes probability of error. In this sense, it may be said that half the classification information in an infinite sample set is contained in the nearest neighbor. {©} 1967, IEEE. All rights reserved.}
@@ -1577,8 +1577,8 @@
       \strng{authorbibnamehash}{19620e2d7ebdec18c9c7f5c60d155d33}
       \strng{authornamehash}{19620e2d7ebdec18c9c7f5c60d155d33}
       \strng{authorfullhash}{19620e2d7ebdec18c9c7f5c60d155d33}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning}}
@@ -1764,8 +1764,8 @@
       \strng{authorbibnamehash}{aff433f1660ce99ead1696e8eeb59c31}
       \strng{authornamehash}{aff433f1660ce99ead1696e8eeb59c31}
       \strng{authorfullhash}{aff433f1660ce99ead1696e8eeb59c31}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence is autonomous, the contents that one would not let children to see in movies or web videos. This is a challenging problem due to strong content variations among the positive instances. To solve this problem, implementation of deep neural network to classify the violence content in videos is proposed. Currently, deep neural network has shown its efficiency in natural language processing, fraud detection, social media, text classification, image classification. Regardless of the conventional methods applied to overcome this issue, but these techniques seem insufficiently accurate and does not adopt well to certain webs or user needs. Therefore, the purpose of this study is to assess the classification performances on violence video using Deep Neural Network (DNN). Hence, in this paper different architectures of hidden layers and hidden nodes in DNN have been implemented using the try-error method and equation based method, to examine the effect of the number of hidden layers and hidden nodes to the classification performance. From the results, it indicates 53{\%} accuracy rate for try and error approach, meanwhile for equation based approach it indicates 51{\%} accuracy rate.}
@@ -2032,8 +2032,8 @@
       \strng{authorbibnamehash}{3f02c19a413912033db647b913ccef77}
       \strng{authornamehash}{3f02c19a413912033db647b913ccef77}
       \strng{authorfullhash}{3f02c19a413912033db647b913ccef77}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{UPC-TALP database of isolated meeting-room acoustic events}}
@@ -2632,6 +2632,27 @@
       \verb https://graphics.stanford.edu/courses/cs178/applets/convolution.html
       \endverb
     \endentry
+    \entry{Rampurawala2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=47939fb0219b01dbf4ebd3dbaadf7447}{%
+           family={Rampurawala},
+           familyi={R\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{fullhash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{bibnamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{authorbibnamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{authornamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{authorfullhash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Classification with TensorFlow and Dense Neural Networks}}
+      \field{year}{2019}
+    \endentry
     \entry{Jabbar2015}{inproceedings}{}
       \name{author}{2}{}{%
         {{hash=24bb986f645e282ec2b5895a9d5da9be}{%
@@ -2929,6 +2950,34 @@
       \endverb
       \keyw{Feature,Kernel,RBF,Support vector}
     \endentry
+    \entry{Browniee2018a}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=eb15d8e98e1856e492f63afce5237186}{%
+           family={Browniee},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{fullhash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{bibnamehash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{authorbibnamehash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{authornamehash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{authorfullhash}{eb15d8e98e1856e492f63afce5237186}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Difference Between a Batch and an Epoch in a Neural Network}}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
+      \endverb
+      \verb{url}
+      \verb https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
+      \endverb
+    \endentry
     \entry{Scikit-learn}{misc}{}
       \name{author}{1}{}{%
         {{hash=ae928b07781d0af9cd222cc0af04ec88}{%
@@ -3018,6 +3067,7 @@
       \strng{authorbibnamehash}{eb15d8e98e1856e492f63afce5237186}
       \strng{authornamehash}{eb15d8e98e1856e492f63afce5237186}
       \strng{authorfullhash}{eb15d8e98e1856e492f63afce5237186}
+      \field{extraname}{2}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
@@ -3076,6 +3126,31 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Cross-validation: evaluating estimator performance}}
+    \endentry
+    \entry{MLGlossary2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=430cbaf810fc16bb0ae0df792fe19485}{%
+           family={{ML Glossary}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{430cbaf810fc16bb0ae0df792fe19485}
+      \strng{fullhash}{430cbaf810fc16bb0ae0df792fe19485}
+      \strng{bibnamehash}{430cbaf810fc16bb0ae0df792fe19485}
+      \strng{authorbibnamehash}{430cbaf810fc16bb0ae0df792fe19485}
+      \strng{authornamehash}{430cbaf810fc16bb0ae0df792fe19485}
+      \strng{authorfullhash}{430cbaf810fc16bb0ae0df792fe19485}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Loss Functions}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://ml-cheatsheet.readthedocs.io/en/latest/loss{\_}functions.html
+      \endverb
+      \verb{url}
+      \verb https://ml-cheatsheet.readthedocs.io/en/latest/loss%7B%5C_%7Dfunctions.html
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
