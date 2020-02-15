@@ -5,48 +5,48 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Movement of the kernel represented as a red block along the width and the height of the original input image. It is clear that it occupies the whole depth of the input image. The arrow indicates an approximation of the movement that the filter follows \cite {Saha2018}.\relax }}{8}{figure.caption.13}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Movement of the kernel represented as a red block along the width and the height of the original input image. It is clear that it occupies the whole depth of the input image. The arrow indicates an approximation of the movement that the filter follows \cite {Saha2018}.\relax }}{8}{figure.caption.20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Max-pooling operation with a filter size of 2 and a stride of 2 for a single depth filter. Each colour represents a the action portion for each operation \cite {Karpathy2016}\relax }}{10}{figure.caption.15}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Max-pooling operation with a filter size of 2 and a stride of 2 for a single depth filter. Each colour represents a the action portion for each operation \cite {Karpathy2016}\relax }}{10}{figure.caption.22}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Representation of a typical CNN model \cite {Hinz2016}\relax }}{11}{figure.caption.16}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Representation of a typical CNN model \cite {Hinz2016}\relax }}{11}{figure.caption.23}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Difference between traditional machine learning (a) process and feature learning (b) \cite {Pan2010}\relax }}{14}{figure.caption.21}% 
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces First two layers of Audio Set Ontology \cite {Gemmeke2017}\relax }}{20}{figure.caption.27}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces VGGish architecture\relax }}{25}{figure.caption.34}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Flowchart about selecting violent classes\relax }}{28}{figure.caption.37}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Confusion matrices\relax }}{31}{figure.caption.41}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Architecture to see how the different embeddings work\relax }}{32}{figure.caption.43}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces t-SNE results from both formats with a legend that shows the labels of the data in the original 128D space\relax }}{34}{figure.caption.44}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Visualization of a hyperplane set by \acrshort {svm} and other decision boundaries \cite {Drakos2018}\relax }}{34}{figure.caption.46}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Difference between traditional machine learning (a) process and feature learning (b) \cite {Pan2010}\relax }}{14}{figure.caption.28}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Bar plot that shows the number of samples for each of the selected classes. Clearly, the violent categories are much less populated than the others, that did not have to much any semantic criteria\relax }}{37}{figure.caption.51}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces First two layers of Audio Set Ontology \cite {Gemmeke2017}\relax }}{20}{figure.caption.34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Number of observations for train, validation and test subsets used in the different experiments\relax }}{38}{figure.caption.52}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces VGGish architecture\relax }}{25}{figure.caption.41}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces SVM multiclass classifier whole model. \textit {X} is the input data that can be from train, validation or test set. \textit {\^{Y}} is the predicting labels for \textit {X}.\relax }}{39}{figure.caption.54}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Flowchart about selecting violent classes\relax }}{28}{figure.caption.44}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{40}{figure.caption.55}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Confusion matrices\relax }}{31}{figure.caption.48}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Confusion matrix for the test set for the SVM multiclass classification\relax }}{41}{figure.caption.56}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Architecture to see how the different embeddings work\relax }}{32}{figure.caption.50}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Accuracy values for the three sets for the SVM multiclass classification\relax }}{41}{figure.caption.57}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces t-SNE results from both formats with a legend that shows the labels of the data in the original 128D space\relax }}{34}{figure.caption.51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.62}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Visualization of a hyperplane set by \acrshort {svm} and other decision boundaries \cite {Drakos2018}\relax }}{34}{figure.caption.53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.63}% 
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.9}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.64}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Bar plot that shows the number of samples for each of the selected classes. Clearly, the violent categories are much less populated than the others, that did not have to much any semantic criteria\relax }}{37}{figure.caption.58}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Number of observations for train, validation and test subsets used in the different experiments\relax }}{38}{figure.caption.59}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces SVM multiclass classifier whole model. \textit {X} is the input data that can be from train, validation or test set. \textit {\^{Y}} is the predicting labels for \textit {X}.\relax }}{39}{figure.caption.61}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{40}{figure.caption.62}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Confusion matrix for the test set for the SVM multiclass classification\relax }}{41}{figure.caption.63}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Accuracy values for the three sets for the SVM multiclass classification\relax }}{41}{figure.caption.64}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.69}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.70}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.71}% 
 \contentsfinish 
 \contentsfinish 

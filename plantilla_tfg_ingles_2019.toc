@@ -19,7 +19,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Features}{4}{subsection.2.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Classification models}{6}{table.caption.9}% 
+\contentsline {subsubsection}{Classification models}{6}{table.caption.16}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.2}Features and methods}{11}{subsection.2.1.2}% 
 \defcounter {refsection}{0}\relax 
@@ -59,13 +59,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Violent classes}{27}{subsection.3.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Downloading videos}{28}{figure.caption.37}% 
+\contentsline {subsubsection}{Downloading videos}{28}{figure.caption.44}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.2}Extracting embeddings}{29}{subsection.3.3.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.3}Exploring differences between two types of data access}{29}{subsection.3.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dimensionality reduction for visualization}{32}{table.caption.42}% 
+\contentsline {subsubsection}{Dimensionality reduction for visualization}{32}{table.caption.49}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.4}Models}{33}{section.3.4}% 
 \defcounter {refsection}{0}\relax 
@@ -79,7 +79,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.1}Implementation 1: \acrshort {svm} classifier for a multiclass classification}{39}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{44}{chapter*.59}% 
+\contentsline {chapter}{Bibliography}{44}{chapter*.66}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Metrics}{}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
