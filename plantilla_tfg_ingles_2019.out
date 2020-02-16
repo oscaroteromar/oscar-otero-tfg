@@ -25,6 +25,7 @@
 \BOOKMARK [1][-]{section.3.3}{Our\040approach}{chapter.3}% 25
 \BOOKMARK [2][-]{subsection.3.3.1}{Input\040data}{section.3.3}% 26
 \BOOKMARK [2][-]{subsection.3.3.2}{Extracting\040embeddings}{section.3.3}% 27
+<<<<<<< HEAD
 \BOOKMARK [2][-]{subsection.3.3.3}{Exploring\040differences\040between\040two\040types\040of\040data\040access}{section.3.3}% 28
 \BOOKMARK [1][-]{section.3.4}{Methodology}{chapter.3}% 29
 \BOOKMARK [2][-]{subsection.3.4.1}{svm}{section.3.4}% 30
@@ -45,3 +46,17 @@
 \BOOKMARK [2][-]{subsection.Alph0.1.2}{Confusion\040matrix}{section.Alph0.1}% 45
 \BOOKMARK [1][-]{section.Alph0.2}{kfold}{chapter*.87}% 46
 \BOOKMARK [1][-]{section.Alph0.3}{Categorical\040cross-entropy}{chapter*.87}% 47
+=======
+\BOOKMARK [2][-]{subsection.3.3.3}{Assessing\040the\040differences\040between\040the\040two\040types\040of\040data\040access}{section.3.3}% 28
+\BOOKMARK [1][-]{section.3.4}{Models}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.4.1}{svm}{section.3.4}% 30
+\BOOKMARK [0][-]{chapter.4}{Experiments}{}% 31
+\BOOKMARK [1][-]{section.4.1}{Input\040data\040preparation}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.2}{Implementations\040and\040results}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.2.1}{Implementation\0401:\040svm\040classifier\040for\040a\040multiclass\040classification}{section.4.2}% 34
+\BOOKMARK [0][-]{chapter*.91}{Bibliography}{}% 35
+\BOOKMARK [1][-]{section.4.3}{Metrics}{chapter*.91}% 36
+\BOOKMARK [2][-]{subsection.4.3.1}{Classification\040Accuracy}{section.4.3}% 37
+\BOOKMARK [2][-]{subsection.4.3.2}{Confusion\040matrix}{section.4.3}% 38
+\BOOKMARK [1][-]{section.4.4}{kfold}{chapter*.91}% 39
+>>>>>>> 053a23cd4e128fd4d75264c5ff66f80e9936f8b6
