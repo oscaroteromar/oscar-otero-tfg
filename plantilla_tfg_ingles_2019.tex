@@ -232,6 +232,9 @@ hmargin=3cm
 \usepackage{todonotes}
 \usepackage{blindtext}
 \usepackage{lscape}
+\usepackage[export]{adjustbox}
+\usepackage{float}
+\usepackage{appendix}
 
 \newcommand{\doubt}[1]{\textbf{\color{red}{#1}}}
 %-------------
@@ -402,10 +405,12 @@ hmargin=3cm
 %----------	
 
 % Si tu trabajo incluye anexos, puedes descomentar las siguientes líneas
-\chapter* {Appendix x}
-\pagenumbering{gobble} % Las páginas de los anexos no se numeran
+% Las páginas de los anexos no se numeran
 
-\input{appendix.tex}
+\begin{appendix}
+	\input{appendix.tex}
+
+\end{appendix}
 
 
 

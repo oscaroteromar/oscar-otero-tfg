@@ -7,22 +7,26 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {table}{\numberline {2.1}{\ignorespaces Time-domain and spectral audio features\relax }}{5}{table.caption.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {2.2}{\ignorespaces Table of studied databases\relax }}{18}{table.caption.25}% 
+\contentsline {table}{\numberline {2.2}{\ignorespaces Table of studied databases\relax }}{14}{table.caption.20}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.1}{\ignorespaces Fields per category in the ontology\relax }}{21}{table.caption.28}% 
+\contentsline {table}{\numberline {3.1}{\ignorespaces Fields per category in the ontology\relax }}{17}{table.caption.23}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.2}{\ignorespaces VGG ConvNet configurations\relax }}{24}{table.caption.33}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces VGG ConvNet configurations\relax }}{20}{table.caption.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.3}{\ignorespaces Chosen classes for a small classification. \textit {Screaming}, \textit {Crying, sobbing} and \textit {Gunshot, gunfire} are considered as the violent ones.\relax }}{30}{table.caption.40}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces Chosen classes for a small classification. \textit {Screaming}, \textit {Crying, sobbing} and \textit {Gunshot, gunfire} are considered as the violent ones.\relax }}{26}{table.caption.35}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.4}{\ignorespaces Accuracy values for audio and .\textit {tfrecord} files\relax }}{31}{table.caption.42}% 
+\contentsline {table}{\numberline {3.4}{\ignorespaces Accuracy values for audio and .\textit {tfrecord} files\relax }}{27}{table.caption.37}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {4.1}{\ignorespaces Relation of \textit {violent} and \textit {non-violent} selected classes\relax }}{37}{table.caption.50}% 
+\contentsline {table}{\numberline {4.1}{\ignorespaces Relation of \textit {violent} and \textit {non-violent} selected classes\relax }}{41}{table.caption.57}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {4.2}{\ignorespaces Train, validation and test set for different experiments\relax }}{38}{table.caption.53}% 
+\contentsline {table}{\numberline {4.2}{\ignorespaces Train, validation and test set for different experiments\relax }}{42}{table.caption.60}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.3}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{58}{table.caption.82}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {4.4}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{60}{table.caption.83}% 
 \contentsfinish 
 \contentsfinish 
