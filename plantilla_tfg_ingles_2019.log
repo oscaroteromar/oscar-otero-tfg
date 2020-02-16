@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.16)  15 FEB 2020 20:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.16)  16 FEB 2020 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1806,7 +1806,29 @@ l.310 \chapter
 \tf@toc=\write7
 \openout7 = `plantilla_tfg_ingles_2019.toc'.
 
- [8] [9] (./plantilla_tfg_ingles_2019.lof
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 330.
+
+Overfull \hbox (2.27603pt too wide) in paragraph at lines 330--330
+\T1/txr/m/n/12 aparece 
+ []
+
+
+Overfull \hbox (12.95602pt too wide) in paragraph at lines 330--330
+\T1/txr/m/n/12 apéndices  
+ []
+
+
+Overfull \hbox (2.27603pt too wide) in paragraph at lines 330--330
+\T1/txr/m/n/12 aparece 
+ []
+
+
+Overfull \hbox (12.95602pt too wide) in paragraph at lines 330--330
+\T1/txr/m/n/12 apéndices  
+ []
+
+[8] [9] (./plantilla_tfg_ingles_2019.lof
 LaTeX Font Info:    Try loading font information for OT1+txr on input line 8.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/txfonts/ot1txr.fd
@@ -1847,9 +1869,6 @@ File: utxsyc.fd 2000/12/15 v3.1
 ] [14]
 Chapter 1.
 (./introduction.tex
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 5.
-
 
 LaTeX Warning: Marginpar on page 1 moved.
 
@@ -2039,40 +2058,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
  []
 
 
-LaTeX Warning: Reference `' on page 4 undefined on input line 40.
+LaTeX Warning: Reference `' on page 4 undefined on input line 41.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4] [5]
-Overfull \hbox (12.30801pt too wide) in paragraph at lines 58--58
+Overfull \hbox (4.29202pt too wide) in paragraph at lines 55--55
+\T1/txr/m/n/12 relación 
+ []
+
+
+Overfull \hbox (1.58pt too wide) in paragraph at lines 55--55
+\T1/txr/m/n/12 AED/C 
+ []
+
+
+Overfull \hbox (4.29202pt too wide) in paragraph at lines 55--55
+\T1/txr/m/n/12 relación 
+ []
+
+
+Overfull \hbox (1.58pt too wide) in paragraph at lines 55--55
+\T1/txr/m/n/12 AED/C 
+ []
+
+
+Overfull \hbox (12.30801pt too wide) in paragraph at lines 61--61
 [][]\T1/txr/m/n/12 Complete 
  []
 
 
-Overfull \hbox (8.28802pt too wide) in paragraph at lines 58--58
-\T1/txr/m/n/12 proaches  
+Overfull \hbox (11.28802pt too wide) in paragraph at lines 61--61
+\T1/txr/m/n/12 proaches. 
  []
 
 
-Overfull \hbox (12.30801pt too wide) in paragraph at lines 58--58
+Overfull \hbox (12.30801pt too wide) in paragraph at lines 61--61
 [][]\T1/txr/m/n/12 Complete 
  []
 
 
-Overfull \hbox (8.28802pt too wide) in paragraph at lines 58--58
-\T1/txr/m/n/12 proaches  
+Overfull \hbox (11.28802pt too wide) in paragraph at lines 61--61
+\T1/txr/m/n/12 proaches. 
  []
+
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+
+Overfull \hbox (0.63202pt too wide) in paragraph at lines 65--65
+\T1/txr/m/n/12 campo, 
+ []
+
+
+Overfull \hbox (4.17201pt too wide) in paragraph at lines 65--65
+\T1/txr/m/n/12 apoyán- 
+ []
+
+
+Overfull \hbox (0.63202pt too wide) in paragraph at lines 65--65
+\T1/txr/m/n/12 campo, 
+ []
+
+
+Overfull \hbox (4.17201pt too wide) in paragraph at lines 65--65
+\T1/txr/m/n/12 apoyán- 
+ []
+
+
+LaTeX Warning: Marginpar on page 6 moved.
 
 [6]
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 68--68
+Overfull \hbox (5.61203pt too wide) in paragraph at lines 69--69
+\T1/txr/m/n/12 acabaría 
+ []
+
+
+Overfull \hbox (6.95602pt too wide) in paragraph at lines 69--69
+\T1/txr/m/n/12 apartado 
+ []
+
+
+Overfull \hbox (4.544pt too wide) in paragraph at lines 69--69
+\T1/txr/m/n/12 volvería 
+ []
+
+
+Overfull \hbox (5.61203pt too wide) in paragraph at lines 69--69
+\T1/txr/m/n/12 acabaría 
+ []
+
+
+Overfull \hbox (6.95602pt too wide) in paragraph at lines 69--69
+\T1/txr/m/n/12 apartado 
+ []
+
+
+Overfull \hbox (4.544pt too wide) in paragraph at lines 69--69
+\T1/txr/m/n/12 volvería 
+ []
+
+
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 74--74
 [][]\T1/txr/m/n/12 Include 
  []
 
 
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 68--68
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 74--74
 [][]\T1/txr/m/n/12 Include 
  []
+
+
+LaTeX Warning: Marginpar on page 7 moved.
 
 (./cnn.tex
 Overfull \hbox (0.96802pt too wide) in paragraph at lines 6--6
@@ -2084,6 +2185,9 @@ Overfull \hbox (0.96802pt too wide) in paragraph at lines 6--6
 [][]\T1/txr/m/n/12 include 
  []
 
+
+LaTeX Warning: Marginpar on page 7 moved.
+
 LaTeX Font Info:    Try loading font information for OMS+txr on input line 11.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/txfonts/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
@@ -2091,13 +2195,13 @@ File: omstxr.fd 2000/12/15 v3.1
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <12> not available
 (Font)              Font shape `OMS/txsy/m/n' tried instead on input line 11.
  [7]
-<imagenes/movement-of-kernel.png, id=649, 212.795pt x 235.88126pt>
+<imagenes/movement-of-kernel.png, id=654, 212.795pt x 235.88126pt>
 File: imagenes/movement-of-kernel.png Graphic file (type png)
 <use imagenes/movement-of-kernel.png>
 Package pdftex.def Info: imagenes/movement-of-kernel.png  used on input line 26
 .
 (pdftex.def)             Requested size: 127.67796pt x 141.52983pt.
- [8 <./imagenes/movement-of-kernel.png>]
+ [8]
 Overfull \hbox (1.62802pt too wide) in paragraph at lines 43--43
 [][]\T1/txr/m/n/12 Include 
  []
@@ -2107,45 +2211,47 @@ Overfull \hbox (1.62802pt too wide) in paragraph at lines 43--43
 [][]\T1/txr/m/n/12 Include 
  []
 
-[9]
-<imagenes/max-pooling.png, id=673, 478.78876pt x 230.8625pt>
+[9 <./imagenes/movement-of-kernel.png>]
+<imagenes/max-pooling.png, id=678, 478.78876pt x 230.8625pt>
 File: imagenes/max-pooling.png Graphic file (type png)
 <use imagenes/max-pooling.png>
 Package pdftex.def Info: imagenes/max-pooling.png  used on input line 50.
 (pdftex.def)             Requested size: 335.14984pt x 161.60263pt.
-<imagenes/cnn.png, id=685, 853.1875pt x 290.08376pt>
+ [10 <./imagenes/max-pooling.png>]
+<imagenes/cnn.png, id=696, 853.1875pt x 290.08376pt>
 File: imagenes/cnn.png Graphic file (type png)
 <use imagenes/cnn.png>
 Package pdftex.def Info: imagenes/cnn.png  used on input line 64.
 (pdftex.def)             Requested size: 341.26895pt x 116.03143pt.
- [10 <./imagenes/max-pooling.png>]) (./lstm.tex))
-Overfull \hbox (2.97202pt too wide) in paragraph at lines 18--18
+)
+(./lstm.tex))
+Overfull \hbox (2.97202pt too wide) in paragraph at lines 21--21
 [][]\T1/txr/m/n/12 Explain 
  []
 
 
-Overfull \hbox (4.31601pt too wide) in paragraph at lines 18--18
-\T1/txr/m/n/12 MFCC?  
+Overfull \hbox (4.31601pt too wide) in paragraph at lines 21--21
+\T1/txr/m/n/12 MFCC? 
  []
 
 
-Overfull \hbox (2.97202pt too wide) in paragraph at lines 18--18
+Overfull \hbox (2.97202pt too wide) in paragraph at lines 21--21
 [][]\T1/txr/m/n/12 Explain 
  []
 
 
-Overfull \hbox (4.31601pt too wide) in paragraph at lines 18--18
-\T1/txr/m/n/12 MFCC?  
+Overfull \hbox (4.31601pt too wide) in paragraph at lines 21--21
+\T1/txr/m/n/12 MFCC? 
  []
 
 [11 <./imagenes/cnn.png>]
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 22--22
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 25--25
 [][]\T1/txr/m/n/12 Include 
  []
 
 
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 22--22
-[][]\T1/txr/m/n/12 Include 
+Overfull \hbox (0.63202pt too wide) in paragraph at lines 25--25
+\T1/txr/m/n/12 campo.  
  []
 
 
@@ -2154,55 +2260,131 @@ Overfull \hbox (1.62802pt too wide) in paragraph at lines 25--25
  []
 
 
-Overfull \hbox (9.63202pt too wide) in paragraph at lines 25--25
-\T1/txr/m/n/12 pipeline?  
+Overfull \hbox (0.63202pt too wide) in paragraph at lines 25--25
+\T1/txr/m/n/12 campo.  
  []
 
 
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 25--25
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 28--28
 [][]\T1/txr/m/n/12 Include 
  []
 
 
-Overfull \hbox (9.63202pt too wide) in paragraph at lines 25--25
-\T1/txr/m/n/12 pipeline?  
+Overfull \hbox (9.63202pt too wide) in paragraph at lines 28--28
+\T1/txr/m/n/12 pipeline? 
  []
 
 
-Overfull \hbox (2.94803pt too wide) in paragraph at lines 27--27
+Overfull \hbox (1.62802pt too wide) in paragraph at lines 28--28
+[][]\T1/txr/m/n/12 Include 
+ []
+
+
+Overfull \hbox (9.63202pt too wide) in paragraph at lines 28--28
+\T1/txr/m/n/12 pipeline? 
+ []
+
+
+Overfull \hbox (2.94803pt too wide) in paragraph at lines 30--30
 \T1/txr/m/n/12 deeper? 
  []
 
 
-Overfull \hbox (2.94803pt too wide) in paragraph at lines 27--27
+Overfull \hbox (2.94803pt too wide) in paragraph at lines 30--30
 \T1/txr/m/n/12 deeper? 
  []
 
 [12] [13]
-<imagenes/ml_tl.png, id=785, 1527.7075pt x 533.995pt>
+<imagenes/ml_tl.png, id=788, 1527.7075pt x 533.995pt>
 File: imagenes/ml_tl.png Graphic file (type png)
 <use imagenes/ml_tl.png>
-Package pdftex.def Info: imagenes/ml_tl.png  used on input line 44.
+Package pdftex.def Info: imagenes/ml_tl.png  used on input line 47.
 (pdftex.def)             Requested size: 341.43437pt x 119.34517pt.
- [14 <./imagenes/ml_tl.png>]
-Overfull \hbox (13.62802pt too wide) in paragraph at lines 69--69
-[][]\T1/txr/m/n/12 Glossary?  
+
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+
+Overfull \hbox (4.29202pt too wide) in paragraph at lines 62--62
+\T1/txr/m/n/12 añadiría 
  []
 
 
-Overfull \hbox (13.62802pt too wide) in paragraph at lines 69--69
-[][]\T1/txr/m/n/12 Glossary?  
+Overfull \hbox (4.29202pt too wide) in paragraph at lines 62--62
+\T1/txr/m/n/12 añadiría 
  []
 
-[15]
-Overfull \hbox (22.96402pt too wide) in paragraph at lines 71--71
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+[14 <./imagenes/ml_tl.png>] [15]
+Overfull \hbox (22.96402pt too wide) in paragraph at lines 80--80
 [][]\T1/txr/m/n/12 Explicación 
  []
 
 
-Overfull \hbox (22.96402pt too wide) in paragraph at lines 71--71
+Overfull \hbox (22.96402pt too wide) in paragraph at lines 80--80
 [][]\T1/txr/m/n/12 Explicación 
  []
+
+
+Overfull \hbox (10.84401pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 proyecto: 
+ []
+
+
+Overfull \hbox (0.96802pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 Madrid 
+ []
+
+
+Overfull \hbox (20.52802pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 EMPATIA- 
+ []
+
+
+Overfull \hbox (47.58804pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 project(reference 
+ []
+
+
+Overfull \hbox (27.584pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 Y2018/TCS- 
+ []
+
+
+Overfull \hbox (10.84401pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 proyecto: 
+ []
+
+
+Overfull \hbox (0.96802pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 Madrid 
+ []
+
+
+Overfull \hbox (20.52802pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 EMPATIA- 
+ []
+
+
+Overfull \hbox (47.58804pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 project(reference 
+ []
+
+
+Overfull \hbox (27.584pt too wide) in paragraph at lines 83--83
+\T1/txr/m/n/12 Y2018/TCS- 
+ []
+
+
+LaTeX Warning: Marginpar on page 16 moved.
 
 [16] (./databases.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
@@ -2330,7 +2512,7 @@ Chapter 3.
 (./methods.tex (./audioset_guidelines.tex) [19
 
 ]
-<imagenes/audioset-ontology.png, id=882, 1606.0pt x 1435.3625pt>
+<imagenes/audioset-ontology.png, id=896, 1606.0pt x 1435.3625pt>
 File: imagenes/audioset-ontology.png Graphic file (type png)
 <use imagenes/audioset-ontology.png>
 Package pdftex.def Info: imagenes/audioset-ontology.png  used on input line 29.
@@ -2380,7 +2562,7 @@ Overfull \hbox (40.29202pt too wide) in paragraph at lines 78--78
 [][]\T1/txr/m/n/12 Normalization?  
  []
 
-<imagenes/vgg-confs.png, id=956, 981.6675pt x 989.6975pt>
+<imagenes/vgg-confs.png, id=970, 981.6675pt x 989.6975pt>
 File: imagenes/vgg-confs.png Graphic file (type png)
 <use imagenes/vgg-confs.png>
 Package pdftex.def Info: imagenes/vgg-confs.png  used on input line 86.
@@ -2390,7 +2572,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrshort' on input line 93.
 
 [23]
-<imagenes/model-vggish.png, id=972, 1760.5775pt x 1136.245pt>
+<imagenes/model-vggish.png, id=986, 1760.5775pt x 1136.245pt>
 File: imagenes/model-vggish.png Graphic file (type png)
 <use imagenes/model-vggish.png>
 Package pdftex.def Info: imagenes/model-vggish.png  used on input line 110.
@@ -2429,7 +2611,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 LaTeX Warning: Reference `' on page 27 undefined on input line 150.
 
 [27]
-<imagenes/select-vio-cls.png, id=1022, 548.0475pt x 653.44125pt>
+<imagenes/select-vio-cls.png, id=1036, 548.0475pt x 653.44125pt>
 File: imagenes/select-vio-cls.png Graphic file (type png)
 <use imagenes/select-vio-cls.png>
 Package pdftex.def Info: imagenes/select-vio-cls.png  used on input line 168.
@@ -2475,80 +2657,80 @@ Overfull \hbox (3.62003pt too wide) in paragraph at lines 193--193
  []
 
 [29] [30]
-<imagenes/wav_train.png, id=1067, 255.8358pt x 191.2746pt>
+<imagenes/wav_train.png, id=1081, 255.8358pt x 191.2746pt>
 File: imagenes/wav_train.png Graphic file (type png)
 <use imagenes/wav_train.png>
 Package pdftex.def Info: imagenes/wav_train.png  used on input line 238.
 (pdftex.def)             Requested size: 213.39568pt x 159.54588pt.
-<imagenes/wav_test.png, id=1068, 270.7716pt x 202.356pt>
+<imagenes/wav_test.png, id=1082, 270.7716pt x 202.356pt>
 File: imagenes/wav_test.png Graphic file (type png)
 <use imagenes/wav_test.png>
 Package pdftex.def Info: imagenes/wav_test.png  used on input line 239.
 (pdftex.def)             Requested size: 213.39568pt x 159.47969pt.
-<imagenes/tfrecord_train.png, id=1069, 271.7352pt x 203.3196pt>
+<imagenes/tfrecord_train.png, id=1083, 271.7352pt x 203.3196pt>
 File: imagenes/tfrecord_train.png Graphic file (type png)
 <use imagenes/tfrecord_train.png>
 Package pdftex.def Info: imagenes/tfrecord_train.png  used on input line 247.
 (pdftex.def)             Requested size: 213.39568pt x 159.66827pt.
-<imagenes/tfrecord_test.png, id=1070, 262.581pt x 196.5744pt>
+<imagenes/tfrecord_test.png, id=1084, 262.581pt x 196.5744pt>
 File: imagenes/tfrecord_test.png Graphic file (type png)
 <use imagenes/tfrecord_test.png>
 Package pdftex.def Info: imagenes/tfrecord_test.png  used on input line 248.
 (pdftex.def)             Requested size: 213.39568pt x 159.75229pt.
  [31 <./imagenes/wav_train.png> <./imagenes/wav_test.png> <./imagenes/tfrecord_
 train.png> <./imagenes/tfrecord_test.png>]
-<imagenes/try-wav-tf.png, id=1084, 91.34125pt x 377.41pt>
+<imagenes/try-wav-tf.png, id=1098, 91.34125pt x 377.41pt>
 File: imagenes/try-wav-tf.png Graphic file (type png)
 <use imagenes/try-wav-tf.png>
 Package pdftex.def Info: imagenes/try-wav-tf.png  used on input line 283.
 (pdftex.def)             Requested size: 54.80516pt x 226.44774pt.
  [32 <./imagenes/try-wav-tf.png>]
-<imagenes/wav-perp-2.png, id=1110, 462.528pt x 346.896pt>
+<imagenes/wav-perp-2.png, id=1124, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-2.png Graphic file (type png)
 <use imagenes/wav-perp-2.png>
 Package pdftex.def Info: imagenes/wav-perp-2.png  used on input line 304.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/wav-perp-5.png, id=1111, 462.528pt x 346.896pt>
+<imagenes/wav-perp-5.png, id=1125, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-5.png Graphic file (type png)
 <use imagenes/wav-perp-5.png>
 Package pdftex.def Info: imagenes/wav-perp-5.png  used on input line 305.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/wav-perp-20.png, id=1112, 462.528pt x 346.896pt>
+<imagenes/wav-perp-20.png, id=1126, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-20.png Graphic file (type png)
 <use imagenes/wav-perp-20.png>
 Package pdftex.def Info: imagenes/wav-perp-20.png  used on input line 306.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/wav-perp-30.png, id=1113, 462.528pt x 346.896pt>
+<imagenes/wav-perp-30.png, id=1127, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-30.png Graphic file (type png)
 <use imagenes/wav-perp-30.png>
 Package pdftex.def Info: imagenes/wav-perp-30.png  used on input line 307.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/wav-perp-50.png, id=1114, 462.528pt x 346.896pt>
+<imagenes/wav-perp-50.png, id=1128, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-50.png Graphic file (type png)
 <use imagenes/wav-perp-50.png>
 Package pdftex.def Info: imagenes/wav-perp-50.png  used on input line 308.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/TF-perp-2.png, id=1115, 462.528pt x 346.896pt>
+<imagenes/TF-perp-2.png, id=1129, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-2.png Graphic file (type png)
 <use imagenes/TF-perp-2.png>
 Package pdftex.def Info: imagenes/TF-perp-2.png  used on input line 316.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/TF-perp-5.png, id=1116, 462.528pt x 346.896pt>
+<imagenes/TF-perp-5.png, id=1130, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-5.png Graphic file (type png)
 <use imagenes/TF-perp-5.png>
 Package pdftex.def Info: imagenes/TF-perp-5.png  used on input line 317.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/TF-perp-20.png, id=1117, 462.528pt x 346.896pt>
+<imagenes/TF-perp-20.png, id=1131, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-20.png Graphic file (type png)
 <use imagenes/TF-perp-20.png>
 Package pdftex.def Info: imagenes/TF-perp-20.png  used on input line 318.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/TF-perp-30.png, id=1118, 462.528pt x 346.896pt>
+<imagenes/TF-perp-30.png, id=1132, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-30.png Graphic file (type png)
 <use imagenes/TF-perp-30.png>
 Package pdftex.def Info: imagenes/TF-perp-30.png  used on input line 319.
 (pdftex.def)             Requested size: 85.35696pt x 64.01595pt.
-<imagenes/TF-perp-50.png, id=1119, 462.528pt x 346.896pt>
+<imagenes/TF-perp-50.png, id=1133, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-50.png Graphic file (type png)
 <use imagenes/TF-perp-50.png>
 Package pdftex.def Info: imagenes/TF-perp-50.png  used on input line 320.
@@ -2572,7 +2754,7 @@ Overfull \hbox (3.96802pt too wide) in paragraph at lines 337--337
 LaTeX Warning: Reference `' on page 33 undefined on input line 338.
 
 [33]
-<imagenes/svm.png, id=1142, 924.45375pt x 474.77374pt>
+<imagenes/svm.png, id=1156, 924.45375pt x 474.77374pt>
 File: imagenes/svm.png Graphic file (type png)
 <use imagenes/svm.png>
 Package pdftex.def Info: imagenes/svm.png  used on input line 343.
@@ -2616,7 +2798,7 @@ Overfull \hbox (4.29202pt too wide) in paragraph at lines 19--19
 \T1/txr/m/n/12 classes?  
  []
 
-<imagenes/samples-class-experiments.png, id=1176, 642.4pt x 481.8pt>
+<imagenes/samples-class-experiments.png, id=1190, 642.4pt x 481.8pt>
 File: imagenes/samples-class-experiments.png Graphic file (type png)
 <use imagenes/samples-class-experiments.png>
 Package pdftex.def Info: imagenes/samples-class-experiments.png  used on input 
@@ -2632,22 +2814,22 @@ LaTeX Warning: Reference `label:svm' on page 36 undefined on input line 56.
 LaTeX Warning: Reference `subsection:smote' on page 36 undefined on input line 
 58.
 
-<imagenes/tr_val_unbal_svm.png, id=1191, 642.4pt x 481.8pt>
+<imagenes/tr_val_unbal_svm.png, id=1205, 642.4pt x 481.8pt>
 File: imagenes/tr_val_unbal_svm.png Graphic file (type png)
 <use imagenes/tr_val_unbal_svm.png>
 Package pdftex.def Info: imagenes/tr_val_unbal_svm.png  used on input line 67.
 (pdftex.def)             Requested size: 213.39568pt x 160.04578pt.
-<imagenes/tst_unbal_svm.png, id=1192, 642.4pt x 481.8pt>
+<imagenes/tst_unbal_svm.png, id=1206, 642.4pt x 481.8pt>
 File: imagenes/tst_unbal_svm.png Graphic file (type png)
 <use imagenes/tst_unbal_svm.png>
 Package pdftex.def Info: imagenes/tst_unbal_svm.png  used on input line 68.
 (pdftex.def)             Requested size: 213.39568pt x 160.04578pt.
-<imagenes/tr_val_unbal.png, id=1193, 642.4pt x 481.8pt>
+<imagenes/tr_val_unbal.png, id=1207, 642.4pt x 481.8pt>
 File: imagenes/tr_val_unbal.png Graphic file (type png)
 <use imagenes/tr_val_unbal.png>
 Package pdftex.def Info: imagenes/tr_val_unbal.png  used on input line 76.
 (pdftex.def)             Requested size: 213.39568pt x 160.04578pt.
-<imagenes/tst_unbal.png, id=1194, 642.4pt x 481.8pt>
+<imagenes/tst_unbal.png, id=1208, 642.4pt x 481.8pt>
 File: imagenes/tst_unbal.png Graphic file (type png)
 <use imagenes/tst_unbal.png>
 Package pdftex.def Info: imagenes/tst_unbal.png  used on input line 77.
@@ -2670,19 +2852,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [38 <./imagenes/tr_val_unbal_svm.png (PNG copy)> <./imagenes/tst_unbal_svm.png 
 (PNG copy)> <./imagenes/tr_val_unbal.png (PNG copy)> <./imagenes/tst_unbal.png 
 (PNG copy)>]
-<imagenes/svm-multi-block-diagram.png, id=1236, 573.14125pt x 61.22874pt>
+<imagenes/svm-multi-block-diagram.png, id=1250, 573.14125pt x 61.22874pt>
 File: imagenes/svm-multi-block-diagram.png Graphic file (type png)
 <use imagenes/svm-multi-block-diagram.png>
 Package pdftex.def Info: imagenes/svm-multi-block-diagram.png  used on input li
 ne 115.
 (pdftex.def)             Requested size: 401.19614pt x 42.8598pt.
-<imagenes/svm-multi-cm-tr-av.png, id=1240, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-tr-av.png, id=1254, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-tr-av.png Graphic file (type png)
 <use imagenes/svm-multi-cm-tr-av.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-tr-av.png  used on input line 12
 8.
 (pdftex.def)             Requested size: 256.07741pt x 192.06905pt.
-<imagenes/svm-multi-cm-tr-std.png, id=1241, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-tr-std.png, id=1255, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-tr-std.png Graphic file (type png)
 <use imagenes/svm-multi-cm-tr-std.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-tr-std.png  used on input line 1
@@ -2693,13 +2875,13 @@ Overfull \hbox (85.36346pt too wide) in paragraph at lines 128--130
 [][][] 
  []
 
-<imagenes/svm-multi-cm-val-av.png, id=1242, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-val-av.png, id=1256, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-val-av.png Graphic file (type png)
 <use imagenes/svm-multi-cm-val-av.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-val-av.png  used on input line 1
 36.
 (pdftex.def)             Requested size: 256.07741pt x 192.06905pt.
-<imagenes/svm-multi-cm-val-std.png, id=1243, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-val-std.png, id=1257, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-val-std.png Graphic file (type png)
 <use imagenes/svm-multi-cm-val-std.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-val-std.png  used on input line 
@@ -2710,13 +2892,13 @@ Overfull \hbox (85.36346pt too wide) in paragraph at lines 136--138
 [][][] 
  []
 
-<imagenes/svm-multi-cm-tst.png, id=1244, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-tst.png, id=1258, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-tst.png Graphic file (type png)
 <use imagenes/svm-multi-cm-tst.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-tst.png  used on input line 148.
 
 (pdftex.def)             Requested size: 341.43437pt x 256.09029pt.
-<imagenes/svm-multierrorbar.png, id=1245, 462.528pt x 346.896pt>
+<imagenes/svm-multierrorbar.png, id=1259, 462.528pt x 346.896pt>
 File: imagenes/svm-multierrorbar.png Graphic file (type png)
 <use imagenes/svm-multierrorbar.png>
 Package pdftex.def Info: imagenes/svm-multierrorbar.png  used on input line 156
@@ -2733,19 +2915,19 @@ v.png> <./imagenes/svm-multi-cm-tr-std.png> <./imagenes/svm-multi-cm-val-av.png
 ]
 No file plantilla_tfg_ingles_2019.acr.
 [43]
-LaTeX Font Info:    Try loading font information for T1+txtt on input line 396.
+LaTeX Font Info:    Try loading font information for T1+txtt on input line 397.
 
  (/usr/local/texlive/2018/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
-Overfull \hbox (0.68356pt too wide) in paragraph at lines 397--397
+Overfull \hbox (0.68356pt too wide) in paragraph at lines 398--398
 \T1/txr/m/it/12 Au-dio, Speech and Lan-guage Pro-cess-ing\T1/txr/m/n/12 , 2006.
  \T1/txr/m/sc/12 doi\T1/txr/m/n/12 : [][]$\T1/txtt/m/n/12 10 . 1109 / TSA . 200
 5 . 854103$[][]\T1/txr/m/n/12 . 
  []
 
 
-Overfull \hbox (2.59337pt too wide) in paragraph at lines 397--397
+Overfull \hbox (2.59337pt too wide) in paragraph at lines 398--398
 []\T1/txr/m/n/12 D. Van Nort, P. Oliv-eros, and J. Braasch, ^^P  Elec-tro/a-cou
 s-tic im-pro-vi-sa-tion and deeply
  []
@@ -2754,51 +2936,51 @@ s-tic im-pro-vi-sa-tion and deeply
 
 
 ]
-Overfull \hbox (0.69048pt too wide) in paragraph at lines 397--397
+Overfull \hbox (0.69048pt too wide) in paragraph at lines 398--398
 []\T1/txr/m/n/12 J. García-Gómez, M. Bautista-Durán, R. Gil-Pita, I. Mohino-Her
 ranz, and M. Rosa-
  []
 
 [45]
-Overfull \hbox (0.30824pt too wide) in paragraph at lines 397--397
+Overfull \hbox (0.30824pt too wide) in paragraph at lines 398--398
 []\T1/txr/m/n/12 A. Karpa-thy, \T1/txr/m/it/12 CS231n Con-vo-lu-tional Neu-ral 
 Net-works for Vi-sual Recog-ni-tion\T1/txr/m/n/12 , 2016. 
  []
 
 [46] [47]
-Overfull \hbox (8.26433pt too wide) in paragraph at lines 397--397
+Overfull \hbox (8.26433pt too wide) in paragraph at lines 398--398
 []\T1/txr/m/n/12 S. Her-shey \T1/txr/m/it/12 et al.\T1/txr/m/n/12 , ^^P  CNN ar
 -chi-tec-tures for large-scale au-dio clas-si-fi-ca-tion^^Q, in \T1/txr/m/it/12
  ICASSP,
  []
 
 [48]
-Overfull \hbox (33.76134pt too wide) in paragraph at lines 397--397
+Overfull \hbox (33.76134pt too wide) in paragraph at lines 398--398
 \T1/txr/m/n/12 able: [][]$\T1/txtt/m/n/12 https : / / graphics . stanford . edu
  / courses / cs178 / applets / convolution .
  []
 
 
-Overfull \hbox (4.13414pt too wide) in paragraph at lines 397--397
+Overfull \hbox (4.13414pt too wide) in paragraph at lines 398--398
 []\T1/txr/m/n/12 J. Amat Ro-drigo, \T1/txr/m/it/12 Análi-sis de Com-po-nentes P
 rin-ci-pales (Prin-ci-pal Com-po-nent Anal-
  []
 
 
-Overfull \hbox (47.3163pt too wide) in paragraph at lines 397--397
+Overfull \hbox (47.3163pt too wide) in paragraph at lines 398--398
 []\T1/txr/m/n/12 A. Kaw, \T1/txr/m/it/12 Holis-tic Nu-mer-i-cal Meth-ods\T1/txr
 /m/n/12 . [On-line]. Avail-able: [][]$\T1/txtt/m/n/12 https : / / nm . mathforc
 ollege .
  []
 
 
-Overfull \hbox (32.23738pt too wide) in paragraph at lines 397--397
+Overfull \hbox (32.23738pt too wide) in paragraph at lines 398--398
 \T1/txr/m/n/12 Avail-able: [][]$\T1/txtt/m/n/12 https : / / machinelearningmast
 ery . com / k -[] fold -[] cross -[] validation/$[][]\T1/txr/m/n/12 . 
  []
 
 [49] [50] (./appendix.tex
-<imagenes/confusion-matrix.png, id=1509, 385.44pt x 197.73875pt>
+<imagenes/confusion-matrix.png, id=1521, 385.44pt x 197.73875pt>
 File: imagenes/confusion-matrix.png Graphic file (type png)
 <use imagenes/confusion-matrix.png>
 Package pdftex.def Info: imagenes/confusion-matrix.png  used on input line 25.
@@ -2806,7 +2988,7 @@ Package pdftex.def Info: imagenes/confusion-matrix.png  used on input line 25.
  [1
 
  <./imagenes/confusion-matrix.png>]
-<imagenes/conf-mat-multi.png, id=1519, 694.595pt x 390.45876pt>
+<imagenes/conf-mat-multi.png, id=1531, 694.595pt x 390.45876pt>
 File: imagenes/conf-mat-multi.png Graphic file (type png)
 <use imagenes/conf-mat-multi.png>
 Package pdftex.def Info: imagenes/conf-mat-multi.png  used on input line 46.
@@ -2822,7 +3004,7 @@ een already used, duplicate ignored
                    \relax 
 l.55 	
        [2 <./imagenes/conf-mat-multi.png>]
-<imagenes/k-fold.png, id=1530, 888.31876pt x 615.29875pt>
+<imagenes/k-fold.png, id=1542, 888.31876pt x 615.29875pt>
 File: imagenes/k-fold.png Graphic file (type png)
 <use imagenes/k-fold.png>
 Package pdftex.def Info: imagenes/k-fold.png  used on input line 69.
@@ -2836,17 +3018,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.412 \end{document}
+l.413 \end{document}
                      [3 <./imagenes/k-fold.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 412.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 412.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 413.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 413.
 
 (./plantilla_tfg_ingles_2019.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 412.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 412.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 413.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 413.
 Package rerunfilecheck Info: File `plantilla_tfg_ingles_2019.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: 106A33B0318369DBB33CAA954B7B7A4E;2681.
+(rerunfilecheck)             Checksum: 1C282B44323171BD27A9416C2D944079;2681.
 
 
 LaTeX Warning: There were undefined references.
@@ -2854,13 +3036,13 @@ LaTeX Warning: There were undefined references.
 Package logreq Info: Writing requests to 'plantilla_tfg_ingles_2019.run.xml'.
 \openout1 = `plantilla_tfg_ingles_2019.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 412.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 413.
  ) 
 Here is how much of TeX's memory you used:
- 51729 strings out of 492616
- 920279 string characters out of 6128966
- 1468292 words of memory out of 5000000
- 54493 multiletter control sequences out of 15000+600000
+ 51828 strings out of 492616
+ 922523 string characters out of 6128966
+ 1481937 words of memory out of 5000000
+ 54581 multiletter control sequences out of 15000+600000
  621226 words of font info for 153 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,92p,4120b,3664s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2879,9 +3061,9 @@ ocal/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
 ve/2018/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2018/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on plantilla_tfg_ingles_2019.pdf (67 pages, 2678667 bytes).
+Output written on plantilla_tfg_ingles_2019.pdf (67 pages, 2685615 bytes).
 PDF statistics:
- 1673 PDF objects out of 1728 (max. 8388607)
- 321 named destinations out of 1000 (max. 500000)
+ 1688 PDF objects out of 1728 (max. 8388607)
+ 332 named destinations out of 1000 (max. 500000)
  638 words of extra memory for PDF output out of 10000 (max. 10000000)
 
