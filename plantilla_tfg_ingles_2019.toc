@@ -59,27 +59,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Violent classes}{27}{subsection.3.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Downloading videos}{28}{figure.caption.55}% 
+\contentsline {subsubsection}{Downloading videos}{28}{figure.caption.68}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.2}Extracting embeddings}{29}{subsection.3.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Exploring differences between two types of data access}{29}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.3}Assessing the differences between the two types of data access}{29}{subsection.3.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dimensionality reduction for visualization}{32}{table.caption.60}% 
+\contentsline {subsubsection}{Dimensionality reduction for visualization}{32}{table.caption.73}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Models}{33}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Models}{34}{section.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}\acrfull {svm}}{33}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.1}\acrfull {svm}}{34}{subsection.3.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Experiments}{35}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Experiments}{36}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Input data preparation}{35}{section.4.1}% 
+\contentsline {section}{\numberline {4.1}Input data preparation}{36}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Implementations and results}{37}{section.4.2}% 
+\contentsline {section}{\numberline {4.2}Implementations and results}{38}{section.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Implementation 1: \acrshort {svm} classifier for a multiclass classification}{39}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.1}Implementation 1: \acrshort {svm} classifier for a multiclass classification}{40}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{44}{chapter*.77}% 
+\contentsline {chapter}{Bibliography}{45}{chapter*.91}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Metrics}{}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
