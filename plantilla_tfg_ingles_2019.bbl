@@ -345,8 +345,8 @@
       \strng{authorbibnamehash}{aa4d25906bf690a96eae1cb147750dc0}
       \strng{authornamehash}{96fd8bed1a82e6a324d4f3e27758a2eb}
       \strng{authorfullhash}{274c3e255818716c9806ad7c03bffd96}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we present the results of the Acoustic Event Detection (AED) and Classification (AEC) evaluations carried out in February 2006 by the three participant partners from the CHIL project. The primary evaluation task was AED of the testing portions of the isolated sound databases and seminar recordings produced in CHIL. Additionally, a secondary AEC evaluation task was designed using only the isolated sound databases. The set of meetingroom acoustic event classes and the metrics were agreed by the three partners and ELDA was in charge of the scoring task. In this paper, the various systems for the tasks of AED and AEC and their results are presented. {©} Springer-Verlag Berlin Heidelberg 2007.}
@@ -880,8 +880,8 @@
       \strng{authorbibnamehash}{a9afdacfd9c00fe3352f44d939aab5f3}
       \strng{authornamehash}{1a07e4f379a3e67eeac0cdabb3ec5567}
       \strng{authorfullhash}{a9afdacfd9c00fe3352f44d939aab5f3}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Music information retrieval (MIR) is an emerging research area that receives growing attention from both the research community and music industry. It addresses the problem of querying and retrieving certain types of music from large music data set. Classification is a fundamental problem in MIR. Many tasks in MIR can be naturally cast in a classification setting, such as genre classification, mood classification, artist recognition, instrument recognition, etc. Music annotation, a new research area in MIR that has attracted much attention in recent years, is also a classification problem in the general sense. Due to the importance of music classification in MIR research, rapid development of new methods, and lack of review papers on recent progress of the field, we provide a comprehensive review on audio-based classification in this paper and systematically summarize the state-of-the-art techniques for music classification. Specifically, we have stressed the difference in the features and the types of classifiers used for different classification tasks. This survey emphasizes on recent development of the techniques and discusses several open issues for future research. {©} 2010 IEEE.}
@@ -1058,8 +1058,8 @@
       \strng{authorbibnamehash}{ec134b52e053e7e2e22010f76134fb4a}
       \strng{authornamehash}{ec134b52e053e7e2e22010f76134fb4a}
       \strng{authorfullhash}{ec134b52e053e7e2e22010f76134fb4a}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The "bag-of-frames" approach (BOF) to audio pattern recognition represents signals as the long-term statistical distribution of their local spectral features. This approach has proved nearly optimal for simulating the auditory perception of natural and human environments (or soundscapes), and is also the most predominent paradigm to extract high-level descriptions from music signals. However, recent studies show that, contrary to its application to soundscape signals, BOF only provides limited performance when applied to polyphonic music signals. This paper proposes to explicitly examine the difference between urban soundscapes and polyphonic music with respect to their modeling with the BOF approach. First, the application of the same measure of acoustic similarity on both soundscape and music data sets confirms that the BOF approach can model soundscapes to near-perfect precision, and exhibits none of the limitations observed in the music data set. Second, the modification of this measure by two custom homogeneity transforms reveals critical differences in the temporal and statistical structure of the typical frame distribution of each type of signal. Such differences may explain the uneven performance of BOF algorithms on soundscapes and music signals, and suggest that their human perception rely on cognitive processes of a different nature.}
@@ -1587,8 +1587,8 @@
       \strng{authorbibnamehash}{2987f3d62b41136d596910e540aeaa10}
       \strng{authornamehash}{2987f3d62b41136d596910e540aeaa10}
       \strng{authorfullhash}{2987f3d62b41136d596910e540aeaa10}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Modern elevators are equipped with closed-circuit television (CCTV) cameras to record videos for post-incident investigation rather than providing proactive event monitoring. While there are some attempts at automated video surveillance, events such as urinating, vandalism, and crimes that involved vulnerable targets may not exhibit significant visual cues. On contrary, such events are more discerning from audio cues. In this work, we propose a hierarchical audio-visual surveillance framework for elevators. Audio analytic module acts as the front line detector to monitor for such events. This means audio cue is the main determining source to infer the event occurrence. The secondary inference process involves queries to visual analytic module to build-up the evidences leading to event detection. We validate the performance of our system at a residential trial site and the initial results are promising. {©} 2014 Springer International Publishing.}
@@ -1905,8 +1905,8 @@
       \strng{authorbibnamehash}{21181897ce2528f104c5444cf0344c1b}
       \strng{authornamehash}{e3cc5901fc26a37b1821bc7b64b691fb}
       \strng{authorfullhash}{21181897ce2528f104c5444cf0344c1b}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper we propose a novel method for the detection of audio events for surveillance applications. The method is based on the bag of words approach, adapted to deal with the specific issues of audio surveillance: the need to recognize both short and long sounds, the presence of a significant noise level and of superimposed background sounds of intensity comparable to the audio events to be detected. In order to test the proposed method in complex, realistic scenarios, we have built a large, publicly available dataset of audio events. The dataset has allowed us to evaluate the robustness of our method with respect to varying levels of the Signal-to-Noise Ratio; the experimentation has confirmed its applicability under real world conditions, and has shown a significant performance improvement with respect to other methods from the literature.}
@@ -2207,8 +2207,8 @@
       \strng{authorbibnamehash}{e842c74a8f00853e7e3ea135b41b55bd}
       \strng{authornamehash}{e842c74a8f00853e7e3ea135b41b55bd}
       \strng{authorfullhash}{e842c74a8f00853e7e3ea135b41b55bd}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Introducing the Knowledge Graph: things, not strings}}
@@ -2498,8 +2498,8 @@
       \strng{authorbibnamehash}{907aadb37fc60b0f083f20db847f6e26}
       \strng{authornamehash}{907aadb37fc60b0f083f20db847f6e26}
       \strng{authorfullhash}{907aadb37fc60b0f083f20db847f6e26}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Machine learning is an important task for learning artificial neural networks, and we find in the learning one of the common problems of learning the Artificial Neural Network (ANN) is over-fitting and under-fitting to outlier points. In this paper we performed various methods in avoiding over-fitting and under-fitting; that is penalty and early stopping methods. A comparative study has been presented for the aforementioned methods to evaluate their performance within a range of specific parameters such as; speed of training, over-fitting and under-fitting avoidance, difficulty, capacity, time of training, and their accuracy. Besides these parameters we have included comparison between over-fitting and under-fitting. We found the early stopping method as being better as compared to the penalty method, as it can avoid over- fitting and under-fitting with respect to validation time. Besides we find that Under-fitting neural networks perform poorly on both training and test sets, but Over-fitting networks may do very well on training sets though terribly on test sets.}
@@ -2695,6 +2695,164 @@
       \verb{url}
       \verb http://distill.pub/2016/misread-tsne
       \endverb
+    \endentry
+    \entry{Chawla2002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=07f6b2699d3cab07b3a5b04353899cba}{%
+           family={Chawla},
+           familyi={C\bibinitperiod},
+           given={Nitesh\bibnamedelima V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=07156c210eaf004bb9d8ec5b07f02d55}{%
+           family={Bowyer},
+           familyi={B\bibinitperiod},
+           given={Kevin\bibnamedelima W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3f083c041520d8fa6be3faa597476d15}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Lawrence\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=7cf2422c92b85e461acc6dd47fdb3ba8}{%
+           family={Kegelmeyer},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi Philip},
+           giveni={W\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{20284ed0693a8d29d92b5877d5cf5854}
+      \strng{fullhash}{c8dfb87590a41f2f9294282b456dede4}
+      \strng{bibnamehash}{c8dfb87590a41f2f9294282b456dede4}
+      \strng{authorbibnamehash}{c8dfb87590a41f2f9294282b456dede4}
+      \strng{authornamehash}{20284ed0693a8d29d92b5877d5cf5854}
+      \strng{authorfullhash}{c8dfb87590a41f2f9294282b456dede4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An approach to the construction of classifiers from unbalanced datasets is described. A dataset is imbalanced if the classification categories are not approximately equally represented. Often real-world data sets are predominately composed of "normal" examples with only a small percentage of "abnormal" or "interesting" examples. It is also the case that the cost of misclassifying an abnormal (interesting) example as a normal example is often much higher than the cost of the reverse error. Under-sampling of the majority (normal) class has been proposed as a good means of increasing the sensitivity of a classifier to the minority class. This paper shows that a combination of our method of over-sampling the minority (abnormal) class and under-sampling the majority (normal) class can achieve better classifier performance (in ROC space) than only under-sampling the majority class. This paper also shows that a combination of our method of over-sampling the minority class and under-sampling the majority class can achieve better classifier performance (in ROC space) than varying the loss ratios in Ripper or class priors in Naive Bayes. Our method of over-sampling the minority class involves creating synthetic minority class examples. Experiments are performed using C4.5, Ripper and a Naive Bayes classifier. The method is evaluated using the area under the Receiver Operating Characteristic curve (AUC) and the ROC convex hull strategy. {©} 2002 AI Access Foundation and Morgan Kaufmann Publishers. All rights reserved.}
+      \field{eprinttype}{arXiv}
+      \field{issn}{10769757}
+      \field{journaltitle}{Journal of Artificial Intelligence Research}
+      \field{title}{{SMOTE: Synthetic minority over-sampling technique}}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1613/jair.953
+      \endverb
+      \verb{eprint}
+      \verb 1106.1813
+      \endverb
+    \endentry
+    \entry{Browniee2020}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=eb15d8e98e1856e492f63afce5237186}{%
+           family={Browniee},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{fullhash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{bibnamehash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{authorbibnamehash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{authornamehash}{eb15d8e98e1856e492f63afce5237186}
+      \strng{authorfullhash}{eb15d8e98e1856e492f63afce5237186}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{SMOTE Oversampling for Imbalanced Classification with Python}}
+      \field{year}{2020}
+    \endentry
+    \entry{Blagus2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a8c0cbc6bdd22a89374ae9853da432b0}{%
+           family={Blagus},
+           familyi={B\bibinitperiod},
+           given={Rok},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1af9adc2b82faf8443e6bda032b85ff6}{%
+           family={Lusa},
+           familyi={L\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0373b3d2b6925d94d970ff2762aca5b7}
+      \strng{fullhash}{0373b3d2b6925d94d970ff2762aca5b7}
+      \strng{bibnamehash}{0373b3d2b6925d94d970ff2762aca5b7}
+      \strng{authorbibnamehash}{0373b3d2b6925d94d970ff2762aca5b7}
+      \strng{authornamehash}{0373b3d2b6925d94d970ff2762aca5b7}
+      \strng{authorfullhash}{0373b3d2b6925d94d970ff2762aca5b7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Classification using class-imbalanced data is biased in favor of the majority class. The bias is even larger for high-dimensional data, where the number of variables greatly exceeds the number of samples. The problem can be attenuated by undersampling or oversampling, which produce class-balanced data. Generally undersampling is helpful, while random oversampling is not. Synthetic Minority Oversampling TEchnique (SMOTE) is a very popular oversampling method that was proposed to improve random oversampling but its behavior on high-dimensional data has not been thoroughly investigated. In this paper we investigate the properties of SMOTE from a theoretical and empirical point of view, using simulated and real high-dimensional data.Results: While in most cases SMOTE seems beneficial with low-dimensional data, it does not attenuate the bias towards the classification in the majority class for most classifiers when data are high-dimensional, and it is less effective than random undersampling. SMOTE is beneficial for k-NN classifiers for high-dimensional data if the number of variables is reduced performing some type of variable selection; we explain why, otherwise, the k-NN classification is biased towards the minority class. Furthermore, we show that on high-dimensional data SMOTE does not change the class-specific mean values while it decreases the data variability and it introduces correlation between samples. We explain how our findings impact the class-prediction for high-dimensional data.Conclusions: In practice, in the high-dimensional setting only k-NN classifiers based on the Euclidean distance seem to benefit substantially from the use of SMOTE, provided that variable selection is performed before using SMOTE; the benefit is larger if more neighbors are used. SMOTE for k-NN without variable selection should not be used, because it strongly biases the classification towards the minority class. {©} 2013 Blagus and Lusa; licensee BioMed Central Ltd.}
+      \field{issn}{14712105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{title}{{SMOTE for high-dimensional class-imbalanced data}}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1186/1471-2105-14-106
+      \endverb
+    \endentry
+    \entry{Xie2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f92558f6d008cd9fd1b3db2f03010902}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Yonghua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4460491b1fdb7f49c06c0fa378ce11aa}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yurong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9bbd6e1ee3591e60a6a3396dbf086fab}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Qingqiu},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{561ae6800999732f186473cbf2e01dd1}
+      \strng{fullhash}{561ae6800999732f186473cbf2e01dd1}
+      \strng{bibnamehash}{561ae6800999732f186473cbf2e01dd1}
+      \strng{authorbibnamehash}{561ae6800999732f186473cbf2e01dd1}
+      \strng{authornamehash}{561ae6800999732f186473cbf2e01dd1}
+      \strng{authorfullhash}{561ae6800999732f186473cbf2e01dd1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In view of the SVM classification for the imbalanced sand-dust storm data sets, this paper proposes a hybrid self-adaptive sampling method named SRU-AIBSMOTE algorithm. This method can adaptively adjust neighboring selection strategy based on the internal distribution of sample sets. It produces virtual minority class instances through randomized interpolation in the spherical space which consists of minority class instances and their neighbors. The random undersampling is also applied to undersample the majority class instances for removal of redundant data in the sample sets. The comparative experimental results on the real data sets from Yanchi and Tongxin districts in Ningxia of China show that the SRU-AIBSMOTE method can obtain better classification performance than some traditional classification methods.}
+      \field{issn}{1607887X}
+      \field{journaltitle}{Discrete Dynamics in Nature and Society}
+      \field{title}{{Imbalanced Data Sets Classification Based on SVM for Sand-Dust Storm Warning}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1155/2015/562724
+      \endverb
+    \endentry
+    \entry{Drakos2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=41aa8dfbfcf407444c27f002fd637251}{%
+           family={Drakos},
+           familyi={D\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{41aa8dfbfcf407444c27f002fd637251}
+      \strng{fullhash}{41aa8dfbfcf407444c27f002fd637251}
+      \strng{bibnamehash}{41aa8dfbfcf407444c27f002fd637251}
+      \strng{authorbibnamehash}{41aa8dfbfcf407444c27f002fd637251}
+      \strng{authornamehash}{41aa8dfbfcf407444c27f002fd637251}
+      \strng{authorfullhash}{41aa8dfbfcf407444c27f002fd637251}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Support Vector Machine vs Logistic Regression}}
+      \field{year}{2018}
     \endentry
     \entry{Karpathy2016}{misc}{}
       \name{author}{1}{}{%
@@ -2949,27 +3107,6 @@
       \verb https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
       \endverb
     \endentry
-    \entry{Drakos2018}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=41aa8dfbfcf407444c27f002fd637251}{%
-           family={Drakos},
-           familyi={D\bibinitperiod},
-           given={Georgios},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{41aa8dfbfcf407444c27f002fd637251}
-      \strng{fullhash}{41aa8dfbfcf407444c27f002fd637251}
-      \strng{bibnamehash}{41aa8dfbfcf407444c27f002fd637251}
-      \strng{authorbibnamehash}{41aa8dfbfcf407444c27f002fd637251}
-      \strng{authornamehash}{41aa8dfbfcf407444c27f002fd637251}
-      \strng{authorfullhash}{41aa8dfbfcf407444c27f002fd637251}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Support Vector Machine vs Logistic Regression}}
-      \field{year}{2018}
-    \endentry
     \entry{Kaw}{misc}{}
       \name{author}{1}{}{%
         {{hash=a94c2eecbed385cef1fe0b958f5963e7}{%
@@ -3043,7 +3180,7 @@
       \strng{authorbibnamehash}{eb15d8e98e1856e492f63afce5237186}
       \strng{authornamehash}{eb15d8e98e1856e492f63afce5237186}
       \strng{authorfullhash}{eb15d8e98e1856e492f63afce5237186}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
@@ -3146,7 +3283,7 @@
       \strng{authorbibnamehash}{eb15d8e98e1856e492f63afce5237186}
       \strng{authornamehash}{eb15d8e98e1856e492f63afce5237186}
       \strng{authorfullhash}{eb15d8e98e1856e492f63afce5237186}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
