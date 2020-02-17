@@ -38,26 +38,26 @@
 
 	The main concept of a \acrshort{lstm} network resides on its cell state and the different gates. The cell state, represented in the diagram by the upper arrow, is the one in charge of transferring information all the way through the chain of modules. It can be thought as the memory of the whole network. Its objective is to just carry information considered relevant for the model. This way is how the \acrshort{lstm} brings the information from the first layers to the last ones without suffering the vanishing gradient problem. The content of the cell state is modified by the point-wise operations that acts by following the gates criteria. These are in fact neural networks that has the goal of deciding which information can be treated as relevant and so added to cell state. This process can be understood as a learning/forgetting stage \cite{Nguyen2018}. 
 	
-	In order to understanding how this process works, we are going the interaction of the different gates in the learning stage.
-
-	\begin{wrapfigure}{l}{0.26\textwidth}
+	\begin{wrapfigure}[8]{l}{0.24\textwidth}
 		\centering
 		\captionsetup{justification=centering}
-		\includegraphics[scale=0.25]{lstm-forget-gate}
-		\caption{Step 1. Forget gate}
+		\includegraphics[scale=0.23]{lstm-forget-gate}
+		\caption{Forget gate}
 		\label{fig:mesh42}
 	\end{wrapfigure}
+
+	In order to understanding how this process works, we are going to address the interaction of the different gates in the learning stage.
 
 	The first step is performed by what is called the \textit{forget gate} layer. It must decide which information must be included in the cell state that travels through the time chain. This is way the layer contains a sigmoid function that outputs values between  0 and 1, in which  0 means dropping the information in the previous cell state and 1 implies to keep it. As shown in figure \ref{fig:mesh42}, this is done by paying attention to the hidden state which is the output of the previous module, \textit{h\textsuperscript{<t-1>}}, and the input of the current one, \textit{x\textsuperscript{<t>}} \cite{Nguyen2018}. The resulting function $f$ is defined as follows, where $W_{f}$ are the weights of the \acrshort{rnn} and $b_{f}$ the bias.
 	\[
 	\ f = \sigma(W_{f}[h^{t-1}, x^{t}] + b_{f})
 	\]
 	
-	\begin{wrapfigure}{r}{0.3\textwidth}
+	\begin{wrapfigure}{r}{0.28\textwidth}
 		\centering
 		\captionsetup{justification=centering}
 		\includegraphics[scale=0.27]{lstm-input-gate}
-		\caption{Step 2. Input gate}
+		\caption{Input gate}
 		\label{fig:mesh43}
 	\end{wrapfigure}
 	
@@ -67,12 +67,12 @@
 	
 	In the step 3, the output of the multiplication from the input gate layer and the output $f$ of the sigmoid function from the forget gate, modify the old cell state from the previous module, \textit{c\textsuperscript{<t-1>}}, so it can be updated. For the outcome of the step 1, a point-wise multiplication is performed, $f * C^{<t-1>}$. Then, to the output of this operation is added the resulting product of the input gate, $i * C$. This two operations can be translated as a forgetting and a learning stage. First, the values the forget gate decided to remove from the cell state are actually forgotten. Then, it must learn the new values belonging to the current input also weighted by their importance, what denotes how much the state values are going to be updated \cite{Olah2015}. The new cell state expression $c^{t}$ is included below and the process is shown in figure \ref{fig:mesh44}.
 	
-	\begin{wrapfigure}{l}{0.4\textwidth}
+	\begin{wrapfigure}[3]{L}{0.35\textwidth}
 		\centering
 		\captionsetup{justification=centering}
 		\includegraphics[width=\linewidth]{lstm-cell-state}
-		\vspace{-10pt}
-		\caption{Step 3. Update cell state}
+		%\vspace{-10pt}
+		\caption{Cell state}
 		\label{fig:mesh44}
 	\end{wrapfigure}
 	
@@ -82,16 +82,20 @@
 				
 	Finally, the last step of the module corresponds to the \textit{output gate}. This has the function of deciding how the next hidden state is going to be like. First, \textit{x\textsuperscript{<t>}} and \textit{h\textsuperscript{<t-1>}} are used as input for a layer with a sigmoid activation function and the output $o$ is obtained. Also, the cell state \textit{c\textsuperscript{<t>}} feeds a point-wise \acrshort{tanh} so its values are clipped between -1 and 1. Both outputs are multiplied. The $o$ result decides what values form the current input must be kept in the future hidden state,\textit{h\textsuperscript{<t>}}. The actual output of the module is the hidden state. It also transports the relevant information updated together with the cell state to the next network. The outputs $o$ and $h^{t}$ can be defined as shown below. Also, in figure \ref{fig:mesh45}, the stage of this last part is included.
 		
-	\begin{figure}{h}
+	\begin{figure}[H]
+		\ContinuedFloat*
+		\[ o = \sigma(W_{o}[h^{<t-1>, x^{t}}] + b_{o}) \]
+		\[ h^{<t>} = o * \tanh(C) \]
+	\end{figure}
+
+	\begin{figure}[H]
 		\centering
 		\captionsetup{justification=centering}
 		\includegraphics[scale=0.25]{lstm-output-gate}
-		\caption{Step 3. Output gate}
+		\caption{Output gate}
 		\label{fig:mesh45}
 	\end{figure}
-	
-	\[ o = \sigma(W_{o}[h^{<t-1>, x^{t}}] + b_{o}) \]
-	\[ h^{<t>} = o * \tanh(C) \]
+
 	
 	
 	

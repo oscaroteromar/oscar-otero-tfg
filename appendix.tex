@@ -104,5 +104,52 @@
 	
 	Then, the categorical cross-entropy is a combination of softmax and the cross-entropy loss.
 	
+\section{Spectrogram and Mel scale}
+\label{section:spectrogram-mel-scale}
+
+	In his natural conditions and how humans understand audio when we hear it, it can be interpreted as a succession of sounds that depend on time. Actually, what happens during a recording process is that the signal registered is nothing but the variation of the values that represent the changes in the acoustic pressure along time, what is usually called the amplitude of the signal. This is what we see when visualizing a raw audio file in its original form, i.e. in the time-domain \cite{Laskaris2019}, as in figure \ref{fig:mesh49}.
+	
+	\begin{figure}[H]
+		\centering
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.35]{time-signal}
+		\caption{Audio signal in time domain}
+		\label{fig:mesh49}
+	\end{figure}
+
+	However, in his natural form, audio data is not very useful for learning tasks. With the objective of representing audio data in another format so information can be extracted in a more practical way, it is normally converted to the frequency domain. The \acrshort{ft} is the technique in charge of performing this conversion. Since in signal processing we work with discrete data, the algorithm is called \acrfull{dft}, which is essentially the same as \acrshort{ft} but for discrete data. The most common algorithm to compute this is the one called \acrfull{fft}, which performs the \acrshort{dft} in a much more efficient way \cite{Lei2016}. The result of this method shows the values of the amplitude against the frequency axis. There is also another method to perform this operation and it is called the \acrfull{stft}, which is the one used in this work.
+	
+	The \acrshort{stft} can be defined as a sequence of \acrshort{ft} s which are computed along a windowed signal. So, apart from computing the transformation, it also localizes in time this frequency information, given as a result a variation of the frequency along the time axis. Below, the formula of this operation is included:
+	
+	\[ X_{STFT} =  \sum_{k=0}^{L-1} x[k]g[k-m]e^{-j2\pi n k/L}\]
+	
+	$x[k]$ is the time signal of length $L$ and $g[k]$ is the window that goes through all the signal. In figure \ref{fig:mesh50}, a visualization of the whole process is shown \cite{Kehtarnavaz2008}.
+	
+	\begin{figure}[H]
+		\centering
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.35]{stft}
+		\caption{STFT \cite{Gao2006}}
+		\label{fig:mesh50}
+	\end{figure}
+
+	What is obtained from this computation after going through all the signal, it is a representation that depends on three magnitudes: time, frequency and the amplitude. This is known as the spectrogram of the signal. With this visualization we can see how the energy of the signal varies with time and also how it is placed in the different frequencies. In figure \ref{fig:mesh51} it is shown how a typical representation of a spectrogram looks like. 
+	
+	\begin{figure}[H]
+		\centering
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.3]{spectrogram}
+		\caption{Spectrogram of an audio signal. The x-axis corresponds to the time, the y-axis to the frequency and the colour of the plot to the amplitude by following the colour bar on the right.}
+		\label{fig:mesh51}
+	\end{figure}
+
+	When dealing with audio learning tasks a really important magnitude that usually is employed is the Mel scale. This is the result of applying a non-linear transformation to the frequency scale. It has been used successfully in plenty of occasions because its understanding of sounds in a very similar way as how humans do \cite{Gartzman2019}. This is done by considering the fact that we are more capable of differentiating little changes on pitch at low frequencies than at high frequencies. The following formula is the way to convert from frequency to mel scale \cite{Beranek1950}:
+	
+	\[M(f) = 1127 \ln{1 + \frac{f}{700}}\]
+	
+	This same idea of applying the human understanding of sounds has also been used to generate the \acrfull{mfcc}, which have been widely used in speech problems. The first thing to understand in this field is that the sounds we produce are filtered somehow by the entire oral cavity. If a similar representation could be modelled in an artificial system, a more accurate depiction of the sound pronounced could be achieved. Actually, the envelope of the short time power spectrum of the signal can be considered as the shape of this filter and it can be reliably represented by the \acrshort{mfcc}, so useful information can be deduced from them. This type of features have been extensively used for several fields such as automatic speech generation or speaker recognition. \todo{cite!} 
+	
+	
+	
 	
 	

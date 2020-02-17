@@ -242,8 +242,8 @@
       \strng{authorbibnamehash}{3985dcfc90fef93802d45d7e6fbc8297}
       \strng{authornamehash}{3985dcfc90fef93802d45d7e6fbc8297}
       \strng{authorfullhash}{3985dcfc90fef93802d45d7e6fbc8297}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of New Music Research}
@@ -293,8 +293,8 @@
       \strng{authorbibnamehash}{aa4d25906bf690a96eae1cb147750dc0}
       \strng{authornamehash}{51f032f7845b62202f6963ef7fe3eec0}
       \strng{authorfullhash}{0f37c002b63f9b3c7d16889851da659f}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The human activity that takes place in meeting-rooms or class-rooms is reflected in a rich variety of acoustic events, either produced by the human body or by objects handled by humans, so the determination of both the identity of sounds and their position in time may help to detect and describe that human activity. Additionally, detection of sounds other than speech may be useful to enhance the robustness of speech technologies like automatic speech recognition. Automatic detection and classification of acoustic events is the objective of this thesis work. It aims at processing the acoustic signals collected by distant microphones in meeting-room or classroom environments to convert them into symbolic descriptions corresponding to a listener's perception of the different sound events that are present in the signals and their sources. First of all, the task of acoustic event classification is faced using Support Vector Machine (SVM) classifiers, which are motivated by the scarcity of training data. A confusion-matrix-based variable-feature-set clustering scheme is developed for the multiclass recognition problem, and tested on the gathered database. With it, a higher classification rate than the GMM-based technique is obtained, arriving to a large relative average error reduction with respect to the best result from the conventional binary tree scheme. Moreover, several ways to extend SVMs to sequence processing are compared, in an attempt to avoid the drawback of SVMs when dealing with audio data, i.e. their restriction to work with fixed-length vectors, observing that the dynamic time warping kernels work well for sounds that show a temporal structure. Furthermore, concepts and tools from the fuzzy theory are used to investigate, first, the importance of and degree of interaction among features, and second, ways to fuse the outputs of several classification systems. The developed AEC systems are tested also by participating in several international evaluations from 2004 to 2006, and the results are reported. The second main contribution of this thesis work is the development of systems for detection of acoustic events. The detection problem is more complex since it includes both classification and determination of the time intervals where the sound takes place. Two system versions are developed and tested on the datasets of the two CLEAR international evaluation campaigns in 2006 and 2007. Two kinds of databases are used: two databases of isolated acoustic events, and a database of interactive seminars containing a significant number of acoustic events of interest. Our developed systems, which consist of SVM-based classification within a sliding window plus post-processing, were the only submissions not using HMMs, and each of them obtained competitive results in the corresponding evaluation. Speech activity detection was also pursued in this thesis since, in fact, it is a – especially important – particular case of acoustic event detection. An enhanced SVM training approach for the speech activity detection task is developed, mainly to cope with the problem of dataset reduction. The resulting SVM-based system is tested with several NIST Rich Transcription (RT) evaluation datasets, and it shows better scores than our GMM-based system, which ranked among the best systems in the RT06 evaluation. Finally, it is worth mentioning a few side outcomes from this thesis work. As it has been carried out in the framework of the CHIL EU project, the author has been responsible for the organization of the above mentioned international evaluations in acoustic event classification and detection, taking a leading role in the specification of acoustic event classes, databases, and evaluation protocols, and, especially, in the proposal and implementation of the various metrics that have been used. Moreover, the detection systems have been implemented in the UPC's smart-room and work in real time for purposes of testing and demonstration.}
@@ -604,8 +604,8 @@
       \strng{authorbibnamehash}{535eb30dba8849193930b58e15868b81}
       \strng{authornamehash}{91fdaae41bab2442477f6059454f1c6b}
       \strng{authorfullhash}{535eb30dba8849193930b58e15868b81}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This work studies the problem of violence detection in audio data, which can be used for automated content rating. We employ some popular frame-level audio features both from the time and frequency domain. Afterwards, several statistics of the calculated feature sequences are fed as input to a Support Vector Machine classifier, which decides about the segment content with respect to violence. The presented experimental results verify the validity of the approach and exhibit a better performance than the other known approaches. {©} Springer-Verlag Berlin Heidelberg 2006.}
@@ -652,8 +652,8 @@
       \strng{authorbibnamehash}{9302244f8a6a6e012cbc74b32700b068}
       \strng{authornamehash}{1eb1fb8882bb3358ee563b9b23918ab0}
       \strng{authorfullhash}{9302244f8a6a6e012cbc74b32700b068}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence continues being an important problem in the society. Thousands of people suffer its effects every day and statistics show this number has maintained or almost increased recently. In the modern environment of smart cities there is a necessity to develop a system capable of detecting if a violent situation is taking place or not. In this paper we present an automatic acoustic violence detection system for smart cities, integrating both signal processing and pattern recognition techniques. The proposed software has been implemented in three steps: feature extraction in time and frequency domain, genetic algorithm implementation in order to select the best features, and classification to take a binary decision. Results derived from the experiments show that MFCCs are the best features for violence detection, and others like pitch or short time energy have also a good performance. In other words, features that can distinguish between voiced and unvoiced frames seem to be a good election for violence detection in real environments.}
@@ -805,8 +805,8 @@
       \strng{authorbibnamehash}{ce5e5d67346f9a6abfacddfbbf6a8832}
       \strng{authornamehash}{877ad2f3c1d9e88111c39b1b05660253}
       \strng{authorfullhash}{ce5e5d67346f9a6abfacddfbbf6a8832}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Measuring music similarity is essential for multimedia retrieval. For music items, this task can be regarded as obtaining a suitable distance measurement between songs defined on a certain feature space. In this paper, we propose three of such distance measures based on the audio content: first, a low-level measure based on tempo-related description; second, a high-level semantic measure based on the inference of different musical dimensions by support vector machines. These dimensions include genre, culture, moods, instruments, rhythm, and tempo annotations. Third, a hybrid measure which combines the above-mentioned distance measures with two existing low-level measures: a Euclidean distance based on principal component analysis of timbral, temporal, and tonal descriptors, and a timbral distance based on single Gaussian Mel-frequency cepstral coefficient (MFCC) modeling. We evaluate our proposed measures against a number of baseline measures. We do this objectively based on a comprehensive set of music collections, and subjectively based on listeners' ratings. Results show that the proposed methods achieve accuracies comparable to the baseline approaches in the case of the tempo and classifier-based measures. The highest accuracies are obtained by the hybrid distance. Furthermore, the proposed classifier-based approach opens up the possibility to explore distance measures that are based on semantic notions. {©} 2011 IEEE.}
@@ -833,8 +833,8 @@
       \strng{authorbibnamehash}{c636f146591d51579a8119b777394878}
       \strng{authornamehash}{c636f146591d51579a8119b777394878}
       \strng{authorfullhash}{c636f146591d51579a8119b777394878}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We consider the problem of building high-level, class-specific feature detectors from only unlabeled data. For example, is it possible to learn a face detector using only unlabeled images? To answer this, we train a deep sparse autoencoder on a large dataset of images (the model has 1 billion connections, the dataset has 10 million 200×200 pixel images downloaded from the Internet). We train this network using model parallelism and asynchronous SGD on a cluster with 1,000 machines (16,000 cores) for three days. Contrary to what appears to be a widely-held intuition, our experimental results reveal that it is possible to train a face detector without having to label images as containing a face or not. Control experiments show that this feature detector is robust not only to translation but also to scaling and out-of-plane rotation. We also find that the same network is sensitive to other high-level concepts such as cat faces and human bodies. Starting from these learned features, we trained our network to recognize 22,000 object categories from ImageNet and achieve a leap of 70{\%} relative improvement over the previous state-of-the-art. {©} 2013 IEEE.}
@@ -1005,34 +1005,6 @@
       \verb 10.1109/WASPAA.2013.6701857
       \endverb
       \keyw{Computational auditory scene analysis,acoustic scene recognition,feature extraction}
-    \endentry
-    \entry{Kwon2011}{book}{}
-      \name{author}{1}{}{%
-        {{hash=59ca71d2ee0e7f3676e362fd9fce1c4e}{%
-           family={Kwon},
-           familyi={K\bibinitperiod},
-           given={Seoyun\bibnamedelima J.},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{fullhash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{bibnamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{authorbibnamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{authornamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{authorfullhash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{An artificial neural network (ANN) is a type of artificial intelligence technology which implements more complex data-analysis features into existing applications by an intelligent, human-like application of knowledge. ANN can be considered as a mathematical or computational model based on biological (brain) neural networks. ANN is an adaptive system that changes its structure based on external or internal information that is processed within the network during the learning stage. ANNs implement algorithms that attempt to achieve neurologically-related processes and performances such as learning from experience, making generalizations from similar situations and judging states where poor results were achieved in the past. This new and important book gathers the most current research from across the globe in the study of artificial neural networks. {©} 2011 by Nova Science Publishers, Inc. All rights reserved.}
-      \field{booktitle}{Artificial Neural Networks}
-      \field{isbn}{9781617615535}
-      \field{issn}{0272-989X}
-      \field{title}{{Artificial neural networks}}
-      \field{year}{2011}
-      \verb{doi}
-      \verb 10.4324/9781315154282-3
-      \endverb
     \endentry
     \entry{Aucouturier2007}{article}{}
       \name{author}{3}{}{%
@@ -1355,8 +1327,8 @@
       \strng{authorbibnamehash}{19620e2d7ebdec18c9c7f5c60d155d33}
       \strng{authornamehash}{19620e2d7ebdec18c9c7f5c60d155d33}
       \strng{authorfullhash}{19620e2d7ebdec18c9c7f5c60d155d33}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning}}
@@ -1542,8 +1514,8 @@
       \strng{authorbibnamehash}{aff433f1660ce99ead1696e8eeb59c31}
       \strng{authornamehash}{aff433f1660ce99ead1696e8eeb59c31}
       \strng{authorfullhash}{aff433f1660ce99ead1696e8eeb59c31}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence is autonomous, the contents that one would not let children to see in movies or web videos. This is a challenging problem due to strong content variations among the positive instances. To solve this problem, implementation of deep neural network to classify the violence content in videos is proposed. Currently, deep neural network has shown its efficiency in natural language processing, fraud detection, social media, text classification, image classification. Regardless of the conventional methods applied to overcome this issue, but these techniques seem insufficiently accurate and does not adopt well to certain webs or user needs. Therefore, the purpose of this study is to assess the classification performances on violence video using Deep Neural Network (DNN). Hence, in this paper different architectures of hidden layers and hidden nodes in DNN have been implemented using the try-error method and equation based method, to examine the effect of the number of hidden layers and hidden nodes to the classification performance. From the results, it indicates 53{\%} accuracy rate for try and error approach, meanwhile for equation based approach it indicates 51{\%} accuracy rate.}
@@ -1858,8 +1830,8 @@
       \strng{authorbibnamehash}{3f02c19a413912033db647b913ccef77}
       \strng{authornamehash}{3f02c19a413912033db647b913ccef77}
       \strng{authorfullhash}{3f02c19a413912033db647b913ccef77}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{UPC-TALP database of isolated meeting-room acoustic events}}
@@ -2233,6 +2205,31 @@
       \field{title}{{AudioSet}}
       \field{year}{2017}
     \endentry
+    \entry{GoogleResearch2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=81e64b4a249abb83bba2de4e32497d0c}{%
+           family={GoogleResearch},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{81e64b4a249abb83bba2de4e32497d0c}
+      \strng{fullhash}{81e64b4a249abb83bba2de4e32497d0c}
+      \strng{bibnamehash}{81e64b4a249abb83bba2de4e32497d0c}
+      \strng{authorbibnamehash}{81e64b4a249abb83bba2de4e32497d0c}
+      \strng{authornamehash}{81e64b4a249abb83bba2de4e32497d0c}
+      \strng{authorfullhash}{81e64b4a249abb83bba2de4e32497d0c}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{TensorFlow [1] is an interface for expressing machine learn-ing algorithms, and an implementation for executing such al-gorithms. A computation expressed using TensorFlow can be executed with little or no change on a wide variety of hetero-geneous systems, ranging from mobile devices such as phones and tablets up to large-scale distributed systems of hundreds of machines and thousands of computational devices such as GPU cards. The system is flexible and can be used to express a wide variety of algorithms, including training and inference algorithms for deep neural network models, and it has been used for conducting research and for deploying machine learn-ing systems into production across more than a dozen areas of computer science and other fields, including speech recogni-tion, computer vision, robotics, information retrieval, natural language processing, geographic information extraction, and computational drug discovery. This paper describes the Ten-sorFlow interface and an implementation of that interface that we have built at Google. The TensorFlow API and a reference implementation were released as an open-source package under the Apache 2.0 license in November, 2015 and are available at www.tensorflow.org.}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Google Research}
+      \field{title}{{TensorFlow: Large-scale machine learning on heterogeneous systems}}
+      \field{year}{2015}
+      \verb{eprint}
+      \verb arXiv:1603.04467v2
+      \endverb
+    \endentry
     \entry{Hershey2017}{inproceedings}{}
       \name{author}{13}{}{%
         {{hash=50935d083470bdca0850f858e6ad1004}{%
@@ -2326,49 +2323,358 @@
       \endverb
       \keyw{Acoustic Event Detection,Acoustic Scene Classification,Convolutional Neural Networks,Deep Neural Networks,Video Classification}
     \endentry
-    \entry{VideoUnderstandingGroup2017}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=e8d2840c46d2b2c276e5e6ca5eb536f6}{%
-           family={{Video Understanding Group}},
-           familyi={V\bibinitperiod}}}%
+    \entry{Abu-El-Haija2016}{article}{}
+      \name{author}{7}{}{%
+        {{hash=a90c626d0bc2b0bc1c7adb2066a4919c}{%
+           family={Abu-El-Haija},
+           familyi={A\bibinithyphendelim E\bibinithyphendelim H\bibinitperiod},
+           given={Sami},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d1ec4bb63b102d7c5a5f2ccbac07d730}{%
+           family={Kothari},
+           familyi={K\bibinitperiod},
+           given={Nisarg},
+           giveni={N\bibinitperiod}}}%
+        {{hash=54f244178ad35652e2290669772be224}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Joonseok},
+           giveni={J\bibinitperiod}}}%
+        {{hash=48473ae39bb4341970797158e388a161}{%
+           family={Natsev},
+           familyi={N\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=61782a3924be97d5dc42427bfd963c92}{%
+           family={Toderici},
+           familyi={T\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3c39af495a7f752880f52be40cd22f80}{%
+           family={Varadarajan},
+           familyi={V\bibinitperiod},
+           given={Balakrishnan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=db9130ac2a312179c30d36279667e12f}{%
+           family={Vijayanarasimhan},
+           familyi={V\bibinitperiod},
+           given={Sudheendra},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
-      \strng{fullhash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
-      \strng{bibnamehash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
-      \strng{authorbibnamehash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
-      \strng{authornamehash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
-      \strng{authorfullhash}{e8d2840c46d2b2c276e5e6ca5eb536f6}
+      \strng{namehash}{9dcc98b66a6e865d3a0ada2b40e60160}
+      \strng{fullhash}{7f14396b7eb7f1e590f2723293794f2b}
+      \strng{bibnamehash}{1bfd72fdeabe3362b45121bd0e631533}
+      \strng{authorbibnamehash}{1bfd72fdeabe3362b45121bd0e631533}
+      \strng{authornamehash}{9dcc98b66a6e865d3a0ada2b40e60160}
+      \strng{authorfullhash}{7f14396b7eb7f1e590f2723293794f2b}
       \field{sortinit}{9}
       \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{YouTube-8M}}
-      \field{year}{2017}
-    \endentry
-    \entry{GoogleResearch2015}{article}{}
-      \name{author}{1}{}{%
-        {{hash=81e64b4a249abb83bba2de4e32497d0c}{%
-           family={GoogleResearch},
-           familyi={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{81e64b4a249abb83bba2de4e32497d0c}
-      \strng{fullhash}{81e64b4a249abb83bba2de4e32497d0c}
-      \strng{bibnamehash}{81e64b4a249abb83bba2de4e32497d0c}
-      \strng{authorbibnamehash}{81e64b4a249abb83bba2de4e32497d0c}
-      \strng{authornamehash}{81e64b4a249abb83bba2de4e32497d0c}
-      \strng{authorfullhash}{81e64b4a249abb83bba2de4e32497d0c}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{TensorFlow [1] is an interface for expressing machine learn-ing algorithms, and an implementation for executing such al-gorithms. A computation expressed using TensorFlow can be executed with little or no change on a wide variety of hetero-geneous systems, ranging from mobile devices such as phones and tablets up to large-scale distributed systems of hundreds of machines and thousands of computational devices such as GPU cards. The system is flexible and can be used to express a wide variety of algorithms, including training and inference algorithms for deep neural network models, and it has been used for conducting research and for deploying machine learn-ing systems into production across more than a dozen areas of computer science and other fields, including speech recogni-tion, computer vision, robotics, information retrieval, natural language processing, geographic information extraction, and computational drug discovery. This paper describes the Ten-sorFlow interface and an implementation of that interface that we have built at Google. The TensorFlow API and a reference implementation were released as an open-source package under the Apache 2.0 license in November, 2015 and are available at www.tensorflow.org.}
-      \field{eprinttype}{arXiv}
-      \field{journaltitle}{Google Research}
-      \field{title}{{TensorFlow: Large-scale machine learning on heterogeneous systems}}
-      \field{year}{2015}
-      \verb{eprint}
-      \verb arXiv:1603.04467v2
+      \field{journaltitle}{CoRR}
+      \field{title}{{YouTube-8M: A Large-Scale Video Classification Benchmark}}
+      \field{volume}{abs/1609.0}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1609.08675
       \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1609.08675
+      \endverb
+    \endentry
+    \entry{Kwon2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=59ca71d2ee0e7f3676e362fd9fce1c4e}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Seoyun\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{fullhash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{bibnamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{authorbibnamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{authornamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{authorfullhash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An artificial neural network (ANN) is a type of artificial intelligence technology which implements more complex data-analysis features into existing applications by an intelligent, human-like application of knowledge. ANN can be considered as a mathematical or computational model based on biological (brain) neural networks. ANN is an adaptive system that changes its structure based on external or internal information that is processed within the network during the learning stage. ANNs implement algorithms that attempt to achieve neurologically-related processes and performances such as learning from experience, making generalizations from similar situations and judging states where poor results were achieved in the past. This new and important book gathers the most current research from across the globe in the study of artificial neural networks. {©} 2011 by Nova Science Publishers, Inc. All rights reserved.}
+      \field{booktitle}{Artificial Neural Networks}
+      \field{isbn}{9781617615535}
+      \field{issn}{0272-989X}
+      \field{title}{{Artificial neural networks}}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.4324/9781315154282-3
+      \endverb
+    \endentry
+    \entry{Deng2014}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2f5fbdc5c3cf91f62a64663cd72397b3}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f5fbdc5c3cf91f62a64663cd72397b3}
+      \strng{fullhash}{2f5fbdc5c3cf91f62a64663cd72397b3}
+      \strng{bibnamehash}{2f5fbdc5c3cf91f62a64663cd72397b3}
+      \strng{authorbibnamehash}{2f5fbdc5c3cf91f62a64663cd72397b3}
+      \strng{authornamehash}{2f5fbdc5c3cf91f62a64663cd72397b3}
+      \strng{authorfullhash}{2f5fbdc5c3cf91f62a64663cd72397b3}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this invited paper, my overview material on the same topic as presented in the plenary overview session of APSIPA-2011 and the tutorial material presented in the same conference [1] are expanded and updated to include more recent developments in deep learning. The previous and the updated materials cover both theory and applications, and analyze its future directions. The goal of this tutorial survey is to introduce the emerging area of deep learning or hierarchical learning to the APSIPA community. Deep learning refers to a class of machine learning techniques, developed largely since 2006, where many stages of non-linear information processing in hierarchical architectures are exploited for pattern classification and for feature learning. In the more recent literature, it is also connected to representation learning, which involves a hierarchy of features or concepts where higher-level concepts are defined from lower-level ones and where the same lower-level concepts help to define higher-level ones. In this tutorial survey, a brief history of deep learning research is discussed first. Then, a classificatory scheme is developed to analyze and summarize major work reported in the recent deep learning literature. Using this scheme, I provide a taxonomy-oriented survey on the existing deep architectures and algorithms in the literature, and categorize them into three classes: generative, discriminative, and hybrid. Three representative deep architectures-deep autoencoders, deep stacking networks with their generalization to the temporal domain (recurrent networks), and deep neural networks (pretrained with deep belief networks)-one in each of the three classes, are presented in more detail. Next, selected applications of deep learning are reviewed in broad areas of signal and information processing including audio/speech, image/vision, multimodality, language modeling, natural language processing, and information retrieval. Finally, future directions of deep learning are discussed and analyzed.}
+      \field{booktitle}{APSIPA Transactions on Signal and Information Processing}
+      \field{issn}{20487703}
+      \field{title}{{A tutorial survey of architectures, algorithms, and applications for deep learning}}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1017/atsip.2013.9
+      \endverb
+      \keyw{Algorithms,Deep learning,Information processing}
+    \endentry
+    \entry{Di2018}{book}{}
+      \name{author}{3}{}{%
+        {{hash=13bd862c30cf2c566f83a678f2389c75}{%
+           family={Di},
+           familyi={D\bibinitperiod},
+           given={Wey},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ed8238c35cb6d3c08c76ddd1709c4cff}{%
+           family={Bhardwaj},
+           familyi={B\bibinitperiod},
+           given={Anurag},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c7e304303676152411fc149a2c113597}{%
+           family={Jianing},
+           familyi={J\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b72603902da4d0fb7921f076f5b432b}
+      \strng{fullhash}{9b72603902da4d0fb7921f076f5b432b}
+      \strng{bibnamehash}{9b72603902da4d0fb7921f076f5b432b}
+      \strng{authorbibnamehash}{9b72603902da4d0fb7921f076f5b432b}
+      \strng{authornamehash}{9b72603902da4d0fb7921f076f5b432b}
+      \strng{authorfullhash}{9b72603902da4d0fb7921f076f5b432b}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Deep Learning Essentials}}
+      \field{year}{2018}
+    \endentry
+    \entry{Karpathy2016}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e91a4c2044bccdbef249eabc886ff988}{%
+           family={Karpathy},
+           familyi={K\bibinitperiod},
+           given={Andrej},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e91a4c2044bccdbef249eabc886ff988}
+      \strng{fullhash}{e91a4c2044bccdbef249eabc886ff988}
+      \strng{bibnamehash}{e91a4c2044bccdbef249eabc886ff988}
+      \strng{authorbibnamehash}{e91a4c2044bccdbef249eabc886ff988}
+      \strng{authornamehash}{e91a4c2044bccdbef249eabc886ff988}
+      \strng{authorfullhash}{e91a4c2044bccdbef249eabc886ff988}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Convolutional Neural Networks are very similar to ordinary Neural Networks from the previous chapter: they are made up of neurons that have learnable weights and biases. Each neuron receives some inputs, performs a dot product and optionally follows it with a non-linearity. The whole network still expresses a single differentiable score function: from the raw image pixels on one end to class scores at the other. And they still have a loss function (e.g. SVM/Softmax) on the last (fully-connected) layer and all the tips/tricks we developed for learning regular Neural Networks still apply. So what does change? ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.}
+      \field{booktitle}{Stanford University}
+      \field{title}{{CS231n Convolutional Neural Networks for Visual Recognition}}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb http://cs231n.github.io/convolutional-networks/
+      \endverb
+      \verb{url}
+      \verb http://cs231n.github.io/convolutional-networks/
+      \endverb
+    \endentry
+    \entry{Saha2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8f70e57d70d96dc308cd512ddac3eba0}{%
+           family={Saha},
+           familyi={S\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f70e57d70d96dc308cd512ddac3eba0}
+      \strng{fullhash}{8f70e57d70d96dc308cd512ddac3eba0}
+      \strng{bibnamehash}{8f70e57d70d96dc308cd512ddac3eba0}
+      \strng{authorbibnamehash}{8f70e57d70d96dc308cd512ddac3eba0}
+      \strng{authornamehash}{8f70e57d70d96dc308cd512ddac3eba0}
+      \strng{authorfullhash}{8f70e57d70d96dc308cd512ddac3eba0}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{No A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way}}
+      \field{year}{2018}
+    \endentry
+    \entry{Anwar2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7db31cdc9903bf3b63395ff8f77d4049}{%
+           family={Anwar},
+           familyi={A\bibinitperiod},
+           given={Aqeel},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7db31cdc9903bf3b63395ff8f77d4049}
+      \strng{fullhash}{7db31cdc9903bf3b63395ff8f77d4049}
+      \strng{bibnamehash}{7db31cdc9903bf3b63395ff8f77d4049}
+      \strng{authorbibnamehash}{7db31cdc9903bf3b63395ff8f77d4049}
+      \strng{authornamehash}{7db31cdc9903bf3b63395ff8f77d4049}
+      \strng{authorfullhash}{7db31cdc9903bf3b63395ff8f77d4049}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Difference between Local Response Normalization and Batch Normalization}}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/difference-between-local-response-normalization-and-batch-normalization-272308c034ac
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/difference-between-local-response-normalization-and-batch-normalization-272308c034ac
+      \endverb
+    \endentry
+    \entry{Keras}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7fee7bb66f4294c3e32783efa7d9bafc}{%
+           family={Keras},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{7fee7bb66f4294c3e32783efa7d9bafc}
+      \strng{fullhash}{7fee7bb66f4294c3e32783efa7d9bafc}
+      \strng{bibnamehash}{7fee7bb66f4294c3e32783efa7d9bafc}
+      \strng{authorbibnamehash}{7fee7bb66f4294c3e32783efa7d9bafc}
+      \strng{authornamehash}{7fee7bb66f4294c3e32783efa7d9bafc}
+      \strng{authorfullhash}{7fee7bb66f4294c3e32783efa7d9bafc}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Convolutional Layers}}
+    \endentry
+    \entry{Mahmood2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}{%
+           family={Mahmood},
+           familyi={M\bibinitperiod},
+           given={Hamza},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
+      \strng{fullhash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
+      \strng{bibnamehash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
+      \strng{authorbibnamehash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
+      \strng{authornamehash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
+      \strng{authorfullhash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Softmax Function, Simplified}}
+      \field{year}{2018}
+    \endentry
+    \entry{Hinz2016}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=bf7aa3112d42dbc723dfe3e9ef243563}{%
+           family={Hinz},
+           familyi={H\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d8ccf680dc1785891a1d2fd958109ba8}{%
+           family={Barros},
+           familyi={B\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a23f7301779c6560c1784590c4bc50aa}{%
+           family={Wermter},
+           familyi={W\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2340008d1181972d43d2ef37076ef313}
+      \strng{fullhash}{2340008d1181972d43d2ef37076ef313}
+      \strng{bibnamehash}{2340008d1181972d43d2ef37076ef313}
+      \strng{authorbibnamehash}{2340008d1181972d43d2ef37076ef313}
+      \strng{authornamehash}{2340008d1181972d43d2ef37076ef313}
+      \strng{authorfullhash}{2340008d1181972d43d2ef37076ef313}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Effects of Regularization on Learning Facial Expressions with Convolutional Neural Networks}}
+      \field{year}{2016}
+      \field{pages}{80\bibrangedash 87}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/978-3-319-44781-0_10
+      \endverb
+    \endentry
+    \entry{Piczak2015}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=d41b84fadce4bc2d73e2e0f7f272f56d}{%
+           family={Piczak},
+           familyi={P\bibinitperiod},
+           given={Karol\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d41b84fadce4bc2d73e2e0f7f272f56d}
+      \strng{fullhash}{d41b84fadce4bc2d73e2e0f7f272f56d}
+      \strng{bibnamehash}{d41b84fadce4bc2d73e2e0f7f272f56d}
+      \strng{authorbibnamehash}{d41b84fadce4bc2d73e2e0f7f272f56d}
+      \strng{authornamehash}{d41b84fadce4bc2d73e2e0f7f272f56d}
+      \strng{authorfullhash}{d41b84fadce4bc2d73e2e0f7f272f56d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper evaluates the potential of convolutional neural networks in classifying short audio clips of environmental sounds. A deep model consisting of 2 convolutional layers with max-pooling and 2 fully connected layers is trained on a low level representation of audio data (segmented spectrograms) with deltas. The accuracy of the network is evaluated on 3 public datasets of environmental and urban recordings. The model outperforms baseline implementations relying on mel-frequency cepstral coefficients and achieves results comparable to other state-of-the-art approaches.}
+      \field{booktitle}{IEEE International Workshop on Machine Learning for Signal Processing, MLSP}
+      \field{isbn}{9781467374545}
+      \field{issn}{21610371}
+      \field{title}{{Environmental sound classification with convolutional neural networks}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1109/MLSP.2015.7324337
+      \endverb
+      \keyw{Classification,convolutional neural networks,environmental sound}
+    \endentry
+    \entry{Kumar2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f8ca7fee112f8a7d0d22270baf5f7b02}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Anurag},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ac9f939ab68bd8c8545bbf14cb306d23}{%
+           family={Raj},
+           familyi={R\bibinitperiod},
+           given={Bhiksha},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a2ca23d1e5a4f70d9388716e62bfda7}
+      \strng{fullhash}{5a2ca23d1e5a4f70d9388716e62bfda7}
+      \strng{bibnamehash}{5a2ca23d1e5a4f70d9388716e62bfda7}
+      \strng{authorbibnamehash}{5a2ca23d1e5a4f70d9388716e62bfda7}
+      \strng{authornamehash}{5a2ca23d1e5a4f70d9388716e62bfda7}
+      \strng{authorfullhash}{5a2ca23d1e5a4f70d9388716e62bfda7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Deep CNN Framework for Audio Event Recognition using Weakly Labeled Web Data}}
+      \field{year}{2017}
     \endentry
     \entry{ImageNet2014}{misc}{}
       \name{author}{1}{}{%
@@ -2382,8 +2688,8 @@
       \strng{authorbibnamehash}{b318879f822314efe94c2f096d06465c}
       \strng{authornamehash}{b318879f822314efe94c2f096d06465c}
       \strng{authorfullhash}{b318879f822314efe94c2f096d06465c}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Results for ILSVRC2014}}
@@ -2408,8 +2714,8 @@
       \strng{authorbibnamehash}{25d2f3c4577a6632d37f0126cc781232}
       \strng{authornamehash}{25d2f3c4577a6632d37f0126cc781232}
       \strng{authorfullhash}{25d2f3c4577a6632d37f0126cc781232}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this work we investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting. Our main contribution is a thorough evaluation of networks of increasing depth using an architecture with very small (3 × 3) convolution filters, which shows that a significant improvement on the prior-art configurations can be achieved by pushing the depth to 16–19 weight layers. These findings were the basis of our ImageNet Challenge 2014 submission, where our team secured the first and the second places in the localisation and classification tracks respectively. We also show that our representations generalise well to other datasets, where they achieve state-of-the-art results. We have made our two best-performing ConvNet models publicly available to facilitate further research on the use of deep visual representations in computer vision.}
@@ -2419,6 +2725,80 @@
       \field{year}{2015}
       \verb{eprint}
       \verb 1409.1556
+      \endverb
+    \endentry
+    \entry{Ellis2017}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=036e0eb02fc58b1712db6826565759ed}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=50935d083470bdca0850f858e6ad1004}{%
+           family={Hershey},
+           familyi={H\bibinitperiod},
+           given={Shawn},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ff1b8e2ee4f94eecee46d9c11902ccae}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={Aren},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fc103b936ff1d8fa40cfdc0b5ee79f52}{%
+           family={Plakal},
+           familyi={P\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed8696cb3267beee387ab6f0a6685ed2}
+      \strng{fullhash}{1d4b6440fdaecb28e81007e5958360cb}
+      \strng{bibnamehash}{1d4b6440fdaecb28e81007e5958360cb}
+      \strng{authorbibnamehash}{1d4b6440fdaecb28e81007e5958360cb}
+      \strng{authornamehash}{ed8696cb3267beee387ab6f0a6685ed2}
+      \strng{authorfullhash}{1d4b6440fdaecb28e81007e5958360cb}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{VGGish code}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://github.com/tensorflow/models/tree/master/research/audioset
+      \endverb
+      \verb{url}
+      \verb https://github.com/tensorflow/models/tree/master/research/audioset
+      \endverb
+    \endentry
+    \entry{Abdi2010}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=c580255ca139872e5f15d7fe98f8fcfc}{%
+           family={Abdi},
+           familyi={A\bibinitperiod},
+           given={Herv{é}},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b973996d01dd9df2c765d72c94a70678}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Lynne\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2f7e8590d9978f96852b19f6522b6ef}
+      \strng{fullhash}{b2f7e8590d9978f96852b19f6522b6ef}
+      \strng{bibnamehash}{b2f7e8590d9978f96852b19f6522b6ef}
+      \strng{authorbibnamehash}{b2f7e8590d9978f96852b19f6522b6ef}
+      \strng{authornamehash}{b2f7e8590d9978f96852b19f6522b6ef}
+      \strng{authorfullhash}{b2f7e8590d9978f96852b19f6522b6ef}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Principal component analysis (PCA) is amultivariate technique that analyzes a data table in which observations are described by several inter-correlated quantitative dependent variables. Its goal is to extract the important information from the table, to represent it as a set of new orthogonal variables called principal components, and to display the pattern of similarity of the observations and of the variables as points in maps. The quality of the PCA model can be evaluated using cross-validation techniques such as the bootstrap and the jackknife. PCA can be generalized as correspondence analysis (CA) in order to handle qualitative variables and as multiple factor analysis (MFA) in order to handle heterogeneous sets of variables. Mathematically, PCA depends upon the eigen-decomposition of positive semidefinite matrices and upon the singular value decomposition (SVD) of rectangular matrices. {©} 2010 John Wiley {\&} Sons, Inc.}
+      \field{booktitle}{Wiley Interdisciplinary Reviews: Computational Statistics}
+      \field{issn}{19395108}
+      \field{title}{{Principal component analysis}}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1002/wics.101
       \endverb
     \endentry
     \entry{Levoy2012}{misc}{}
@@ -2445,8 +2825,8 @@
       \strng{authorbibnamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
       \strng{authornamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
       \strng{authorfullhash}{4d74d0f4dd3790b8b4c936a0a028f35e}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Spatial Convolution}}
@@ -2472,8 +2852,8 @@
       \strng{authorbibnamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
       \strng{authornamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
       \strng{authorfullhash}{47939fb0219b01dbf4ebd3dbaadf7447}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Classification with TensorFlow and Dense Neural Networks}}
@@ -2541,38 +2921,6 @@
       \verb 10.1109/MSP.2010.940003
       \endverb
       \keyw{Data models,Data visualization,Information retrieval,Machine learning,Manifolds,Probabilistic logic,Visualization}
-    \endentry
-    \entry{Abdi2010}{misc}{}
-      \name{author}{2}{}{%
-        {{hash=c580255ca139872e5f15d7fe98f8fcfc}{%
-           family={Abdi},
-           familyi={A\bibinitperiod},
-           given={Herv{é}},
-           giveni={H\bibinitperiod}}}%
-        {{hash=b973996d01dd9df2c765d72c94a70678}{%
-           family={Williams},
-           familyi={W\bibinitperiod},
-           given={Lynne\bibnamedelima J.},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{b2f7e8590d9978f96852b19f6522b6ef}
-      \strng{fullhash}{b2f7e8590d9978f96852b19f6522b6ef}
-      \strng{bibnamehash}{b2f7e8590d9978f96852b19f6522b6ef}
-      \strng{authorbibnamehash}{b2f7e8590d9978f96852b19f6522b6ef}
-      \strng{authornamehash}{b2f7e8590d9978f96852b19f6522b6ef}
-      \strng{authorfullhash}{b2f7e8590d9978f96852b19f6522b6ef}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Principal component analysis (PCA) is amultivariate technique that analyzes a data table in which observations are described by several inter-correlated quantitative dependent variables. Its goal is to extract the important information from the table, to represent it as a set of new orthogonal variables called principal components, and to display the pattern of similarity of the observations and of the variables as points in maps. The quality of the PCA model can be evaluated using cross-validation techniques such as the bootstrap and the jackknife. PCA can be generalized as correspondence analysis (CA) in order to handle qualitative variables and as multiple factor analysis (MFA) in order to handle heterogeneous sets of variables. Mathematically, PCA depends upon the eigen-decomposition of positive semidefinite matrices and upon the singular value decomposition (SVD) of rectangular matrices. {©} 2010 John Wiley {\&} Sons, Inc.}
-      \field{booktitle}{Wiley Interdisciplinary Reviews: Computational Statistics}
-      \field{issn}{19395108}
-      \field{title}{{Principal component analysis}}
-      \field{year}{2010}
-      \verb{doi}
-      \verb 10.1002/wics.101
-      \endverb
     \endentry
     \entry{AmatRodrigo2017}{misc}{}
       \name{author}{1}{}{%
@@ -2833,6 +3181,33 @@
       \verb 10.1155/2015/562724
       \endverb
     \endentry
+    \entry{Bhattacharyya2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d3a6b56b845ce10998b58bbf27a726ad}{%
+           family={Bhattacharyya},
+           familyi={B\bibinitperiod},
+           given={Saptashwa},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3a6b56b845ce10998b58bbf27a726ad}
+      \strng{fullhash}{d3a6b56b845ce10998b58bbf27a726ad}
+      \strng{bibnamehash}{d3a6b56b845ce10998b58bbf27a726ad}
+      \strng{authorbibnamehash}{d3a6b56b845ce10998b58bbf27a726ad}
+      \strng{authornamehash}{d3a6b56b845ce10998b58bbf27a726ad}
+      \strng{authorfullhash}{d3a6b56b845ce10998b58bbf27a726ad}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Support Vector Machine: Kernel Trick; Mercer's Theorem}}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/understanding-support-vector-machine-part-2-kernel-trick-mercers-theorem-e1e6848c6c4d
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/understanding-support-vector-machine-part-2-kernel-trick-mercers-theorem-e1e6848c6c4d
+      \endverb
+    \endentry
     \entry{Drakos2018}{misc}{}
       \name{author}{1}{}{%
         {{hash=41aa8dfbfcf407444c27f002fd637251}{%
@@ -2853,180 +3228,6 @@
       \field{labeltitlesource}{title}
       \field{title}{{Support Vector Machine vs Logistic Regression}}
       \field{year}{2018}
-    \endentry
-    \entry{Karpathy2016}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=e91a4c2044bccdbef249eabc886ff988}{%
-           family={Karpathy},
-           familyi={K\bibinitperiod},
-           given={Andrej},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{e91a4c2044bccdbef249eabc886ff988}
-      \strng{fullhash}{e91a4c2044bccdbef249eabc886ff988}
-      \strng{bibnamehash}{e91a4c2044bccdbef249eabc886ff988}
-      \strng{authorbibnamehash}{e91a4c2044bccdbef249eabc886ff988}
-      \strng{authornamehash}{e91a4c2044bccdbef249eabc886ff988}
-      \strng{authorfullhash}{e91a4c2044bccdbef249eabc886ff988}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Convolutional Neural Networks are very similar to ordinary Neural Networks from the previous chapter: they are made up of neurons that have learnable weights and biases. Each neuron receives some inputs, performs a dot product and optionally follows it with a non-linearity. The whole network still expresses a single differentiable score function: from the raw image pixels on one end to class scores at the other. And they still have a loss function (e.g. SVM/Softmax) on the last (fully-connected) layer and all the tips/tricks we developed for learning regular Neural Networks still apply. So what does change? ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.}
-      \field{booktitle}{Stanford University}
-      \field{title}{{CS231n Convolutional Neural Networks for Visual Recognition}}
-      \field{year}{2016}
-    \endentry
-    \entry{Saha2018}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=8f70e57d70d96dc308cd512ddac3eba0}{%
-           family={Saha},
-           familyi={S\bibinitperiod},
-           given={Sumit},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{8f70e57d70d96dc308cd512ddac3eba0}
-      \strng{fullhash}{8f70e57d70d96dc308cd512ddac3eba0}
-      \strng{bibnamehash}{8f70e57d70d96dc308cd512ddac3eba0}
-      \strng{authorbibnamehash}{8f70e57d70d96dc308cd512ddac3eba0}
-      \strng{authornamehash}{8f70e57d70d96dc308cd512ddac3eba0}
-      \strng{authorfullhash}{8f70e57d70d96dc308cd512ddac3eba0}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{No A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way}}
-      \field{year}{2018}
-    \endentry
-    \entry{Keras}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=7fee7bb66f4294c3e32783efa7d9bafc}{%
-           family={Keras},
-           familyi={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{7fee7bb66f4294c3e32783efa7d9bafc}
-      \strng{fullhash}{7fee7bb66f4294c3e32783efa7d9bafc}
-      \strng{bibnamehash}{7fee7bb66f4294c3e32783efa7d9bafc}
-      \strng{authorbibnamehash}{7fee7bb66f4294c3e32783efa7d9bafc}
-      \strng{authornamehash}{7fee7bb66f4294c3e32783efa7d9bafc}
-      \strng{authorfullhash}{7fee7bb66f4294c3e32783efa7d9bafc}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Convolutional Layers}}
-    \endentry
-    \entry{Mahmood2018}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}{%
-           family={Mahmood},
-           familyi={M\bibinitperiod},
-           given={Hamza},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
-      \strng{fullhash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
-      \strng{bibnamehash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
-      \strng{authorbibnamehash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
-      \strng{authornamehash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
-      \strng{authorfullhash}{5c2c1cb7ffcc95d05a3cdbe7d2fd32dc}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{The Softmax Function, Simplified}}
-      \field{year}{2018}
-    \endentry
-    \entry{Hinz2016}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=bf7aa3112d42dbc723dfe3e9ef243563}{%
-           family={Hinz},
-           familyi={H\bibinitperiod},
-           given={Tobias},
-           giveni={T\bibinitperiod}}}%
-        {{hash=d8ccf680dc1785891a1d2fd958109ba8}{%
-           family={Barros},
-           familyi={B\bibinitperiod},
-           given={Pablo},
-           giveni={P\bibinitperiod}}}%
-        {{hash=a23f7301779c6560c1784590c4bc50aa}{%
-           family={Wermter},
-           familyi={W\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{2340008d1181972d43d2ef37076ef313}
-      \strng{fullhash}{2340008d1181972d43d2ef37076ef313}
-      \strng{bibnamehash}{2340008d1181972d43d2ef37076ef313}
-      \strng{authorbibnamehash}{2340008d1181972d43d2ef37076ef313}
-      \strng{authornamehash}{2340008d1181972d43d2ef37076ef313}
-      \strng{authorfullhash}{2340008d1181972d43d2ef37076ef313}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{The Effects of Regularization on Learning Facial Expressions with Convolutional Neural Networks}}
-      \field{year}{2016}
-      \field{pages}{80\bibrangedash 87}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1007/978-3-319-44781-0_10
-      \endverb
-    \endentry
-    \entry{Piczak2015}{inproceedings}{}
-      \name{author}{1}{}{%
-        {{hash=d41b84fadce4bc2d73e2e0f7f272f56d}{%
-           family={Piczak},
-           familyi={P\bibinitperiod},
-           given={Karol\bibnamedelima J.},
-           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{d41b84fadce4bc2d73e2e0f7f272f56d}
-      \strng{fullhash}{d41b84fadce4bc2d73e2e0f7f272f56d}
-      \strng{bibnamehash}{d41b84fadce4bc2d73e2e0f7f272f56d}
-      \strng{authorbibnamehash}{d41b84fadce4bc2d73e2e0f7f272f56d}
-      \strng{authornamehash}{d41b84fadce4bc2d73e2e0f7f272f56d}
-      \strng{authorfullhash}{d41b84fadce4bc2d73e2e0f7f272f56d}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This paper evaluates the potential of convolutional neural networks in classifying short audio clips of environmental sounds. A deep model consisting of 2 convolutional layers with max-pooling and 2 fully connected layers is trained on a low level representation of audio data (segmented spectrograms) with deltas. The accuracy of the network is evaluated on 3 public datasets of environmental and urban recordings. The model outperforms baseline implementations relying on mel-frequency cepstral coefficients and achieves results comparable to other state-of-the-art approaches.}
-      \field{booktitle}{IEEE International Workshop on Machine Learning for Signal Processing, MLSP}
-      \field{isbn}{9781467374545}
-      \field{issn}{21610371}
-      \field{title}{{Environmental sound classification with convolutional neural networks}}
-      \field{year}{2015}
-      \verb{doi}
-      \verb 10.1109/MLSP.2015.7324337
-      \endverb
-      \keyw{Classification,convolutional neural networks,environmental sound}
-    \endentry
-    \entry{Kumar2017}{article}{}
-      \name{author}{2}{}{%
-        {{hash=f8ca7fee112f8a7d0d22270baf5f7b02}{%
-           family={Kumar},
-           familyi={K\bibinitperiod},
-           given={Anurag},
-           giveni={A\bibinitperiod}}}%
-        {{hash=ac9f939ab68bd8c8545bbf14cb306d23}{%
-           family={Raj},
-           familyi={R\bibinitperiod},
-           given={Bhiksha},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{5a2ca23d1e5a4f70d9388716e62bfda7}
-      \strng{fullhash}{5a2ca23d1e5a4f70d9388716e62bfda7}
-      \strng{bibnamehash}{5a2ca23d1e5a4f70d9388716e62bfda7}
-      \strng{authorbibnamehash}{5a2ca23d1e5a4f70d9388716e62bfda7}
-      \strng{authornamehash}{5a2ca23d1e5a4f70d9388716e62bfda7}
-      \strng{authorfullhash}{5a2ca23d1e5a4f70d9388716e62bfda7}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Deep CNN Framework for Audio Event Recognition using Weakly Labeled Web Data}}
-      \field{year}{2017}
     \endentry
     \entry{Olah2015}{misc}{}
       \name{author}{1}{}{%
@@ -3366,6 +3567,167 @@
       \endverb
       \verb{url}
       \verb https://ml-cheatsheet.readthedocs.io/en/latest/loss%7B%5C_%7Dfunctions.html
+      \endverb
+    \endentry
+    \entry{Laskaris2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2e3bebe46001e2ead557ff131246bc43}{%
+           family={Laskaris},
+           familyi={L\bibinitperiod},
+           given={Niko},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e3bebe46001e2ead557ff131246bc43}
+      \strng{fullhash}{2e3bebe46001e2ead557ff131246bc43}
+      \strng{bibnamehash}{2e3bebe46001e2ead557ff131246bc43}
+      \strng{authorbibnamehash}{2e3bebe46001e2ead557ff131246bc43}
+      \strng{authornamehash}{2e3bebe46001e2ead557ff131246bc43}
+      \strng{authorfullhash}{2e3bebe46001e2ead557ff131246bc43}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{How to apply machine learning and deep learning methods to audio analysis}}
+      \field{year}{2019}
+    \endentry
+    \entry{Lei2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1a3febc90d8f073e62656f05ef6ec1b8}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Yaguo},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a3febc90d8f073e62656f05ef6ec1b8}
+      \strng{fullhash}{1a3febc90d8f073e62656f05ef6ec1b8}
+      \strng{bibnamehash}{1a3febc90d8f073e62656f05ef6ec1b8}
+      \strng{authorbibnamehash}{1a3febc90d8f073e62656f05ef6ec1b8}
+      \strng{authornamehash}{1a3febc90d8f073e62656f05ef6ec1b8}
+      \strng{authorfullhash}{1a3febc90d8f073e62656f05ef6ec1b8}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery provides a comprehensive introduction of intelligent fault diagnosis and RUL prediction based on the current achievements of the author's research group. The main contents include multi-domain signal processing and feature extraction, intelligent diagnosis models, clustering algorithms, hybrid intelligent diagnosis strategies, and RUL prediction approaches, etc. This book presents fundamental theories and advanced methods of identifying the occurrence, locations, and degrees of faults, and also includes information on how to predict the RUL of rotating machinery. Besides experimental demonstrations, many application cases are presented and illustrated to test the methods mentioned in the book. This valuable reference provides an essential guide on machinery fault diagnosis that helps readers understand basic concepts and fundamental theories. Academic researchers with mechanical engineering or computer science backgrounds, and engineers or practitioners who are in charge of machine safety, operation, and maintenance will find this book very useful. Provides a detailed background and roadmap of intelligent diagnosis and RUL prediction of rotating machinery, involving fault mechanisms, vibration characteristics, health indicators, and diagnosis and prognostics Presents basic theories, advanced methods, and the latest contributions in the field of intelligent fault diagnosis and RUL prediction Includes numerous application cases, and the methods, algorithms, and models introduced in the book are demonstrated by industrial experiences.}
+      \field{booktitle}{Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery}
+      \field{isbn}{9780128115350}
+      \field{title}{{Intelligent fault diagnosis and remaining useful life prediction of rotating machinery}}
+      \field{year}{2016}
+      \field{pages}{37}
+      \range{pages}{1}
+    \endentry
+    \entry{Kehtarnavaz2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=642aac140393d4b62be0465bc9392fa6}{%
+           family={Kehtarnavaz},
+           familyi={K\bibinitperiod},
+           given={Nasser},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{642aac140393d4b62be0465bc9392fa6}
+      \strng{fullhash}{642aac140393d4b62be0465bc9392fa6}
+      \strng{bibnamehash}{642aac140393d4b62be0465bc9392fa6}
+      \strng{authorbibnamehash}{642aac140393d4b62be0465bc9392fa6}
+      \strng{authornamehash}{642aac140393d4b62be0465bc9392fa6}
+      \strng{authorfullhash}{642aac140393d4b62be0465bc9392fa6}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Digital Signal Processing System Design}}
+      \field{year}{2008}
+      \field{pages}{175\bibrangedash 196}
+      \range{pages}{22}
+    \endentry
+    \entry{Gao2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9740b179a43b243a11fed583e9b81802}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={R.\bibnamedelimi X.},
+           giveni={R\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=607679fb04a20d41a7ca52add8c34564}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a285a6cb8f17913d62088499b063e65c}
+      \strng{fullhash}{a285a6cb8f17913d62088499b063e65c}
+      \strng{bibnamehash}{a285a6cb8f17913d62088499b063e65c}
+      \strng{authorbibnamehash}{a285a6cb8f17913d62088499b063e65c}
+      \strng{authornamehash}{a285a6cb8f17913d62088499b063e65c}
+      \strng{authorfullhash}{a285a6cb8f17913d62088499b063e65c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Signals generated by transient vibrations in rolling bearings due to structural defects are non-stationary in nature, and reflect upon the operation condition of the bearing. Consequently, effective processing of non-stationary signals is critical to bearing health monitoring. This paper presents a comparative study of four representative time-frequency analysis techniques commonly employed for non-stationary signal processing. The analytical framework of the short-time Fourier transform, wavelet transform, wavelet packet transform, and Hilbert-Huang transform are first presented. The effectiveness of each technique in detecting transient features from a time-varying signal is then examined, using an analytically formulated test signal. Subsequently, the performance of each technique is experimentally evaluated, using realistic vibration signals measured from a bearing test system. The results demonstrate that selecting appropriate signal processing technique can significantly affect defect identification and consequently, improve the reliability of bearing health monitoring. {©} 2006 Inderscience Enterprises Ltd.}
+      \field{issn}{17500605}
+      \field{journaltitle}{International Journal of Manufacturing Research}
+      \field{title}{{Non-stationary signal processing for bearing health monitoring}}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1504/IJMR.2006.010701
+      \endverb
+      \keyw{bearing health monitoring,non-stationary signals,time-frequency analysis}
+    \endentry
+    \entry{Gartzman2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7d086714a3b8a4eee7eed8da4a27c4db}{%
+           family={Gartzman},
+           familyi={G\bibinitperiod},
+           given={Dalya},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d086714a3b8a4eee7eed8da4a27c4db}
+      \strng{fullhash}{7d086714a3b8a4eee7eed8da4a27c4db}
+      \strng{bibnamehash}{7d086714a3b8a4eee7eed8da4a27c4db}
+      \strng{authorbibnamehash}{7d086714a3b8a4eee7eed8da4a27c4db}
+      \strng{authornamehash}{7d086714a3b8a4eee7eed8da4a27c4db}
+      \strng{authorfullhash}{7d086714a3b8a4eee7eed8da4a27c4db}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Getting to Know the Mel Spectrogram}}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/getting-to-know-the-mel-spectrogram-31bca3e2d9d0
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/getting-to-know-the-mel-spectrogram-31bca3e2d9d0
+      \endverb
+    \endentry
+    \entry{Beranek1950}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a0466580bd6dfbafc9ce35c1eb37c4d4}{%
+           family={Beranek},
+           familyi={B\bibinitperiod},
+           given={Leo\bibnamedelima L.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5a38aedaf70b44bce9d1dce40a22cd46}{%
+           family={Rosenblith},
+           familyi={R\bibinitperiod},
+           given={Walter\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{526441c8379efafb3b43eceff13d5a04}
+      \strng{fullhash}{526441c8379efafb3b43eceff13d5a04}
+      \strng{bibnamehash}{526441c8379efafb3b43eceff13d5a04}
+      \strng{authorbibnamehash}{526441c8379efafb3b43eceff13d5a04}
+      \strng{authornamehash}{526441c8379efafb3b43eceff13d5a04}
+      \strng{authorfullhash}{526441c8379efafb3b43eceff13d5a04}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0031-9228}
+      \field{journaltitle}{Physics Today}
+      \field{title}{{ Acoustic Measurements }}
+      \field{year}{1950}
+      \verb{doi}
+      \verb 10.1063/1.3066788
       \endverb
     \endentry
   \enddatalist

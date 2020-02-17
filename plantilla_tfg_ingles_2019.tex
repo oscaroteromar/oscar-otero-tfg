@@ -236,6 +236,9 @@ hmargin=3cm
 \usepackage{float}
 \usepackage{appendix}
 
+\DeclareCaptionLabelFormat{cont}{#1~#2\alph{ContinuedFloat}}
+\captionsetup[ContinuedFloat]{labelformat=cont}
+
 \newcommand{\doubt}[1]{\textbf{\color{red}{#1}}}
 %-------------
 %	DOCUMENTO
@@ -372,8 +375,11 @@ hmargin=3cm
 \chapter{State-of-the-art}
 \input{state-of-the-art.tex}
 
-\chapter{Methods}
-\input{methods.tex}
+\chapter{Resources and Methods for Acoustic Violent Detection}
+\input{resources-and-methods-for-avd.tex}
+
+\chapter{Our approach for Acoustic Violent Detection}
+\input{our-approach-for-avd.tex}
 
 \chapter{Experiments}
 \input{experiments.tex}

@@ -27,13 +27,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Violent Event Detection}{10}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Gender-based violence}{12}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.1}Gender-based violence}{11}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}Our point of view}{12}{subsection.2.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Databases}{13}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methods}{15}{chapter.3}% 
+\contentsline {chapter}{\numberline {3}Resources and Methods for Acoustic Violent Detection}{15}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Database: AudioSet}{15}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
@@ -41,61 +41,63 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.2}Ontology}{15}{subsection.3.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Data}{17}{subsection.3.1.3}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.4}Data access}{18}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.3}Data access}{18}{subsection.3.1.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Feature extractor}{18}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}\acrfull {vgg} model}{18}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.1}\acrlong {ann}s (\acrshort {ann}) and \acrlong {cnn}s (\acrshort {cnn})}{19}{subsection.3.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}\acrshort {vgg}ish model}{19}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.2}\acrfull {vgg} model}{24}{subsection.3.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Why \acrshort {vgg}ish}{22}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.3}\acrshort {vgg}ish model}{25}{subsection.3.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Our approach}{23}{section.3.3}% 
+\contentsline {chapter}{\numberline {4}Our approach for Acoustic Violent Detection}{29}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Input data}{23}{subsection.3.3.1}% 
+\contentsline {section}{\numberline {4.1}Why \acrshort {vgg}ish}{29}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Violent classes}{23}{subsection.3.3.1}% 
+\contentsline {section}{\numberline {4.2}Our approach}{30}{section.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Downloading videos}{24}{figure.caption.63}% 
+\contentsline {subsection}{\numberline {4.2.1}Input data}{30}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Extracting embeddings}{25}{subsection.3.3.2}% 
+\contentsline {subsubsection}{Violent classes}{30}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Assessing the differences between the two types of data access}{25}{subsection.3.3.3}% 
+\contentsline {subsubsection}{Downloading videos}{31}{figure.caption.55}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dimensionality reduction for visualization}{28}{table.caption.68}% 
+\contentsline {subsection}{\numberline {4.2.2}Extracting embeddings}{32}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Methodology}{30}{section.3.4}% 
+\contentsline {subsection}{\numberline {4.2.3}Assessing the differences between the two types of data access}{32}{subsection.4.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}\acrfull {smote}}{30}{subsection.3.4.1}% 
+\contentsline {subsubsection}{Dimensionality reduction for visualization}{35}{figure.caption.59}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}\acrfull {svm}}{31}{subsection.3.4.2}% 
+\contentsline {section}{\numberline {4.3}Methodology}{38}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}\acrlong {rnn} and \acrlong {lstm}}{36}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}\acrfull {smote}}{38}{subsection.4.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Experiments}{41}{chapter.4}% 
+\contentsline {subsection}{\numberline {4.3.2}\acrfull {svm}}{39}{subsection.4.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Input data preparation}{41}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.3.3}\acrlong {rnn} and \acrlong {lstm}}{40}{subsection.4.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Implementations and results}{43}{section.4.2}% 
+\contentsline {chapter}{\numberline {5}Experiments}{45}{chapter.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Implementation 1: \acrshort {svm} classifier for a multiclass classification}{45}{subsection.4.2.1}% 
+\contentsline {section}{\numberline {5.1}Input data preparation}{45}{section.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Implementation 2: \acrshort {svm} multiclass classification and \acrshort {svm} binary classification}{47}{subsection.4.2.2}% 
+\contentsline {section}{\numberline {5.2}Implementations and results}{47}{section.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}Implementation 3: \acrshort {lstm} for multiclass classification}{50}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {5.2.1}Implementation 1: \acrshort {svm} classifier for a multiclass classification}{49}{subsection.5.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.4}Implementation 4: \acrshort {lstm} multiclass + \acrshort {svm} for a final binary classification}{53}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {5.2.2}Implementation 2: \acrshort {svm} multiclass classification and \acrshort {svm} binary classification}{51}{subsection.5.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.5}Implementation 5: \acrshort {cnn} for multiclass classification}{55}{subsection.4.2.5}% 
+\contentsline {subsection}{\numberline {5.2.3}Implementation 3: \acrshort {lstm} for multiclass classification}{54}{subsection.5.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.6}Implementation 6: \acrshort {cnn} multiclass + \acrshort {svm} for a final binary classification}{57}{subsection.4.2.6}% 
+\contentsline {subsection}{\numberline {5.2.4}Implementation 4: \acrshort {lstm} multiclass + \acrshort {svm} for a final binary classification}{57}{subsection.5.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Comparison and conclusion}{59}{section.4.3}% 
+\contentsline {subsection}{\numberline {5.2.5}Implementation 5: \acrshort {cnn} for multiclass classification}{59}{subsection.5.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{66}{chapter*.120}% 
+\contentsline {subsection}{\numberline {5.2.6}Implementation 6: \acrshort {cnn} multiclass + \acrshort {svm} for a final binary classification}{61}{subsection.5.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Comparison and conclusion}{63}{section.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{70}{chapter*.105}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {.1}Metrics}{}{section.Alph0.1}% 
 \defcounter {refsection}{0}\relax 
@@ -106,4 +108,6 @@
 \contentsline {section}{\numberline {.2}\acrlong {kfold}}{}{section.Alph0.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {.3}Categorical cross-entropy}{}{section.Alph0.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {.4}Spectrogram and Mel scale}{}{section.Alph0.4}% 
 \contentsfinish 

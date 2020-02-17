@@ -12,21 +12,23 @@
 
 \subsection{What is AudioSet} \todo{How cite? CPM: como misc, por ejemplo en la página web y con el artículo que la describe}
 
-	Audio Set can be described as a large-scale sound dataset with the goal of putting the availability of audio and image data on the same level. It is composed by a huge variety of \todo{CPM: say the number of samples.}manually-annotated audio events and is organized by following an ontology formed by 632 different audio classes. The data has been extracted from YouTube videos and the labelling process has been based on diverse factors such as metadata, context and content analysis. It has been developed by Google with the purpose of producing an audio event recognizer that can be applied to plenty of acoustic situations coming from the real world \cite{Gemmeke2017}.
+	Audio Set can be described as a large-scale sound dataset with the goal of putting the availability of audio and image data on the same level. It is composed by a huge variety of 2,084,320 manually-annotated audio events in video format and it is organized by following an ontology formed by 632 different audio classes. The data has been extracted from YouTube videos and the labelling process has been based on diverse factors such as metadata, context and content analysis. It has been developed by Google with the purpose of producing an audio event recognizer that can be applied to plenty of acoustic situations coming from the real world \cite{Gemmeke2017}.
+	
+	Due to some limitations found during the building process that will be explained along the section, the current final release of the dataset is composed by 1,789,621 segments, where each video usually last 10 seconds which results in a total duration of 4,971 hours of video and audio. After executing the selection process in which the different labels were populated with the final corresponding segments, a total of 527 classes were gathered, out of which 485 counted with at least 100 samples.
 	
 \subsection{Ontology}
 \label{subsecition:ontology}
 
-	In order to put this dataset together the events have been organized in an abstract hierarchy. This is composed by higher-level classes which  describe a certain type of sound and also acts as parents of other labels that refer to more specific events. With this purpose, the relationship among different classes needed to be non-exclusive, so labelling similar audio events may result into a more general class, the parent, if there existed ambiguity. This is also helpful for labellers due to group the clips in an easier and faster way.
+	In order to put this dataset together the events have been organized in an abstract hierarchy. This is composed by higher-level classes which describe a certain type of sound event and also act as parents of other labels that refer to more specific events. With this purpose, the relationship among different classes needs to be non-exclusive, so labelling similar audio events may result into a more general class, the parent, if there was ambiguity. This is also helpful for labellers due to group the clips in an easier and faster way.
 	
 	The Audio Set Ontology was collected considering some fundamental guidelines explained below:
 	% List
 	\input{audioset_guidelines.tex}
 	
-	It is easy that an ontology of this volume gets leaned or biased towards a particular direction due to several factors, such as the subjectiveness of its creators or the selection of the initial set of classes used when starting to work. With the intention of generating a primary list that covers a wide range of audio events in an objective way, the researchers decided to apply an impartial, web-scale text analysis from the very beginning. They agreed on detecting hyponyms of the word "sound" by utilizing a modified version of the famous technique called \textit{Hearst patterns} \cite{Hearst1992}, a method proposed to automatically acquire hyponymy lexical relations from unrestricted text. As a result, an enormous collection of terms came up. This was filtered by considering how well these terms represented audio, i.e. by combining together the global frequency of occurrence and how exclusively these are recognized as hyponyms of "sound" instead of other terms. As an output of the final process, a list of 3000 terms was obtained.
+	It is easy that an ontology of this volume gets leaned or biased towards a particular direction due to several factors, such as the subjectiveness of its creators or the selection of the initial set of classes used when starting to label. With the intention of generating a primary list that covers a wide range of audio events in an objective way, the researchers decided to apply an impartial, web-scale text analysis from the very beginning. They agreed on detecting hyponyms of the word "sound" by utilizing a modified version of the famous technique called \textit{Hearst patterns} \cite{Hearst1992}, a method proposed to automatically acquire hyponymy lexical relations from unrestricted text. As a result, an enormous collection of terms came up. This was filtered by considering how well these terms represented audio, i.e. by combining together the global frequency of occurrence and how exclusively these are recognized as hyponyms of "sound" instead of other terms. As an output of the final process, a list of 3000 terms was obtained.
 	
 	With respect to the hierarchical relation among categories, it was constructed by the authors with the main intention that this satisfied their human comprehension of the sounds. Event though this is a subjective manner, it also makes sense since this is how the hierarchy best performs its labour on helping human labelling.
-	After all the organization process, the model is not based on a strict behaviour as a singular node can appear in many different locations, i.e., a single node can be child of different parent nodes. As we said before, the final result is composed by 632 audio event labels and, in the hierarchy, there is no sample deeper than 6 levels. Figure \ref{fig:mesh1} shows the nodes that belong to the two top layers of the ontology.
+	After all the organization process, the model is not based on a strict organization as a singular node can appear in many different locations, i.e., a single node can be child of different parent nodes. As we said before, the final result is composed by 632 audio event labels and, in the hierarchy, the deepest class is six level away from the top parent. Figure \ref{fig:mesh1} shows the nodes that belong to the two top layers of the ontology.
 	
 	% Figure of ontology
 	\begin{figure}[h]
@@ -41,15 +43,16 @@
 	
 	\input{ontology-fields.tex}
 	
-	For the field \textit{ID}, the identifiers are known as \acrfull{mid} and belong to the \textit{Knowledge Graph} designed by Google \cite{Singhal2012}. This is a knowledge base that Google services use to improve the quality of its search results and it is composed with information extracted from a wide variety of sources. The \acrshort{mid}s are the identifiers of the different elements that belong to this huge dictionary. For instance, the \acrshort{mid} of the word "Speech" is "/m/09x0r". Another field that deserves a special explanation is the one corresponding to \textit{Restrictions}. Within all the categories of sound events, there are two flags that indicate an exclusive behaviour that differ from a typical label: "blacklisted" and "abstract". The former refers to a class that has been hidden from labellers due to its confusing meaning. The latter has been used for those classes that are just utilized as intermediate nodes in order to provide a better grouping inside the organization, and are not expected to be used in the implementation tasks. In total, out of the 632 categories, 56 have been categorized as "blacklisted" and 22, as "abstract".
+	For the field \textit{ID}, the identifiers are known as \acrfull{mid} and belong to the \textit{Knowledge Graph} designed by Google \cite{Singhal2012}. This is a knowledge base that Google services use to improve the quality of its search results and it is composed with information extracted from a wide variety of sources. The \acrshort{mid}s are the identifiers of the different elements that belong to this huge dictionary. For instance, the \acrshort{mid} of the word "Speech" is "/m/09x0r". Another field that deserves a special explanation is the one corresponding to \textit{Restrictions}. Within all the categories of sound events, there are two flags that indicate an exclusive behaviour that differ from a typical label: "blacklisted" and "abstract". The former refers to a class that has been hidden from labellers due to its confusing meaning. The latter has been used for those classes that are just employed as intermediate nodes in order to provide a better grouping inside the organization, and are not expected to be used in the implementation tasks. In total, out of the 632 categories, 56 have been categorized as "blacklisted" and 22, as "abstract".
 	
-\subsection{Data}
-\label{subsection:data}
-\todo{CPM: esta subsección no sé si tiene mucho sentido. Por uan parte el primer párrafo parece hablar de Data formats (que luego está repetido en la subsección siguiente) y el segundo de la cantidad de datos que quizás es algo que debieras haber dicho ya al principio de la sección anterior.}
-
-	The different YouTube videos that constitute the dataset are included in a \acrshort{csv} file in which each row comprises the video identifier, the start and end time of the audio event within the video and the ontology labels that the certain clip belongs to. All the video segments have a length of 10 seconds maximum, except from those that the original video is shorter, then the whole thing will be considered as the an audio event. \todo{Include any explanation about ratings? CPM: no sé a qué te refieres...}
 	
-	The final release of the dataset is composed by 1,789,621 segments, with a duration of 4,971 hours of video and audio. After executing the selection process in which the different labels were populated with the final corresponding segments, a total of 527 classes were gathered, out of which 485 counted with at least 100 samples.
+%\subsection{Data}
+%\label{subsection:data}
+%\todo{CPM: esta subsección no sé si tiene mucho sentido. Por uan parte el primer párrafo parece hablar de Data formats (que luego está repetido en la subsección siguiente) y el segundo de la cantidad de datos que quizás es algo que debieras haber dicho ya al principio de la sección anterior.}
+%
+%	The different YouTube videos that constitute the dataset are included in a \acrshort{csv} file in which each row comprises the video identifier, the start and end time of the audio event within the video and the ontology labels that the certain clip belongs to. All the video segments have a length of 10 seconds maximum, except from those that the original video is shorter, then the whole thing will be considered as the an audio event. \todo{Include any explanation about ratings? CPM: no sé a qué te refieres...}
+%	
+%	
 	
 \subsection{Data access}
 \label{subsection:data-access}
@@ -58,20 +61,59 @@
 	
 	\begin{itemize}
 		\item Files in \acrshort{csv} format that include for each video segment its YouTube video ID, start time, end time and the one or more labels it belongs to. 
-		\item Instead of the audio files themselves, they provide already extracted audio features for each segment in compressed files that can be easily downloaded.
+		\item Instead of the audio files themselves, they provide already extracted audio features for each segment in compressed files that are available in \acrfull{tf} \cite{GoogleResearch2015} record files that can be easily downloaded.
 	\end{itemize}
 
-	For our purpose, we worked with the dataset in both different ways. However, we got further with the already extracted features. \todo{CPM: esta frase es un poco confusa. Tienes que expresar esto mejor y decir claramente para qué has utilizado uno y otro formato sin entrar en detalles y enviando a la parte del documento en donde se explica mejor.} These are obtained by using a model called \textit{\acrshort{vgg}ish} \cite{Hershey2017} which has been pre trained on a preliminary version of the database YouTube-8M \cite{VideoUnderstandingGroup2017}. The features are available to the user in \acrfull{tf} \cite{GoogleResearch2015} record files and the code for the \acrshort{vgg}ish model is also included in a public repository. \todo{include a type of introduction for vggish? CPM: no me parece que encaje aquí. Lo que haría es referir a donde está contado más en detalle.}
-
+	Together with these two options of obtaining the data, a neural network model is also provided in the database website which can be used to extract embeddings as high-level features. It is called \textit{\acrshort{vgg}ish} \cite{Hershey2017} and it has been pre trained on a preliminary version of the database YouTube-8M \cite{Abu-El-Haija2016}. A more detailed explanation of this system is later included in \ref{subsection:vggish}.
+	
+	Based on the first choice, we did some attempts of downloading a couple of videos from YouTube using the information given in the \acrshort{csv} files. Then, we decided to try to extract our own embeddings features by running the \acrshort{vgg}ish network with the downloaded videos in order to see how they look and check their behaviour on a classification task. Also, for the second option, we downloaded the provided embeddings already extracted by the Google developers and see if they were also useful for our problem. A little experiment explained in \ref{subsection:exploring-differences-between-two-types-of-data-access} were implemented so as to check if the two manners of obtaining the embeddings were equivalent.
+		
 \section{Feature extractor}
 \label{section:feature-extractor}
 
-	In order to best describe the just mentioned \acrshort{vgg}ish mode, it is necessary to first explain the original network it was based in \todo{CPM: pero ni siquiera habías dicho que era una red...}. 
+	\acrshort{vgg}ish model design was based in an already existed network called \acrshort{vgg}. In order to describe the embedding features extractor we used, it is first needed to make a clear explanation of what a \acrlong{cnn} is and how the \acrshort{vgg} model is implemented. Then, we can move to analyze the differences and changes included in \acrshort{vgg}ish. 
+
+\subsection{\acrlong{ann}s (\acrshort{ann}) and \acrlong{cnn}s (\acrshort{cnn})}
+\label{subsection:ann-cnn}
+	
+	Before going deep in the description of \acrshort{cnn}, the core idea of \acrshort{ann} must be explained. As it was already mentioned at the end of subsection \ref{subsubsection:classification-models}, these are based on the communication way that the neurons follow inside a brain to interpret the stimuli they receive. This is actually the hidden concept behind the \acrshort{ann} intention, which is transforming input data into a desired output so that it can be used to perform a given task. %it can understandable by a machine. 
+	
+	A basic architecture is usually composed by an \textit{input layer} of neurons, a certain number of \textit{hidden layers} and an \textit{output layer}. The model receives some input, typically a feature vector, and pass it trough the hidden layers in order to perform some transformations. The neurons of a layer are completely connected to the neurons of the next layer but neurons in the same layer are not usually connected. For this case, we can say that they are \acrfull{fc} layers. Finally, the output layer gives the resulting outcome of the network \cite{Kwon2011}. This is just the basic and initial nature of the idea but it was implemented in many different ways depending on the input data and the desired task.
+	
+	Within the different possibilities of designing an artificial neural network, there are two main options. The selection of one of them depends on the complexity of the problem, the format of the input data and how it is combined with other techniques. One of them covers all the models that are structured with a shallow architecture. An example of this would be a basic type of network known as \acrfull{mlp} that follows the structure explained for \acrshort{ann} with \acrlong{fc} layers but composed just by one hidden layer. This type of systems have performed well in many tasks but they have shown some limitations in more complicated applications \cite{Deng2014}.
+	
+	When working in real-world cases such those that involve natural signals, such as human voice, natural sounds and visual scenes, for example, it is needed the development of a deeper architecture in order to extract and understand the complexity inside this type of data so as to build. For example, visual and speech recognition tasks are exploited with system that follows the hierarchical transformations that the humans perform when understanding this type of data. reliable and useful internal representations. This type of models are collected inside the \acrfull{dnn} field. \acrshort{dnn} has been one of the most studied fields since it was proposed in 2006 \cite{Deng2014}. In figure \ref{fig:mesh48}, it can be found a comparison between shallow and deep models.
+	
+	\begin{figure}[ht]
+		% Whole figure
+		\captionsetup{justification=centering}
+		\begin{subfigure}[b]{\textwidth}
+			% Start with figure wav
+			\centering
+			\captionsetup{justification=centering}
+			\includegraphics[width=0.45\linewidth]{shallow}
+			\subcaption{Shallow architecture}
+		\end{subfigure}
+		\vskip\baselineskip
+		% Start with figure tfrecord
+		\begin{subfigure}[b]{\textwidth}
+			\centering
+			\captionsetup{justification=centering}
+			\includegraphics[width=0.6\linewidth]{dnn}
+			\subcaption{Deep architecture}
+		\end{subfigure}
+		
+		\caption{Comparison between shallow networks and deep neural networks \cite{Di2018}}
+		\label{fig:mesh48}
+	\end{figure} 
+	
+	\input{cnn.tex}
+	 
 	
 \subsection{\acrfull{vgg} model}
 \label{subsection:vgg}
 	
-	\acrfull{cnn} are usually able to achieve really good results and even improve human skills on \acrlong{cv} tasks, for example, on recognizing object in an image. With the exponential growth of the research works on this field, some challenges have appeared so as to promote the creation of new systems and test their efficiency and results. This is the case of the \acrfull{ilsvrc}, based on the database of the same name, ImageNet. As a solution for the proposed exercise, the investigators from the \acrfull{vgg} in the University of Oxford implemented a new system achieving the first position and winning the challenge in 2014 \cite{ImageNet2014}. The work they proposed consists of a study of the depth in a \acrlong{convnet} architecture and how this can affect to the accuracy on the goal of large-scale image recognition \cite{Simonyan2015}. \todo{Appendix to CNN? CPM: creo que hay que traer aquí -antes de esta subsección- la parte de CNN que pusiste en el State of the Art y que te dije que no encajaba.} To try this, it was necessary to increase the number of layers in the network, which was viable due to use a small size of convolutional filters in all of them.
+	\acrshort{cnn} are usually able to achieve really good results and even improve human skills on \acrlong{cv} tasks, for example, on recognizing object in an image. With the exponential growth of the researching works on this field, some challenges have appeared so as to promote the creation of new systems and test their efficiency and results. This is the case of the \acrfull{ilsvrc}, based on the database of the same name, ImageNet. As a solution for the proposed exercise, the investigators from the \acrfull{vgg} in the University of Oxford implemented a new system achieving the first position and winning the challenge in 2014 \cite{ImageNet2014}. The work they proposed consists of a study of the depth in a \acrlong{convnet} architecture and how this can affect to the accuracy on the goal of large-scale image recognition \cite{Simonyan2015}. To try this, it was necessary to increase the number of layers in the network, which was viable due to use a small size of convolutional filters in all of them.
 	
 	For the training step of their system, they used an input image with standard size of $224 \times 224$ in \acrshort{rgb} format. The principles to build the architecture are detailed below:
 	
@@ -83,10 +125,10 @@
 		\item Two \acrfull{fc} layers with 4096 channels after all the \acrlong{convnet} layers.
 		\item One \acrshort{fc} layer with 1000 channels to perform the \acrshort{ilsvrc} classification.
 		\item A soft-max layer is employed for the final layer.
-		\item All hidden \acrlong{convnet} layers use the non-linear function \acrshort{relu} as \doubt{activation function}.
-	\end{itemize}\todo{Normalization? CPM: ¿falta algo sobre la normalización? Es importante, sí.}
+		\item All hidden \acrlong{convnet} layers use the non-linear function \acrshort{relu} as activation function.
+	\end{itemize}
 
-	All the designs that the creators came up with are based on these initial guidelines, except from just one case where \acrfull{lrn} is applied. They just differ from each other on the number of layers, starting with 11 the first approach and ending with 19 the last one. The different architectures are specified in the table \ref{table:3} and are ordered from A to E.
+	All the designs that the creators came up with are based on these initial guidelines, except from just one case where \acrfull{lrn} is applied, previously mentioned in subsection \ref{subsection:ann-cnn}. They just differ from each other on the number of layers, starting with 11 the first approach and ending with 19 the last one. The different architectures are specified in the table \ref{table:3} \cite{Simonyan2015} and are ordered from A to E.
 	
 	% Table configuration of VGG
 	\begin{table}[t!]
@@ -97,17 +139,16 @@
 		\label{table:3}
 		\end{center}
 	\end{table}
-\todo{CPM: pon en el epígrafe de la figura de dónde has tomado esta tabla.}
 
 \subsection{\acrshort{vgg}ish model}
 \label{subsection:vggish}
 	
-	The model we used in our project for feature extraction presents a configuration with principles similar to the ones explained in the previous subsection \ref{subsection:vgg} but with slight changes that their developers have included in order to adapt it to the audio approach. \todo{CPM: este es el momento de decir que nosotros no nos hemos inventado esto. Aunque pones "the developers", es confuso.}
-	
+	The model we used in our project for feature extraction presents a configuration with principles similar to the ones explained in the previous subsection \ref{subsection:vgg} but with slight changes that their developers have included in order to adapt it to the audio approach. As previously mentioned in subsection \ref{subsection:data-access}, the implementation of this model has been obtained from the website of the database Audio Set, in which a code repository is public available \cite{Ellis2017} and all the information about the implementation is included.
+		
 	The architecture is based in the configuration A from table \ref{table:3} with 11 weights. The differences respect to the original network are listed below: 
 	\begin{itemize}
 		\item The input size was changed from $224 \times 224$ to $96 \times 64$ because of the log-mel spectrogram audio inputs.
-		\item They built the implementation with just four groups of convolutional and max-pool layers so the fifth one was dropped.
+		\item They built the implementation with just four groups of convolutional and max-pool layers, instead of five.
 		\item For the last \acrshort{fc} layer, they decided to build it just with 128 channels since it is the layer that compacts the final embedding and defines its dimensions.
 		\item Also the final \textit{Softmax} layer is not used.
 	\end{itemize}
@@ -116,20 +157,20 @@
 	\begin{figure}
 		\centering
 		\captionsetup{justification=centering}
-		\includegraphics[scale=0.27]{model-vggish}
+		\includegraphics[scale=0.25]{model-vggish}
 		\caption{VGGish architecture}
 		\label{fig:mesh2}
 	\end{figure}
 
 	\subsubsection*{Input stage}
 	
-	Before passing the data through the whole \acrshort{cnn}, a preprocessing stage have been included by the developers in which the input audio will suffer some transformations. 
+	Before passing the data through the whole \acrshort{cnn}, a preprocessing stage has been included by the developers in which the input audio will suffer some transformations. 
 	
 	\begin{enumerate}
 	\item In the first place, after loading the input audio, the sample rate and the number of channels are checked to be 16 kHz and monochannel, otherwise the file is transformed to satisfy these conditions.
 	\item When the data is ready, the next step is computing the spectrogram. For this, it is necessary to calculate first the \acrfull{stft} of the signal. The operation is performed by using a sliding Hanning window of 25 ms with a hop size of 10 ms. As a result, just the magnitudes that correspond to the positive frequencies are retained, since the ones corresponding to the negative part of the spectrogram are redundant.  \todo{CPM: a lo largo de la memoria se habla un montón del espectrograma así que parece bueno que haya un apéndice describiéndolo.}
 	\item  Transforming the spectrogram to Mel scale is what follows. To do so, they compute all mel frequency bins that are going to modify the values of the spectrogram in frequency domain by following a hertz to mel conversion formula \todo{citation? CPM: Yes, please. Estoy sin red ahora mismo, ya me dirás si no la encuentras.}. The result is a mel spectrogram from 125 Hz to 7,500 Hz divided in 64 bins.
-	\item Then, the log-mel spectrogram is calculated by doing the logarithm of the previous result plus a small offset value \doubt{to avoid the logarithm of $0$}.
+	\item Then, the log-mel spectrogram is calculated by doing the logarithm of the previous result plus a small offset value to avoid the logarithm of $0$.
 	\item As a final step, they compute a framing operation over the log-mel spectrogram. The resulting are non-overlapping examples of 0.96 seconds, in which 64 mel bands and 96 frames are contained, each frame with a duration of 10 ms.
 	\end{enumerate}
 
@@ -137,11 +178,11 @@
 	
 	\subsubsection*{Embedding stage}
 	
-	Once the initial processing part is done and the log-mel spectrogram matrix is computed and divided into the desired number of frames, it is used as input data for the \acrshort{vgg}ish \acrshort{cnn}. After all the computations inside the network, each example is converted into an embedding of size 128 giving a result of one of these per second of the original audio file. It is worth mentioning that in this part, a pre trained checkpoint file is loaded. \todo{CPM: Oooops! Está útima frase no sé qué significa.}
+	Once the initial processing part is done and the log-mel spectrogram matrix is computed and divided into the desired number of frames, it is used as input data for the \acrshort{vgg}ish \acrshort{cnn}. After all the computations inside the network, each example is converted into an embedding of size 128 giving a result of one of these per second of the original audio file.
 	
 	\subsubsection*{Postprocessing stage}
 	
-	As final step, they performed some post-processing of the resulting embeddings. A \acrfull{pca} transformation is done joint with a whitening process. Also, a quantization to 8 bit for each embedding element. All these actions are computed with the purpose of making the final output compatible with the embeddings obtained from the YouTube-8M database.
+	As final step, they performed some post-processing of the resulting embeddings. A \acrfull{pca} \cite{Abdi2010} transformation is done joint with a whitening process. Also, a quantization to 8 bit for each embedding element. All these actions are computed with the purpose of making the final output compatible with the embeddings obtained from the YouTube-8M database.
 	
 	\todo{Transfer learning and why choosing this type}
 	
@@ -356,8 +397,6 @@
 	\input{SMOTE.tex}
 	
 	\input{SVM.tex}
-		
-	\input{cnn.tex}
 	
 	\input{lstm.tex}
 	

@@ -1,4 +1,5 @@
 % !TeX spellcheck = en_GB
+\label{chapter:experiments}
 
 	In this chapter we are going to explain the final models of the work and the preparation of the input data to feed these models. For the different solutions, we have used the algorithms previously explained in the methodology section \ref{section:models}. Below, it can be found a list which includes the 6 implementations:
 	
@@ -133,6 +134,7 @@
 	The output denoted as \textit{\^{Y} multi} corresponds to the predicted labels by the multiclass classifier. Then, this feeds the binary classifier in order to be trained. The split for this process is also 20\% for the test set and the rest is split into train and validation with a \acrshort{kfold} algorithm. Then, the model instance for which the best accuracy value was obtained in the validation set is used for the testing process.
 	
 \subsection{Implementation 1: \acrshort{svm} classifier for a multiclass classification}
+\label{subsection:implementation-1}
 
 	We decided to establish a benchmark by making a first experiment based on a \acrshort{svm} classifier that is used for a multiclass classification. In this case, we wanted to check the results of the performance of one of the most employed techniques in this filed different from \acrshort{nn}. It is true that this method is originally designed for binary problems but, as explained in \ref{subsection:svm}, we took advantage fo the multiclass algorithm. To define our model, we used mainly the default parameters. In this work, we have not investigated which type of kernel could better fit our problem, however we found in the literature that the default option of \acrshort{rbf} is the most appropriated for real world applications \cite{Prajapati2010}. 
 	
@@ -231,11 +233,11 @@
 	
 \subsection{Implementation 3: \acrshort{lstm} for multiclass classification}
 
-	\begin{wrapfigure}{r}{0.3\textwidth}
+	\begin{wrapfigure}{r}{0.35\textwidth}
 		\centering
 		\captionsetup{justification=centering}
-		\includegraphics[width=0.35\linewidth]{lstm}
-		\caption{Architecture for the LSTM multiclass classifier implementation}
+		\includegraphics[width=0.5\linewidth]{lstm}
+		\caption{LSTM architecture}
 		\label{fig:mesh26}
 	\end{wrapfigure}
 	

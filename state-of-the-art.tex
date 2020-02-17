@@ -15,8 +15,6 @@
 
 \subsection{Features and methods}
 \label{subsection:features-and-methods}
-
-
 	
 	In the literature, numerous articles have been published related to \acrshort{asc} field. These can be sorted into two different trends based on how the problem is addressed. One of them considers the scene as a single instance with the purpose of representing it through a long-term statistical distribution that models a set of low-level features \cite{Stowell2015}. An acoustic event can be characterized in different ways for this type of method. In previous works, feature extraction methods imported from the field of speech recognition played a main role in this field too, such as the \acrfull{f0}, the \acrshort{f0} envelope and the probability of voicing. Apart from these, also spectral features, as Mel-Spectrum bins, \acrfull{zcr} and \acrfull{sf}, and energy features, such as the energy in bands or the logarithmic-energy \cite{Geiger2013} had an important function on this task. However, the best results have been achieved with the so-called  \acrfull{mfcc}, defined as a cepstral feature\todo{Explain more MFCC? CPM: acuérdate de esto.}, \doubt{which will be explained further on. CPM: sí, referencia dónde lo has puesto}. This kind of characteristics extracted from the audio can be called low-level descriptors and they are usually combined with algorithms and methods to address the classification task. In this "bag-of-frames" approach, in which the scene is considered as a single object, a typical technique was to model the samples features into global statistical characteristics from the local descriptors by using \acrfull{gmm} \cite{Aucouturier2007}. \todo{CPM: aquí hay cosas redundantes con la sección 2.1.1 que te propongo que se transforme en 2.2}
 	
