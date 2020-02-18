@@ -61,58 +61,58 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {5.3}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{50}{figure.caption.65}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{51}{figure.caption.66}% 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{51}{figure.caption.69}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Confusion matrix for the test set for the SVM multiclass classification\relax }}{51}{figure.caption.67}% 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Confusion matrix for the test set for the SVM multiclass classification\relax }}{51}{figure.caption.70}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Accuracy values for the three sets for the SVM multiclass classification\relax }}{52}{figure.caption.68}% 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Accuracy values for the three sets for the SVM multiclass classification\relax }}{52}{figure.caption.71}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Confusion matrices for SVM multiclass + SVM binary classification\relax }}{53}{figure.caption.69}% 
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Confusion matrices for SVM multiclass + SVM binary classification\relax }}{53}{figure.caption.73}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Confusion matrix for the test set for the SVM multiclass + SVM binary classification\relax }}{54}{figure.caption.70}% 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Confusion matrix for the test set for the SVM multiclass + SVM binary classification\relax }}{54}{figure.caption.74}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Accuracy values for the three sets for the SVM multiclass + SVM binary classification\relax }}{55}{figure.caption.71}% 
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Accuracy values for the three sets for the SVM multiclass + SVM binary classification\relax }}{55}{figure.caption.76}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.10}{\ignorespaces LSTM architecture\relax }}{55}{figure.caption.72}% 
+\contentsline {figure}{\numberline {5.10}{\ignorespaces LSTM architecture\relax }}{55}{figure.caption.78}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Confusion matrices for LSTM multiclass classification for train and validation sets\relax }}{56}{figure.caption.74}% 
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Confusion matrices for LSTM multiclass classification for train and validation sets\relax }}{56}{figure.caption.80}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass classification\relax }}{57}{figure.caption.75}% 
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass classification\relax }}{57}{figure.caption.81}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass classification\relax }}{57}{figure.caption.76}% 
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass classification\relax }}{57}{figure.caption.82}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Confusion matrices for LSTM multiclass + SVM binary classification\relax }}{58}{figure.caption.77}% 
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Confusion matrices for LSTM multiclass + SVM binary classification\relax }}{58}{figure.caption.84}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass + SVM binary classification\relax }}{59}{figure.caption.78}% 
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass + SVM binary classification\relax }}{59}{figure.caption.85}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.16}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass + SVM binary classification\relax }}{59}{figure.caption.79}% 
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass + SVM binary classification\relax }}{59}{figure.caption.86}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.17}{\ignorespaces Confusion matrices for CNN multiclass classification for train and validation sets\relax }}{60}{figure.caption.80}% 
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Confusion matrices for CNN multiclass classification for train and validation sets\relax }}{60}{figure.caption.87}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.18}{\ignorespaces Confusion matrix for the test set for the CNN multiclass classification\relax }}{61}{figure.caption.81}% 
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Confusion matrix for the test set for the CNN multiclass classification\relax }}{61}{figure.caption.88}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.19}{\ignorespaces Accuracy values for the three sets for the CNN multiclass classification\relax }}{61}{figure.caption.82}% 
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Accuracy values for the three sets for the CNN multiclass classification\relax }}{61}{figure.caption.89}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.20}{\ignorespaces Confusion matrices for CNN multiclass + SVM binary classification\relax }}{62}{figure.caption.83}% 
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Confusion matrices for CNN multiclass + SVM binary classification\relax }}{62}{figure.caption.90}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.21}{\ignorespaces Confusion matrix for the test set for the CNN multiclass + SVM binary classification\relax }}{63}{figure.caption.84}% 
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Confusion matrix for the test set for the CNN multiclass + SVM binary classification\relax }}{63}{figure.caption.91}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.22}{\ignorespaces Accuracy values for the three sets for the CNN multiclass + SVM binary classification\relax }}{63}{figure.caption.85}% 
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Accuracy values for the three sets for the CNN multiclass + SVM binary classification\relax }}{63}{figure.caption.92}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.23}{\ignorespaces Test confusion matrices\relax }}{66}{figure.caption.88}% 
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Test confusion matrices\relax }}{66}{figure.caption.95}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {24}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.94}% 
+\contentsline {figure}{\numberline {24}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.101}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {25}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.95}% 
+\contentsline {figure}{\numberline {25}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.102}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {26}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.96}% 
+\contentsline {figure}{\numberline {26}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.103}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {27}{\ignorespaces Cross-entropy loss function when the true label is equals to 1. As the probability of the predicted class approaches to 1, the loss function tends to zero. However, if it the probability is closer to 0.0, then the loss function increases heavily \cite {MLGlossary2017}.\relax }}{}{figure.caption.97}% 
+\contentsline {figure}{\numberline {27}{\ignorespaces Cross-entropy loss function when the true label is equals to 1. As the probability of the predicted class approaches to 1, the loss function tends to zero. However, if it the probability is closer to 0.0, then the loss function increases heavily \cite {MLGlossary2017}.\relax }}{}{figure.caption.104}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {28}{\ignorespaces Audio signal in time domain\relax }}{}{figure.caption.98}% 
+\contentsline {figure}{\numberline {28}{\ignorespaces Audio signal in time domain\relax }}{}{figure.caption.105}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {29}{\ignorespaces STFT \cite {Gao2006}\relax }}{}{figure.caption.99}% 
+\contentsline {figure}{\numberline {29}{\ignorespaces STFT \cite {Gao2006}\relax }}{}{figure.caption.106}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {30}{\ignorespaces Spectrogram of an audio signal. The x-axis corresponds to the time, the y-axis to the frequency and the colour of the plot to the amplitude by following the colour bar on the right.\relax }}{}{figure.caption.100}% 
+\contentsline {figure}{\numberline {30}{\ignorespaces Spectrogram of an audio signal. The x-axis corresponds to the time, the y-axis to the frequency and the colour of the plot to the amplitude by following the colour bar on the right.\relax }}{}{figure.caption.107}% 
 \contentsfinish 
 \contentsfinish 

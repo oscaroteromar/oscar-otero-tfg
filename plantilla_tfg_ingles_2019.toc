@@ -91,7 +91,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}Comparison and conclusion}{64}{section.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{71}{chapter*.91}% 
+\contentsline {chapter}{Bibliography}{71}{chapter*.98}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {.1}Metrics}{}{section.Alph0.1}% 
 \defcounter {refsection}{0}\relax 
