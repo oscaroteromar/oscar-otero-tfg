@@ -1157,6 +1157,129 @@
       \endverb
       \keyw{Acoustic Event Detection,Artificial neural network,Feature selection,Gaussian mixture model supervector,Hidden markov model,Tandem model}
     \endentry
+    \entry{Ren2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3d326777e85aa223e8bcb79db34b8722}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Zhao},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ed01687b397aa60f29b0b4e861ac6a2d}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Qiuqiang},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=5273a7d424da234bdc94a77e1ea5b44b}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Kun},
+           giveni={K\bibinitperiod}}}%
+        {{hash=af302f6b1171db4b3b2979f068a9bafe}{%
+           family={Plumbley},
+           familyi={P\bibinitperiod},
+           given={Mark\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=08faf7f14620768f0df5377488f8f73b}{%
+           family={Schuller},
+           familyi={S\bibinitperiod},
+           given={Bj{ö}rn\bibnamedelima W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{c63c1e241d097bad07e58b0f3de08efe}
+      \strng{fullhash}{2aed486e06db5dc64edee6207469d9ad}
+      \strng{bibnamehash}{2aed486e06db5dc64edee6207469d9ad}
+      \strng{authorbibnamehash}{2aed486e06db5dc64edee6207469d9ad}
+      \strng{authornamehash}{c63c1e241d097bad07e58b0f3de08efe}
+      \strng{authorfullhash}{2aed486e06db5dc64edee6207469d9ad}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ATTENTION-BASED CONVOLUTIONAL NEURAL NETWORKS FOR ACOUSTIC SCENE CLASSIFICATION}}
+      \field{year}{2018}
+    \endentry
+    \entry{Cramer2019}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e3e363c2f61a35365aff8307c03861b0}{%
+           family={Cramer},
+           familyi={C\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f6a8390227f296a24935c36a0288ab74}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Ho\bibnamedelima Hsiang},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=6f29e3fb8b241a304c6a9778479b58d2}{%
+           family={Salamon},
+           familyi={S\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dc1dca849ac4954f3a5b35d55cd40631}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e6daa751f60a7530f9c7824c7e7c37c}
+      \strng{fullhash}{cd929bb8080f45eb200f5f8a43873185}
+      \strng{bibnamehash}{cd929bb8080f45eb200f5f8a43873185}
+      \strng{authorbibnamehash}{cd929bb8080f45eb200f5f8a43873185}
+      \strng{authornamehash}{8e6daa751f60a7530f9c7824c7e7c37c}
+      \strng{authorfullhash}{cd929bb8080f45eb200f5f8a43873185}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A considerable challenge in applying deep learning to audio classification is the scarcity of labeled data. An increasingly popular solution is to learn deep audio embeddings from large audio collections and use them to train shallow classifiers using small labeled datasets. Look, Listen, and Learn (L3-Net) is an embedding trained through self-supervised learning of audio-visual correspondence in videos as opposed to other embeddings requiring labeled data. This framework has the potential to produce powerful out-of-the-box embeddings for downstream audio classification tasks, but has a number of unexplained design choices that may impact the embeddings' behavior. In this paper we investigate how L3-Net design choices impact the performance of downstream audio classifiers trained with these embeddings. We show that audio-informed choices of input representation are important, and that using sufficient data for training the embedding is key. Surprisingly, we find that matching the content for training the embedding to the downstream task is not beneficial. Finally, we show that our best variant of the L3-Net embedding outperforms both the VGGish and SoundNet embeddings, while having fewer parameters and being trained on less data. Our implementation of the L3-Net embedding model as well as pre-trained models are made freely available online.}
+      \field{booktitle}{ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings}
+      \field{isbn}{9781479981311}
+      \field{issn}{15206149}
+      \field{title}{{Look, Listen, and Learn More: Design Choices for Deep Audio Embeddings}}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1109/ICASSP.2019.8682475
+      \endverb
+      \keyw{Audio classification,deep audio embeddings,deep learning,machine listening,transfer learning}
+    \endentry
+    \entry{Aytar2016}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=849e55f41f7cf2c528a25a5d904adb90}{%
+           family={Aytar},
+           familyi={A\bibinitperiod},
+           given={Yusuf},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ce5550f8b9b930b07de1681387feb3fa}{%
+           family={Vondrick},
+           familyi={V\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2a80dd1cae02059e95bfed2f2715fd0a}{%
+           family={Torralba},
+           familyi={T\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
+      \strng{fullhash}{c5e4f71bd4434b12d6c6968ba9aafd16}
+      \strng{bibnamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
+      \strng{authorbibnamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
+      \strng{authornamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
+      \strng{authorfullhash}{c5e4f71bd4434b12d6c6968ba9aafd16}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We learn rich natural sound representations by capitalizing on large amounts of unlabeled sound data collected in the wild. We leverage the natural synchronization between vision and sound to learn an acoustic representation using two-million unlabeled videos. Unlabeled video has the advantage that it can be economically acquired at massive scales, yet contains useful signals about natural sound. We propose a student-teacher training procedure which transfers discriminative visual knowledge from well established visual recognition models into the sound modality using unlabeled video as a bridge. Our sound representation yields significant performance improvements over the state-of-the-art results on standard benchmarks for acoustic scene/object classification. Visualizations suggest some high-level semantics automatically emerge in the sound network, even though it is trained without ground truth labels.}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{eprinttype}{arXiv}
+      \field{issn}{10495258}
+      \field{title}{{SoundNet: Learning sound representations from unlabeled video}}
+      \field{year}{2016}
+      \verb{eprint}
+      \verb 1610.09001
+      \endverb
+    \endentry
     \entry{Henaff2011}{inproceedings}{}
       \name{author}{4}{}{%
         {{hash=401562d96db136e78effff95552f584b}{%
@@ -1186,8 +1309,8 @@
       \strng{authorbibnamehash}{aa617037b675581fa02105dff81ab452}
       \strng{authornamehash}{0220a155f993894332b4d93a208e4c93}
       \strng{authorfullhash}{aa617037b675581fa02105dff81ab452}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this work we present a system to automatically learn features from audio in an unsupervised manner. Our method first learns an overcomplete dictionary which can be used to sparsely decompose log-scaled spectrograms. It then trains an efficient encoder which quickly maps new inputs to approximations of their sparse representations using the learned dictionary. This avoids expensive iterative procedures usually required to infer sparse codes. We then use these sparse codes as inputs for a linear Support Vector Machine (SVM). Our system achieves 83.4{\%} accuracy in predicting genres on the GTZAN dataset, which is competitive with current state-of-the-art approaches. Furthermore, the use of a simple linear classifier combined with a fast feature extraction system allows our approach to scale well to large datasets. {©} 2011 International Society for Music Information Retrieval.}
@@ -1272,88 +1395,6 @@
       \verb 10.1109/WASPAA.2013.6701893
       \endverb
       \keyw{acoustic scene classification,environmental sound,event detection,feature learning,max-pooling,restricted Boltzmann machine,sparse feature representation}
-    \endentry
-    \entry{Cramer2019}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=e3e363c2f61a35365aff8307c03861b0}{%
-           family={Cramer},
-           familyi={C\bibinitperiod},
-           given={Jason},
-           giveni={J\bibinitperiod}}}%
-        {{hash=f6a8390227f296a24935c36a0288ab74}{%
-           family={Wu},
-           familyi={W\bibinitperiod},
-           given={Ho\bibnamedelima Hsiang},
-           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=6f29e3fb8b241a304c6a9778479b58d2}{%
-           family={Salamon},
-           familyi={S\bibinitperiod},
-           given={Justin},
-           giveni={J\bibinitperiod}}}%
-        {{hash=dc1dca849ac4954f3a5b35d55cd40631}{%
-           family={Bello},
-           familyi={B\bibinitperiod},
-           given={Juan\bibnamedelima Pablo},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \strng{namehash}{8e6daa751f60a7530f9c7824c7e7c37c}
-      \strng{fullhash}{cd929bb8080f45eb200f5f8a43873185}
-      \strng{bibnamehash}{cd929bb8080f45eb200f5f8a43873185}
-      \strng{authorbibnamehash}{cd929bb8080f45eb200f5f8a43873185}
-      \strng{authornamehash}{8e6daa751f60a7530f9c7824c7e7c37c}
-      \strng{authorfullhash}{cd929bb8080f45eb200f5f8a43873185}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A considerable challenge in applying deep learning to audio classification is the scarcity of labeled data. An increasingly popular solution is to learn deep audio embeddings from large audio collections and use them to train shallow classifiers using small labeled datasets. Look, Listen, and Learn (L3-Net) is an embedding trained through self-supervised learning of audio-visual correspondence in videos as opposed to other embeddings requiring labeled data. This framework has the potential to produce powerful out-of-the-box embeddings for downstream audio classification tasks, but has a number of unexplained design choices that may impact the embeddings' behavior. In this paper we investigate how L3-Net design choices impact the performance of downstream audio classifiers trained with these embeddings. We show that audio-informed choices of input representation are important, and that using sufficient data for training the embedding is key. Surprisingly, we find that matching the content for training the embedding to the downstream task is not beneficial. Finally, we show that our best variant of the L3-Net embedding outperforms both the VGGish and SoundNet embeddings, while having fewer parameters and being trained on less data. Our implementation of the L3-Net embedding model as well as pre-trained models are made freely available online.}
-      \field{booktitle}{ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings}
-      \field{isbn}{9781479981311}
-      \field{issn}{15206149}
-      \field{title}{{Look, Listen, and Learn More: Design Choices for Deep Audio Embeddings}}
-      \field{year}{2019}
-      \verb{doi}
-      \verb 10.1109/ICASSP.2019.8682475
-      \endverb
-      \keyw{Audio classification,deep audio embeddings,deep learning,machine listening,transfer learning}
-    \endentry
-    \entry{Aytar2016}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=849e55f41f7cf2c528a25a5d904adb90}{%
-           family={Aytar},
-           familyi={A\bibinitperiod},
-           given={Yusuf},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=ce5550f8b9b930b07de1681387feb3fa}{%
-           family={Vondrick},
-           familyi={V\bibinitperiod},
-           given={Carl},
-           giveni={C\bibinitperiod}}}%
-        {{hash=2a80dd1cae02059e95bfed2f2715fd0a}{%
-           family={Torralba},
-           familyi={T\bibinitperiod},
-           given={Antonio},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
-      \strng{fullhash}{c5e4f71bd4434b12d6c6968ba9aafd16}
-      \strng{bibnamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
-      \strng{authorbibnamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
-      \strng{authornamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
-      \strng{authorfullhash}{c5e4f71bd4434b12d6c6968ba9aafd16}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We learn rich natural sound representations by capitalizing on large amounts of unlabeled sound data collected in the wild. We leverage the natural synchronization between vision and sound to learn an acoustic representation using two-million unlabeled videos. Unlabeled video has the advantage that it can be economically acquired at massive scales, yet contains useful signals about natural sound. We propose a student-teacher training procedure which transfers discriminative visual knowledge from well established visual recognition models into the sound modality using unlabeled video as a bridge. Our sound representation yields significant performance improvements over the state-of-the-art results on standard benchmarks for acoustic scene/object classification. Visualizations suggest some high-level semantics automatically emerge in the sound network, even though it is trained without ground truth labels.}
-      \field{booktitle}{Advances in Neural Information Processing Systems}
-      \field{eprinttype}{arXiv}
-      \field{issn}{10495258}
-      \field{title}{{SoundNet: Learning sound representations from unlabeled video}}
-      \field{year}{2016}
-      \verb{eprint}
-      \verb 1610.09001
-      \endverb
     \endentry
     \entry{Pan2010}{misc}{}
       \name{author}{2}{}{%
@@ -1687,8 +1728,8 @@
       \strng{authorbibnamehash}{7a52fc90ff014c90d4b2e38788725d89}
       \strng{authornamehash}{a08c26f45ac7720fc96440b4ea7ebebb}
       \strng{authorfullhash}{ffe4ce4907b163158e179e33d2499150}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Detecting violence is an important task due to the amount of people who suffer its effects daily. There is a tendency to focus the problem either in real situations or in non real ones, but both of them are useful on its own right. Until this day there has not been clear effort to try to relate both environments. In this work we try to detect violent situations on two different acoustic databases through the use of crossed information from one of them into the other. The system has been divided into three stages: feature extraction, feature selection based on genetic algorithms and classification to take a binary decision. Results focus on comparing performance loss when a database is evaluated with features selected on itself, or selection based in the other database. In general, complex classifiers tend to suffer higher losses, whereas simple classifiers, such as linear and quadratic detectors, offers less than a 10{\%} loss in most situations.}
@@ -2011,8 +2052,8 @@
       \strng{authorbibnamehash}{d78ce7a9be213be35fbe009a089746ae}
       \strng{authornamehash}{d78ce7a9be213be35fbe009a089746ae}
       \strng{authorfullhash}{d78ce7a9be213be35fbe009a089746ae}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{IEEE AASP Challenge: Detection and Classification of Acoustic Scenes and Events}}
@@ -2292,8 +2333,8 @@
       \strng{authorbibnamehash}{81e64b4a249abb83bba2de4e32497d0c}
       \strng{authornamehash}{81e64b4a249abb83bba2de4e32497d0c}
       \strng{authorfullhash}{81e64b4a249abb83bba2de4e32497d0c}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{TensorFlow [1] is an interface for expressing machine learn-ing algorithms, and an implementation for executing such al-gorithms. A computation expressed using TensorFlow can be executed with little or no change on a wide variety of hetero-geneous systems, ranging from mobile devices such as phones and tablets up to large-scale distributed systems of hundreds of machines and thousands of computational devices such as GPU cards. The system is flexible and can be used to express a wide variety of algorithms, including training and inference algorithms for deep neural network models, and it has been used for conducting research and for deploying machine learn-ing systems into production across more than a dozen areas of computer science and other fields, including speech recogni-tion, computer vision, robotics, information retrieval, natural language processing, geographic information extraction, and computational drug discovery. This paper describes the Ten-sorFlow interface and an implementation of that interface that we have built at Google. The TensorFlow API and a reference implementation were released as an open-source package under the Apache 2.0 license in November, 2015 and are available at www.tensorflow.org.}

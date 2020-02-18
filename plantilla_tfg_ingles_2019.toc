@@ -15,23 +15,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}\acrlong {asc} and \acrlong {aedc}}{3}{section.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Features and methods}{3}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}Features and methods for \acrshort {asc} and \acrshort {aedc}}{3}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Features}{4}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.1}Transfer learning}{10}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Classification models}{9}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {2.3}Violent Event Detection}{11}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Features and methods}{9}{subsection.2.2.3}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}Transfer learning}{10}{subsection.2.2.4}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Violent Event Detection}{12}{section.2.3}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Gender-based violence}{13}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.1}Gender-based violence}{12}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.2}Our point of view}{13}{subsection.2.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Databases}{14}{section.2.4}% 
+\contentsline {section}{\numberline {2.4}Databases}{13}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Resources and Methods for Acoustic Violent Detection}{16}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
@@ -61,13 +55,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Violent classes}{31}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Downloading videos}{32}{figure.caption.55}% 
+\contentsline {subsubsection}{Downloading videos}{32}{figure.caption.47}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}Extracting embeddings}{33}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.3}Assessing the differences between the two types of data access}{34}{subsection.4.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dimensionality reduction for visualization}{36}{figure.caption.59}% 
+\contentsline {subsubsection}{Dimensionality reduction for visualization}{36}{figure.caption.51}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Methodology}{39}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
@@ -97,7 +91,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}Comparison and conclusion}{64}{section.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{71}{chapter*.105}% 
+\contentsline {chapter}{Bibliography}{71}{chapter*.97}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {.1}Metrics}{}{section.Alph0.1}% 
 \defcounter {refsection}{0}\relax 
