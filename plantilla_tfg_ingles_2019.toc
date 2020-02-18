@@ -55,13 +55,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Violent classes}{31}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Downloading videos}{32}{figure.caption.45}% 
+\contentsline {subsubsection}{Downloading videos}{32}{figure.caption.42}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}Extracting embeddings}{33}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.3}Assessing the differences between the two types of data access}{34}{subsection.4.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dimensionality reduction for visualization}{36}{figure.caption.49}% 
+\contentsline {subsubsection}{Dimensionality reduction for visualization}{36}{figure.caption.46}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Methodology}{39}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
@@ -91,7 +91,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}Comparison and conclusion}{64}{section.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{71}{chapter*.95}% 
+\contentsline {chapter}{Bibliography}{71}{chapter*.91}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {.1}Metrics}{}{section.Alph0.1}% 
 \defcounter {refsection}{0}\relax 
