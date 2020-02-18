@@ -105,7 +105,7 @@
 	Then, the categorical cross-entropy is a combination of softmax and the cross-entropy loss.
 	
 \section{Spectrogram and Mel scale}
-\label{section:spectrogram-mel-scale}
+\label{appendix:spectrogram-mel-scale}
 
 	In his natural conditions and how humans understand audio when we hear it, it can be interpreted as a succession of sounds that depend on time. Actually, what happens during a recording process is that the signal registered is nothing but the variation of the values that represent the changes in the acoustic pressure along time, what is usually called the amplitude of the signal. This is what we see when visualizing a raw audio file in its original form, i.e. in the time-domain \cite{Laskaris2019}, as in figure \ref{fig:mesh49}.
 	
@@ -145,9 +145,9 @@
 
 	When dealing with audio learning tasks a really important magnitude that usually is employed is the Mel scale. This is the result of applying a non-linear transformation to the frequency scale. It has been used successfully in plenty of occasions because its understanding of sounds in a very similar way as how humans do \cite{Gartzman2019}. This is done by considering the fact that we are more capable of differentiating little changes on pitch at low frequencies than at high frequencies. The following formula is the way to convert from frequency to mel scale \cite{Beranek1950}:
 	
-	\[M(f) = 1127 \ln{1 + \frac{f}{700}}\]
+	\[M(f) = 1127 \ln{(1 + \frac{f}{700})}\]
 	
-	This same idea of applying the human understanding of sounds has also been used to generate the \acrfull{mfcc}, which have been widely used in speech problems. The first thing to understand in this field is that the sounds we produce are filtered somehow by the entire oral cavity. If a similar representation could be modelled in an artificial system, a more accurate depiction of the sound pronounced could be achieved. Actually, the envelope of the short time power spectrum of the signal can be considered as the shape of this filter and it can be reliably represented by the \acrshort{mfcc}, so useful information can be deduced from them. This type of features have been extensively used for several fields such as automatic speech generation or speaker recognition. \todo{cite!} 
+	This same idea of applying the human understanding of sounds has also been used to generate the \acrfull{mfcc}, which have been widely used in speech problems. The first thing to understand in this field is that the sounds we produce are filtered somehow by the entire oral cavity. If a similar representation could be modelled in an artificial system, a more accurate depiction of the sound pronounced could be achieved. Actually, the envelope of the short time power spectrum of the signal can be considered as the shape of this filter and it can be reliably represented by the \acrshort{mfcc}, so useful information can be deduced from them. This type of features have been extensively used for several fields such as automatic speech generation or speaker recognition \cite{Giannakopoulos2014}. 
 	
 	
 	

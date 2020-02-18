@@ -1,5 +1,9 @@
 % !TeX spellcheck = en_GB
 
+	\label{chapter:our-approach-for-avd}
+	
+	For our final approach when implementing this system of acoustic gender-based violence detection we first need to select the classes we are going to use for the classification so as to obtain the corresponding embedding features with \acrshort{vgg}ish from the audio data, obtained from the database explained in section \ref{section:audioset}. Then, a supervised multiclass classification is performed for the different events and, finally, the soft output from this step is used as an input for a binary classifier so we can differentiate the audio from violent and non-violent.
+	
 	In this chapter we want to make clear why we think that the \acrshort{vgg}ish network is a good option for our problem in \ref{section:why-vggish}. Then, the procedure when starting to prepare the data and to extract the feature embeddings with this model is included in \ref{section:our-approach}. Also, the demonstration of the similarity between both types of embeddings previously mentioned in \ref{subsection:data-access} is described in \ref{subsection:exploring-differences-between-two-types-of-data-access}. Finally, the last section \ref{section:models} includes an explanation of the different algorithms that we use for the experiments explained in chapter \ref{chapter:experiments}.
 
 \section{Why \acrshort{vgg}ish}
@@ -222,7 +226,7 @@
 			\includegraphics[width=0.5\linewidth]{TF-perp-50}
 		\end{subfigure}
 		\caption{t-SNE results for .\textit{tfrecord} format with a legend that shows the labels of the corresponding samples in the original 128D space}
-		\label{fig:mesh}
+		\label{fig:mesh52}
 	\end{figure}
 
 \section{Methodology}
