@@ -5,114 +5,114 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Framework for ASC addressing the idea of BOF and using a GMM to obtain statistical representation of the low-level features. $S_{\Lambda q} $ are the original labelled samples in the training set and $S_{n,\Lambda q}$ multimodal distributions for these samples. $x_{n,\Lambda q}$ are the features extracted with an operator $T$ which are taken by an operator $S$ to learn the global model $M$. Then, in the testing process, a likelihood measure $G$ is used in order to classify the \textit {new} sample.\relax }}{6}{figure.caption.20}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Framework for ASC addressing the idea of BOF and using a GMM to obtain statistical representation of the low-level features. $S_{\Lambda q} $ are the original labelled samples in the training set and $S_{n,\Lambda q}$ multimodal distributions for these samples. $x_{n,\Lambda q}$ are the features extracted with an operator $T$ which are taken by an operator $S$ to learn the global model $M$. Then, in the testing process, a likelihood measure $G$ is used in order to classify the \textit {new} sample.\relax }}{6}{figure.caption.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Difference between traditional machine learning (a) process and feature learning (b) \cite {Pan2010}\relax }}{10}{figure.caption.26}% 
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces First two layers of Audio Set Ontology \cite {Gemmeke2017}\relax }}{18}{figure.caption.35}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Comparison between shallow networks and deep neural networks \cite {Di2018}\relax }}{21}{figure.caption.37}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Movement of the kernel represented as a red block along the width and the height of the original input image. It is clear that it finally occupies the whole depth of the input image. The arrow indicates an approximation of the movement that the filter follows \cite {Saha2018}.\relax }}{23}{figure.caption.40}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Max-pooling operation with a filter size of 2 and a stride of 2 for a single depth filter. Each colour represents the action portion for each operation \cite {Karpathy2016}\relax }}{24}{figure.caption.42}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Representation of a typical CNN model \cite {Hinz2016}\relax }}{25}{figure.caption.43}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces VGGish architecture\relax }}{28}{figure.caption.45}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Difference between traditional machine learning (a) process and feature learning (b) \cite {Pan2010}\relax }}{10}{figure.caption.25}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Flowchart about selecting violent classes\relax }}{32}{figure.caption.47}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces First two layers of Audio Set Ontology \cite {Gemmeke2017}\relax }}{18}{figure.caption.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Confusion matrices\relax }}{35}{figure.caption.49}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Comparison between shallow networks and deep neural networks \cite {Di2018}\relax }}{21}{figure.caption.35}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Architecture to see how the different embeddings work\relax }}{36}{figure.caption.51}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Movement of the kernel represented as a red block along the width and the height of the original input image. It is clear that it finally occupies the whole depth of the input image. The arrow indicates an approximation of the movement that the filter follows \cite {Saha2018}.\relax }}{23}{figure.caption.38}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces t-SNE results for wav format with a legend that shows the labels of the corresponding samples in the original 128D space\relax }}{38}{figure.caption.52}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Max-pooling operation with a filter size of 2 and a stride of 2 for a single depth filter. Each colour represents the action portion for each operation \cite {Karpathy2016}\relax }}{24}{figure.caption.40}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces t-SNE results for .\textit {tfrecord} format with a legend that shows the labels of the corresponding samples in the original 128D space\relax }}{39}{figure.caption.54}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Representation of a typical CNN model \cite {Hinz2016}\relax }}{25}{figure.caption.41}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces SMOTE algorithm \cite {Xie2015}\relax }}{40}{figure.caption.56}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Visualization of a hyperplane set by \acrshort {svm} and other decision boundaries \cite {Drakos2018}\relax }}{41}{figure.caption.57}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Scheme or a recurrent neural network about how the loop works \relax }}{42}{figure.caption.58}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Example of long-term dependencies situation. If the predicted output h\textsubscript {n-1} depends on x\textsubscript {0} and x\textsubscript {1}, the vanishing gradient problem may appear.\relax }}{42}{figure.caption.59}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.10}{\ignorespaces LSTM module with the representation of the different operations that take place inside of it\relax }}{43}{figure.caption.60}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Forget gate\relax }}{43}{figure.caption.61}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Input gate\relax }}{44}{figure.caption.62}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Output gate\relax }}{45}{figure.caption.65}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Cell state\relax }}{45}{figure.caption.63}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces VGGish architecture\relax }}{28}{figure.caption.43}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Bar plot that shows the number of samples for each of the selected classes. Clearly, the violent categories are much less populated than the others, that did not have to much any semantic criteria\relax }}{48}{figure.caption.68}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Flowchart about selecting violent classes\relax }}{32}{figure.caption.45}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Number of observations for train, validation and test subsets used in the different experiments\relax }}{49}{figure.caption.69}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Confusion matrices\relax }}{35}{figure.caption.47}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{50}{figure.caption.71}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Architecture to see how the different embeddings work\relax }}{36}{figure.caption.49}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{51}{figure.caption.72}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces t-SNE results for wav format with a legend that shows the labels of the corresponding samples in the original 128D space\relax }}{38}{figure.caption.50}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Confusion matrix for the test set for the SVM multiclass classification\relax }}{51}{figure.caption.73}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces t-SNE results for .\textit {tfrecord} format with a legend that shows the labels of the corresponding samples in the original 128D space\relax }}{39}{figure.caption.52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Accuracy values for the three sets for the SVM multiclass classification\relax }}{52}{figure.caption.74}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces SMOTE algorithm \cite {Xie2015}\relax }}{40}{figure.caption.54}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Confusion matrices for SVM multiclass + SVM binary classification\relax }}{53}{figure.caption.75}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Visualization of a hyperplane set by \acrshort {svm} and other decision boundaries \cite {Drakos2018}\relax }}{41}{figure.caption.55}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Confusion matrix for the test set for the SVM multiclass + SVM binary classification\relax }}{54}{figure.caption.76}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Scheme or a recurrent neural network about how the loop works \relax }}{42}{figure.caption.56}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Accuracy values for the three sets for the SVM multiclass + SVM binary classification\relax }}{55}{figure.caption.77}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Example of long-term dependencies situation. If the predicted output h\textsubscript {n-1} depends on x\textsubscript {0} and x\textsubscript {1}, the vanishing gradient problem may appear.\relax }}{42}{figure.caption.57}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.10}{\ignorespaces LSTM architecture\relax }}{55}{figure.caption.78}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces LSTM module with the representation of the different operations that take place inside of it\relax }}{43}{figure.caption.58}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Confusion matrices for LSTM multiclass classification for train and validation sets\relax }}{56}{figure.caption.80}% 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Forget gate\relax }}{43}{figure.caption.59}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass classification\relax }}{57}{figure.caption.81}% 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Input gate\relax }}{44}{figure.caption.60}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass classification\relax }}{57}{figure.caption.82}% 
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Output gate\relax }}{45}{figure.caption.63}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Confusion matrices for LSTM multiclass + SVM binary classification\relax }}{58}{figure.caption.83}% 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Cell state\relax }}{45}{figure.caption.61}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass + SVM binary classification\relax }}{59}{figure.caption.84}% 
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.16}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass + SVM binary classification\relax }}{59}{figure.caption.85}% 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Bar plot that shows the number of samples for each of the selected classes. Clearly, the violent categories are much less populated than the others, that did not have to much any semantic criteria\relax }}{48}{figure.caption.66}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.17}{\ignorespaces Confusion matrices for CNN multiclass classification for train and validation sets\relax }}{60}{figure.caption.86}% 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Number of observations for train, validation and test subsets used in the different experiments\relax }}{49}{figure.caption.67}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.18}{\ignorespaces Confusion matrix for the test set for the CNN multiclass classification\relax }}{61}{figure.caption.87}% 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{50}{figure.caption.69}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.19}{\ignorespaces Accuracy values for the three sets for the CNN multiclass classification\relax }}{61}{figure.caption.88}% 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Confusion matrices for SVM multiclass classification for train and validation sets\relax }}{51}{figure.caption.70}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.20}{\ignorespaces Confusion matrices for CNN multiclass + SVM binary classification\relax }}{62}{figure.caption.89}% 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Confusion matrix for the test set for the SVM multiclass classification\relax }}{51}{figure.caption.71}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.21}{\ignorespaces Confusion matrix for the test set for the CNN multiclass + SVM binary classification\relax }}{63}{figure.caption.90}% 
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Accuracy values for the three sets for the SVM multiclass classification\relax }}{52}{figure.caption.72}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.22}{\ignorespaces Accuracy values for the three sets for the CNN multiclass + SVM binary classification\relax }}{63}{figure.caption.91}% 
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Confusion matrices for SVM multiclass + SVM binary classification\relax }}{53}{figure.caption.73}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.23}{\ignorespaces Test confusion matrices\relax }}{66}{figure.caption.94}% 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Confusion matrix for the test set for the SVM multiclass + SVM binary classification\relax }}{54}{figure.caption.74}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {24}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.100}% 
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Accuracy values for the three sets for the SVM multiclass + SVM binary classification\relax }}{55}{figure.caption.75}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {25}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.101}% 
+\contentsline {figure}{\numberline {5.10}{\ignorespaces LSTM architecture\relax }}{55}{figure.caption.76}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {26}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.102}% 
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Confusion matrices for LSTM multiclass classification for train and validation sets\relax }}{56}{figure.caption.78}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {27}{\ignorespaces Cross-entropy loss function when the true label is equals to 1. As the probability of the predicted class approaches to 1, the loss function tends to zero. However, if it the probability is closer to 0.0, then the loss function increases heavily \cite {MLGlossary2017}.\relax }}{}{figure.caption.103}% 
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass classification\relax }}{57}{figure.caption.79}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {28}{\ignorespaces Audio signal in time domain\relax }}{}{figure.caption.104}% 
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass classification\relax }}{57}{figure.caption.80}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {29}{\ignorespaces STFT \cite {Gao2006}\relax }}{}{figure.caption.105}% 
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Confusion matrices for LSTM multiclass + SVM binary classification\relax }}{58}{figure.caption.81}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {30}{\ignorespaces Spectrogram of an audio signal. The x-axis corresponds to the time, the y-axis to the frequency and the colour of the plot to the amplitude by following the colour bar on the right.\relax }}{}{figure.caption.106}% 
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Confusion matrix for the test set for the LSTM multiclass + SVM binary classification\relax }}{59}{figure.caption.82}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Accuracy values for the three sets for the LSTM multiclass + SVM binary classification\relax }}{59}{figure.caption.83}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Confusion matrices for CNN multiclass classification for train and validation sets\relax }}{60}{figure.caption.84}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Confusion matrix for the test set for the CNN multiclass classification\relax }}{61}{figure.caption.85}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Accuracy values for the three sets for the CNN multiclass classification\relax }}{61}{figure.caption.86}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Confusion matrices for CNN multiclass + SVM binary classification\relax }}{62}{figure.caption.87}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Confusion matrix for the test set for the CNN multiclass + SVM binary classification\relax }}{63}{figure.caption.88}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Accuracy values for the three sets for the CNN multiclass + SVM binary classification\relax }}{63}{figure.caption.89}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Test confusion matrices\relax }}{66}{figure.caption.92}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {24}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.98}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {25}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.99}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {26}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.100}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {27}{\ignorespaces Cross-entropy loss function when the true label is equals to 1. As the probability of the predicted class approaches to 1, the loss function tends to zero. However, if it the probability is closer to 0.0, then the loss function increases heavily \cite {MLGlossary2017}.\relax }}{}{figure.caption.101}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {28}{\ignorespaces Audio signal in time domain\relax }}{}{figure.caption.102}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {29}{\ignorespaces STFT \cite {Gao2006}\relax }}{}{figure.caption.103}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {30}{\ignorespaces Spectrogram of an audio signal. The x-axis corresponds to the time, the y-axis to the frequency and the colour of the plot to the amplitude by following the colour bar on the right.\relax }}{}{figure.caption.104}% 
 \contentsfinish 
 \contentsfinish 

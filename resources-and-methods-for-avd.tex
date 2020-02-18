@@ -1,6 +1,6 @@
 % !TeX spellcheck = en_GB
 
-	In this chapter we are going to explain the different resources we have chosen to create an approach that allowed us to implement our final models. First, we include a detailed description of the database that we have chosen in section \ref{section:audioset}. Then, we comment and analyze the system we are going to exploit so as to obtain high level features for our classification experiments in section \ref{section:feature-extractor}. In this point, the model is itemized step by step and also a theoretical explanation is included in \ref{subsection:ann-cnn}.
+	In this chapter we are going to explain the different resources we have chosen to create an approach that allowed us to implement our final models. First, we include a detailed description of the database that we have chosen in section \ref{section:audioset}. Then, we comment and analyze the system we are going to employ so as to obtain high level features for our classification experiments in section \ref{section:feature-extractor}. In this point, the model is itemized step by step and also a theoretical explanation is included in \ref{subsection:ann-cnn}.
 	
 \section{Database: AudioSet}
 \label{section:audioset}
@@ -42,14 +42,6 @@
 	For the field \textit{ID}, the identifiers are known as \acrfull{mid} and belong to the \textit{Knowledge Graph} designed by Google \cite{Singhal2012}. This is a knowledge base that Google services use to improve the quality of its search results and it is composed with information extracted from a wide variety of sources. The \acrshort{mid}s are the identifiers of the different elements that belong to this huge dictionary. For instance, the \acrshort{mid} of the word "Speech" is "/m/09x0r". Another field that deserves a special explanation is the one corresponding to \textit{Restrictions}. Within all the categories of sound events, there are two flags that indicate an exclusive behaviour that differ from a typical label: "blacklisted" and "abstract". The former refers to a class that has been hidden from labellers due to its confusing meaning. The latter has been used for those classes that are just employed as intermediate nodes in order to provide a better grouping inside the organization, and are not expected to be used in the implementation tasks. In total, out of the 632 categories, 56 have been categorized as "blacklisted" and 22, as "abstract".
 
 
-%\subsection{Data}
-%\label{subsection:data}
-%\todo{CPM: esta subsección no sé si tiene mucho sentido. Por uan parte el primer párrafo parece hablar de Data formats (que luego está repetido en la subsección siguiente) y el segundo de la cantidad de datos que quizás es algo que debieras haber dicho ya al principio de la sección anterior.}
-%
-%	The different YouTube videos that constitute the dataset are included in a \acrshort{csv} file in which each row comprises the video identifier, the start and end time of the audio event within the video and the ontology labels that the certain clip belongs to. All the video segments have a length of 10 seconds maximum, except from those that the original video is shorter, then the whole thing will be considered as the an audio event. \todo{Include any explanation about ratings? CPM: no sé a qué te refieres...}
-%	
-%	
-
 \subsection{Data access}
 \label{subsection:data-access}
 
@@ -67,12 +59,12 @@
 \section{Feature extractor}
 \label{section:feature-extractor}
 
-	\acrshort{vgg}ish model design was based in an already existed network called \acrshort{vgg}. In order to describe the embedding features extractor we used, it is first needed to make a clear explanation of what a \acrlong{cnn} is and how the \acrshort{vgg} model is implemented. Then, we can move to analyze the differences and changes included in \acrshort{vgg}ish. 
+	\acrshort{vgg}ish model design was based in an already existed network called \acrshort{vgg}. In order to describe the embedding features extractor we used, it is first needed to make a clear explanation of what a \acrlong{ann} is and how \acrlong{cnn} behave. Then, an explanation about how the \acrshort{vgg} model is implemented included. Then, we can move to analyze the differences and changes included in \acrshort{vgg}ish. 
 
 \subsection{\acrlong{ann}s (\acrshort{ann}) and \acrlong{cnn}s (\acrshort{cnn})}
 \label{subsection:ann-cnn}
 
-	Before going deep in the description of \acrshort{cnn}, the core idea of \acrshort{ann} must be explained. As it was already mentioned at the end of subsection \ref{subsubsection:classification-models}, these are based on the communication way that the neurons follow inside a brain to interpret the stimuli they receive. This is actually the hidden concept behind the \acrshort{ann} intention, which is transforming input data into a desired output so that it can be used to perform a given task. %it can understandable by a machine. 
+	Before going deep in the description of \acrshort{cnn}, the core idea of \acrshort{ann} must be explained. As it was already mentioned at the end of subsection \ref{section:features-and-methods-for-asc-aedc}, these are based on the communication way that the neurons follow inside a brain to interpret the stimuli they receive. This is actually the hidden concept behind the \acrshort{ann} intention, which is transforming input data into a desired output so that it can be used to perform a given task. %it can understandable by a machine. 
 
 	A basic architecture is usually composed by an \textit{input layer} of neurons, a certain number of \textit{hidden layers} and an \textit{output layer}. The model receives some input, typically a feature vector, and pass it trough the hidden layers in order to perform some transformations. The neurons of a layer are completely connected to the neurons of the next layer but neurons in the same layer are not usually connected. For this case, we can say that they are \acrfull{fc} layers. Finally, the output layer gives the resulting outcome of the network \cite{Kwon2011}. This is just the basic and initial nature of the idea but it was implemented in many different ways depending on the input data and the desired task.
 
