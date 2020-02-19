@@ -5,30 +5,30 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {2.1}{\ignorespaces Examples of time and spectral audio features.\relax }}{5}{table.caption.17}% 
+\contentsline {table}{\numberline {2.1}{\ignorespaces Examples of time and spectral audio features.\relax }}{6}{table.caption.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {2.2}{\ignorespaces Table of studied databases\relax }}{15}{table.caption.31}% 
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.1}{\ignorespaces Fields per category in the ontology.\relax }}{18}{table.caption.34}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {3.2}{\ignorespaces VGG ConvNet configurations.\relax }}{27}{table.caption.42}% 
+\contentsline {table}{\numberline {2.2}{\ignorespaces Table of studied databases\relax }}{16}{table.caption.20}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {4.1}{\ignorespaces Chosen classes for a small classification. \textit {Screaming}, \textit {Crying, sobbing} and \textit {Gunshot, gunfire} are considered as the violent ones.\relax }}{34}{table.caption.46}% 
+\contentsline {table}{\numberline {3.1}{\ignorespaces Fields per category in the ontology.\relax }}{19}{table.caption.23}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {4.2}{\ignorespaces Accuracy values for audio and .\textit {tfrecord} files\relax }}{36}{table.caption.48}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces VGG ConvNet configurations.\relax }}{28}{table.caption.31}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {5.1}{\ignorespaces Relation of \textit {violent} and \textit {non-violent} selected classes\relax }}{47}{table.caption.65}% 
+\contentsline {table}{\numberline {4.1}{\ignorespaces Chosen classes for a small classification. \textit {Screaming}, \textit {Crying, sobbing} and \textit {Gunshot, gunfire} are considered as the violent ones.\relax }}{35}{table.caption.35}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {5.2}{\ignorespaces Train, validation and test set for different experiments\relax }}{48}{table.caption.68}% 
+\contentsline {table}{\numberline {4.2}{\ignorespaces Accuracy values for audio and .\textit {tfrecord} files\relax }}{37}{table.caption.37}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {5.3}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{64}{table.caption.90}% 
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {5.4}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{66}{table.caption.91}% 
+\contentsline {table}{\numberline {5.1}{\ignorespaces Relation of \textit {violent} and \textit {non-violent} selected classes\relax }}{48}{table.caption.54}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {5.2}{\ignorespaces Train, validation and test set for different experiments\relax }}{49}{table.caption.57}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {5.3}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{65}{table.caption.79}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {table}{\numberline {5.4}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{67}{table.caption.80}% 
 \contentsfinish 
 \contentsfinish 

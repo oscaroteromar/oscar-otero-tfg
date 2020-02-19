@@ -19,6 +19,283 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{Heise1999}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=ce7fcd7bebad71e8d3deabf27bebf1c1}{%
+           family={Heise},
+           familyi={H\bibinitperiod},
+           given={Lori},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3ae4cda81b1a3fdef3b4c531498fc686}{%
+           family={Ellsberg},
+           familyi={E\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a13c980bc429da246389ee92a8704824}{%
+           family={Gottemoeller},
+           familyi={G\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d242cd889d17afcf342d3a6643767931}
+      \strng{fullhash}{d242cd889d17afcf342d3a6643767931}
+      \strng{bibnamehash}{d242cd889d17afcf342d3a6643767931}
+      \strng{authorbibnamehash}{d242cd889d17afcf342d3a6643767931}
+      \strng{authornamehash}{d242cd889d17afcf342d3a6643767931}
+      \strng{authorfullhash}{d242cd889d17afcf342d3a6643767931}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Population reports. Series L, Issues in world health}
+      \field{issn}{01975838}
+      \field{title}{{Ending violence against women.}}
+      \field{year}{1999}
+      \verb{doi}
+      \verb 10.4324/9780429269516-5
+      \endverb
+    \endentry
+    \entry{Watts2002}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=139e2d62f56239f1a59eaf84ffa78ffa}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Charlotte},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c518cda6044279676719260433228944}{%
+           family={Zimmerman},
+           familyi={Z\bibinitperiod},
+           given={Cathy},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa0479443a95d2e25249276f1a93797b}
+      \strng{fullhash}{aa0479443a95d2e25249276f1a93797b}
+      \strng{bibnamehash}{aa0479443a95d2e25249276f1a93797b}
+      \strng{authorbibnamehash}{aa0479443a95d2e25249276f1a93797b}
+      \strng{authornamehash}{aa0479443a95d2e25249276f1a93797b}
+      \strng{authorfullhash}{aa0479443a95d2e25249276f1a93797b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An increasing amount of research is beginning to offer a global overview of the extent of violence against women. In this paper we discuss the magnitude of some of the most common and most severe forms of violence against women: intimate partner violence; sexual abuse by non-intimate partners; trafficking, forced prostitution, exploitation of labour, and debt bondage of women and girls; physical and sexual violence against prostitutes; sex selective abortion, female infanticide, and the deliberate neglect of girls; and rape in war. There are many potential perpetrators, including spouses and partners, parents, other family members, neighbours, and men in positions of power or influence. Most forms of violence are not unique incidents but are ongoing, and can even continue for decades. Because of the sensitivity of the subject, violence is almost universally under-reported. Nevertheless, the prevalence of such violence suggests that globally, millions of women are experiencing violence or living with its consequences.}
+      \field{booktitle}{Lancet}
+      \field{issn}{01406736}
+      \field{title}{{Violence against women: Global scope and magnitude}}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(02)08221-1
+      \endverb
+    \endentry
+    \entry{Blanco2004}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f500edd7c0d6ad45d8bb9c992384da91}{%
+           family={Blanco},
+           familyi={B\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=61484937e622dc8ad4d7e97f77ab74b1}{%
+           family={Ruiz-Jarabo},
+           familyi={R\bibinithyphendelim J\bibinitperiod},
+           given={Consuelo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0245a3f8be94d917ca8b9dbbea5ed7c1}{%
+           family={{Garc{í}a de Vinuesa}},
+           familyi={G\bibinitperiod},
+           given={Leonor},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0a1e5cf6b98195a196d8c606c4cc6fff}{%
+           family={Mart{í}n-Garc{í}a},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e25a40bf12fa368f7171af14876a79c}
+      \strng{fullhash}{2551980d02e1814065ddfbedb8c07a07}
+      \strng{bibnamehash}{2551980d02e1814065ddfbedb8c07a07}
+      \strng{authorbibnamehash}{2551980d02e1814065ddfbedb8c07a07}
+      \strng{authornamehash}{8e25a40bf12fa368f7171af14876a79c}
+      \strng{authorfullhash}{2551980d02e1814065ddfbedb8c07a07}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La gran magnitud de la violencia contra las mujeres llev� a que la Organizaci�n Mundial de la Salud la declarara como un problema prioritario en salud p�blica. Seg�n los datos de la macroencuesta realizada por el Instituto de la Mujer en 1999, este problema est� afectando en Espa�a a una de cada 7 mujeres y da lugar a m�s de medio centenar de muertes cada a�o. Este trabajo tiene como objetivo hacer una revisi�n del origen de sus causas, las consecuencias en la salud de las mujeres y su impacto en los servicios sanitarios. Se analiza por qu� las mujeres maltratadas, a pesar de su alta prevalencia, no son reconocidas habitualmente por los profesionales sanitarios, tanto en las consultas como en los servicios de urgencias. Se revisan las acciones que se han puesto en marcha en los �ltimos a�os en Espa�a desde la Administraci�n sanitaria. Se proponen algunas recomendaciones respecto a las pol�ticas sanitarias y sociales, el papel de los profesionales y la formaci�n e investigaci�n necesarias para avanzar en la erradicaci�n de esta lacra social.}
+      \field{issn}{02139111}
+      \field{journaltitle}{Gaceta Sanitaria}
+      \field{title}{{La violencia de pareja y la salud de las mujeres}}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1157/13062524
+      \endverb
+    \endentry
+    \entry{Ruiz-Perez2006}{article}{}
+      \name{author}{9}{}{%
+        {{hash=f090fd7d1f63c90eb778d7842c5f1576}{%
+           family={Ruiz-P{é}rez},
+           familyi={R\bibinithyphendelim P\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b14f25169a4155c70ee230b3c14cbba6}{%
+           family={Plazaola-Casta{ñ}o},
+           familyi={P\bibinithyphendelim C\bibinitperiod},
+           given={Juncal},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6b46793f39d5b785b8d1c57b194d80fa}{%
+           family={{Á}lvarez-Kindel{á}n},
+           familyi={Á\bibinithyphendelim K\bibinitperiod},
+           given={Mar{í}a},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5039578bdab7e4d50279a872c32a347a}{%
+           family={Palomo-Pinto},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=098430126a15cde7d411b332a65aaf8c}{%
+           family={Arnalte-Barrera},
+           familyi={A\bibinithyphendelim B\bibinitperiod},
+           given={Mercedes},
+           giveni={M\bibinitperiod}}}%
+        {{hash=83591c24983cd40efc16d7d69372d590}{%
+           family={Bonet-Pla},
+           familyi={B\bibinithyphendelim P\bibinitperiod},
+           given={{Á}lvaro},
+           giveni={Á\bibinitperiod}}}%
+        {{hash=8bd4d0deed1de210586107225bd94b0f}{%
+           family={{De Santiago-Hernando}},
+           familyi={D\bibinitperiod},
+           given={Mar{í}a\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=0e4b6e487f03d421f4ce244f9888a1be}{%
+           family={Herranz-Torrubiano},
+           familyi={H\bibinithyphendelim T\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=96b5fde8f5bdc1bc02872c8b8bc51837}{%
+           family={Garral{ó}n-Ruiz},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={Luis\bibnamedelima Mar{í}a},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b30aa20324a429432b6c3dff86cacdb9}
+      \strng{fullhash}{eb630cd1f09b9ece98a58487a9ee314a}
+      \strng{bibnamehash}{7fae195f299d68c5f632dd6567c47ead}
+      \strng{authorbibnamehash}{7fae195f299d68c5f632dd6567c47ead}
+      \strng{authornamehash}{b30aa20324a429432b6c3dff86cacdb9}
+      \strng{authorfullhash}{eb630cd1f09b9ece98a58487a9ee314a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose: To measure the lifetime prevalence of physical, emotional, and sexual Intimate Partner Violence (IPV) in women attending general practice in Spain and to assess sociodemographic factors associated with the different types of abuse. Methods: The sample included 1402 randomly selected women, aged 18 to 65 years, attending general practice in three Spanish regions. A self-administered structured questionnaire specifically developed for the study was used. Given the overlap between the different types of lifetime abuse, various categories were created by combining the different types. Multiple logistic regression models were developed to identify the sociodemographic factors independently associated with the different categories of abuse. Results: Lifetime prevalence of IPV was 32{\%}, and 14.4{\%} referred having experienced emotional abuse alone. Factors independently associated with all categories of abuse included being separated/divorced/widowed, having three or more children, and lacking social support. Increasing age was protective for physical and emotional abuse (odds ratio = 0.96; 95{\%} confidence interval = 0.93-0.99). Women with the lowest monthly family income ({<} 600€) (1€ = 1.32{\$}) were most likely to experience all IPV categories, except for emotional abuse alone. Conclusions: IPV is a common problem in general practice. The identification of factors associated with this public health problem is essential for its prevention and treatment. {©} 2006 Elsevier Inc. All rights reserved.}
+      \field{issn}{10472797}
+      \field{journaltitle}{Annals of Epidemiology}
+      \field{title}{{Sociodemographic Associations of Physical, Emotional, and Sexual Intimate Partner Violence in Spanish Women}}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1016/j.annepidem.2005.03.007
+      \endverb
+      \keyw{Demography,Domestic Violence,Social Support,Spain,Spouse Abuse}
+    \endentry
+    \entry{WorldHealtOrganization2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2c116aad82d1de187a6d4bf87b9d63fc}{%
+           family={{World Healt Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c116aad82d1de187a6d4bf87b9d63fc}
+      \strng{fullhash}{2c116aad82d1de187a6d4bf87b9d63fc}
+      \strng{bibnamehash}{2c116aad82d1de187a6d4bf87b9d63fc}
+      \strng{authorbibnamehash}{2c116aad82d1de187a6d4bf87b9d63fc}
+      \strng{authornamehash}{2c116aad82d1de187a6d4bf87b9d63fc}
+      \strng{authorfullhash}{2c116aad82d1de187a6d4bf87b9d63fc}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Understanding and addressing violence against women}
+      \field{title}{{Understanding and addressing violence against women: Intimate partner violence}}
+      \field{year}{2012}
+    \endentry
+    \entry{UC3M4SafetyTeam2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e873a7a3d80309fbadebcbf410d4bed7}{%
+           family={{UC3M4Safety Team}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Carlos III de Madrid}%
+      }
+      \strng{namehash}{e873a7a3d80309fbadebcbf410d4bed7}
+      \strng{fullhash}{e873a7a3d80309fbadebcbf410d4bed7}
+      \strng{bibnamehash}{e873a7a3d80309fbadebcbf410d4bed7}
+      \strng{authorbibnamehash}{e873a7a3d80309fbadebcbf410d4bed7}
+      \strng{authornamehash}{e873a7a3d80309fbadebcbf410d4bed7}
+      \strng{authorfullhash}{e873a7a3d80309fbadebcbf410d4bed7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{protEcción integral de las víctimas de violencia de género Mediante comPutación AfecTIva multimodAl}}
+      \field{year}{2018}
+    \endentry
+    \entry{Baldwin}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a992290c6276908e1ac7861956318d97}{%
+           family={Baldwin},
+           familyi={B\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a992290c6276908e1ac7861956318d97}
+      \strng{fullhash}{a992290c6276908e1ac7861956318d97}
+      \strng{bibnamehash}{a992290c6276908e1ac7861956318d97}
+      \strng{authorbibnamehash}{a992290c6276908e1ac7861956318d97}
+      \strng{authornamehash}{a992290c6276908e1ac7861956318d97}
+      \strng{authorfullhash}{a992290c6276908e1ac7861956318d97}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Aggravated Sexual Assault Charges and Penalties}}
+    \endentry
+    \entry{Goetzparterns}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4414cc9a5e2fa849978bc9007668785c}{%
+           family={Goetzparterns},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4414cc9a5e2fa849978bc9007668785c}
+      \strng{fullhash}{4414cc9a5e2fa849978bc9007668785c}
+      \strng{bibnamehash}{4414cc9a5e2fa849978bc9007668785c}
+      \strng{authorbibnamehash}{4414cc9a5e2fa849978bc9007668785c}
+      \strng{authornamehash}{4414cc9a5e2fa849978bc9007668785c}
+      \strng{authorfullhash}{4414cc9a5e2fa849978bc9007668785c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Privacy Policy YouTube}}
+    \endentry
+    \entry{UnitedNations}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Goal 5: Achieve gender equality and empower all women and girls}}
+    \endentry
     \entry{Barchiesi2015}{article}{}
       \name{author}{4}{}{%
         {{hash=3be2b3b5a2d914953345adb47cb30493}{%
@@ -48,8 +325,8 @@
       \strng{authorbibnamehash}{5995851aaebc41e48a03ba98ad7c85d5}
       \strng{authornamehash}{2558a8d1e36f9596aa286adf5968f03e}
       \strng{authorfullhash}{5995851aaebc41e48a03ba98ad7c85d5}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this article, we present an account of the state of the art in acoustic scene classification (ASC), the task of classifying environments from the sounds they produce. Starting from a historical review of previous research in this area, we define a general framework for ASC and present different implementations of its components. We then describe a range of different algorithms submitted for a data challenge that was held to provide a general and fair benchmark for ASC techniques. The data set recorded for this purpose is presented along with the performance metrics that are used to evaluate the algorithms and statistical significance tests to compare the submitted methods.}
@@ -85,8 +362,8 @@
       \strng{authorbibnamehash}{dfc1a8821db0b25a34c11df9fe8d4259}
       \strng{authornamehash}{dfc1a8821db0b25a34c11df9fe8d4259}
       \strng{authorfullhash}{dfc1a8821db0b25a34c11df9fe8d4259}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The present research on cognitive categories mediates between individual experiences of soundscapes and collective representations shared in language and elaborated as knowledge. This approach focuses on meanings attributed to soundscapes in an attempt to bridge the gap between individual perceptual categories and sociological representations. First, results of several free categorisation experiments are presented, namely the categorical structures elicited using soundscape recordings and the underlying principles of organisation derived from the analysis of verbal comments. People categorised sound samples on the basis of semantic features that integrate perceptual ones. Specifically, soundscapes reflecting human activity were perceived as more pleasant than soundscapes where mechanical sounds were predominant. Second, the linguistic exploration of free-format verbal description of soundscapes indicated that the meanings attributed to sounds act as a determinant for sound quality evaluations. Soundscape evaluations are therefore qualitative first as they are semiotic in nature as grounded in cultural values given to different types of activities. Physical descriptions of sound properties have to be reconsidered as cues pointing to diverse cognitive objects to be identified first rather as the only adequate, exhaustive and objective description of the sound itself. Finally, methodological and theoretical consequences of these findings are drawn, highlighting the need to address not only noise annoyance but rather sound quality of urban environments. To do so, cognitive evaluations must be conducted in the first place to identify relevant city users' categories of soundscapes and then to use physical measurement to characterize corresponding acoustic events. {©} S. Hlrzel Verlag EAA.}
@@ -114,8 +391,8 @@
       \strng{authorbibnamehash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
       \strng{authornamehash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
       \strng{authorfullhash}{48ea56c2f06c1db5b4a3b66ca5f6789c}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{How can we engineer systems capable of “cocktail party” listening? Human listeners are able to perceptually segregate one sound source from an acoustic mixture, such as a single voice from a mixture of other voices and music at a busy cocktail party. How can we engineer “machine listening” systems that achieve this perceptual feat? Albert Bregmans book Auditory Scene Analysis, published in 1990, drew an analogy between the perception of auditory scenes and visual scenes, and described a coherent framework for understanding the perceptual organization of sound. His account has stimulated much interest in computational studies of hearing. Such studies are motivated in part by the demand for practical sound separation systems, which have many applications including noiserobust automatic speech recognition, hearing prostheses, and automatic music transcription. This emerging field has become known as computational auditory scene analysis (CASA). Computational Auditory Scene Analysis: Principles, Algorithms, and Applications provides a comprehensive and coherent account of the state of the art in CASA, in terms of the underlying principles, the algorithms and system architectures that are employed, and the potential applications of this exciting new technology. With a Foreword by Bregman, its chapters are written by leading researchers and cover a wide range of topics including: Estimation of multiple fundamental frequenciesFeaturebased and modelbased approaches to CASASound separation based on spatial locationProcessing for reverberant environmentsSegregation of speech and musical signalsAutomatic speech recognition in noisy environmentsNeural and perceptual modeling of auditory organizationThe text is written at a level that will be accessible to graduate students and researchers from related science and engineering disciplines. The extensive bibliography accompanying each chapter will also make this book a valuable reference source. A web site accompanying the text, http://www.casabook.org, features software tools and sound demonstrations.}
@@ -176,8 +453,8 @@
       \strng{authorbibnamehash}{1ee8905d80cfdb8f82349ed5532990aa}
       \strng{authornamehash}{23d7c54e2aef3b2e605d3b5cfee4a5b9}
       \strng{authorfullhash}{8077df8e18908c3440c9777fe49cac07}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of this paper is to investigate the feasibility of an audio-based context recognition system. Here, context recognition refers to the automatic classification of the context or an environment around a device. A system is developed and compared to the accuracy of human listeners in the same task. Particular emphasis is placed on the computational complexity of the methods, since the application is of particular interest in resource-constrained portable devices. Simplistic low-dimensional feature vectors are evaluated against more standard spectral features. Using discriminative training, competitive recognition accuracies are achieved with very low-order hidden Markov models (1-3 Gaussian components). Slight improvement in recognition accuracy is observed when linear data-driven feature transformations are applied to mel-cepstral features. The recognition rate of the system as a function of the test sequence length appears to converge only after about 30 to 60 s. Some degree of accuracy can be achieved even with less than 1-s test sequence lengths. The average reaction time of the human listeners was 14 s, i.e., somewhat smaller, but of the same order as that of the system. The average recognition accuracy of the system was 58{\%} against 69{\%}, obtained in the listening tests in recognizing between 24 everyday contexts. The accuracies in recognizing six high-level classes were 82{\%} for the system and 88{\%} for the subjects. {©} 2006 IEEE.}
@@ -204,8 +481,8 @@
       \strng{authorbibnamehash}{54889d121e06c21637190270580ab7b9}
       \strng{authornamehash}{54889d121e06c21637190270580ab7b9}
       \strng{authorfullhash}{54889d121e06c21637190270580ab7b9}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we present the pattern recognition methods proposed to classify respiratory sounds into normal and wheeze classes. We evaluate and compare the feature extraction techniques based on Fourier transform, linear predictive coding, wavelet transform and Mel-frequency cepstral coefficients (MFCC) in combination with the classification methods based on vector quantization, Gaussian mixture models (GMM) and artificial neural networks, using receiver operating characteristic curves. We propose the use of an optimized threshold to discriminate the wheezing class from the normal one. Also, post-processing filter is employed to considerably improve the classification accuracy. Experimental results show that our approach based on MFCC coefficients combined to GMM is well adapted to classify respiratory sounds in normal and wheeze classes. McNemar's test demonstrated significant difference between results obtained by the presented classifiers (p {<} 0.05). {©} 2009 Elsevier Ltd. All rights reserved.}
@@ -345,8 +622,8 @@
       \strng{authorbibnamehash}{aa4d25906bf690a96eae1cb147750dc0}
       \strng{authornamehash}{96fd8bed1a82e6a324d4f3e27758a2eb}
       \strng{authorfullhash}{274c3e255818716c9806ad7c03bffd96}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper, we present the results of the Acoustic Event Detection (AED) and Classification (AEC) evaluations carried out in February 2006 by the three participant partners from the CHIL project. The primary evaluation task was AED of the testing portions of the isolated sound databases and seminar recordings produced in CHIL. Additionally, a secondary AEC evaluation task was designed using only the isolated sound databases. The set of meetingroom acoustic event classes and the metrics were agreed by the three partners and ELDA was in charge of the scoring task. In this paper, the various systems for the tasks of AED and AEC and their results are presented. {©} Springer-Verlag Berlin Heidelberg 2007.}
@@ -398,8 +675,8 @@
       \strng{authorbibnamehash}{98d6f257d3e6d2eaa440d324a9df078a}
       \strng{authornamehash}{ed4ec4973fc2de157ec053f9d1820f1b}
       \strng{authorfullhash}{e2d31c8ccc8fcdfe09686a8b5daaaf60}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Our understanding of etiology of obesity and overweight is incomplete due to lack of objective and accurate methods for monitoring of ingestive behavior (MIB) in the free-living population. Our research has shown that frequency of swallowing may serve as a predictor for detecting food intake, differentiating liquids and solids, and estimating ingested mass. This paper proposes and compares two methods of acoustical swallowing detection from sounds contaminated by motion artifacts, speech, and external noise. Methods based on mel-scale Fourier spectrum, wavelet packets, and support vector machines are studied considering the effects of epoch size, level of decomposition, and lagging on classification accuracy. The methodology was tested on a large dataset (64.5 h with a total of 9966 swallows) collected from 20 human subjects with various degrees of adiposity. Average weighted epoch-recognition accuracy for intravisit individual models was 96.8{\%}, which resulted in 84.7{\%} average weighted accuracy in detection of swallowing events. These results suggest high efficiency of the proposed methodology in separation of swallowing sounds from artifacts that originate from respiration, intrinsic speech, head movements, food ingestion, and ambient noise. The recognition accuracy was not related to body mass index, suggesting that the methodology is suitable for obese individuals. {©} 2006 IEEE.}
@@ -441,8 +718,8 @@
       \strng{authorbibnamehash}{1949bf7e85492cc937f4f37334609685}
       \strng{authornamehash}{e0b00f294c5c8ad9d3370a615ef61bc3}
       \strng{authorfullhash}{1949bf7e85492cc937f4f37334609685}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The primary purpose for pursuing this research is to present a modular approach that enables reliable automatic bird species identification on the basis of their sound emissions in the field. A practical and complete computer-based framework is proposed to detect and time-stamp particular bird species in continuous real field recordings. Acoustic detection of avian sounds can be used for the automatized monitoring of multiple bird taxa and querying in long-term recordings for species of interest for researchers, conservation practitioners, and decision makers, such as environmental indicator taxa and threatened species. This work describes two novel procedures and offers an open modular framework that detects and time-stamps online calls and songs of target bird species and is fast enough to report results in reasonable time for non-processed field recordings of many thousands files and is generic enough to accommodate any species. The framework is evaluated on two large corpora of real field data, targeting the calls and songs of American Robin Turdus migratorius, a Northamerican oscine passerine (true songbird) and the Common Kingfisher Alcedo atthis, a non-passerine species with a wide distribution throughout Eurasia and North Africa. With the aim of promoting the widespread use of digital autonomous recording units (ARUs) and species recognition technologies the processing code and a large corpus of audio recordings is provided in order to enable other researchers to perform and assess comparative experiments. {©} 2014 Elsevier Ltd. All rights reserved.}
@@ -479,8 +756,8 @@
       \strng{authorbibnamehash}{bbc67b128a9eccff5d4a89235bd056bb}
       \strng{authornamehash}{bbc67b128a9eccff5d4a89235bd056bb}
       \strng{authorfullhash}{bbc67b128a9eccff5d4a89235bd056bb}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Multimedia event detection (MED) is the task of detecting given events (e.g. birthday party, making a sandwich) in a large collection of video clips. While visual features and automatic speech recognition typically provide the best features for this task, nonspeech audio can also contribute useful information, such as crowds cheering, engine noises, or animal sounds. MED is typically formulated as a two-stage process: the first stage generates clip-level feature representations, often by aggregating frame-level features; the second stage performs binary or multi-class classification to decide whether a given event occurs in a video clip. Both stages are usually performed «statically», i.e. using only local temporal information, or bag-of-words models. In this paper, we introduce longer-range temporal information with deep recurrent neural networks (RNNs) for both stages. We classify each audio frame among a set of semantic units called «noisemes» the sequence of frame-level confidence distributions is used as a variable-length clip-level representation. Such confidence vector sequences are then fed into long short-term memory (LSTM) networks for clip-level classification. We observe improvements in both frame-level and clip-level performance compared to SVM and feed-forward neural network baselines.}
@@ -513,8 +790,8 @@
       \strng{authorbibnamehash}{dc772b43a6a4bc2243986fa01ac7de5d}
       \strng{authornamehash}{dc772b43a6a4bc2243986fa01ac7de5d}
       \strng{authorfullhash}{dc772b43a6a4bc2243986fa01ac7de5d}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Introduction to Audio Analysis serves as a standalone introduction to audio analysis, providing theoretical background to many state-of-the-art techniques. It covers the essential theory necessary to develop audio engineering applications, but also uses programming techniques, notably MATLAB{®}, to take a more applied approach to the topic. Basic theory and reproducible experiments are combined to demonstrate theoretical concepts from a practical point of view and provide a solid foundation in the field of audio analysis. Audio feature extraction, audio classification, audio segmentation, and music information retrieval are all addressed in detail, along with material on basic audio processing and frequency domain representations and filtering. Throughout the text, reproducible MATLAB{®} examples are accompanied by theoretical descriptions, illustrating how concepts and equations can be applied to the development of audio analysis systems and components. A blend of reproducible MATLAB{®} code and essential theory provides enable the reader to delve into the world of audio signals and develop real-world audio applications in various domains. {©} 2014 Elsevier Ltd. All rights reserved.}
@@ -540,8 +817,8 @@
       \strng{authorbibnamehash}{73d7725e7b8c19a7a179442f898f8a48}
       \strng{authornamehash}{73d7725e7b8c19a7a179442f898f8a48}
       \strng{authorfullhash}{73d7725e7b8c19a7a179442f898f8a48}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{An Object-Oriented Metamodel for Digital Signal Processing with a focus on Audio and Music}}
@@ -561,8 +838,8 @@
       \strng{authorbibnamehash}{49d936583765e8a7bd38370987be2642}
       \strng{authornamehash}{49d936583765e8a7bd38370987be2642}
       \strng{authorfullhash}{49d936583765e8a7bd38370987be2642}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A text which approaches vision through an information processing framework, with particular attention to the computer processing of visual information. Machine information processing necessitates both a study of computer facilities and of human information processing. An introductory section outlines the philosophical approach using representational theories of the mind. Vision is then studied using theories of representation for images and surfaces, shapes and pattern recognition. Algorithmic approaches and theoretical models are discussed. A final chapter details a 'conversation' about the material undertaken by the author and colleagues. -M.Blakemore}
@@ -686,8 +963,8 @@
       \strng{authorbibnamehash}{64e47aa3b86f443050cc8e4ccbc71d4c}
       \strng{authornamehash}{64e47aa3b86f443050cc8e4ccbc71d4c}
       \strng{authorfullhash}{64e47aa3b86f443050cc8e4ccbc71d4c}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Combination of Long-Term and Short-Term Features for Age Identification from Voice}}
@@ -765,8 +1042,8 @@
       \strng{authorbibnamehash}{b7bd2f775a60833c4bf9498fd1fe4dd7}
       \strng{authornamehash}{b7bd2f775a60833c4bf9498fd1fe4dd7}
       \strng{authorfullhash}{b7bd2f775a60833c4bf9498fd1fe4dd7}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We start from the state-of-the-art Bag of Words pipeline that in the 2008 benchmarks of TRECvid and PASCAL yielded the best performance scores. We have contributed to that pipeline, which now forms the basis to compare various fast alternatives for all of its components: (i) For descriptor extraction we propose a fast algorithm to densely sample SIFT and SURF, and we compare several variants of these descriptors. (ii) For descriptor projection we compare a k-means visual vocabulary with a Random Forest. As a preprojection step we experiment with PCA on the descriptors to decrease projection time. (iii) For classification we use Support Vector Machines and compare the x2 kernel with the RBF kernel. Our results lead to a 10-fold speed increase without any loss of accuracy and to a 30-fold speed increase with 17{\%} loss of accuracy, where the latter system does real-time classification at 26 images per second. Copyright 2009 ACM.}
@@ -803,8 +1080,8 @@
       \strng{authorbibnamehash}{ec134b52e053e7e2e22010f76134fb4a}
       \strng{authornamehash}{ec134b52e053e7e2e22010f76134fb4a}
       \strng{authorfullhash}{ec134b52e053e7e2e22010f76134fb4a}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The "bag-of-frames" approach (BOF) to audio pattern recognition represents signals as the long-term statistical distribution of their local spectral features. This approach has proved nearly optimal for simulating the auditory perception of natural and human environments (or soundscapes), and is also the most predominent paradigm to extract high-level descriptions from music signals. However, recent studies show that, contrary to its application to soundscape signals, BOF only provides limited performance when applied to polyphonic music signals. This paper proposes to explicitly examine the difference between urban soundscapes and polyphonic music with respect to their modeling with the BOF approach. First, the application of the same measure of acoustic similarity on both soundscape and music data sets confirms that the BOF approach can model soundscapes to near-perfect precision, and exhibits none of the limitations observed in the music data set. Second, the modification of this measure by two custom homogeneity transforms reveals critical differences in the temporal and statistical structure of the typical frame distribution of each type of signal. Such differences may explain the uneven performance of BOF algorithms on soundscapes and music signals, and suggest that their human perception rely on cognitive processes of a different nature.}
@@ -835,8 +1112,8 @@
       \strng{authorbibnamehash}{beed1894822880e8a2fc45ca6d6b1eec}
       \strng{authornamehash}{beed1894822880e8a2fc45ca6d6b1eec}
       \strng{authorfullhash}{beed1894822880e8a2fc45ca6d6b1eec}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This study uses an audio signal transformation, splicing, to create an experimental situation where human listeners judge the similarity of audio signals, which they cannot easily categorize. Splicing works by segmenting audio signals into 50-ms frames, then shuffling and concatenating these frames back in random order. Splicing a signal masks the identification of the categories that it normally elicits: For instance, human participants cannot easily identify the sound of cars in a spliced recording of a city street. This study compares human performance on both normal and spliced recordings of soundscapes and music. Splicing is found to degrade human similarity performance significantly less for soundscapes than for music: When two spliced soundscapes are judged similar to one another, the original recordings also tend to sound similar. This establishes that humans are capable of reconstructing consistent similarity relations between soundscapes without relying much on the identification of the natural categories associated with such signals, such as their constituent sound sources. This finding contradicts previous literature and points to new ways to conceptualize the different ways in which humans perceive soundscapes and music.}
@@ -877,8 +1154,8 @@
       \strng{authorbibnamehash}{7f7aa4fda807631643057e918c669622}
       \strng{authornamehash}{6ec81f98008f0b995e46fd50d3209b4d}
       \strng{authorfullhash}{7f7aa4fda807631643057e918c669622}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper presents a system for acoustic event detection in recordings from real life environments. The events are modeled using a network of hidden Markov models; their size and topology is chosen based on a study of isolated events recognition. We also studied the effect of ambient background noise on event classification performance. On real life recordings, we tested recognition of isolated sound events and event detection. For event detection, the system performs recognition and temporal positioning of a sequence of events. An accuracy of 24{\%} was obtained in classifying isolated sound events into 61 classes. This corresponds to the accuracy of classifying between 61 events when mixed with ambient background noise at 0dB signal-to-noise ratio. In event detection, the system is capable of recognizing almost one third of the events, and the temporal positioning of the events is not correct for 84{\%} of the time. {©} EURASIP, 2010.}
@@ -977,8 +1254,8 @@
       \strng{authorbibnamehash}{ce5e5d67346f9a6abfacddfbbf6a8832}
       \strng{authornamehash}{877ad2f3c1d9e88111c39b1b05660253}
       \strng{authorfullhash}{ce5e5d67346f9a6abfacddfbbf6a8832}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Measuring music similarity is essential for multimedia retrieval. For music items, this task can be regarded as obtaining a suitable distance measurement between songs defined on a certain feature space. In this paper, we propose three of such distance measures based on the audio content: first, a low-level measure based on tempo-related description; second, a high-level semantic measure based on the inference of different musical dimensions by support vector machines. These dimensions include genre, culture, moods, instruments, rhythm, and tempo annotations. Third, a hybrid measure which combines the above-mentioned distance measures with two existing low-level measures: a Euclidean distance based on principal component analysis of timbral, temporal, and tonal descriptors, and a timbral distance based on single Gaussian Mel-frequency cepstral coefficient (MFCC) modeling. We evaluate our proposed measures against a number of baseline measures. We do this objectively based on a comprehensive set of music collections, and subjectively based on listeners' ratings. Results show that the proposed methods achieve accuracies comparable to the baseline approaches in the case of the tempo and classifier-based measures. The highest accuracies are obtained by the hybrid distance. Furthermore, the proposed classifier-based approach opens up the possibility to explore distance measures that are based on semantic notions. {©} 2011 IEEE.}
@@ -1020,8 +1297,8 @@
       \strng{authorbibnamehash}{42d50ff8333d4143d7f75e617cf5f2bc}
       \strng{authornamehash}{e052555d5333dcda9d3edbde6fab8019}
       \strng{authorfullhash}{42d50ff8333d4143d7f75e617cf5f2bc}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Audio scene classification is very important in audio indexing, retrieval and video content analysis. In this paper we present our approach that uses support vector machine (SVM) for audio scene classification, which classifies audio clips into one of five classes: pure speech, non-pure speech, music, environment sound, and silence. Among of them, non-pure speech may further be divided into speech with music and speech with noise. We also describe two methods to select effective and robust audio feature sets. Based on these feature sets, we have evaluated and compared the performance of two kinds of classification frameworks on a testing database that is composed of about 4-hour audio data. The experimental results have shown that the SVM-based method yields high accuracy with high processing speed. {©} 2005 IEEE.}
@@ -1057,8 +1334,8 @@
       \strng{authorbibnamehash}{a6b4e69d116bdb7c5e53307255edaa3e}
       \strng{authornamehash}{a6b4e69d116bdb7c5e53307255edaa3e}
       \strng{authorfullhash}{a6b4e69d116bdb7c5e53307255edaa3e}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This work describes a system for acoustic scene classification using large-scale audio feature extraction. It is our contribution to the Scene Classification track of the IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events (D-CASE). The system classifies 30 second long recordings of 10 different acoustic scenes. From the highly variable recordings, a large number of spectral, cepstral, energy and voicing-related audio features are extracted. Using a sliding window approach, classification is performed on short windows. SVM are used to classify these short segments, and a majority voting scheme is employed to get a decision for longer recordings. On the official development set of the challenge, an accuracy of 73 {\%} is achieved. SVM are compared with a nearest neighbour classifier and an approach called Latent Perceptual Indexing, whereby SVM achieve the best results. A feature analysis using the t-statistic shows that mainly Mel spectra are the most relevant features. {©} 2013 IEEE.}
@@ -1100,8 +1377,8 @@
       \strng{authorbibnamehash}{a9afdacfd9c00fe3352f44d939aab5f3}
       \strng{authornamehash}{1a07e4f379a3e67eeac0cdabb3ec5567}
       \strng{authorfullhash}{a9afdacfd9c00fe3352f44d939aab5f3}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Music information retrieval (MIR) is an emerging research area that receives growing attention from both the research community and music industry. It addresses the problem of querying and retrieving certain types of music from large music data set. Classification is a fundamental problem in MIR. Many tasks in MIR can be naturally cast in a classification setting, such as genre classification, mood classification, artist recognition, instrument recognition, etc. Music annotation, a new research area in MIR that has attracted much attention in recent years, is also a classification problem in the general sense. Due to the importance of music classification in MIR research, rapid development of new methods, and lack of review papers on recent progress of the field, we provide a comprehensive review on audio-based classification in this paper and systematically summarize the state-of-the-art techniques for music classification. Specifically, we have stressed the difference in the features and the types of classifiers used for different classification tasks. This survey emphasizes on recent development of the techniques and discusses several open issues for future research. {©} 2010 IEEE.}
@@ -1143,8 +1420,8 @@
       \strng{authorbibnamehash}{2a1ee52fe64ff8481bd8976ed86a8913}
       \strng{authornamehash}{2130253f2bbc9363e378d09c9ce35de0}
       \strng{authorfullhash}{2a1ee52fe64ff8481bd8976ed86a8913}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Acoustic Event Detection (AED) aims to identify both timestamps and types of events in an audio stream. This becomes very challenging when going beyond restricted highlight events and well controlled recordings. We propose extracting discriminative features for AED using a boosting approach, which outperform classical speech perceptual features, such as Mel-frequency Cepstral Coefficients and log frequency filterbank parameters. We propose leveraging statistical models better fitting the task. First, a tandem connectionist-HMM approach combines the sequence modeling capabilities of the HMM with the high-accuracy context-dependent discriminative capabilities of an artificial neural network trained using the minimum cross entropy criterion. Second, an SVM-GMM-supervector approach uses noise-adaptive kernels better approximating the KL divergence between feature distributions in different audio segments. Experiments on the CLEAR 2007 AED Evaluation set-up demonstrate that the presented features and models lead to over 45{\%} relative performance improvement, and also outperform the best system in the CLEAR AED Evaluation, on detection of twelve general acoustic events in a real seminar environment. {©} 2009 Elsevier B.V. All rights reserved.}
@@ -1191,8 +1468,8 @@
       \strng{authorbibnamehash}{2aed486e06db5dc64edee6207469d9ad}
       \strng{authornamehash}{c63c1e241d097bad07e58b0f3de08efe}
       \strng{authorfullhash}{2aed486e06db5dc64edee6207469d9ad}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{ATTENTION-BASED CONVOLUTIONAL NEURAL NETWORKS FOR ACOUSTIC SCENE CLASSIFICATION}}
@@ -1266,8 +1543,8 @@
       \strng{authorbibnamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
       \strng{authornamehash}{c5e4f71bd4434b12d6c6968ba9aafd16}
       \strng{authorfullhash}{c5e4f71bd4434b12d6c6968ba9aafd16}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We learn rich natural sound representations by capitalizing on large amounts of unlabeled sound data collected in the wild. We leverage the natural synchronization between vision and sound to learn an acoustic representation using two-million unlabeled videos. Unlabeled video has the advantage that it can be economically acquired at massive scales, yet contains useful signals about natural sound. We propose a student-teacher training procedure which transfers discriminative visual knowledge from well established visual recognition models into the sound modality using unlabeled video as a bridge. Our sound representation yields significant performance improvements over the state-of-the-art results on standard benchmarks for acoustic scene/object classification. Visualizations suggest some high-level semantics automatically emerge in the sound network, even though it is trained without ground truth labels.}
@@ -1309,8 +1586,8 @@
       \strng{authorbibnamehash}{aa617037b675581fa02105dff81ab452}
       \strng{authornamehash}{0220a155f993894332b4d93a208e4c93}
       \strng{authorfullhash}{aa617037b675581fa02105dff81ab452}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this work we present a system to automatically learn features from audio in an unsupervised manner. Our method first learns an overcomplete dictionary which can be used to sparsely decompose log-scaled spectrograms. It then trains an efficient encoder which quickly maps new inputs to approximations of their sparse representations using the learned dictionary. This avoids expensive iterative procedures usually required to infer sparse codes. We then use these sparse codes as inputs for a linear Support Vector Machine (SVM). Our system achieves 83.4{\%} accuracy in predicting genres on the GTZAN dataset, which is competitive with current state-of-the-art approaches. Furthermore, the use of a simple linear classifier combined with a fast feature extraction system allows our approach to scale well to large datasets. {©} 2011 International Society for Music Information Retrieval.}
@@ -1348,8 +1625,8 @@
       \strng{authorbibnamehash}{572897c4888707da4b6711ef95a367fe}
       \strng{authornamehash}{beb89e147c185dfd4b37e4abeeb1493e}
       \strng{authorfullhash}{572897c4888707da4b6711ef95a367fe}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present a data-processing pipeline based on sparse feature learning and describe its applications to music annotation and retrieval. Content-based music annotation and retrieval systems process audio starting with features. While commonly used features, such as MFCC, are handcrafted to extract characteristics of the audio in a succinct way, there is increasing interest in learning features automatically from data using unsupervised algorithms. We describe a systemic approach applying feature-learning algorithms to music data, in particular, focusing on a high-dimensional sparse-feature representation. Our experiments show that, using only a linear classifier, the newly learned features produce results on the CAL500 dataset comparable to state-of-the-art music annotation and retrieval systems. {©} 2012 International Society for Music Information Retrieval.}
@@ -1382,8 +1659,8 @@
       \strng{authorbibnamehash}{30244510521533ff899be917eeb74ed8}
       \strng{authornamehash}{30244510521533ff899be917eeb74ed8}
       \strng{authorfullhash}{30244510521533ff899be917eeb74ed8}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Recently unsupervised learning algorithms have been successfully used to represent data in many of machine recognition tasks. In particular, sparse feature learning algorithms have shown that they can not only discover meaningful structures from raw data but also outperform many hand-engineered features. In this paper, we apply the sparse feature learning approach to acoustic scene classification. We use a sparse restricted Boltzmann machine to capture manyfold local acoustic structures from audio data and represent the data in a high-dimensional sparse feature space given the learned structures. For scene classification, we summarize the local features by pooling over audio scene data. While the feature pooling is typically performed over uniformly divided segments, we suggest a new pooling method, which first detects audio events and then performs pooling only over detected events, considering the irregular occurrence of audio events in acoustic scene data. We evaluate the learned features on the IEEE AASP Challenge development set, comparing them with a baseline model using mel-frequency cepstral coefficients (MFCCs). The results show that learned features outperform MFCCs, event-based pooling achieves higher accuracy than uniform pooling and, furthermore, a combination of the two methods performs even better than either one used alone. {©} 2013 IEEE.}
@@ -1415,8 +1692,8 @@
       \strng{authorbibnamehash}{770fc1d95710074c9506ab4f7d386573}
       \strng{authornamehash}{770fc1d95710074c9506ab4f7d386573}
       \strng{authorfullhash}{770fc1d95710074c9506ab4f7d386573}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A major assumption in many machine learning and data mining algorithms is that the training and future data must be in the same feature space and have the same distribution. However, in many real-world applications, this assumption may not hold. For example, we sometimes have a classification task in one domain of interest, but we only have sufficient training data in another domain of interest, where the latter data may be in a different feature space or follow a different data distribution. In such cases, knowledge transfer, if done successfully, would greatly improve the performance of learning by avoiding much expensive data-labeling efforts. In recent years, transfer learning has emerged as a new learning framework to address this problem. This survey focuses on categorizing and reviewing the current progress on transfer learning for classification, regression, and clustering problems. In this survey, we discuss the relationship between transfer learning and other related machine learning techniques such as domain adaptation, multitask learning and sample selection bias, as well as covariate shift. We also explore some potential future issues in transfer learning research. {©} 2006 IEEE.}
@@ -1443,8 +1720,8 @@
       \strng{authorbibnamehash}{19620e2d7ebdec18c9c7f5c60d155d33}
       \strng{authornamehash}{19620e2d7ebdec18c9c7f5c60d155d33}
       \strng{authorfullhash}{19620e2d7ebdec18c9c7f5c60d155d33}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning}}
@@ -1500,8 +1777,8 @@
       \strng{authorbibnamehash}{2a47dfa74cc406a5e1559dd7405d52aa}
       \strng{authornamehash}{4cadcc9f7d5ea7c2aa817d964abbdc7d}
       \strng{authorfullhash}{2a47dfa74cc406a5e1559dd7405d52aa}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In 1996, the World Health Assembly declared violence a major public health issue. To follow up on this resolution, on Oct 3 this year, WHO released the first World Report on Violence and Health. The report analyses different types of violence including chil abuse and neglect, youth violence, intimate partner violence, sexual violence, elder abuse, self-directed violence, and collective violence. For all these types of violence, the report explores the magnitude of the health and social effects, the risk and protective factors, and the types of prevention efforts that have been initiated. The launch of the report will be followed by a 1-year Global Campaign on Violence Prevention, focusing on implementation of the recommendations. This article summarises some of the main points of the world report.}
@@ -1552,8 +1829,8 @@
       \strng{authorbibnamehash}{c31f8473bce8ffe1b2892ee3bb019605}
       \strng{authornamehash}{7c9c2b1b97453f9570bbba23c1804ee0}
       \strng{authorfullhash}{98ccbf1d5a5ccc90c6e7297ee34b538a}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper provides a description of the MediaEval 2013 Affect Task Violent Scenes Detection. This task, which is proposed for the third year to the research community, derives directly from a Technicolor use case which aims at easing a user's selection process from a movie database. This task will therefore apply to movie content. We provide some insight into the Technicolor use case, before giving details on the task itself, which has seen some changes in 2013. Dataset, annotations, and evaluation criteria as well as the required and optional runs are described.}
@@ -1596,8 +1873,8 @@
       \strng{authorbibnamehash}{b9fceb18c1424cbfdf1828c71ea663fe}
       \strng{authornamehash}{85a934c0c1802132e4e20bd06066ea50}
       \strng{authorfullhash}{b9fceb18c1424cbfdf1828c71ea663fe}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper we present our research towards the detection of violent scenes in movies, employing fusion methodologies, based on learning. Towards this goal, a multi-step approach is followed: initially, automated auditory and visual processing and analysis is performed in order to estimate probabilistic measures regarding particular audio and visual related classes. At a second stage, a meta-classification architecture is adopted, which combines the audio and visual information, in order to classify mid-term video segments as "violent" or "non-violent". The proposed scheme has been evaluated on a real dataset from 10 films. {©} Springer-Verlag Berlin Heidelberg 2010.}
@@ -1630,8 +1907,8 @@
       \strng{authorbibnamehash}{aff433f1660ce99ead1696e8eeb59c31}
       \strng{authornamehash}{aff433f1660ce99ead1696e8eeb59c31}
       \strng{authorfullhash}{aff433f1660ce99ead1696e8eeb59c31}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence is autonomous, the contents that one would not let children to see in movies or web videos. This is a challenging problem due to strong content variations among the positive instances. To solve this problem, implementation of deep neural network to classify the violence content in videos is proposed. Currently, deep neural network has shown its efficiency in natural language processing, fraud detection, social media, text classification, image classification. Regardless of the conventional methods applied to overcome this issue, but these techniques seem insufficiently accurate and does not adopt well to certain webs or user needs. Therefore, the purpose of this study is to assess the classification performances on violence video using Deep Neural Network (DNN). Hence, in this paper different architectures of hidden layers and hidden nodes in DNN have been implemented using the try-error method and equation based method, to examine the effect of the number of hidden layers and hidden nodes to the classification performance. From the results, it indicates 53{\%} accuracy rate for try and error approach, meanwhile for equation based approach it indicates 51{\%} accuracy rate.}
@@ -1675,8 +1952,8 @@
       \strng{authorbibnamehash}{2987f3d62b41136d596910e540aeaa10}
       \strng{authornamehash}{2987f3d62b41136d596910e540aeaa10}
       \strng{authorfullhash}{2987f3d62b41136d596910e540aeaa10}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Modern elevators are equipped with closed-circuit television (CCTV) cameras to record videos for post-incident investigation rather than providing proactive event monitoring. While there are some attempts at automated video surveillance, events such as urinating, vandalism, and crimes that involved vulnerable targets may not exhibit significant visual cues. On contrary, such events are more discerning from audio cues. In this work, we propose a hierarchical audio-visual surveillance framework for elevators. Audio analytic module acts as the front line detector to monitor for such events. This means audio cue is the main determining source to infer the event occurrence. The secondary inference process involves queries to visual analytic module to build-up the evidences leading to event detection. We validate the performance of our system at a residential trial site and the initial results are promising. {©} 2014 Springer International Publishing.}
@@ -1754,6 +2031,7 @@
       \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{extraname}{2}
       \field{sortinit}{8}
       \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
@@ -1775,8 +2053,8 @@
       \strng{authorbibnamehash}{7847ad5f34be3d081b6fa006e3062025}
       \strng{authornamehash}{7847ad5f34be3d081b6fa006e3062025}
       \strng{authorfullhash}{7847ad5f34be3d081b6fa006e3062025}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The report presents the first global systematic review of scientific data on the prevalence of two forms of violence against women: violence by an intimate partner (intimate partner violence) and sexual violence by someone other than a partner (non-partner sexual violence). It shows, for the first time, global and regional estimates of the prevalence of these two forms of violence, using data from around the world. Previous reporting on violence against women has not differentiated between partner and non-partner violence.}
@@ -1796,8 +2074,8 @@
       \strng{authorbibnamehash}{609c512976cff8b20bc8500b3d198999}
       \strng{authornamehash}{609c512976cff8b20bc8500b3d198999}
       \strng{authorfullhash}{609c512976cff8b20bc8500b3d198999}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence against women undermines women's core fundamental rights such as dignity, access to justice and gender equality. For example, one in three women has experienced physical and/or sexual violence since the age of 15; one in five women has experienced stalking; every second woman has been confronted with one or more forms of sexual harassment. What emerges is a picture of extensive abuse that affects many women's lives but is systematically under-reported to the authorities. The scale of violence against women is therefore not reflected by official data. This FRA survey is the first of its kind on violence against women across the 28 Member States of the European Union (EU). It is based on interviews with 42,000 women across the EU, who were asked about their experiences of physical, sexual and psychological violence, including incidents of intimate partner violence (‘domestic violence'). The survey also included questions on stalking, sexual harassment, and the role played by new technologies in women's experiences of abuse. In addition, it asked about their experiences of violence in childhood. Based on the detailed findings, FRA suggests courses of action in different areas that are touched by violence against women and go beyond the narrow confines of criminal law, ranging from employment and health to the medium of new technologies.}
@@ -1809,42 +2087,6 @@
       \verb 10.2811/62230
       \endverb
       \keyw{Violence against women,$\backslash$access to justice,attitudes and awareness,awareness of laws and political initiatives addres,awareness of selected organisations and specialise,carrying something for self-defence,characteristics of perpetrators,characteristics of victims,children's exposure to domestic violence,comprehensive and comparable data,confidence intervals and characteristics of the re,consequences,contact with police or other services,context,criminal law,details about intimate partner violence,details about non-partner violence,dignity,domestic violence,effect of the interview mode when asking sensitive,emotional responses,employment,fear of victimisation and its impact,forms of violence,fundamental rights,gender equality,health,impact of age,injuries,interviews,intimate partner violence,key results for selected respondent groups,methodology,national surveys on violence against women,needs of vitims,new technologies,official data,perceptions on frequency of violence against women,physical violence,prevalence rates,psychological consequences,psychological violence,relationship between violence in childhood and lat,relationship between worry and risk avoidance beha,respondant background variables,sexual harassment,sexual violence,stalking,survey,survey fieldwork outcomes,type of offender,under-reporting,violence in childhood,weighting,women's attitude towards doctors' role in identify,women's awareness of campaigns addressing violence,women's awareness of organisations and specialised,women's knowledge about other women victims of int,women's risk avoidance behaviour,worry about physical or sexual assault}
-    \endentry
-    \entry{Heise1999}{misc}{}
-      \name{author}{3}{}{%
-        {{hash=ce7fcd7bebad71e8d3deabf27bebf1c1}{%
-           family={Heise},
-           familyi={H\bibinitperiod},
-           given={Lori},
-           giveni={L\bibinitperiod}}}%
-        {{hash=3ae4cda81b1a3fdef3b4c531498fc686}{%
-           family={Ellsberg},
-           familyi={E\bibinitperiod},
-           given={Mary},
-           giveni={M\bibinitperiod}}}%
-        {{hash=a13c980bc429da246389ee92a8704824}{%
-           family={Gottemoeller},
-           familyi={G\bibinitperiod},
-           given={Megan},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{d242cd889d17afcf342d3a6643767931}
-      \strng{fullhash}{d242cd889d17afcf342d3a6643767931}
-      \strng{bibnamehash}{d242cd889d17afcf342d3a6643767931}
-      \strng{authorbibnamehash}{d242cd889d17afcf342d3a6643767931}
-      \strng{authornamehash}{d242cd889d17afcf342d3a6643767931}
-      \strng{authorfullhash}{d242cd889d17afcf342d3a6643767931}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Population reports. Series L, Issues in world health}
-      \field{issn}{01975838}
-      \field{title}{{Ending violence against women.}}
-      \field{year}{1999}
-      \verb{doi}
-      \verb 10.4324/9780429269516-5
-      \endverb
     \endentry
     \entry{Beyer2015}{article}{}
       \name{author}{3}{}{%
@@ -1870,8 +2112,8 @@
       \strng{authorbibnamehash}{f45ddca38fedc418b6b10fbcdba44b7d}
       \strng{authornamehash}{f45ddca38fedc418b6b10fbcdba44b7d}
       \strng{authorfullhash}{f45ddca38fedc418b6b10fbcdba44b7d}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Intimate partner violence (IPV) is an important global public health problem, affecting women across the life span and increasing risk for a number of unfavorable health outcomes. Typically conceptualized as a private form of violence, most research has focused on individual-level risk markers. Recently, more scholarly attention has been paid to the role that the residential neighborhood environment may play in influencing the occurrence of IPV. With research accumulating since the 1990s, increasing prominence of the topic, and no comprehensive literature reviews yet undertaken, it is time to take stock of what is known, what remains unknown, and the methods and concepts investigators have considered. In this article, we undertake a comprehensive, systematic review of the literature to date on the relationship between neighborhood environment and IPV, asking, “what is the status of scholarship related to the association between neighborhood environment and IPV occurrence?” Although the literature is young, it is receiving increasing attention from researchers in sociology, public health, criminology, and other fields. Obvious gaps in the literature include limited consideration of nonurban areas, limited theoretical motivation, and limited consideration of the range of potential contributors to environmental effects on IPV—such as built environmental factors or access to services. In addition, explanations of the pathways by which place influences the occurrence of IPV draw mainly from social disorganization theory that was developed in urban settings in the United States and may need to be adapted, especially to be useful in explaining residential environmental correlates of IPV in rural or non-U.S. settings. A more complete theoretical understanding of the relationship between neighborhood environment and IPV, especially considering differences among urban, semiurban, and rural settings and developed and developing country settings, will be necessary to advance research questions and improve policy and intervention responses to reduce the burden of IPV.}
@@ -1918,8 +2160,8 @@
       \strng{authorbibnamehash}{5e1fe6669f4ffd74d53112a012971882}
       \strng{authornamehash}{9180d64e469adf6b63b10942a5d23f46}
       \strng{authorfullhash}{5e1fe6669f4ffd74d53112a012971882}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Sound event detection (SED) in environmental recordings is a key topic of research in machine listening, with applications in noise monitoring for smart cities, self-driving cars, surveillance, bioa-coustic monitoring, and indexing of large multimedia collections. Developing new solutions for SED often relies on the availability of strongly labeled audio recordings, where the annotation includes the onset, offset and source of every event. Generating such precise annotations manually is very time consuming, and as a result existing datasets for SED with strong labels are scarce and limited in size. To address this issue, we present Scaper, an open-source library for soundscape synthesis and augmentation. Given a collection of iso-lated sound events, Scaper acts as a high-level sequencer that can generate multiple soundscapes from a single, probabilistically defined, 'specification'. To increase the variability of the output, Scaper supports the application of audio transformations such as pitch shifting and time stretching individually to every event. To illustrate the potential of the library, we generate a dataset of 10,000 sound-scapes and use it to compare the performance of two state-of-The-Art algorithms, including a breakdown by soundscape characteristics. We also describe how Scaper was used to generate audio stimuli for an audio labeling crowdsourcing experiment, and conclude with a discussion of Scaper's limitations and potential applications.}
@@ -1946,8 +2188,8 @@
       \strng{authorbibnamehash}{3f02c19a413912033db647b913ccef77}
       \strng{authornamehash}{3f02c19a413912033db647b913ccef77}
       \strng{authorfullhash}{3f02c19a413912033db647b913ccef77}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{UPC-TALP database of isolated meeting-room acoustic events}}
@@ -1993,8 +2235,8 @@
       \strng{authorbibnamehash}{21181897ce2528f104c5444cf0344c1b}
       \strng{authornamehash}{e3cc5901fc26a37b1821bc7b64b691fb}
       \strng{authorfullhash}{21181897ce2528f104c5444cf0344c1b}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In this paper we propose a novel method for the detection of audio events for surveillance applications. The method is based on the bag of words approach, adapted to deal with the specific issues of audio surveillance: the need to recognize both short and long sounds, the presence of a significant noise level and of superimposed background sounds of intensity comparable to the audio events to be detected. In order to test the proposed method in complex, realistic scenarios, we have built a large, publicly available dataset of audio events. The dataset has allowed us to evaluate the robustness of our method with respect to varying levels of the Signal-to-Noise Ratio; the experimentation has confirmed its applicability under real world conditions, and has shown a significant performance improvement with respect to other methods from the literature.}
@@ -2026,8 +2268,8 @@
       \strng{authorbibnamehash}{d74a4cad455393c2fef7dc47d5466888}
       \strng{authornamehash}{d74a4cad455393c2fef7dc47d5466888}
       \strng{authorfullhash}{d74a4cad455393c2fef7dc47d5466888}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{TUT Rare sound events}}
@@ -2114,8 +2356,8 @@
       \strng{authorbibnamehash}{77a75ae3972b2c2bb343278394a24558}
       \strng{authornamehash}{485394e3fa224735d319c3edd4af4f5e}
       \strng{authorfullhash}{77a75ae3972b2c2bb343278394a24558}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Content-based analysis to find where violence appears in multimedia content has several applications, from parental control and children protection to surveillance. This paper presents the design and annotation of the Violent Scene Detection dataset, a corpus targeting the detection of physical violence in Hollywood movies. We discuss definitions of physical violence and provide a simple and objective definition which was used to annotate a set of 18 movies, thus resulting in the largest freely-available dataset for such a task. We discuss borderline cases and compare with annotations based on a subjective definition which requires multiple annotators. We provide a detailed analysis of the corpus, in particular regarding the relationship between violence and a set of key audio and visual concepts which were also annotated. The VSD dataset results from two years of benchmarking in the framework of the MediaEval initiative. We provide results from the 2011 and 2012 benchmarks as a validation of the dataset and as a state-of-the-art baseline. The VSD dataset is freely available at the address:http://www.technicolor.com/en/innovation/research-innovation/scientific-data-sharing/violent-scenes-dataset.}
@@ -2177,8 +2419,8 @@
       \strng{authorbibnamehash}{c73dd6c6deec934e5e3b65d9e22bdbdb}
       \strng{authornamehash}{1f38ee742789c0f86200fcbd9bbdd127}
       \strng{authorfullhash}{b358d3108cf3fe1ec468f471471cf9c2}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Audio event recognition, the human-like ability to identify and re-late sounds from audio, is a nascent problem in machine percep-tion. Comparable problems such as object detection in images have reaped enormous benefits from comprehensive datasets – principally ImageNet. This paper describes the creation of Audio Set, a large-scale dataset of manually-annotated audio events that endeavors to bridge the gap in data availability between image and audio research. Using a carefully structured hierarchical ontology of 632 audio classes guided by the literature and manual curation, we collect data from human labelers to probe the presence of specific audio classes in 10 second segments of YouTube videos. Segments are proposed for labeling using searches based on metadata, context (e.g., links), and content analysis. The result is a dataset of unprecedented breadth and size that will, we hope, substantially stimulate the de-velopment of high-performance audio event recognizers.}
@@ -2246,8 +2488,8 @@
       \strng{authorbibnamehash}{23c9d9a68e7445ef1010c445771a7420}
       \strng{authornamehash}{d66b2acc37f093f9c748fc4efec407ae}
       \strng{authorfullhash}{de432f92663322d3479409d5243b91ed}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Openly available datasets are a key factor in the advancement of data-driven research approaches, including many of the ones used in sound and music computing. In the last few years, quite a number of new audio datasets have been made available but there are still major shortcomings in many of them to have a significant research impact. Among the common shortcomings are the lack of transparency in their creation and the difficulty of making them completely open and sharable. They often do not include clear mechanisms to amend errors and many times they are not large enough for current machine learning needs. This paper introduces Freesound Datasets, an online platform for the collaborative creation of open audio datasets based on principles of transparency, openness, dynamic character, and sustainability. As a proof-of-concept, we present an early snapshot of a large-scale audio dataset built using this platform. It consists of audio samples from Freesound organised in a hierarchy based on the AudioSet Ontology. We believe that building and maintaining datasets following the outlined principles and using open tools and collaborative approaches like the ones presented here will have a significant impact in our research community.}
@@ -2270,8 +2512,8 @@
       \strng{authorbibnamehash}{45330e5d45157c38c5519d8cdb6cb1d8}
       \strng{authornamehash}{45330e5d45157c38c5519d8cdb6cb1d8}
       \strng{authorfullhash}{45330e5d45157c38c5519d8cdb6cb1d8}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We describe a method for the automatic acquisition of the hyponymy lexical relation from unrestricted text. Two goals motivate the approach: (i) avoidance of the need for pre-encoded knowledge and (ii) applicability across a wide range of text. We identify a set of lexicosyntactic patterns that are easily recognizable, that occur frequently and across text genre boundaries, and that indisputably indicate the lexical relation of interest. We describe a method for discovering these patterns and suggest that other lexical relations will also be acquirable in this way. A subset of the acquisition algorithm is implemented and the results are used to augment and critique the structure of a large hand-built thesaurus. Extensions and applications to areas such as information retrieval are suggested. 1 Introduction Currently there is much interest in the automatic acquisition of lexical syntax and semantics, with the goal of building up large lexicons for natural language processing. Projects ...}
@@ -2295,8 +2537,8 @@
       \strng{authorbibnamehash}{e842c74a8f00853e7e3ea135b41b55bd}
       \strng{authornamehash}{e842c74a8f00853e7e3ea135b41b55bd}
       \strng{authorfullhash}{e842c74a8f00853e7e3ea135b41b55bd}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Introducing the Knowledge Graph: things, not strings}}
@@ -2314,8 +2556,8 @@
       \strng{authorbibnamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
       \strng{authornamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
       \strng{authorfullhash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{AudioSet}}

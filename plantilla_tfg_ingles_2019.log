@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.13)  18 FEB 2020 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.13)  19 FEB 2020 02:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1916,163 +1916,18 @@ File: utxsyc.fd 2000/12/15 v3.1
 
 ] [15]
 Chapter 1.
-(./introduction.tex
-
-LaTeX Warning: Marginpar on page 1 moved.
-
-
-Overfull \hbox (10.97601pt too wide) in paragraph at lines 7--7
-\T1/txr/m/n/12 propósito 
- []
-
-
-Overfull \hbox (10.97601pt too wide) in paragraph at lines 7--7
-\T1/txr/m/n/12 propósito 
- []
-
-
-LaTeX Warning: Marginpar on page 1 moved.
-
-
-Overfull \hbox (2.96002pt too wide) in paragraph at lines 13--13
-\T1/txr/m/n/12 primera 
- []
-
-
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 13--13
-\T1/txr/m/n/12 'stereo- 
- []
-
-
-Overfull \hbox (2.96002pt too wide) in paragraph at lines 13--13
-\T1/txr/m/n/12 primera 
- []
-
-
-Overfull \hbox (1.62802pt too wide) in paragraph at lines 13--13
-\T1/txr/m/n/12 'stereo- 
- []
-
-
-LaTeX Warning: Marginpar on page 1 moved.
-
-
-Overfull \hbox (6.30801pt too wide) in paragraph at lines 20--20
-\T1/txr/m/n/12 supongo 
- []
-
-
-Overfull \hbox (6.30801pt too wide) in paragraph at lines 20--20
-\T1/txr/m/n/12 supongo 
- []
-
-[1
+(./introduction.tex [1
 
 
 ]
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 24.
 
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-Overfull \hbox (8.28802pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 derechos 
- []
-
-
-Overfull \hbox (14.94803pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 agresores- 
- []
-
-
-Overfull \hbox (7.50801pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 proyecto 
- []
-
-
-Overfull \hbox (0.96802pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 (puesto 
- []
-
-
-Overfull \hbox (5.63602pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 público) 
- []
-
-
-Overfull \hbox (8.28802pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 derechos 
- []
-
-
-Overfull \hbox (14.94803pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 agresores- 
- []
-
-
-Overfull \hbox (7.50801pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 proyecto 
- []
-
-
-Overfull \hbox (0.96802pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 (puesto 
- []
-
-
-Overfull \hbox (5.63602pt too wide) in paragraph at lines 26--26
-\T1/txr/m/n/12 público) 
- []
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-Overfull \hbox (21.29602pt too wide) in paragraph at lines 30--30
-\T1/txr/m/n/12 económico. 
- []
-
-
-Overfull \hbox (2.28802pt too wide) in paragraph at lines 30--30
-\T1/txr/m/n/12 poderar 
- []
-
-
-Overfull \hbox (8.63602pt too wide) in paragraph at lines 30--30
-\T1/txr/m/n/12 ...Puedes 
- []
-
-
-Overfull \hbox (18.30801pt too wide) in paragraph at lines 30--30
-\T1/txr/m/n/12 sostenibles 
- []
-
-
-Overfull \hbox (21.29602pt too wide) in paragraph at lines 30--30
-\T1/txr/m/n/12 económico. 
- []
-
-
-Overfull \hbox (2.28802pt too wide) in paragraph at lines 30--30
-\T1/txr/m/n/12 poderar 
- []
-
-
-Overfull \hbox (8.63602pt too wide) in paragraph at lines 30--30
-\T1/txr/m/n/12 ...Puedes 
- []
-
-
-Overfull \hbox (18.30801pt too wide) in paragraph at lines 30--30
-\T1/txr/m/n/12 sostenibles 
- []
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-) [2]
+(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/omstxr.fd
+File: omstxr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <12> not available
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 24.
+ [2]) [3]
 Chapter 2.
 (./state-of-the-art.tex
 
@@ -2102,7 +1957,7 @@ Overfull \hbox (1.64001pt too wide) in paragraph at lines 6--6
 [][]\T1/txr/m/n/12 Adding 
  []
 
-[3
+[4
 
 ]
 Underfull \hbox (badness 6758) in paragraph at lines 31--31
@@ -2117,29 +1972,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4] [5]
-<imagenes/bof-gmm.png, id=797, 1296.845pt x 445.665pt>
+[5] [6]
+<imagenes/bof-gmm.png, id=823, 1296.845pt x 445.665pt>
 File: imagenes/bof-gmm.png Graphic file (type png)
 <use imagenes/bof-gmm.png>
 Package pdftex.def Info: imagenes/bof-gmm.png  used on input line 59.
 (pdftex.def)             Requested size: 414.99889pt x 142.6157pt.
- [6 <./imagenes/bof-gmm.png>] [7] [8]
-Overfull \hbox (4.29202pt too wide) in paragraph at lines 88--88
+ [7 <./imagenes/bof-gmm.png>] [8] [9]
+Overfull \hbox (4.29202pt too wide) in paragraph at lines 86--86
 \T1/txr/m/n/12 relación 
  []
 
 
-Overfull \hbox (1.58pt too wide) in paragraph at lines 88--88
+Overfull \hbox (1.58pt too wide) in paragraph at lines 86--86
 \T1/txr/m/n/12 AED/C 
  []
 
 
-Overfull \hbox (4.29202pt too wide) in paragraph at lines 88--88
+Overfull \hbox (4.29202pt too wide) in paragraph at lines 86--86
 \T1/txr/m/n/12 relación 
  []
 
 
-Overfull \hbox (1.58pt too wide) in paragraph at lines 88--88
+Overfull \hbox (1.58pt too wide) in paragraph at lines 86--86
 \T1/txr/m/n/12 AED/C 
  []
 
@@ -2164,7 +2019,7 @@ Overfull \hbox (0.63202pt too wide) in paragraph at lines 23--23
  []
 
 
-LaTeX Warning: Marginpar on page 9 moved.
+LaTeX Warning: Marginpar on page 10 moved.
 
 
 Overfull \hbox (1.62802pt too wide) in paragraph at lines 26--26
@@ -2186,14 +2041,9 @@ Overfull \hbox (9.63202pt too wide) in paragraph at lines 26--26
 \T1/txr/m/n/12 pipeline? 
  []
 
-[9]
+[10]
 
-LaTeX Warning: Marginpar on page 10 moved.
-
-
-Overfull \hbox (10.29202pt too wide) in paragraph at lines 28--28
-[][]\T1/txr/m/n/12 mantener 
- []
+LaTeX Warning: Marginpar on page 11 moved.
 
 
 Overfull \hbox (10.29202pt too wide) in paragraph at lines 28--28
@@ -2201,87 +2051,29 @@ Overfull \hbox (10.29202pt too wide) in paragraph at lines 28--28
  []
 
 
-LaTeX Warning: Marginpar on page 10 moved.
+Overfull \hbox (10.29202pt too wide) in paragraph at lines 28--28
+[][]\T1/txr/m/n/12 mantener 
+ []
 
 
-LaTeX Warning: Marginpar on page 10 moved.
+LaTeX Warning: Marginpar on page 11 moved.
 
-<imagenes/ml_tl.png, id=926, 1527.7075pt x 533.995pt>
+
+LaTeX Warning: Marginpar on page 11 moved.
+
+<imagenes/ml_tl.png, id=953, 1527.7075pt x 533.995pt>
 File: imagenes/ml_tl.png Graphic file (type png)
 <use imagenes/ml_tl.png>
 Package pdftex.def Info: imagenes/ml_tl.png  used on input line 47.
 (pdftex.def)             Requested size: 341.43437pt x 119.34517pt.
-[10 <./imagenes/ml_tl.png>]
+[11 <./imagenes/ml_tl.png>]
 
-LaTeX Warning: Marginpar on page 11 moved.
-
-
-LaTeX Warning: Marginpar on page 11 moved.
-
-[11] [12]
-Overfull \hbox (22.96402pt too wide) in paragraph at lines 81--81
-[][]\T1/txr/m/n/12 Explicación 
- []
+LaTeX Warning: Marginpar on page 12 moved.
 
 
-Overfull \hbox (22.96402pt too wide) in paragraph at lines 81--81
-[][]\T1/txr/m/n/12 Explicación 
- []
+LaTeX Warning: Marginpar on page 12 moved.
 
-
-Overfull \hbox (10.84401pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 proyecto: 
- []
-
-
-Overfull \hbox (0.96802pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 Madrid 
- []
-
-
-Overfull \hbox (20.52802pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 EMPATIA- 
- []
-
-
-Overfull \hbox (47.58804pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 project(reference 
- []
-
-
-Overfull \hbox (27.584pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 Y2018/TCS- 
- []
-
-
-Overfull \hbox (10.84401pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 proyecto: 
- []
-
-
-Overfull \hbox (0.96802pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 Madrid 
- []
-
-
-Overfull \hbox (20.52802pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 EMPATIA- 
- []
-
-
-Overfull \hbox (47.58804pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 project(reference 
- []
-
-
-Overfull \hbox (27.584pt too wide) in paragraph at lines 84--84
-\T1/txr/m/n/12 Y2018/TCS- 
- []
-
-
-LaTeX Warning: Marginpar on page 13 moved.
-
-(./databases.tex
+[12] [13] [14] (./databases.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 []|\T1/txr/m/n/12 URBAN-
  []
@@ -2402,7 +2194,7 @@ LaTeX Warning: Float too large for page by 44.00288pt on input line 32.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [13]) [14] [15]
+)) [15] [16]
 Chapter 3.
 (./resources-and-methods-for-avd.tex
 Overfull \hbox (2.30002pt too wide) in paragraph at lines 8--8
@@ -2414,18 +2206,10 @@ Overfull \hbox (2.30002pt too wide) in paragraph at lines 8--8
 \T1/txr/m/n/12 artículo 
  []
 
-(./audioset_guidelines.tex
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 3.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/omstxr.fd
-File: omstxr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <12> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 3.
- [16
+(./audioset_guidelines.tex [17
 
 ])
-<imagenes/audioset-ontology.png, id=1045, 1606.0pt x 1435.3625pt>
+<imagenes/audioset-ontology.png, id=1067, 1606.0pt x 1435.3625pt>
 File: imagenes/audioset-ontology.png Graphic file (type png)
 <use imagenes/audioset-ontology.png>
 Package pdftex.def Info: imagenes/audioset-ontology.png  used on input line 33.
@@ -2439,37 +2223,33 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [17] [18 <./imagenes/audioset-ontology.png>]
+) [18] [19 <./imagenes/audioset-ontology.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\acrlong' on input line 72.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\acrshort' on input line 72.
+(hyperref)                removing `\acrlong' on input line 64.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\acrlong' on input line 72.
+(hyperref)                removing `\acrshort' on input line 64.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\acrshort' on input line 72.
+(hyperref)                removing `\acrlong' on input line 64.
 
 
-LaTeX Warning: Reference `subsubsection:classification-models' on page 19 undef
-ined on input line 75.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\acrshort' on input line 64.
 
-[19]
-<imagenes/shallow.png, id=1115, 873.2625pt x 663.47874pt>
+[20]
+<imagenes/shallow.png, id=1139, 873.2625pt x 663.47874pt>
 File: imagenes/shallow.png Graphic file (type png)
 <use imagenes/shallow.png>
-Package pdftex.def Info: imagenes/shallow.png  used on input line 90.
+Package pdftex.def Info: imagenes/shallow.png  used on input line 82.
 (pdftex.def)             Requested size: 192.0548pt x 145.91515pt.
-<imagenes/dnn.png, id=1116, 1434.35875pt x 636.3775pt>
+<imagenes/dnn.png, id=1140, 1434.35875pt x 636.3775pt>
 File: imagenes/dnn.png Graphic file (type png)
 <use imagenes/dnn.png>
-Package pdftex.def Info: imagenes/dnn.png  used on input line 98.
+Package pdftex.def Info: imagenes/dnn.png  used on input line 90.
 (pdftex.def)             Requested size: 256.07741pt x 113.61081pt.
  (./cnn.tex
 Overfull \hbox (0.96802pt too wide) in paragraph at lines 6--6
@@ -2481,14 +2261,14 @@ Overfull \hbox (0.96802pt too wide) in paragraph at lines 6--6
 [][]\T1/txr/m/n/12 include 
  []
 
-[20] [21 <./imagenes/shallow.png> <./imagenes/dnn.png>]
-<imagenes/movement-of-kernel.png, id=1164, 212.795pt x 235.88126pt>
+[21] [22 <./imagenes/shallow.png> <./imagenes/dnn.png>]
+<imagenes/movement-of-kernel.png, id=1189, 212.795pt x 235.88126pt>
 File: imagenes/movement-of-kernel.png Graphic file (type png)
 <use imagenes/movement-of-kernel.png>
 Package pdftex.def Info: imagenes/movement-of-kernel.png  used on input line 29
 .
 (pdftex.def)             Requested size: 134.06154pt x 148.60597pt.
- [22] [23 <./imagenes/movement-of-kernel.png>]
+ [23] [24 <./imagenes/movement-of-kernel.png>]
 Overfull \hbox (1.62802pt too wide) in paragraph at lines 46--46
 [][]\T1/txr/m/n/12 Include 
  []
@@ -2498,13 +2278,13 @@ Overfull \hbox (1.62802pt too wide) in paragraph at lines 46--46
 [][]\T1/txr/m/n/12 Include 
  []
 
-<imagenes/max-pooling.png, id=1191, 478.78876pt x 230.8625pt>
+<imagenes/max-pooling.png, id=1215, 478.78876pt x 230.8625pt>
 File: imagenes/max-pooling.png Graphic file (type png)
 <use imagenes/max-pooling.png>
 Package pdftex.def Info: imagenes/max-pooling.png  used on input line 53.
 (pdftex.def)             Requested size: 335.14984pt x 161.60263pt.
-[24 <./imagenes/max-pooling.png>]
-<imagenes/cnn.png, id=1209, 853.1875pt x 290.08376pt>
+[25 <./imagenes/max-pooling.png>]
+<imagenes/cnn.png, id=1233, 853.1875pt x 290.08376pt>
 File: imagenes/cnn.png Graphic file (type png)
 <use imagenes/cnn.png>
 Package pdftex.def Info: imagenes/cnn.png  used on input line 67.
@@ -2512,46 +2292,46 @@ Package pdftex.def Info: imagenes/cnn.png  used on input line 67.
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\acrfull' on input line 109.
+(hyperref)                removing `\acrfull' on input line 101.
 
-[25 <./imagenes/cnn.png>]
-<imagenes/vgg-confs.png, id=1253, 981.6675pt x 989.6975pt>
+[26 <./imagenes/cnn.png>]
+<imagenes/vgg-confs.png, id=1277, 981.6675pt x 989.6975pt>
 File: imagenes/vgg-confs.png Graphic file (type png)
 <use imagenes/vgg-confs.png>
-Package pdftex.def Info: imagenes/vgg-confs.png  used on input line 133.
+Package pdftex.def Info: imagenes/vgg-confs.png  used on input line 125.
 (pdftex.def)             Requested size: 392.66003pt x 395.87198pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\acrshort' on input line 139.
+(hyperref)                removing `\acrshort' on input line 131.
 
-[26]
-<imagenes/model-vggish.png, id=1269, 1760.5775pt x 1136.245pt>
+[27]
+<imagenes/model-vggish.png, id=1293, 1760.5775pt x 1136.245pt>
 File: imagenes/model-vggish.png Graphic file (type png)
 <use imagenes/model-vggish.png>
-Package pdftex.def Info: imagenes/model-vggish.png  used on input line 156.
+Package pdftex.def Info: imagenes/model-vggish.png  used on input line 148.
 (pdftex.def)             Requested size: 440.1433pt x 284.06055pt.
 
-Overfull \hbox (13.35194pt too wide) in paragraph at lines 156--157
+Overfull \hbox (13.35194pt too wide) in paragraph at lines 148--149
  [][] 
  []
 
-[27 <./imagenes/vgg-confs.png>]
+[28 <./imagenes/vgg-confs.png>]
 
-LaTeX Warning: Reference `section:spectrogram-mel-scale' on page 28 undefined o
-n input line 168.
+LaTeX Warning: Reference `section:spectrogram-mel-scale' on page 29 undefined o
+n input line 160.
 
-[28 <./imagenes/model-vggish.png>]
-Overfull \hbox (5.86403pt too wide) in paragraph at lines 183--183
+[29 <./imagenes/model-vggish.png>]
+Overfull \hbox (5.86403pt too wide) in paragraph at lines 175--175
 [][]\T1/txr/m/n/12 Transfer 
  []
 
 
-Overfull \hbox (5.86403pt too wide) in paragraph at lines 183--183
+Overfull \hbox (5.86403pt too wide) in paragraph at lines 175--175
 [][]\T1/txr/m/n/12 Transfer 
  []
 
-) [29]
+) [30]
 Chapter 4.
 (./our-approach-for-avd.tex
 
@@ -2559,17 +2339,17 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrshort' on input line 9.
 
 
-LaTeX Warning: Reference `subsection:features-and-methods' on page 30 undefined
+LaTeX Warning: Reference `subsection:features-and-methods' on page 31 undefined
  on input line 16.
 
 
-LaTeX Warning: Reference `subsection:features-and-methods' on page 30 undefined
+LaTeX Warning: Reference `subsection:features-and-methods' on page 31 undefined
  on input line 16.
 
-[30
+[31
 
-] [31]
-<imagenes/select-vio-cls.png, id=1334, 548.0475pt x 653.44125pt>
+] [32]
+<imagenes/select-vio-cls.png, id=1358, 548.0475pt x 653.44125pt>
 File: imagenes/select-vio-cls.png Graphic file (type png)
 <use imagenes/select-vio-cls.png>
 Package pdftex.def Info: imagenes/select-vio-cls.png  used on input line 41.
@@ -2579,23 +2359,23 @@ Overfull \hbox (48.50117pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-[32 <./imagenes/select-vio-cls.png>] [33] [34]
-<imagenes/wav_train.png, id=1383, 255.8358pt x 191.2746pt>
+[33 <./imagenes/select-vio-cls.png>] [34] [35]
+<imagenes/wav_train.png, id=1407, 255.8358pt x 191.2746pt>
 File: imagenes/wav_train.png Graphic file (type png)
 <use imagenes/wav_train.png>
 Package pdftex.def Info: imagenes/wav_train.png  used on input line 110.
 (pdftex.def)             Requested size: 213.39568pt x 159.54588pt.
-<imagenes/wav_test.png, id=1384, 270.7716pt x 202.356pt>
+<imagenes/wav_test.png, id=1408, 270.7716pt x 202.356pt>
 File: imagenes/wav_test.png Graphic file (type png)
 <use imagenes/wav_test.png>
 Package pdftex.def Info: imagenes/wav_test.png  used on input line 111.
 (pdftex.def)             Requested size: 213.39568pt x 159.47969pt.
-<imagenes/tfrecord_train.png, id=1385, 271.7352pt x 203.3196pt>
+<imagenes/tfrecord_train.png, id=1409, 271.7352pt x 203.3196pt>
 File: imagenes/tfrecord_train.png Graphic file (type png)
 <use imagenes/tfrecord_train.png>
 Package pdftex.def Info: imagenes/tfrecord_train.png  used on input line 119.
 (pdftex.def)             Requested size: 213.39568pt x 159.66827pt.
-<imagenes/tfrecord_test.png, id=1386, 262.581pt x 196.5744pt>
+<imagenes/tfrecord_test.png, id=1410, 262.581pt x 196.5744pt>
 File: imagenes/tfrecord_test.png Graphic file (type png)
 <use imagenes/tfrecord_test.png>
 Package pdftex.def Info: imagenes/tfrecord_test.png  used on input line 120.
@@ -2604,66 +2384,66 @@ Package pdftex.def Info: imagenes/tfrecord_test.png  used on input line 120.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<imagenes/try-wav-tf.png, id=1387, 91.34125pt x 377.41pt>
+<imagenes/try-wav-tf.png, id=1411, 91.34125pt x 377.41pt>
 File: imagenes/try-wav-tf.png Graphic file (type png)
 <use imagenes/try-wav-tf.png>
 Package pdftex.def Info: imagenes/try-wav-tf.png  used on input line 149.
 (pdftex.def)             Requested size: 54.80516pt x 226.44774pt.
-[35 <./imagenes/wav_train.png> <./imagenes/wav_test.png> <./imagenes/tfrecord_t
-rain.png> <./imagenes/tfrecord_test.png>] [36 <./imagenes/try-wav-tf.png>]
-<imagenes/wav-perp-2.png, id=1428, 462.528pt x 346.896pt>
+[36 <./imagenes/wav_train.png> <./imagenes/wav_test.png> <./imagenes/tfrecord_t
+rain.png> <./imagenes/tfrecord_test.png>] [37 <./imagenes/try-wav-tf.png>]
+<imagenes/wav-perp-2.png, id=1452, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-2.png Graphic file (type png)
 <use imagenes/wav-perp-2.png>
 Package pdftex.def Info: imagenes/wav-perp-2.png  used on input line 178.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
-<imagenes/wav-perp-5.png, id=1429, 462.528pt x 346.896pt>
+<imagenes/wav-perp-5.png, id=1453, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-5.png Graphic file (type png)
 <use imagenes/wav-perp-5.png>
 Package pdftex.def Info: imagenes/wav-perp-5.png  used on input line 179.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
-<imagenes/wav-perp-20.png, id=1430, 462.528pt x 346.896pt>
+<imagenes/wav-perp-20.png, id=1454, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-20.png Graphic file (type png)
 <use imagenes/wav-perp-20.png>
 Package pdftex.def Info: imagenes/wav-perp-20.png  used on input line 186.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
-<imagenes/wav-perp-30.png, id=1431, 462.528pt x 346.896pt>
+<imagenes/wav-perp-30.png, id=1455, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-30.png Graphic file (type png)
 <use imagenes/wav-perp-30.png>
 Package pdftex.def Info: imagenes/wav-perp-30.png  used on input line 187.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
-<imagenes/wav-perp-50.png, id=1432, 462.528pt x 346.896pt>
+<imagenes/wav-perp-50.png, id=1456, 462.528pt x 346.896pt>
 File: imagenes/wav-perp-50.png Graphic file (type png)
 <use imagenes/wav-perp-50.png>
 Package pdftex.def Info: imagenes/wav-perp-50.png  used on input line 193.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
 
-[37]
-<imagenes/TF-perp-2.png, id=1444, 462.528pt x 346.896pt>
+[38]
+<imagenes/TF-perp-2.png, id=1468, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-2.png Graphic file (type png)
 <use imagenes/TF-perp-2.png>
 Package pdftex.def Info: imagenes/TF-perp-2.png  used on input line 211.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
-<imagenes/TF-perp-5.png, id=1445, 462.528pt x 346.896pt>
+<imagenes/TF-perp-5.png, id=1469, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-5.png Graphic file (type png)
 <use imagenes/TF-perp-5.png>
 Package pdftex.def Info: imagenes/TF-perp-5.png  used on input line 212.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
-<imagenes/TF-perp-20.png, id=1446, 462.528pt x 346.896pt>
+<imagenes/TF-perp-20.png, id=1470, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-20.png Graphic file (type png)
 <use imagenes/TF-perp-20.png>
 Package pdftex.def Info: imagenes/TF-perp-20.png  used on input line 219.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
-<imagenes/TF-perp-30.png, id=1447, 462.528pt x 346.896pt>
+<imagenes/TF-perp-30.png, id=1471, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-30.png Graphic file (type png)
 <use imagenes/TF-perp-30.png>
 Package pdftex.def Info: imagenes/TF-perp-30.png  used on input line 220.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
-<imagenes/TF-perp-50.png, id=1448, 462.528pt x 346.896pt>
+<imagenes/TF-perp-50.png, id=1472, 462.528pt x 346.896pt>
 File: imagenes/TF-perp-50.png Graphic file (type png)
 <use imagenes/TF-perp-50.png>
 Package pdftex.def Info: imagenes/TF-perp-50.png  used on input line 226.
 (pdftex.def)             Requested size: 213.39568pt x 160.05048pt.
- [38 <./imagenes/wav-perp-2.png> <./imagenes/wav-perp-5.png> <./imagenes/wav-pe
+ [39 <./imagenes/wav-perp-2.png> <./imagenes/wav-perp-5.png> <./imagenes/wav-pe
 rp-20.png> <./imagenes/wav-perp-30.png> <./imagenes/wav-perp-50.png>]
 Overfull \hbox (3.62003pt too wide) in paragraph at lines 235--235
 [][]\T1/txr/m/n/12 Debería 
@@ -2679,9 +2459,9 @@ Overfull \hbox (3.62003pt too wide) in paragraph at lines 235--235
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrfull' on input line 3.
 
-[39 <./imagenes/TF-perp-2.png> <./imagenes/TF-perp-5.png> <./imagenes/TF-perp-2
+[40 <./imagenes/TF-perp-2.png> <./imagenes/TF-perp-5.png> <./imagenes/TF-perp-2
 0.png> <./imagenes/TF-perp-30.png> <./imagenes/TF-perp-50.png>]
-<imagenes/SMOTE.png, id=1479, 703.62875pt x 512.91624pt>
+<imagenes/SMOTE.png, id=1504, 703.62875pt x 512.91624pt>
 File: imagenes/SMOTE.png Graphic file (type png)
 <use imagenes/SMOTE.png>
 Package pdftex.def Info: imagenes/SMOTE.png  used on input line 17.
@@ -2691,8 +2471,8 @@ Package pdftex.def Info: imagenes/SMOTE.png  used on input line 17.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrfull' on input line 3.
 
-[40 <./imagenes/SMOTE.png>]
-<imagenes/svm.png, id=1505, 924.45375pt x 474.77374pt>
+[41 <./imagenes/SMOTE.png>]
+<imagenes/svm.png, id=1529, 924.45375pt x 474.77374pt>
 File: imagenes/svm.png Graphic file (type png)
 <use imagenes/svm.png>
 Package pdftex.def Info: imagenes/svm.png  used on input line 15.
@@ -2706,47 +2486,47 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrlong' on input line 3.
 
-<imagenes/rnn.png, id=1516, 789.95125pt x 317.185pt>
+<imagenes/rnn.png, id=1540, 789.95125pt x 317.185pt>
 File: imagenes/rnn.png Graphic file (type png)
 <use imagenes/rnn.png>
 Package pdftex.def Info: imagenes/rnn.png  used on input line 13.
 (pdftex.def)             Requested size: 276.48708pt x 111.0164pt.
-[41 <./imagenes/svm.png (PNG copy)>]
-<imagenes/long-term-dependencies.png, id=1526, 667.49374pt x 364.36125pt>
+[42 <./imagenes/svm.png (PNG copy)>]
+<imagenes/long-term-dependencies.png, id=1550, 667.49374pt x 364.36125pt>
 File: imagenes/long-term-dependencies.png Graphic file (type png)
 <use imagenes/long-term-dependencies.png>
 Package pdftex.def Info: imagenes/long-term-dependencies.png  used on input lin
 e 23.
 (pdftex.def)             Requested size: 233.62631pt x 127.52834pt.
- [42 <./imagenes/rnn.png> <./imagenes/long-term-dependencies.png>]
-<imagenes/lstm-module.png, id=1544, 787.94376pt x 576.1525pt>
+ [43 <./imagenes/rnn.png> <./imagenes/long-term-dependencies.png>]
+<imagenes/lstm-module.png, id=1568, 787.94376pt x 576.1525pt>
 File: imagenes/lstm-module.png Graphic file (type png)
 <use imagenes/lstm-module.png>
 Package pdftex.def Info: imagenes/lstm-module.png  used on input line 35.
 (pdftex.def)             Requested size: 228.49783pt x 167.07994pt.
-<imagenes/lstm-forget-gate.png, id=1548, 242.9075pt x 430.60875pt>
+<imagenes/lstm-forget-gate.png, id=1572, 242.9075pt x 430.60875pt>
 File: imagenes/lstm-forget-gate.png Graphic file (type png)
 <use imagenes/lstm-forget-gate.png>
 Package pdftex.def Info: imagenes/lstm-forget-gate.png  used on input line 45.
 (pdftex.def)             Requested size: 55.86754pt x 99.03792pt.
- [43 <./imagenes/lstm-module.png> <./imagenes/lstm-forget-gate.png>]
-<imagenes/lstm-input-gate.png, id=1560, 385.44pt x 304.13625pt>
+ [44 <./imagenes/lstm-module.png> <./imagenes/lstm-forget-gate.png>]
+<imagenes/lstm-input-gate.png, id=1584, 385.44pt x 304.13625pt>
 File: imagenes/lstm-input-gate.png Graphic file (type png)
 <use imagenes/lstm-input-gate.png>
 Package pdftex.def Info: imagenes/lstm-input-gate.png  used on input line 60.
 (pdftex.def)             Requested size: 104.07019pt x 82.11787pt.
-<imagenes/lstm-cell-state.png, id=1568, 750.805pt x 238.8925pt>
+<imagenes/lstm-cell-state.png, id=1592, 750.805pt x 238.8925pt>
 File: imagenes/lstm-cell-state.png Graphic file (type png)
 <use imagenes/lstm-cell-state.png>
 Package pdftex.def Info: imagenes/lstm-cell-state.png  used on input line 74.
 (pdftex.def)             Requested size: 149.37958pt x 47.52977pt.
- [44 <./imagenes/lstm-input-gate.png>]
-<imagenes/lstm-output-gate.png, id=1577, 787.94376pt x 576.1525pt>
+ [45 <./imagenes/lstm-input-gate.png>]
+<imagenes/lstm-output-gate.png, id=1601, 787.94376pt x 576.1525pt>
 File: imagenes/lstm-output-gate.png Graphic file (type png)
 <use imagenes/lstm-output-gate.png>
 Package pdftex.def Info: imagenes/lstm-output-gate.png  used on input line 95.
 (pdftex.def)             Requested size: 196.98546pt x 144.03777pt.
-)) [45 <./imagenes/lstm-output-gate.png> <./imagenes/lstm-cell-state.png>]
+)) [46 <./imagenes/lstm-output-gate.png> <./imagenes/lstm-cell-state.png>]
 Chapter 5.
 (./experiments.tex
 Overfull \hbox (1.62802pt too wide) in paragraph at lines 21--21
@@ -2768,39 +2548,39 @@ Overfull \hbox (4.29202pt too wide) in paragraph at lines 21--21
 \T1/txr/m/n/12 classes?  
  []
 
-<imagenes/samples-class-experiments.png, id=1599, 642.4pt x 481.8pt>
+<imagenes/samples-class-experiments.png, id=1624, 642.4pt x 481.8pt>
 File: imagenes/samples-class-experiments.png Graphic file (type png)
 <use imagenes/samples-class-experiments.png>
 Package pdftex.def Info: imagenes/samples-class-experiments.png  used on input 
 line 51.
 (pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
-[46
+[47
 
 ]
 
-LaTeX Warning: Reference `label:svm' on page 47 undefined on input line 58.
+LaTeX Warning: Reference `label:svm' on page 48 undefined on input line 58.
 
-<imagenes/tr_val_unbal_svm.png, id=1616, 642.4pt x 481.8pt>
+<imagenes/tr_val_unbal_svm.png, id=1640, 642.4pt x 481.8pt>
 File: imagenes/tr_val_unbal_svm.png Graphic file (type png)
 <use imagenes/tr_val_unbal_svm.png>
 Package pdftex.def Info: imagenes/tr_val_unbal_svm.png  used on input line 69.
 (pdftex.def)             Requested size: 213.39568pt x 160.04578pt.
-<imagenes/tst_unbal_svm.png, id=1617, 642.4pt x 481.8pt>
+<imagenes/tst_unbal_svm.png, id=1641, 642.4pt x 481.8pt>
 File: imagenes/tst_unbal_svm.png Graphic file (type png)
 <use imagenes/tst_unbal_svm.png>
 Package pdftex.def Info: imagenes/tst_unbal_svm.png  used on input line 70.
 (pdftex.def)             Requested size: 213.39568pt x 160.04578pt.
-<imagenes/tr_val_unbal.png, id=1618, 642.4pt x 481.8pt>
+<imagenes/tr_val_unbal.png, id=1642, 642.4pt x 481.8pt>
 File: imagenes/tr_val_unbal.png Graphic file (type png)
 <use imagenes/tr_val_unbal.png>
 Package pdftex.def Info: imagenes/tr_val_unbal.png  used on input line 78.
 (pdftex.def)             Requested size: 213.39568pt x 160.04578pt.
-<imagenes/tst_unbal.png, id=1619, 642.4pt x 481.8pt>
+<imagenes/tst_unbal.png, id=1643, 642.4pt x 481.8pt>
 File: imagenes/tst_unbal.png Graphic file (type png)
 <use imagenes/tst_unbal.png>
 Package pdftex.def Info: imagenes/tst_unbal.png  used on input line 79.
 (pdftex.def)             Requested size: 213.39568pt x 160.04578pt.
-[47]
+[48]
 Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|[][][]\T1/txr/bx/n/12 LSTM[][] multi and
  []
@@ -2820,16 +2600,16 @@ Overfull \hbox (12.0086pt too wide) in paragraph at lines 90--99
  [][] 
  []
 
-[48 <./imagenes/samples-class-experiments.png (PNG copy)>] [49 <./imagenes/tr_v
+[49 <./imagenes/samples-class-experiments.png (PNG copy)>] [50 <./imagenes/tr_v
 al_unbal_svm.png (PNG copy)> <./imagenes/tst_unbal_svm.png (PNG copy)> <./image
 nes/tr_val_unbal.png (PNG copy)> <./imagenes/tst_unbal.png (PNG copy)>]
-<imagenes/multiclass-classifier.png, id=1652, 522.95375pt x 61.22874pt>
+<imagenes/multiclass-classifier.png, id=1676, 522.95375pt x 61.22874pt>
 File: imagenes/multiclass-classifier.png Graphic file (type png)
 <use imagenes/multiclass-classifier.png>
 Package pdftex.def Info: imagenes/multiclass-classifier.png  used on input line
  118.
 (pdftex.def)             Requested size: 339.91591pt x 39.79819pt.
-<imagenes/mutli+svm-binary.png, id=1653, 522.95375pt x 61.22874pt>
+<imagenes/mutli+svm-binary.png, id=1677, 522.95375pt x 61.22874pt>
 File: imagenes/mutli+svm-binary.png Graphic file (type png)
 <use imagenes/mutli+svm-binary.png>
 Package pdftex.def Info: imagenes/mutli+svm-binary.png  used on input line 126.
@@ -2840,13 +2620,13 @@ Package pdftex.def Info: imagenes/mutli+svm-binary.png  used on input line 126.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrshort' on input line 136.
 
-<imagenes/svm-multi-cm-tr-av.png, id=1664, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-tr-av.png, id=1688, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-tr-av.png Graphic file (type png)
 <use imagenes/svm-multi-cm-tr-av.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-tr-av.png  used on input line 14
 9.
 (pdftex.def)             Requested size: 256.07741pt x 192.06905pt.
-<imagenes/svm-multi-cm-tr-std.png, id=1665, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-tr-std.png, id=1689, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-tr-std.png Graphic file (type png)
 <use imagenes/svm-multi-cm-tr-std.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-tr-std.png  used on input line 1
@@ -2857,13 +2637,13 @@ Overfull \hbox (85.36346pt too wide) in paragraph at lines 149--151
 [][][] 
  []
 
-<imagenes/svm-multi-cm-val-av.png, id=1666, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-val-av.png, id=1690, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-val-av.png Graphic file (type png)
 <use imagenes/svm-multi-cm-val-av.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-val-av.png  used on input line 1
 57.
 (pdftex.def)             Requested size: 256.07741pt x 192.06905pt.
-<imagenes/svm-multi-cm-val-std.png, id=1667, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-val-std.png, id=1691, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-val-std.png Graphic file (type png)
 <use imagenes/svm-multi-cm-val-std.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-val-std.png  used on input line 
@@ -2874,20 +2654,20 @@ Overfull \hbox (85.36346pt too wide) in paragraph at lines 157--159
 [][][] 
  []
 
-<imagenes/svm-multi-cm-tst.png, id=1668, 462.528pt x 346.896pt>
+<imagenes/svm-multi-cm-tst.png, id=1692, 462.528pt x 346.896pt>
 File: imagenes/svm-multi-cm-tst.png Graphic file (type png)
 <use imagenes/svm-multi-cm-tst.png>
 Package pdftex.def Info: imagenes/svm-multi-cm-tst.png  used on input line 169.
 
 (pdftex.def)             Requested size: 298.75264pt x 224.07703pt.
-[50 <./imagenes/multiclass-classifier.png> <./imagenes/mutli+svm-binary.png>]
+[51 <./imagenes/multiclass-classifier.png> <./imagenes/mutli+svm-binary.png>]
 Overfull \vbox (29.98659pt too high) has occurred while \output is active []
 
 
-[51 <./imagenes/svm-multi-cm-tr-av.png> <./imagenes/svm-multi-cm-tr-std.png> <.
+[52 <./imagenes/svm-multi-cm-tr-av.png> <./imagenes/svm-multi-cm-tr-std.png> <.
 /imagenes/svm-multi-cm-val-av.png> <./imagenes/svm-multi-cm-val-std.png> <./ima
 genes/svm-multi-cm-tst.png>]
-<imagenes/svm-multierrorbar.png, id=1686, 462.528pt x 346.896pt>
+<imagenes/svm-multierrorbar.png, id=1711, 462.528pt x 346.896pt>
 File: imagenes/svm-multierrorbar.png Graphic file (type png)
 <use imagenes/svm-multierrorbar.png>
 Package pdftex.def Info: imagenes/svm-multierrorbar.png  used on input line 177
@@ -2902,13 +2682,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrshort' on input line 184.
 
-<imagenes/svm-svm-cm-tr-av.png, id=1694, 642.4pt x 481.8pt>
+<imagenes/svm-svm-cm-tr-av.png, id=1719, 642.4pt x 481.8pt>
 File: imagenes/svm-svm-cm-tr-av.png Graphic file (type png)
 <use imagenes/svm-svm-cm-tr-av.png>
 Package pdftex.def Info: imagenes/svm-svm-cm-tr-av.png  used on input line 198.
 
 (pdftex.def)             Requested size: 234.73654pt x 176.05035pt.
-<imagenes/svm-svm-cm-tr-std.png, id=1695, 462.528pt x 346.896pt>
+<imagenes/svm-svm-cm-tr-std.png, id=1720, 462.528pt x 346.896pt>
 File: imagenes/svm-svm-cm-tr-std.png Graphic file (type png)
 <use imagenes/svm-svm-cm-tr-std.png>
 Package pdftex.def Info: imagenes/svm-svm-cm-tr-std.png  used on input line 199
@@ -2919,13 +2699,13 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 198--200
  [][][] 
  []
 
-<imagenes/svm-svm-cm-val-av.png, id=1696, 642.4pt x 481.8pt>
+<imagenes/svm-svm-cm-val-av.png, id=1721, 642.4pt x 481.8pt>
 File: imagenes/svm-svm-cm-val-av.png Graphic file (type png)
 <use imagenes/svm-svm-cm-val-av.png>
 Package pdftex.def Info: imagenes/svm-svm-cm-val-av.png  used on input line 207
 .
 (pdftex.def)             Requested size: 234.73654pt x 176.05035pt.
-<imagenes/svm-svm-cm-val-std.png, id=1697, 462.528pt x 346.896pt>
+<imagenes/svm-svm-cm-val-std.png, id=1722, 462.528pt x 346.896pt>
 File: imagenes/svm-svm-cm-val-std.png Graphic file (type png)
 <use imagenes/svm-svm-cm-val-std.png>
 Package pdftex.def Info: imagenes/svm-svm-cm-val-std.png  used on input line 20
@@ -2936,26 +2716,26 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 207--209
  [][][] 
  []
 
-[52 <./imagenes/svm-multierrorbar.png>]
-<imagenes/svm-svm-cm-tst.png, id=1704, 462.528pt x 346.896pt>
+[53 <./imagenes/svm-multierrorbar.png>]
+<imagenes/svm-svm-cm-tst.png, id=1728, 462.528pt x 346.896pt>
 File: imagenes/svm-svm-cm-tst.png Graphic file (type png)
 <use imagenes/svm-svm-cm-tst.png>
 Package pdftex.def Info: imagenes/svm-svm-cm-tst.png  used on input line 219.
 (pdftex.def)             Requested size: 298.75264pt x 224.07703pt.
- [53 <./imagenes/svm-svm-cm-tr-av.png> <./imagenes/svm-svm-cm-tr-std.png> <./im
+ [54 <./imagenes/svm-svm-cm-tr-av.png> <./imagenes/svm-svm-cm-tr-std.png> <./im
 agenes/svm-svm-cm-val-av.png> <./imagenes/svm-svm-cm-val-std.png>]
-<imagenes/svm-binaryerrorbar.png, id=1713, 462.528pt x 346.896pt>
+<imagenes/svm-binaryerrorbar.png, id=1737, 462.528pt x 346.896pt>
 File: imagenes/svm-binaryerrorbar.png Graphic file (type png)
 <use imagenes/svm-binaryerrorbar.png>
 Package pdftex.def Info: imagenes/svm-binaryerrorbar.png  used on input line 22
 9.
 (pdftex.def)             Requested size: 298.75264pt x 224.07703pt.
- [54 <./imagenes/svm-svm-cm-tst.png>]
+ [55 <./imagenes/svm-svm-cm-tst.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrshort' on input line 234.
 
-<imagenes/lstm.png, id=1720, 121.45375pt x 251.94125pt>
+<imagenes/lstm.png, id=1744, 121.45375pt x 251.94125pt>
 File: imagenes/lstm.png Graphic file (type png)
 <use imagenes/lstm.png>
 Package pdftex.def Info: imagenes/lstm.png  used on input line 239.
@@ -2970,14 +2750,14 @@ Overfull \hbox (1.268pt too wide) in paragraph at lines 246--246
 [][]\T1/txr/m/n/12 remove 
  []
 
-[55 <./imagenes/svm-binaryerrorbar.png> <./imagenes/lstm.png>]
-<imagenes/lstm-multi-cm-tr-av.png, id=1744, 462.528pt x 346.896pt>
+[56 <./imagenes/svm-binaryerrorbar.png> <./imagenes/lstm.png>]
+<imagenes/lstm-multi-cm-tr-av.png, id=1768, 462.528pt x 346.896pt>
 File: imagenes/lstm-multi-cm-tr-av.png Graphic file (type png)
 <use imagenes/lstm-multi-cm-tr-av.png>
 Package pdftex.def Info: imagenes/lstm-multi-cm-tr-av.png  used on input line 2
 57.
 (pdftex.def)             Requested size: 256.07741pt x 192.06905pt.
-<imagenes/lstm-multi-cm-tr-std.png, id=1745, 462.528pt x 346.896pt>
+<imagenes/lstm-multi-cm-tr-std.png, id=1769, 462.528pt x 346.896pt>
 File: imagenes/lstm-multi-cm-tr-std.png Graphic file (type png)
 <use imagenes/lstm-multi-cm-tr-std.png>
 Package pdftex.def Info: imagenes/lstm-multi-cm-tr-std.png  used on input line 
@@ -2988,13 +2768,13 @@ Overfull \hbox (85.36346pt too wide) in paragraph at lines 257--259
  [][][] 
  []
 
-<imagenes/lstm-multi-cm-val-av.png, id=1746, 462.528pt x 346.896pt>
+<imagenes/lstm-multi-cm-val-av.png, id=1770, 462.528pt x 346.896pt>
 File: imagenes/lstm-multi-cm-val-av.png Graphic file (type png)
 <use imagenes/lstm-multi-cm-val-av.png>
 Package pdftex.def Info: imagenes/lstm-multi-cm-val-av.png  used on input line 
 266.
 (pdftex.def)             Requested size: 256.07741pt x 192.06905pt.
-<imagenes/lstm-multi-cm-val-std.png, id=1747, 462.528pt x 346.896pt>
+<imagenes/lstm-multi-cm-val-std.png, id=1771, 462.528pt x 346.896pt>
 File: imagenes/lstm-multi-cm-val-std.png Graphic file (type png)
 <use imagenes/lstm-multi-cm-val-std.png>
 Package pdftex.def Info: imagenes/lstm-multi-cm-val-std.png  used on input line
@@ -3005,15 +2785,15 @@ Overfull \hbox (85.36346pt too wide) in paragraph at lines 266--268
  [][][] 
  []
 
-<imagenes/lstm-multi-cm-tst.png, id=1748, 462.528pt x 346.896pt>
+<imagenes/lstm-multi-cm-tst.png, id=1772, 462.528pt x 346.896pt>
 File: imagenes/lstm-multi-cm-tst.png Graphic file (type png)
 <use imagenes/lstm-multi-cm-tst.png>
 Package pdftex.def Info: imagenes/lstm-multi-cm-tst.png  used on input line 277
 .
 (pdftex.def)             Requested size: 298.75264pt x 224.07703pt.
-[56 <./imagenes/lstm-multi-cm-tr-av.png> <./imagenes/lstm-multi-cm-tr-std.png> 
+[57 <./imagenes/lstm-multi-cm-tr-av.png> <./imagenes/lstm-multi-cm-tr-std.png> 
 <./imagenes/lstm-multi-cm-val-av.png> <./imagenes/lstm-multi-cm-val-std.png>]
-<imagenes/lstm-multierrorbar.png, id=1757, 462.528pt x 346.896pt>
+<imagenes/lstm-multierrorbar.png, id=1781, 462.528pt x 346.896pt>
 File: imagenes/lstm-multierrorbar.png Graphic file (type png)
 <use imagenes/lstm-multierrorbar.png>
 Package pdftex.def Info: imagenes/lstm-multierrorbar.png  used on input line 28
@@ -3028,14 +2808,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrshort' on input line 292.
 
-[57 <./imagenes/lstm-multi-cm-tst.png> <./imagenes/lstm-multierrorbar.png>]
-<imagenes/lstm-svm-cm-tr-av.png, id=1771, 462.528pt x 346.896pt>
+[58 <./imagenes/lstm-multi-cm-tst.png> <./imagenes/lstm-multierrorbar.png>]
+<imagenes/lstm-svm-cm-tr-av.png, id=1796, 462.528pt x 346.896pt>
 File: imagenes/lstm-svm-cm-tr-av.png Graphic file (type png)
 <use imagenes/lstm-svm-cm-tr-av.png>
 Package pdftex.def Info: imagenes/lstm-svm-cm-tr-av.png  used on input line 306
 .
 (pdftex.def)             Requested size: 234.73654pt x 176.05182pt.
-<imagenes/lstm-svm-cm-tr-std.png, id=1772, 462.528pt x 346.896pt>
+<imagenes/lstm-svm-cm-tr-std.png, id=1797, 462.528pt x 346.896pt>
 File: imagenes/lstm-svm-cm-tr-std.png Graphic file (type png)
 <use imagenes/lstm-svm-cm-tr-std.png>
 Package pdftex.def Info: imagenes/lstm-svm-cm-tr-std.png  used on input line 30
@@ -3046,13 +2826,13 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 306--308
  [][][] 
  []
 
-<imagenes/lstm-svm-cm-val-av.png, id=1773, 462.528pt x 346.896pt>
+<imagenes/lstm-svm-cm-val-av.png, id=1798, 462.528pt x 346.896pt>
 File: imagenes/lstm-svm-cm-val-av.png Graphic file (type png)
 <use imagenes/lstm-svm-cm-val-av.png>
 Package pdftex.def Info: imagenes/lstm-svm-cm-val-av.png  used on input line 31
 5.
 (pdftex.def)             Requested size: 234.73654pt x 176.05182pt.
-<imagenes/lstm-svm-cm-val-std.png, id=1774, 462.528pt x 346.896pt>
+<imagenes/lstm-svm-cm-val-std.png, id=1799, 462.528pt x 346.896pt>
 File: imagenes/lstm-svm-cm-val-std.png Graphic file (type png)
 <use imagenes/lstm-svm-cm-val-std.png>
 Package pdftex.def Info: imagenes/lstm-svm-cm-val-std.png  used on input line 3
@@ -3063,14 +2843,14 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 315--317
  [][][] 
  []
 
-<imagenes/lstm-svm-cm-tst.png, id=1775, 462.528pt x 346.896pt>
+<imagenes/lstm-svm-cm-tst.png, id=1800, 462.528pt x 346.896pt>
 File: imagenes/lstm-svm-cm-tst.png Graphic file (type png)
 <use imagenes/lstm-svm-cm-tst.png>
 Package pdftex.def Info: imagenes/lstm-svm-cm-tst.png  used on input line 327.
 (pdftex.def)             Requested size: 298.75264pt x 224.07703pt.
-[58 <./imagenes/lstm-svm-cm-tr-av.png> <./imagenes/lstm-svm-cm-tr-std.png> <./i
+[59 <./imagenes/lstm-svm-cm-tr-av.png> <./imagenes/lstm-svm-cm-tr-std.png> <./i
 magenes/lstm-svm-cm-val-av.png> <./imagenes/lstm-svm-cm-val-std.png>]
-<imagenes/lstm-svmerrorbar.png, id=1785, 462.528pt x 346.896pt>
+<imagenes/lstm-svmerrorbar.png, id=1809, 462.528pt x 346.896pt>
 File: imagenes/lstm-svmerrorbar.png Graphic file (type png)
 <use imagenes/lstm-svmerrorbar.png>
 Package pdftex.def Info: imagenes/lstm-svmerrorbar.png  used on input line 335.
@@ -3081,14 +2861,14 @@ Package pdftex.def Info: imagenes/lstm-svmerrorbar.png  used on input line 335.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrshort' on input line 343.
 
-[59 <./imagenes/lstm-svm-cm-tst.png> <./imagenes/lstm-svmerrorbar.png>]
-<imagenes/cnn-multi-cm-tr-av.png, id=1800, 462.528pt x 346.896pt>
+[60 <./imagenes/lstm-svm-cm-tst.png> <./imagenes/lstm-svmerrorbar.png>]
+<imagenes/cnn-multi-cm-tr-av.png, id=1824, 462.528pt x 346.896pt>
 File: imagenes/cnn-multi-cm-tr-av.png Graphic file (type png)
 <use imagenes/cnn-multi-cm-tr-av.png>
 Package pdftex.def Info: imagenes/cnn-multi-cm-tr-av.png  used on input line 35
 9.
 (pdftex.def)             Requested size: 234.73654pt x 176.05182pt.
-<imagenes/cnn-multi-cm-tr-std.png, id=1801, 462.528pt x 346.896pt>
+<imagenes/cnn-multi-cm-tr-std.png, id=1825, 462.528pt x 346.896pt>
 File: imagenes/cnn-multi-cm-tr-std.png Graphic file (type png)
 <use imagenes/cnn-multi-cm-tr-std.png>
 Package pdftex.def Info: imagenes/cnn-multi-cm-tr-std.png  used on input line 3
@@ -3099,13 +2879,13 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 359--361
  [][][] 
  []
 
-<imagenes/cnn-multi-cm-val-av.png, id=1802, 462.528pt x 346.896pt>
+<imagenes/cnn-multi-cm-val-av.png, id=1826, 462.528pt x 346.896pt>
 File: imagenes/cnn-multi-cm-val-av.png Graphic file (type png)
 <use imagenes/cnn-multi-cm-val-av.png>
 Package pdftex.def Info: imagenes/cnn-multi-cm-val-av.png  used on input line 3
 68.
 (pdftex.def)             Requested size: 234.73654pt x 176.05182pt.
-<imagenes/cnn-multi-cm-val-std.png, id=1803, 462.528pt x 346.896pt>
+<imagenes/cnn-multi-cm-val-std.png, id=1827, 462.528pt x 346.896pt>
 File: imagenes/cnn-multi-cm-val-std.png Graphic file (type png)
 <use imagenes/cnn-multi-cm-val-std.png>
 Package pdftex.def Info: imagenes/cnn-multi-cm-val-std.png  used on input line 
@@ -3116,15 +2896,15 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 368--370
  [][][] 
  []
 
-<imagenes/cnn-multi-cm-tst.png, id=1804, 462.528pt x 346.896pt>
+<imagenes/cnn-multi-cm-tst.png, id=1828, 462.528pt x 346.896pt>
 File: imagenes/cnn-multi-cm-tst.png Graphic file (type png)
 <use imagenes/cnn-multi-cm-tst.png>
 Package pdftex.def Info: imagenes/cnn-multi-cm-tst.png  used on input line 380.
 
 (pdftex.def)             Requested size: 298.75264pt x 224.07703pt.
-[60 <./imagenes/cnn-multi-cm-tr-av.png> <./imagenes/cnn-multi-cm-tr-std.png> <.
+[61 <./imagenes/cnn-multi-cm-tr-av.png> <./imagenes/cnn-multi-cm-tr-std.png> <.
 /imagenes/cnn-multi-cm-val-av.png> <./imagenes/cnn-multi-cm-val-std.png>]
-<imagenes/cnn-multierrorbar.png, id=1813, 462.528pt x 346.896pt>
+<imagenes/cnn-multierrorbar.png, id=1837, 462.528pt x 346.896pt>
 File: imagenes/cnn-multierrorbar.png Graphic file (type png)
 <use imagenes/cnn-multierrorbar.png>
 Package pdftex.def Info: imagenes/cnn-multierrorbar.png  used on input line 388
@@ -3139,14 +2919,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\acrshort' on input line 395.
 
-[61 <./imagenes/cnn-multi-cm-tst.png> <./imagenes/cnn-multierrorbar.png>]
-<imagenes/cnn-svm-cm-tr-av.png, id=1828, 462.528pt x 346.896pt>
+[62 <./imagenes/cnn-multi-cm-tst.png> <./imagenes/cnn-multierrorbar.png>]
+<imagenes/cnn-svm-cm-tr-av.png, id=1852, 462.528pt x 346.896pt>
 File: imagenes/cnn-svm-cm-tr-av.png Graphic file (type png)
 <use imagenes/cnn-svm-cm-tr-av.png>
 Package pdftex.def Info: imagenes/cnn-svm-cm-tr-av.png  used on input line 409.
 
 (pdftex.def)             Requested size: 234.73654pt x 176.05182pt.
-<imagenes/cnn-svm-cm-tr-std.png, id=1829, 462.528pt x 346.896pt>
+<imagenes/cnn-svm-cm-tr-std.png, id=1853, 462.528pt x 346.896pt>
 File: imagenes/cnn-svm-cm-tr-std.png Graphic file (type png)
 <use imagenes/cnn-svm-cm-tr-std.png>
 Package pdftex.def Info: imagenes/cnn-svm-cm-tr-std.png  used on input line 410
@@ -3157,13 +2937,13 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 409--411
  [][][] 
  []
 
-<imagenes/cnn-svm-cm-val-av.png, id=1830, 462.528pt x 346.896pt>
+<imagenes/cnn-svm-cm-val-av.png, id=1854, 462.528pt x 346.896pt>
 File: imagenes/cnn-svm-cm-val-av.png Graphic file (type png)
 <use imagenes/cnn-svm-cm-val-av.png>
 Package pdftex.def Info: imagenes/cnn-svm-cm-val-av.png  used on input line 418
 .
 (pdftex.def)             Requested size: 234.73654pt x 176.05182pt.
-<imagenes/cnn-svm-cm-val-std.png, id=1831, 462.528pt x 346.896pt>
+<imagenes/cnn-svm-cm-val-std.png, id=1855, 462.528pt x 346.896pt>
 File: imagenes/cnn-svm-cm-val-std.png Graphic file (type png)
 <use imagenes/cnn-svm-cm-val-std.png>
 Package pdftex.def Info: imagenes/cnn-svm-cm-val-std.png  used on input line 41
@@ -3174,19 +2954,19 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 418--420
  [][][] 
  []
 
-<imagenes/cnn-svm-cm-tst.png, id=1832, 462.528pt x 346.896pt>
+<imagenes/cnn-svm-cm-tst.png, id=1856, 462.528pt x 346.896pt>
 File: imagenes/cnn-svm-cm-tst.png Graphic file (type png)
 <use imagenes/cnn-svm-cm-tst.png>
 Package pdftex.def Info: imagenes/cnn-svm-cm-tst.png  used on input line 430.
 (pdftex.def)             Requested size: 298.75264pt x 224.07703pt.
-[62 <./imagenes/cnn-svm-cm-tr-av.png> <./imagenes/cnn-svm-cm-tr-std.png> <./ima
+[63 <./imagenes/cnn-svm-cm-tr-av.png> <./imagenes/cnn-svm-cm-tr-std.png> <./ima
 genes/cnn-svm-cm-val-av.png> <./imagenes/cnn-svm-cm-val-std.png>]
-<imagenes/cnn-svmerrorbar.png, id=1841, 462.528pt x 346.896pt>
+<imagenes/cnn-svmerrorbar.png, id=1865, 462.528pt x 346.896pt>
 File: imagenes/cnn-svmerrorbar.png Graphic file (type png)
 <use imagenes/cnn-svmerrorbar.png>
 Package pdftex.def Info: imagenes/cnn-svmerrorbar.png  used on input line 438.
 (pdftex.def)             Requested size: 298.75264pt x 224.07703pt.
- [63 <./imagenes/cnn-svm-cm-tst.png> <./imagenes/cnn-svmerrorbar.png>] [64]
+ [64 <./imagenes/cnn-svm-cm-tst.png> <./imagenes/cnn-svmerrorbar.png>] [65]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -3202,49 +2982,61 @@ File: imagenes/cnn-svm-cm-tst.png Graphic file (type png)
 <use imagenes/cnn-svm-cm-tst.png>
 Package pdftex.def Info: imagenes/cnn-svm-cm-tst.png  used on input line 532.
 (pdftex.def)             Requested size: 254.39117pt x 190.79338pt.
-[65]
+[66]
 Overfull \vbox (114.50302pt too high) has occurred while \output is active []
 
 
-[66])
+[67])
 Using TeX to sort glossary entries---this may take a while
-[67] [68
+[68] [69
 
 
-] [69]
+] [70]
 No file plantilla_tfg_ingles_2019.acr.
-[70]
+[71]
 LaTeX Font Info:    Try loading font information for T1+txtt on input line 406.
 
  (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
+Overfull \hbox (8.03268pt too wide) in paragraph at lines 407--407
+[]\T1/txr/m/n/12 World Healt Or-ga-ni-za-tion, ^^P  Un-der-stand-ing and ad-dre
+ss-ing vi-o-lence against women:
+ []
+
+
+Overfull \hbox (6.4607pt too wide) in paragraph at lines 407--407
+\T1/txr/m/n/12 In-ti-mate part-ner vi-o-lence^^Q, \T1/txr/m/it/12 Un-der-stand-
+ing and ad-dress-ing vi-o-lence against women\T1/txr/m/n/12 ,
+ []
+
+
 Overfull \hbox (7.56352pt too wide) in paragraph at lines 407--407
 \T1/txr/m/n/12 deeply lis-ten-ing ma-chines^^Q, \T1/txr/m/it/12 Jour-nal of New
  Mu-sic Re-search\T1/txr/m/n/12 , vol. 42, no. 4, pp. 303^^U
  []
 
-[71
+[72
 
 
-]
+] [73]
 Overfull \hbox (3.53413pt too wide) in paragraph at lines 407--407
 []\T1/txr/m/n/12 T. Grill, ^^P  Con-struct-ing high-level per-cep-tual au-dio d
 e-scrip-tors for tex-tu-ral sounds^^Q,
  []
 
-[72]
+
 Overfull \hbox (2.01851pt too wide) in paragraph at lines 407--407
 \T1/txr/m/n/12 BASED CON-VO-LU-TIONAL NEU-RAL NET-WORKS FOR ACOUS-TIC SCENE
  []
 
-[73]
+[74]
 Overfull \hbox (2.06868pt too wide) in paragraph at lines 407--407
 \T1/txr/m/it/12 Lec-ture Notes in Ar-ti-fi-cial In-tel-li-gence and Lec-ture No
 tes in Bioin-for-mat-ics)\T1/txr/m/n/12 , 2014.
  []
 
-[74] [75] [76]
+[75] [76] [77] [78]
 Overfull \hbox (3.87877pt too wide) in paragraph at lines 407--407
 []\T1/txr/m/n/12 S. Bhat-tacharyya, \T1/txr/m/it/12 Sup-port Vec-tor Ma-chine: 
 Ker-nel Trick; Mer-cer's The-o-rem\T1/txr/m/n/12 , 2018.
@@ -3268,7 +3060,7 @@ Overfull \hbox (22.64975pt too wide) in paragraph at lines 407--407
  by -[] step -[] explanation -[] 44e9eb85bf21$[][]\T1/txr/m/n/12 . 
  []
 
-[77]
+
 Overfull \hbox (53.3163pt too wide) in paragraph at lines 407--407
 []\T1/txr/m/n/12 A. Kaw, \T1/txr/m/it/12 Holis-tic Nu-mer-i-cal Meth-ods\T1/txr
 /m/n/12 . [On-line]. Avail-able: [][]$\T1/txtt/m/n/12 https : / / nm . mathforc
@@ -3293,15 +3085,15 @@ Overfull \hbox (2.33069pt too wide) in paragraph at lines 407--407
 \T1/txr/m/n/12 , 2018. [On-line]. Avail-able: [][]$\T1/txtt/m/n/12 https :
  []
 
-
+[79]
 Overfull \hbox (21.36906pt too wide) in paragraph at lines 407--407
 []\T1/txr/m/n/12 ML Glos-sary, \T1/txr/m/it/12 Loss Func-tions\T1/txr/m/n/12 , 
 2017. [On-line]. Avail-able: [][]$\T1/txtt/m/n/12 https : / / ml -[] cheatsheet
  .
  []
 
-[78] (./appendix.tex [79]
-<imagenes/confusion-matrix.png, id=2276, 385.44pt x 197.73875pt>
+(./appendix.tex [80]
+<imagenes/confusion-matrix.png, id=2307, 385.44pt x 197.73875pt>
 File: imagenes/confusion-matrix.png Graphic file (type png)
 <use imagenes/confusion-matrix.png>
 Package pdftex.def Info: imagenes/confusion-matrix.png  used on input line 28.
@@ -3309,7 +3101,7 @@ Package pdftex.def Info: imagenes/confusion-matrix.png  used on input line 28.
  [1
 
  <./imagenes/confusion-matrix.png>]
-<imagenes/conf-mat-multi.png, id=2286, 694.595pt x 390.45876pt>
+<imagenes/conf-mat-multi.png, id=2317, 694.595pt x 390.45876pt>
 File: imagenes/conf-mat-multi.png Graphic file (type png)
 <use imagenes/conf-mat-multi.png>
 Package pdftex.def Info: imagenes/conf-mat-multi.png  used on input line 49.
@@ -3325,7 +3117,7 @@ een already used, duplicate ignored
                    \relax 
 l.58 	
        [2 <./imagenes/conf-mat-multi.png>]
-<imagenes/k-fold.png, id=2297, 888.31876pt x 615.29875pt>
+<imagenes/k-fold.png, id=2329, 888.31876pt x 615.29875pt>
 File: imagenes/k-fold.png Graphic file (type png)
 <use imagenes/k-fold.png>
 Package pdftex.def Info: imagenes/k-fold.png  used on input line 72.
@@ -3340,7 +3132,7 @@ een already used, duplicate ignored
                    \relax 
 l.81 	
        [3 <./imagenes/k-fold.png>]
-<imagenes/ce.png, id=2309, 536.0025pt x 379.4175pt>
+<imagenes/ce.png, id=2340, 536.0025pt x 379.4175pt>
 File: imagenes/ce.png Graphic file (type png)
 <use imagenes/ce.png>
 Package pdftex.def Info: imagenes/ce.png  used on input line 87.
@@ -3351,7 +3143,7 @@ een already used, duplicate ignored
                    \relax 
 l.106 	
         [4 <./imagenes/ce.png>]
-<imagenes/time-signal.png, id=2319, 750.805pt x 515.9275pt>
+<imagenes/time-signal.png, id=2350, 750.805pt x 515.9275pt>
 File: imagenes/time-signal.png Graphic file (type png)
 <use imagenes/time-signal.png>
 Package pdftex.def Info: imagenes/time-signal.png  used on input line 115.
@@ -3363,12 +3155,12 @@ een already used, duplicate ignored
 l.124 ..._{k=0}^{L-1} x[k]g[k-m]e^{-j2\pi n k/L}\]
                                                    [5 <./imagenes/time-signal.p
 ng>]
-<imagenes/stft.png, id=2338, 853.1875pt x 515.9275pt>
+<imagenes/stft.png, id=2369, 853.1875pt x 515.9275pt>
 File: imagenes/stft.png Graphic file (type png)
 <use imagenes/stft.png>
 Package pdftex.def Info: imagenes/stft.png  used on input line 131.
 (pdftex.def)             Requested size: 298.6201pt x 180.57733pt.
-<imagenes/spectrogram.png, id=2341, 803.0pt x 602.25pt>
+<imagenes/spectrogram.png, id=2372, 803.0pt x 602.25pt>
 File: imagenes/spectrogram.png Graphic file (type png)
 <use imagenes/spectrogram.png>
 Package pdftex.def Info: imagenes/spectrogram.png  used on input line 141.
@@ -3396,7 +3188,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 424.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 424.
 Package rerunfilecheck Info: File `plantilla_tfg_ingles_2019.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: 466F212025751D41EFDC54F9A3A30200;3939.
+(rerunfilecheck)             Checksum: 909DB56605097FC5FC28023A38205AE7;3939.
 
 
 LaTeX Warning: There were undefined references.
@@ -3407,10 +3199,10 @@ Package logreq Info: Writing requests to 'plantilla_tfg_ingles_2019.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 424.
  ) 
 Here is how much of TeX's memory you used:
- 53613 strings out of 492616
- 956474 string characters out of 6129480
- 1547359 words of memory out of 5000000
- 56193 multiletter control sequences out of 15000+600000
+ 53641 strings out of 492616
+ 956576 string characters out of 6129480
+ 1543508 words of memory out of 5000000
+ 56219 multiletter control sequences out of 15000+600000
  628104 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,13n,92p,4120b,3668s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3430,9 +3222,9 @@ xlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019
 /texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on plantilla_tfg_ingles_2019.pdf (101 pages, 4800793 bytes).
+Output written on plantilla_tfg_ingles_2019.pdf (102 pages, 4807747 bytes).
 PDF statistics:
- 2515 PDF objects out of 2984 (max. 8388607)
- 428 named destinations out of 1000 (max. 500000)
+ 2546 PDF objects out of 2984 (max. 8388607)
+ 430 named destinations out of 1000 (max. 500000)
  953 words of extra memory for PDF output out of 10000 (max. 10000000)
 

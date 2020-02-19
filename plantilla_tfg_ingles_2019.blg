@@ -1,15 +1,15 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
-[0] Config.pm:307> INFO - Logfile is 'plantilla_tfg_ingles_2019.blg'
-[54] biber-darwin:315> INFO - === Tue Feb 18, 2020, 14:25:31
-[89] Biber.pm:371> INFO - Reading 'plantilla_tfg_ingles_2019.bcf'
-[229] Biber.pm:889> INFO - Found 112 citekeys in bib section 0
-[317] Biber.pm:4093> INFO - Processing section 0
-[342] Biber.pm:4254> INFO - Looking for bibtex format file 'bibliografia/refs.bib' for section 0
-[363] bibtex.pm:1523> INFO - LaTeX decoding ...
-[650] bibtex.pm:1340> INFO - Found BibTeX data source 'bibliografia/refs.bib'
-[1469] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1469] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1469] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1469] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1557] bbl.pm:636> INFO - Writing 'plantilla_tfg_ingles_2019.bbl' with encoding 'UTF-8'
-[1624] bbl.pm:739> INFO - Output to plantilla_tfg_ingles_2019.bbl
+[1] Config.pm:307> INFO - Logfile is 'plantilla_tfg_ingles_2019.blg'
+[94] biber-darwin:315> INFO - === Wed Feb 19, 2020, 02:03:16
+[213] Biber.pm:371> INFO - Reading 'plantilla_tfg_ingles_2019.bcf'
+[535] Biber.pm:889> INFO - Found 120 citekeys in bib section 0
+[601] Biber.pm:4093> INFO - Processing section 0
+[625] Biber.pm:4254> INFO - Looking for bibtex format file 'bibliografia/refs.bib' for section 0
+[661] bibtex.pm:1523> INFO - LaTeX decoding ...
+[1404] bibtex.pm:1340> INFO - Found BibTeX data source 'bibliografia/refs.bib'
+[3306] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3306] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3306] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[3306] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[3499] bbl.pm:636> INFO - Writing 'plantilla_tfg_ingles_2019.bbl' with encoding 'UTF-8'
+[3627] bbl.pm:739> INFO - Output to plantilla_tfg_ingles_2019.bbl

@@ -2,18 +2,22 @@
 % INTRODUCTION text
 \section{Context}
 
-	Violence against women remains an invisible phenomenon, deeply within the victim’s private life in most cases. It is based on deep social and cultural roots and it is undoubtedly linked to unbalanced relationships between men and women in different situations and contexts, such as economics, politics and religion. In order to prevent these conflicts, the related legislation has achieved important improvements for the last years \cite{}. \todo{CPM: falta la cita.}According to the results of most of the studies, victims can be usually defined as women who endured violence during their childhood and felt socially isolated. They are also characterized for a considerable economic dependency and a low educational level \cite{}.\todo{CPM: tienes puesto que vas a introducir unas refs. Es importante porque no se pueden mencionar estudios de esta manera "most of the studies" sin citar algunos al menos}
-
-	With the purpose of making a difference when identifying situations showing this kind of violence and applying the knowledge and technological advances acquired during this information era, machine learning and deep learning models can collect all the available data to protect eventual victims. \todo{CPM: esta frase no se entiende, ¿quién tiene el propósito de marcar una diferencia?}
+	Violence against women has been considered the most common and least accepted way of violating the human rights in the whole world. This type of actions suppose an important origin of injury and a risk factor for many psychological and physical health problems. Also, it increases the possibility of contracting other type of health issues as physical disability, abuse of consumption of drugs and alcohol and depression \cite{Heise1999}\cite{Watts2002}. This type of violence is usually based on deep social and cultural roots and it is undoubtedly linked to unbalanced relationships between men and women in different situations and contexts, such as economics, politics and religion \cite{Blanco2004}. Also, victims can be usually defined as women who endured violence during their childhood and felt socially isolated. They are also characterized for a considerable economic dependency and a low educational level \cite{Ruiz-Perez2006}.
 	
-	The main challenge is to get to know how the victim is feeling when she is under a threatening situation, for example, if she is scared or nervous, and combine this with other variables which may play an important role in the scene and might be helpful in making a decision about its characterization. There are several factors that can be considered to achieve this task. One of them is the audio, either the victim's voice or the environmental sounds.
-	
-	Plenty of useful information can be extracted from the acoustic scene. %of a certain place. 
-	The detection of audio events can be combined to understand % is an equally good way to define 
-	what is happening in a certain moment. Once these data are collected, they can be classified in different categories and thus describe several aspects of the acoustic scene. Either based on an objective definition of gender violence or on an explanation previously obtained from a particular/specific victim, this acoustic knowledge can be interpreted as dangerous for the user. \todo{CPM: no me gusta mucho la distinción entre objetiva y particular/específica porque la primera tampoco es 'objetiva'. Se me ocurre mejor 'stereotyped' and 'personalized', por ejemplo.}
+	One of the most common types of violence against women is the \acrfull{ipv} which can be defined as physical and emotional damage combined together with sexual abuse by an intimate partner with controller attitude. Although violence between partners in a heterosexual relationship can be executed from both sides and also my appear in homosexual cases, the most usual situation of \acrshort{ipv} is from men to women \cite{WorldHealtOrganization2012}.
 
+	A way to retrieve information of what is happening in a certain situation is by making use of the audio resource. Within this field, plenty of techniques have been developed in order to extract usable information for resolving real world problems. As explain in detail in \ref{section:ved}, one of these tasks consists in detecting violent situations for several applications by implementing methods that take advantage of audiovisual data.
+	
+	In order to include the violence against women as a new branch in the violent detection, the \textit{UC3M4Safety Team} from Universidad Carlos III de Madrid has presented the project EMPATIA-TC\footnote{\textit{protEcciónn integral de las víctimas de violencia de género Mediante comPutaciónn AfecTIva multimodAl} funded by Department  of  Research  and Innovation of Madrid Regional Authority, in the EMPATIA-CM research project(reference  Y2018/TCS-5046)} in which, among other types of data, acoustic information extracted from the victims' environment aimed to be used so as to perform this task \cite{UC3M4SafetyTeam2018}.
+	
+%	The main challenge is to get to know how the victim is feeling when she is under a threatening situation, for example, if she is scared or nervous, and combine this with other variables which may play an important role in the scene and might be helpful in making a decision about its characterization. There are several factors that can be considered to achieve this task. One of them is the audio, either the victim's voice or the environmental sounds.
+	
+%	Plenty of useful information can be extracted from the acoustic scene. %of a certain place. 
+%	The detection of audio events can be combined to understand % is an equally good way to define 
+%	what is happening in a certain moment. Once these data are collected, they can be classified in different categories and thus describe several aspects of the acoustic scene. Either based on an objective definition of gender violence or on an explanation previously obtained from a particular/specific victim, this acoustic knowledge can be interpreted as dangerous for the user. \todo{CPM: no me gusta mucho la distinción entre objetiva y particular/específica porque la primera tampoco es 'objetiva'. Se me ocurre mejor 'stereotyped' and 'personalized', por ejemplo.}
 	
 \section{Objectives}
+\label{section:objectives}
 
 	in a beginning, the main objective of the work was to design and implement a system that allowed to detect and identify violent events from acoustic signals. In order to define a way of how to address the problem, one of the idea was to work in a sound detector. However, how do we know exactly what kind of sounds do we want to detect? Then, we chose the path of defining a system based on a classifier of acoustic events that gives as final output a binary tag identifying the input act as violent or non-violent to improve on the definition of violence. This is basically the global objective of the whole project. The following list collects the different partial objectives considered necessary to obtain the final one.
 	
@@ -27,12 +31,25 @@
 	\end{itemize}
 		
 \section{Regulatory framework}
-\todo{Tips?}
-\todo{CPM: por ejemplo, asuntos relacionados con la ley de protección de datos, la ley integral de violencia de género -derechos de las víctimas y los agresores-. De hecho, yo aquí diría que el marco regulatorio de la aplicación es altamente complicado y que por eso, en el proyecto hay expertas trabajando estos temas pero que tú, en particular, para el trabajo que has desarrollado (puesto que la base de datos es de acceso público) sólo has tenido que observar las instrucciones de la bd.}
+%\todo{Tips?}
+%\todo{CPM: por ejemplo, asuntos relacionados con la ley de protección de datos, la ley integral de violencia de género -derechos de las víctimas y los agresores-. De hecho, yo aquí diría que el marco regulatorio de la aplicación es altamente complicado y que por eso, en el proyecto hay expertas trabajando estos temas pero que tú, en particular, para el trabajo que has desarrollado (puesto que la base de datos es de acceso público) sólo has tenido que observar las instrucciones de la bd.}
+
+	If paying attention to the final application of the whole EMPATIA-TC project, the regulatory framework could be comprehended between aspects related to privacy data protection and integral law of gender-based violence, specifically, the conditions related to the rights of the victims and the aggressors. 
+	
+	Since the objective of the whole project consists of recollecting information from the day-to-day life of the victim in order to control and record her emotional and mental state and check for signs of violence inside her usual environment, this is a continuous access to her privacy and all types of actions that take place in every kind of situations could be recorded, as long as the victim wears the specific devices. Also, when considering a report against a possible batterer, a good point would be to present as a valid evidence data collected with this system. This is actually a good important application of the collected data due to, in several occasions, the judicial cases become stack because of the lack of evidences \cite{UC3M4SafetyTeam2018}. In the case of achieving a resolution for the case, the data could also help to differ in the different types of sexual crimes that can be carried out \cite{Baldwin}, and so the imposed punishment for the aggressor which is different for each case.
+	
+	However, the scope of the task related to this specific work is still far away of that type of resolutions. Since the database used in this work is composed by public available YouTube videos, the legal requirements we deal with are nothing but the privacy policy of this website \cite{Goetzparterns}. It may have a repercussion on the development tasks when trying to download the multimedia data, since there are some videos that are no available maybe because of this reason. 
 
 \section{Socio-economic environment}
-\todo{Tips?}
-\todo{CPM: aquí puedes hablar del impacto socio-económico. Lo que supone empoderar a las mujeres ...Puedes hablar del los objetivos sostenibles de las Naciones Unidas (SDG 5, gender equality) y tienes un filón.}
+%\todo{Tips?}
+%\todo{CPM: aquí puedes hablar del impacto socio-económico. Lo que supone empoderar a las mujeres ...Puedes hablar del los objetivos sostenibles de las Naciones Unidas (SDG 5, gender equality) y tienes un filón.}
+	
+	The implementation of a system like this has its most important repercussion in the women empowerment environment and gender equality. There have been a lot of improvements in this field mainly during the last yeas but still the discrimination is present in many parts of the world. 
+	
+	As a part of the \acrfull{sdg} as a program by the \acrfull{un}, the goal 5 is the one related to the objective of \textit{achieving gender equality and empower all women and girls} \cite{UnitedNations}. There are several actions that are still taking place and should be reduced in order to aim to live in a more prosperous, sustainable and peaceful world. For example, 1 out of 5 women have declared to have suffered physical or sexual damage by an intimate partner. Also, 49 countries in the contemporary world do not count with a legislation to protect women from domestic violence. 
+	
+	It is mainly in this atmosphere of domestic violence in which the developed task can find a more important application within the whole project by defining a new protocol for the protection of the victims of gender-based violence including all the involved agents in order to implement a technological solution \cite{UC3M4SafetyTeam2018}.
+	
 	
 	
 	
