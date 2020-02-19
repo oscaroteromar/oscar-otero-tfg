@@ -253,8 +253,8 @@
       \strng{authorbibnamehash}{a992290c6276908e1ac7861956318d97}
       \strng{authornamehash}{a992290c6276908e1ac7861956318d97}
       \strng{authorfullhash}{a992290c6276908e1ac7861956318d97}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Aggravated Sexual Assault Charges and Penalties}}
@@ -570,8 +570,8 @@
       \strng{authorbibnamehash}{aa4d25906bf690a96eae1cb147750dc0}
       \strng{authornamehash}{51f032f7845b62202f6963ef7fe3eec0}
       \strng{authorfullhash}{0f37c002b63f9b3c7d16889851da659f}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The human activity that takes place in meeting-rooms or class-rooms is reflected in a rich variety of acoustic events, either produced by the human body or by objects handled by humans, so the determination of both the identity of sounds and their position in time may help to detect and describe that human activity. Additionally, detection of sounds other than speech may be useful to enhance the robustness of speech technologies like automatic speech recognition. Automatic detection and classification of acoustic events is the objective of this thesis work. It aims at processing the acoustic signals collected by distant microphones in meeting-room or classroom environments to convert them into symbolic descriptions corresponding to a listener's perception of the different sound events that are present in the signals and their sources. First of all, the task of acoustic event classification is faced using Support Vector Machine (SVM) classifiers, which are motivated by the scarcity of training data. A confusion-matrix-based variable-feature-set clustering scheme is developed for the multiclass recognition problem, and tested on the gathered database. With it, a higher classification rate than the GMM-based technique is obtained, arriving to a large relative average error reduction with respect to the best result from the conventional binary tree scheme. Moreover, several ways to extend SVMs to sequence processing are compared, in an attempt to avoid the drawback of SVMs when dealing with audio data, i.e. their restriction to work with fixed-length vectors, observing that the dynamic time warping kernels work well for sounds that show a temporal structure. Furthermore, concepts and tools from the fuzzy theory are used to investigate, first, the importance of and degree of interaction among features, and second, ways to fuse the outputs of several classification systems. The developed AEC systems are tested also by participating in several international evaluations from 2004 to 2006, and the results are reported. The second main contribution of this thesis work is the development of systems for detection of acoustic events. The detection problem is more complex since it includes both classification and determination of the time intervals where the sound takes place. Two system versions are developed and tested on the datasets of the two CLEAR international evaluation campaigns in 2006 and 2007. Two kinds of databases are used: two databases of isolated acoustic events, and a database of interactive seminars containing a significant number of acoustic events of interest. Our developed systems, which consist of SVM-based classification within a sliding window plus post-processing, were the only submissions not using HMMs, and each of them obtained competitive results in the corresponding evaluation. Speech activity detection was also pursued in this thesis since, in fact, it is a – especially important – particular case of acoustic event detection. An enhanced SVM training approach for the speech activity detection task is developed, mainly to cope with the problem of dataset reduction. The resulting SVM-based system is tested with several NIST Rich Transcription (RT) evaluation datasets, and it shows better scores than our GMM-based system, which ranked among the best systems in the RT06 evaluation. Finally, it is worth mentioning a few side outcomes from this thesis work. As it has been carried out in the framework of the CHIL EU project, the author has been responsible for the organization of the above mentioned international evaluations in acoustic event classification and detection, taking a leading role in the specification of acoustic event classes, databases, and evaluation protocols, and, especially, in the proposal and implementation of the various metrics that have been used. Moreover, the detection systems have been implemented in the UPC's smart-room and work in real time for purposes of testing and demonstration.}
@@ -929,8 +929,8 @@
       \strng{authorbibnamehash}{9302244f8a6a6e012cbc74b32700b068}
       \strng{authornamehash}{1eb1fb8882bb3358ee563b9b23918ab0}
       \strng{authorfullhash}{9302244f8a6a6e012cbc74b32700b068}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence continues being an important problem in the society. Thousands of people suffer its effects every day and statistics show this number has maintained or almost increased recently. In the modern environment of smart cities there is a necessity to develop a system capable of detecting if a violent situation is taking place or not. In this paper we present an automatic acoustic violence detection system for smart cities, integrating both signal processing and pattern recognition techniques. The proposed software has been implemented in three steps: feature extraction in time and frequency domain, genetic algorithm implementation in order to select the best features, and classification to take a binary decision. Results derived from the experiments show that MFCCs are the best features for violence detection, and others like pitch or short time energy have also a good performance. In other words, features that can distinguish between voiced and unvoiced frames seem to be a good election for violence detection in real environments.}
@@ -1207,8 +1207,8 @@
       \strng{authorbibnamehash}{a9280d0daf614979f395b85e2d7a4fad}
       \strng{authornamehash}{a9280d0daf614979f395b85e2d7a4fad}
       \strng{authorfullhash}{a9280d0daf614979f395b85e2d7a4fad}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present a feature generation system designed to create audio features for supervised classification tasks. The main contribution to feature generation studies is the notion of analytical features (AFs), a construct designed to support the representation of knowledge about audio signal processing. We describe the most important aspects of AFs, in particular their dimensional type system, on which are based pattern-based random generators, heuristics, and rewriting rules. We show how AFs generalize or improve previous approaches used in feature generation. We report on several projects using AFs for difficult audio classification tasks, demonstrating their advantage over standard audio features. More generally, we propose analytical features as a paradigm to bring raw signals into the world of symbolic computation.}
@@ -1504,8 +1504,8 @@
       \strng{authorbibnamehash}{cd929bb8080f45eb200f5f8a43873185}
       \strng{authornamehash}{8e6daa751f60a7530f9c7824c7e7c37c}
       \strng{authorfullhash}{cd929bb8080f45eb200f5f8a43873185}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A considerable challenge in applying deep learning to audio classification is the scarcity of labeled data. An increasingly popular solution is to learn deep audio embeddings from large audio collections and use them to train shallow classifiers using small labeled datasets. Look, Listen, and Learn (L3-Net) is an embedding trained through self-supervised learning of audio-visual correspondence in videos as opposed to other embeddings requiring labeled data. This framework has the potential to produce powerful out-of-the-box embeddings for downstream audio classification tasks, but has a number of unexplained design choices that may impact the embeddings' behavior. In this paper we investigate how L3-Net design choices impact the performance of downstream audio classifiers trained with these embeddings. We show that audio-informed choices of input representation are important, and that using sufficient data for training the embedding is key. Surprisingly, we find that matching the content for training the embedding to the downstream task is not beneficial. Finally, we show that our best variant of the L3-Net embedding outperforms both the VGGish and SoundNet embeddings, while having fewer parameters and being trained on less data. Our implementation of the L3-Net embedding model as well as pre-trained models are made freely available online.}
@@ -1741,8 +1741,8 @@
       \strng{authorbibnamehash}{b468248a20d75c52ee742f4592c2569f}
       \strng{authornamehash}{b468248a20d75c52ee742f4592c2569f}
       \strng{authorfullhash}{b468248a20d75c52ee742f4592c2569f}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Transfer Learning - Machine Learning's Next Frontier}}
@@ -2032,8 +2032,8 @@
       \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{No Title}}
@@ -2320,8 +2320,8 @@
       \strng{authorbibnamehash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
       \strng{authornamehash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
       \strng{authorfullhash}{5a2c1d7ee26d0f7f2f6a98522f665cef}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{TUT-SED Synthetic}}
@@ -2498,6 +2498,31 @@
       \field{title}{{Freesound datasets: A platform for the creation of open audio datasets}}
       \field{year}{2017}
     \endentry
+    \entry{SoundUnderstandinggroup2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3d2dcf87c7fd114cc351a9ff1df8af4d}{%
+           family={{Sound Understanding group}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{fullhash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{bibnamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{authorbibnamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{authornamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \strng{authorfullhash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{AudioSet}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://research.google.com/audioset/index.html
+      \endverb
+      \verb{url}
+      \verb https://research.google.com/audioset/index.html
+      \endverb
+    \endentry
     \entry{Hearst1992}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=45330e5d45157c38c5519d8cdb6cb1d8}{%
@@ -2543,25 +2568,6 @@
       \field{labeltitlesource}{title}
       \field{title}{{Introducing the Knowledge Graph: things, not strings}}
       \field{year}{2012}
-    \endentry
-    \entry{SoundUnderstandinggroup2017}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=3d2dcf87c7fd114cc351a9ff1df8af4d}{%
-           family={{Sound Understanding group}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
-      \strng{fullhash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
-      \strng{bibnamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
-      \strng{authorbibnamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
-      \strng{authornamehash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
-      \strng{authorfullhash}{3d2dcf87c7fd114cc351a9ff1df8af4d}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{AudioSet}}
-      \field{year}{2017}
     \endentry
     \entry{GoogleResearch2015}{article}{}
       \name{author}{1}{}{%
@@ -3753,6 +3759,91 @@
       \verb https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
       \endverb
     \endentry
+    \entry{Wang2016a}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=f8ea4d2e76f31687984f565c98f2727d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yequan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=552270ec2b3ea15f396fdca7e87932e8}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Minlie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1a85fb4271591180033cc6d2d2310539}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=908091724636e903ea8dbbd61b01ec43}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{3727a587de313d08df6e30aa5851080c}
+      \strng{fullhash}{3f9a52d71f52e53524b51fce44e928e9}
+      \strng{bibnamehash}{3f9a52d71f52e53524b51fce44e928e9}
+      \strng{authorbibnamehash}{3f9a52d71f52e53524b51fce44e928e9}
+      \strng{authornamehash}{3727a587de313d08df6e30aa5851080c}
+      \strng{authorfullhash}{3f9a52d71f52e53524b51fce44e928e9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Aspect-level sentiment classification is a fine-grained task in sentiment analysis. Since it provides more complete and in-depth results, aspect-level sentiment analysis has received much attention these years. In this paper, we reveal that the sentiment polarity of a sentence is not only determined by the content but is also highly related to the concerned aspect. For instance, “The appetizers are ok, but the service is slow.”, for aspect taste, the polarity is positive while for service, the polarity is negative. Therefore, it is worthwhile to explore the connection between an aspect and the content of a sentence. To this end, we propose an Attention-based Long Short-Term Memory Network for aspect-level sentiment classification. The attention mechanism can concentrate on different parts of a sentence when different aspects are taken as input. We experiment on the SemEval 2014 dataset and results show that our model achieves state-of-the-art performance on aspect-level sentiment classification.}
+      \field{booktitle}{EMNLP 2016 - Conference on Empirical Methods in Natural Language Processing, Proceedings}
+      \field{isbn}{9781945626258}
+      \field{title}{{Attention-based LSTM for aspect-level sentiment classification}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.18653/v1/d16-1058
+      \endverb
+    \endentry
+    \entry{Read2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5903f6c15fa819e151c16c5691b5b372}{%
+           family={Read},
+           familyi={R\bibinitperiod},
+           given={Jesse},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d3031672ff9944d1bd83979cee191bb}{%
+           family={Pfahringer},
+           familyi={P\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fbe67b128273a908b77e6417dcc337a2}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Geoff},
+           giveni={G\bibinitperiod}}}%
+        {{hash=14376659b7c222795bf43d1158efbaef}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Eibe},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{aeaaed669089ab5d18ac54a92c4f21ed}
+      \strng{fullhash}{25d4b2150c7e5c079c704b035976ac7d}
+      \strng{bibnamehash}{25d4b2150c7e5c079c704b035976ac7d}
+      \strng{authorbibnamehash}{25d4b2150c7e5c079c704b035976ac7d}
+      \strng{authornamehash}{aeaaed669089ab5d18ac54a92c4f21ed}
+      \strng{authorfullhash}{25d4b2150c7e5c079c704b035976ac7d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The widely known binary relevance method for multi-label classification, which considers each label as an independent binary problem, has often been overlooked in the literature due to the perceived inadequacy of not directly modelling label correlations. Most current methods invest considerable complexity to model interdependencies between labels. This paper shows that binary relevance-based methods have much to offer, and that high predictive performance can be obtained without impeding scalability to large datasets. We exemplify this with a novel classifier chains method that can model label correlations while maintaining acceptable computational complexity. We extend this approach further in an ensemble framework. An extensive empirical evaluation covers a broad range of multi-label datasets with a variety of evaluation metrics. The results illustrate the competitiveness of the chaining method against related and state-of-the-art methods, both in terms of predictive performance and time complexity. {©} The Author(s) 2011.}
+      \field{issn}{08856125}
+      \field{journaltitle}{Machine Learning}
+      \field{title}{{Classifier chains for multi-label classification}}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1007/s10994-011-5256-5
+      \endverb
+      \keyw{Ensemble methods,Multi-label classification,Problem transformation,Scalable methods}
+    \endentry
     \entry{Scikit-learn}{misc}{}
       \name{author}{1}{}{%
         {{hash=ae928b07781d0af9cd222cc0af04ec88}{%
@@ -4016,8 +4107,8 @@
       \strng{authorbibnamehash}{a285a6cb8f17913d62088499b063e65c}
       \strng{authornamehash}{a285a6cb8f17913d62088499b063e65c}
       \strng{authorfullhash}{a285a6cb8f17913d62088499b063e65c}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Signals generated by transient vibrations in rolling bearings due to structural defects are non-stationary in nature, and reflect upon the operation condition of the bearing. Consequently, effective processing of non-stationary signals is critical to bearing health monitoring. This paper presents a comparative study of four representative time-frequency analysis techniques commonly employed for non-stationary signal processing. The analytical framework of the short-time Fourier transform, wavelet transform, wavelet packet transform, and Hilbert-Huang transform are first presented. The effectiveness of each technique in detecting transient features from a time-varying signal is then examined, using an analytically formulated test signal. Subsequently, the performance of each technique is experimentally evaluated, using realistic vibration signals measured from a bearing test system. The results demonstrate that selecting appropriate signal processing technique can significantly affect defect identification and consequently, improve the reliability of bearing health monitoring. {©} 2006 Inderscience Enterprises Ltd.}
@@ -4044,8 +4135,8 @@
       \strng{authorbibnamehash}{7d086714a3b8a4eee7eed8da4a27c4db}
       \strng{authornamehash}{7d086714a3b8a4eee7eed8da4a27c4db}
       \strng{authorfullhash}{7d086714a3b8a4eee7eed8da4a27c4db}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Getting to Know the Mel Spectrogram}}
@@ -4076,8 +4167,8 @@
       \strng{authorbibnamehash}{526441c8379efafb3b43eceff13d5a04}
       \strng{authornamehash}{526441c8379efafb3b43eceff13d5a04}
       \strng{authorfullhash}{526441c8379efafb3b43eceff13d5a04}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0031-9228}

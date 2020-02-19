@@ -17,18 +17,30 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {4.1}{\ignorespaces Chosen classes for a small classification. \textit {Screaming}, \textit {Crying, sobbing} and \textit {Gunshot, gunfire} are considered as the violent ones.\relax }}{35}{table.caption.35}% 
+\contentsline {table}{\numberline {4.1}{\ignorespaces Chosen classes for a small classification. \textit {Screaming}, \textit {Crying, sobbing} and \textit {Gunshot, gunfire} are considered as the violent ones.\relax }}{35}{table.caption.36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {4.2}{\ignorespaces Accuracy values for audio and .\textit {tfrecord} files\relax }}{37}{table.caption.37}% 
+\contentsline {table}{\numberline {4.2}{\ignorespaces Accuracy values for audio and .\textit {tfrecord} files\relax }}{37}{table.caption.38}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {5.1}{\ignorespaces Relation of \textit {violent} and \textit {non-violent} selected classes\relax }}{48}{table.caption.53}% 
+\contentsline {table}{\numberline {5.1}{\ignorespaces Relation of \textit {violent} and \textit {non-violent} selected classes\relax }}{48}{table.caption.54}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {5.2}{\ignorespaces Train, validation and test set for different experiments\relax }}{49}{table.caption.56}% 
+\contentsline {table}{\numberline {5.2}{\ignorespaces Train, validation and test set for different experiments\relax }}{49}{table.caption.57}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {5.3}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{65}{table.caption.85}% 
+\contentsline {table}{\numberline {5.3}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{65}{table.caption.86}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {table}{\numberline {5.4}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{66}{table.caption.86}% 
+\contentsline {table}{\numberline {5.4}{\ignorespaces Accuracy results for the three different algorithms and the three sets\relax }}{66}{table.caption.87}% 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
 \contentsfinish 
 \contentsfinish 

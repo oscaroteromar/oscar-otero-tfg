@@ -1,14 +1,13 @@
 % !TeX spellcheck = en_GB
 
-\chapter* {Appendix x}
-\pagenumbering{gobble} 
 
-\section{Metrics}
+\chapter{Appendix Metrics}
+\pagenumbering{gobble} 
 \label{appendix:metrics}
 
 	A fundamental part of a machine learning project consists of checking the performance. There are plenty of metrics to carry out this evaluation and the results will look in one way or another depending on the method utilized. The following two are the most used in this project
 	
-\subsection{Classification Accuracy}
+\section*{Classification Accuracy}
 
 	This is a technique commonly used and it is usually referred to as just accuracy. It can be defined as the relation between the amount of right predictions and the total number on input instances \cite{Scikit-learn}.
 	% Formula of accuracy
@@ -19,7 +18,7 @@
 	This metric best works when dealing with a balanced dataset, i.e., the same of number of samples per class.
 	If the problem is addressed with unbalanced data, then the accuracy value could be a higher value due to predict all the instances belong to the major class. For example, if $90\%$ of the data are part of the same class A and all the predictions results are this class, then the accuracy value will be $90\%$, which apparently is a satisfying output, even though we are misclassifying all the samples from class B \cite{Mishra2018}. 
 	
-\subsection{Confusion matrix}
+\section*{Confusion matrix}
 
 		% Confusion matrix exmaple
 	\begin{figure}[b]
@@ -51,7 +50,8 @@
 		\label{fig:mesh9}
 	\end{figure}
 	
-\section{\acrlong{kfold}}
+\chapter{Appendix k-Fold Cross Validation}
+\pagenumbering{gobble}
 \label{appendix:kfold}
 
 	The cross-validation technique consists in a resampling practice that is commonly used in order to evaluate machine learning algorithms when the dataset is not very large. It just depends on the parameter $k$ which represents the amount of folds or groups the data is going to be split into. This is the reason of the k-fold prefix. When the method is referred to in a situation in which the parameter is already fixed, for example, if $k = 5$, it can becomes named as 5-fold cross-validation.
@@ -66,7 +66,7 @@
 
 	Sometimes, instead of dividing the whole set of data in $k$ folds, it is first done a split into train and test sets. Then, the test set is excluded for a final measure and the train is split again with the \acrlong{kfold} procedure. The concept of the technique is shown in figure \ref{fig:mesh16}.
 	
-	\begin{figure}[ht]
+	\begin{figure}[H]
 		\centering
 		\captionsetup{justification=centering}
 		\includegraphics[scale=0.35]{k-fold}
@@ -74,14 +74,15 @@
 		\label{fig:mesh16}
 	\end{figure}
 
-\section{Categorical cross-entropy}
+\chapter{Appendix Categorical cross-entropy}
+\pagenumbering{gobble} 
 \label{appendix:categorical-cross-entropy}
 
-	In order to define this kind of loss function, it is necessary to consider the \textit{softmax} definition. As it was already explained in \ref{section:cnn}, this function takes a vector and represent its elements in the range (0,1) as probabilities, so all of the resulting values must sum up 1. In a multiclass classification, these are interpreted as class probabilities.
+	In order to define this kind of loss function, it is necessary to consider the \textit{softmax} definition. As it was already explained in \ref{subsection:ann-cnn}, this function takes a vector and represent its elements in the range (0,1) as probabilities, so all of the resulting values must sum up 1. In a multiclass classification, these are interpreted as class probabilities.
 	
 	These output probabilities can be evaluated with the cross-entropy loss. This is a way of measuring the performance of a model in which the output are probabilities between 0 and 1. The loss increases if the probability differs largely from the actual value of the true label. A perfect system would have a loss value of 0 \cite{MLGlossary2017}. In figure \ref{fig:mesh26}, it is shown an example of the loss function when the true label is 1.
 	
-	\begin{figure}
+	\begin{figure}[H]
 		\centering
 		\captionsetup{justification=centering}
 		\includegraphics[scale=0.6]{ce}
@@ -104,7 +105,8 @@
 	
 	Then, the categorical cross-entropy is a combination of softmax and the cross-entropy loss.
 	
-\section{Spectrogram and Mel scale}
+\chapter{Appendix Spectrogram and Mel scale}
+\pagenumbering{gobble}
 \label{appendix:spectrogram-mel-scale}
 
 	In his natural conditions and how humans understand audio when we hear it, it can be interpreted as a succession of sounds that depend on time. Actually, what happens during a recording process is that the signal registered is nothing but the variation of the values that represent the changes in the acoustic pressure along time, what is usually called the amplitude of the signal. This is what we see when visualizing a raw audio file in its original form, i.e. in the time-domain \cite{Laskaris2019}, as in figure \ref{fig:mesh49}.

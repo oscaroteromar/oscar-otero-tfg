@@ -10,7 +10,7 @@
 
 	Audio Set can be described as a large-scale sound dataset with the goal of putting the availability of audio and image data on the same level. It is composed by a huge variety of 2,084,320 manually-annotated audio events in video format and it is organized by following an ontology formed by 632 different audio classes. The data has been extracted from YouTube videos and the labelling process has been based on diverse factors such as metadata, context and content analysis. It has been developed by Google with the purpose of producing an audio event recognizer that can be applied to plenty of acoustic situations coming from the real world \cite{Gemmeke2017}.
 	
-	Due to some limitations found during the building process that will be explained along the section, the current final release of the dataset is composed by 1,789,621 segments, where each video usually last 10 seconds which results in a total duration of 4,971 hours of video and audio. After executing the selection process in which the different labels were populated with the final corresponding segments, a total of 527 classes were gathered, out of which 485 counted with at least 100 samples.
+	Due to some limitations found during the building process that will be explained along the section, the current final release of the dataset is composed by 1,789,621 segments, where each video usually last 10 seconds which results in a total duration of 4,971 hours of video and audio. After executing the selection process in which the different labels were populated with the final corresponding segments, a total of 527 classes were gathered, out of which 485 counted with at least 100 samples \cite{Gemmeke2017} \cite{SoundUnderstandinggroup2017}.
 
 \subsection{Ontology}
 \label{subsecition:ontology}
@@ -162,7 +162,7 @@
 		\item As a final step, they compute a framing operation over the log-mel spectrogram. The resulting are non-overlapping examples of 0.96 seconds, in which 64 mel bands and 96 frames are contained, each frame with a duration of 10 ms.
 	\end{enumerate}
 
-	Therefore, the result obtained is an ensemble of 10 frames, approximately one per second, each of them with size $96 \times 64$, i.e, 96 frames and 64 mel bands.
+	Therefore, the result obtained is an ensemble of 10 frames, approximately one per second, each of them with size $96 \times 64$, i.e, 96 frames and 64 mel bands. It is worth to mention that this result size is obtained with the default parameters the system code is provided. These could be changed in order to obtain embeddings with a higher number of rows and an overlapping phase between them. Since, for our work, a comparison of the two formats was done, which can be found in subsection \ref{subsection:exploring-differences-between-two-types-of-data-access}, and the already extracted embeddings in .\textit{tfrecord} format follow the standard shape, we have not done more research in these parameters. \todo{new explanation of the parameters}
 
 \subsubsection*{Embedding stage}
 

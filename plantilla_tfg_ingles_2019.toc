@@ -55,13 +55,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Violent classes}{32}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Downloading videos}{33}{figure.caption.34}% 
+\contentsline {subsubsection}{Downloading videos}{33}{figure.caption.35}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}Extracting embeddings}{34}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.3}Assessing the differences between the two types of data access}{35}{subsection.4.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dimensionality reduction for visualization}{37}{figure.caption.38}% 
+\contentsline {subsubsection}{Dimensionality reduction for visualization}{37}{figure.caption.39}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Methodology}{40}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
@@ -91,17 +91,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}Comparison and conclusion}{65}{section.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{72}{chapter*.90}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{69}{chapter.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {.1}Metrics}{}{section.Alph0.1}% 
+\contentsline {chapter}{\numberline {7}Future work}{70}{chapter.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {.1.1}Classification Accuracy}{}{subsection.Alph0.1.1}% 
+\contentsline {chapter}{Bibliography}{75}{chapter*.91}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {.1.2}Confusion matrix}{}{subsection.Alph0.1.2}% 
+\contentsline {chapter}{\numberline {A}Appendix Metrics}{}{appendix.A}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {.2}\acrlong {kfold}}{}{section.Alph0.2}% 
+\contentsline {chapter}{\numberline {B}Appendix k-Fold Cross Validation}{}{appendix.B}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {.3}Categorical cross-entropy}{}{section.Alph0.3}% 
+\contentsline {chapter}{\numberline {C}Appendix Categorical cross-entropy}{}{appendix.C}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {.4}Spectrogram and Mel scale}{}{section.Alph0.4}% 
+\contentsline {chapter}{\numberline {D}Appendix Spectrogram and Mel scale}{}{appendix.D}% 
 \contentsfinish 
