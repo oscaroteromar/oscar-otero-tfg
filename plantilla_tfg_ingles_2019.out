@@ -40,10 +40,10 @@
 \BOOKMARK [2][-]{subsection.5.2.5}{Implementation\0405:\040cnn\040for\040multiclass\040classification}{section.5.2}% 40
 \BOOKMARK [2][-]{subsection.5.2.6}{Implementation\0406:\040cnn\040multiclass\040+\040svm\040for\040a\040final\040binary\040classification}{section.5.2}% 41
 \BOOKMARK [1][-]{section.5.3}{Comparison\040and\040conclusion}{chapter.5}% 42
-\BOOKMARK [0][-]{chapter*.84}{Bibliography}{}% 43
-\BOOKMARK [1][-]{section.Alph0.1}{Metrics}{chapter*.84}% 44
+\BOOKMARK [0][-]{chapter*.90}{Bibliography}{}% 43
+\BOOKMARK [1][-]{section.Alph0.1}{Metrics}{chapter*.90}% 44
 \BOOKMARK [2][-]{subsection.Alph0.1.1}{Classification\040Accuracy}{section.Alph0.1}% 45
 \BOOKMARK [2][-]{subsection.Alph0.1.2}{Confusion\040matrix}{section.Alph0.1}% 46
-\BOOKMARK [1][-]{section.Alph0.2}{kfold}{chapter*.84}% 47
-\BOOKMARK [1][-]{section.Alph0.3}{Categorical\040cross-entropy}{chapter*.84}% 48
-\BOOKMARK [1][-]{section.Alph0.4}{Spectrogram\040and\040Mel\040scale}{chapter*.84}% 49
+\BOOKMARK [1][-]{section.Alph0.2}{kfold}{chapter*.90}% 47
+\BOOKMARK [1][-]{section.Alph0.3}{Categorical\040cross-entropy}{chapter*.90}% 48
+\BOOKMARK [1][-]{section.Alph0.4}{Spectrogram\040and\040Mel\040scale}{chapter*.90}% 49
