@@ -125,6 +125,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {D.2}{\ignorespaces STFT \cite {Gao2006}\relax }}{}{figure.caption.90}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {D.3}{\ignorespaces Spectrogram of an audio signal. The x-axis corresponds to the time, the y-axis to the frequency and the colour of the plot to the amplitude by following the colour bar on the right.\relax }}{}{figure.caption.91}% 
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Spectrogram of an audio signal. The x-axis corresponds to time, the y-axis to frequency and the colour of the plot to the amplitudes by following the colour bar on the right.\relax }}{}{figure.caption.91}% 
 \contentsfinish 
 \contentsfinish 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.16)  19 FEB 2020 22:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.16)  19 FEB 2020 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3182,8 +3182,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.129 	
-        [1
+l.126 ..._{k=0}^{L-1} x[k]g[k-m]e^{-j2\pi n k/L}\]
+                                                   [1
 
  <./imagenes/time-signal.png>]
 <imagenes/stft.png, id=2481, 853.1875pt x 515.9275pt>
@@ -3200,7 +3200,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.149 	
+l.150 	
         [2 <./imagenes/stft.png> <./imagenes/spectrogram.png>])
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 209.
@@ -3232,7 +3232,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 430.
 Here is how much of TeX's memory you used:
  53530 strings out of 492616
  953364 string characters out of 6128966
- 1552105 words of memory out of 5000000
+ 1552068 words of memory out of 5000000
  56081 multiletter control sequences out of 15000+600000
  628104 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3253,7 +3253,7 @@ xlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018
 /texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2018/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on plantilla_tfg_ingles_2019.pdf (108 pages, 4836560 bytes).
+Output written on plantilla_tfg_ingles_2019.pdf (108 pages, 4836820 bytes).
 PDF statistics:
  2662 PDF objects out of 2984 (max. 8388607)
  443 named destinations out of 1000 (max. 500000)
