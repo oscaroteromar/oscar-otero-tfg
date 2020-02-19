@@ -171,5 +171,20 @@
 \subsubsection*{Postprocessing stage}
 
 	As final step, they performed some post-processing of the resulting embeddings. A \acrfull{pca} \cite{Abdi2010} transformation is done joint with a whitening process. Also, a quantization to 8 bit for each embedding element. All these actions are computed with the purpose of making the final output compatible with the embeddings obtained from the YouTube-8M database.
+	
+\section{Methodology}
+\label{section:methodology}
 
-	\todo{Transfer learning and why choosing this type}
+	In this section, a theoretical explanation of the different algorithms and methods used in the experiments explained in chapter \ref{chapter:experiments} is included, apart from the \acrshort{cnn}, which has been already explained in subsection \ref{subsection:ann-cnn}. The reason of why choosing these techniques is commented in section \ref{section:reason-methodology}.
+	
+	% Explain the methods used:
+	% 1) Data augmentation and SMOTE
+	% 2) SVM 
+	% 4) CNN
+	% 5) LSTM
+	
+	\input{SMOTE.tex}
+	
+	\input{SVM.tex}
+	
+	\input{lstm.tex}

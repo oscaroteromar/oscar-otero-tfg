@@ -3,7 +3,7 @@
 \subsection{\acrfull{smote}}
 \label{subsection:smote}
 
-	\acrshort{smote} consists of an over-sampling method whose function is to generate synthetic samples in order to populate the minority class in a classification problem by making use of the proper observations that are already contained in the data \cite{Chawla2002}. 
+	As previously mentioned in \ref{subsection:data-augmentation}, \acrshort{smote} consists of an over-sampling method whose function is to generate synthetic samples in order to populate the minority class in a classification problem by making use of the proper observations that are already contained in the data \cite{Chawla2002}. 
 	
 	Essentially, this technique works by choosing samples from the less populated class that are represented in the features space, placing a line between two of these samples and then select a point inside the line at a random position. First, an arbitrary sample is picked and then a number of \textit{k} closest neighbours in the feature space are selected from the same class. One of the neighbours are randomly chosen and a synthetic sample is generated \cite{Browniee2020}. The number of neighbours \textit{k} can vary depending on the amount of over-sampling needed. The standard value which is the one proposed in the publication paper is \textit{k = 5} \cite{Chawla2002}. 
 	

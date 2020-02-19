@@ -151,7 +151,7 @@
 		\label{fig:mesh5}
 	\end{wrapfigure}
 	
-	For the training phases, it can be appreciated that there may be an overfitting since the accuracy is perfect. This means that the \acrshort{nn} stop improving its capacity of learning how to solve the problem in a certain moment of the training task. Instead, it does learn some behaviour pattern that the training data follows. This impacts negatively in the model since the new data that the system will have to learn from will look different and will not follow these same rules \cite{Jabbar2015}. In spite of this result, we did not give it so much importance since we just wanted to do a quick check of the similarity between the two types of data which can be appreciated due to the similarity of both metrics results.
+	For the training phases, it can be appreciated that there may be an overfitting since the accuracy is perfect. In spite of this result, we did not give it so much importance since we just wanted to do a quick check of the similarity between the two types of data which can be appreciated due to the similarity of both metrics results.
 	
 \subsubsection{Dimensionality reduction for visualization}
 \label{subsection:dimensionality-reduction-for-visualization}
@@ -196,8 +196,6 @@
 		\label{fig:mesh8}
 	\end{figure}
 	
-	\todo{CPM: aumentar las figuras para que se puedan leer las leyendas.}
-	
 	The selection of the perplexity value depends on the number of observations per class \cite{Wattenberg2016}. Since our subset has 80 samples for each category, we can consider that a proper value is 20 or 30. As we can see, a boundary cannot be extracted among the different labels, but we can see some grouping patterns in the data that correspond to the original labelling and helps us to confirm the similarity of the two different given types. It is true that this method should never be used as an algorithm for clustering itself, but it is a good resource as a backing strategy to other results, as in this case. 
 	
 	% Four confussion matrices
@@ -229,8 +227,8 @@
 		\label{fig:mesh52}
 	\end{figure}
 
-\section{Methodology}
-\label{section:models}
+\section{Reasons to use this methodology}
+\label{section:reason-methodology}
 	
 	\todo{Debería poner ejemplos de aplicación al audio como hice en las CNNs o simplemente dejarlo así y ya tratarlo como una parte del estado del arte de related work}
 	
@@ -239,13 +237,6 @@
 % 2) SVM 
 % 4) CNN
 % 5) LSTM
-
-\input{SMOTE.tex}
-
-\input{SVM.tex}
-
-\input{lstm.tex}
-
 
 
 

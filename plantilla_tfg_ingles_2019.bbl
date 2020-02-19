@@ -1557,121 +1557,207 @@
       \verb 1610.09001
       \endverb
     \endentry
-    \entry{Henaff2011}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=401562d96db136e78effff95552f584b}{%
-           family={Henaff},
-           familyi={H\bibinitperiod},
-           given={Mikael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=acd66fce01ebb04c4b384bd3295b7bea}{%
-           family={Jarrett},
-           familyi={J\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=481308b301166b521c74fde6566e97e6}{%
-           family={Kavukcuoglu},
-           familyi={K\bibinitperiod},
-           given={Koray},
-           giveni={K\bibinitperiod}}}%
-        {{hash=d0ab8cbca75df7aa3e0b6024d60ac5f8}{%
-           family={Lecun},
-           familyi={L\bibinitperiod},
-           given={Yann},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{0220a155f993894332b4d93a208e4c93}
-      \strng{fullhash}{aa617037b675581fa02105dff81ab452}
-      \strng{bibnamehash}{aa617037b675581fa02105dff81ab452}
-      \strng{authorbibnamehash}{aa617037b675581fa02105dff81ab452}
-      \strng{authornamehash}{0220a155f993894332b4d93a208e4c93}
-      \strng{authorfullhash}{aa617037b675581fa02105dff81ab452}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In this work we present a system to automatically learn features from audio in an unsupervised manner. Our method first learns an overcomplete dictionary which can be used to sparsely decompose log-scaled spectrograms. It then trains an efficient encoder which quickly maps new inputs to approximations of their sparse representations using the learned dictionary. This avoids expensive iterative procedures usually required to infer sparse codes. We then use these sparse codes as inputs for a linear Support Vector Machine (SVM). Our system achieves 83.4{\%} accuracy in predicting genres on the GTZAN dataset, which is competitive with current state-of-the-art approaches. Furthermore, the use of a simple linear classifier combined with a fast feature extraction system allows our approach to scale well to large datasets. {©} 2011 International Society for Music Information Retrieval.}
-      \field{booktitle}{Proceedings of the 12th International Society for Music Information Retrieval Conference, ISMIR 2011}
-      \field{isbn}{9780615548654}
-      \field{title}{{Unsupervised learning of sparse features for scalable audio classification}}
-      \field{year}{2011}
-    \endentry
-    \entry{Nam2012}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=b7c57c9ad12471fb5ec7eb082cd69eeb}{%
-           family={Nam},
-           familyi={N\bibinitperiod},
-           given={Juhan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=dca13edca3f7969223cd952e1bf8eb35}{%
-           family={Herrera},
-           familyi={H\bibinitperiod},
-           given={Jorge},
-           giveni={J\bibinitperiod}}}%
-        {{hash=af3eb849c7bb824718da580e0514e62b}{%
-           family={Slaney},
+    \entry{Salamon2017}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=6f29e3fb8b241a304c6a9778479b58d2}{%
+           family={Salamon},
            familyi={S\bibinitperiod},
-           given={Malcolm},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=440f2ec19b7e6bd89e9b0e137b96153e}{%
+           family={MacConnell},
+           familyi={M\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8aeab975280e4a1240315fc0e989af47}{%
+           family={Cartwright},
+           familyi={C\bibinitperiod},
+           given={Mark},
            giveni={M\bibinitperiod}}}%
-        {{hash=ef8d0c138caffb1d3301c65ccfb27407}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={Julius},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{beb89e147c185dfd4b37e4abeeb1493e}
-      \strng{fullhash}{572897c4888707da4b6711ef95a367fe}
-      \strng{bibnamehash}{572897c4888707da4b6711ef95a367fe}
-      \strng{authorbibnamehash}{572897c4888707da4b6711ef95a367fe}
-      \strng{authornamehash}{beb89e147c185dfd4b37e4abeeb1493e}
-      \strng{authorfullhash}{572897c4888707da4b6711ef95a367fe}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We present a data-processing pipeline based on sparse feature learning and describe its applications to music annotation and retrieval. Content-based music annotation and retrieval systems process audio starting with features. While commonly used features, such as MFCC, are handcrafted to extract characteristics of the audio in a succinct way, there is increasing interest in learning features automatically from data using unsupervised algorithms. We describe a systemic approach applying feature-learning algorithms to music data, in particular, focusing on a high-dimensional sparse-feature representation. Our experiments show that, using only a linear classifier, the newly learned features produce results on the CAL500 dataset comparable to state-of-the-art music annotation and retrieval systems. {©} 2012 International Society for Music Information Retrieval.}
-      \field{booktitle}{Proceedings of the 13th International Society for Music Information Retrieval Conference, ISMIR 2012}
-      \field{isbn}{9789727521449}
-      \field{title}{{Learning sparse feature representations for music annotation and retrieval}}
-      \field{year}{2012}
-    \endentry
-    \entry{Lee2013}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=0f47d6f8a9660c5c5bcdb2f43935a120}{%
-           family={Lee},
+        {{hash=137297e0019ba55bca6f9b200782ae52}{%
+           family={Li},
            familyi={L\bibinitperiod},
-           given={Kyogu},
-           giveni={K\bibinitperiod}}}%
-        {{hash=3f1de141b1e9c9235408ae778e97b94d}{%
-           family={Hyung},
-           familyi={H\bibinitperiod},
-           given={Ziwon},
-           giveni={Z\bibinitperiod}}}%
-        {{hash=b7c57c9ad12471fb5ec7eb082cd69eeb}{%
-           family={Nam},
-           familyi={N\bibinitperiod},
-           given={Juhan},
-           giveni={J\bibinitperiod}}}%
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dc1dca849ac4954f3a5b35d55cd40631}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
       }
-      \strng{namehash}{30244510521533ff899be917eeb74ed8}
-      \strng{fullhash}{30244510521533ff899be917eeb74ed8}
-      \strng{bibnamehash}{30244510521533ff899be917eeb74ed8}
-      \strng{authorbibnamehash}{30244510521533ff899be917eeb74ed8}
-      \strng{authornamehash}{30244510521533ff899be917eeb74ed8}
-      \strng{authorfullhash}{30244510521533ff899be917eeb74ed8}
+      \strng{namehash}{9180d64e469adf6b63b10942a5d23f46}
+      \strng{fullhash}{5e1fe6669f4ffd74d53112a012971882}
+      \strng{bibnamehash}{5e1fe6669f4ffd74d53112a012971882}
+      \strng{authorbibnamehash}{5e1fe6669f4ffd74d53112a012971882}
+      \strng{authornamehash}{9180d64e469adf6b63b10942a5d23f46}
+      \strng{authorfullhash}{5e1fe6669f4ffd74d53112a012971882}
       \field{sortinit}{7}
       \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Recently unsupervised learning algorithms have been successfully used to represent data in many of machine recognition tasks. In particular, sparse feature learning algorithms have shown that they can not only discover meaningful structures from raw data but also outperform many hand-engineered features. In this paper, we apply the sparse feature learning approach to acoustic scene classification. We use a sparse restricted Boltzmann machine to capture manyfold local acoustic structures from audio data and represent the data in a high-dimensional sparse feature space given the learned structures. For scene classification, we summarize the local features by pooling over audio scene data. While the feature pooling is typically performed over uniformly divided segments, we suggest a new pooling method, which first detects audio events and then performs pooling only over detected events, considering the irregular occurrence of audio events in acoustic scene data. We evaluate the learned features on the IEEE AASP Challenge development set, comparing them with a baseline model using mel-frequency cepstral coefficients (MFCCs). The results show that learned features outperform MFCCs, event-based pooling achieves higher accuracy than uniform pooling and, furthermore, a combination of the two methods performs even better than either one used alone. {©} 2013 IEEE.}
+      \field{abstract}{Sound event detection (SED) in environmental recordings is a key topic of research in machine listening, with applications in noise monitoring for smart cities, self-driving cars, surveillance, bioa-coustic monitoring, and indexing of large multimedia collections. Developing new solutions for SED often relies on the availability of strongly labeled audio recordings, where the annotation includes the onset, offset and source of every event. Generating such precise annotations manually is very time consuming, and as a result existing datasets for SED with strong labels are scarce and limited in size. To address this issue, we present Scaper, an open-source library for soundscape synthesis and augmentation. Given a collection of iso-lated sound events, Scaper acts as a high-level sequencer that can generate multiple soundscapes from a single, probabilistically defined, 'specification'. To increase the variability of the output, Scaper supports the application of audio transformations such as pitch shifting and time stretching individually to every event. To illustrate the potential of the library, we generate a dataset of 10,000 sound-scapes and use it to compare the performance of two state-of-The-Art algorithms, including a breakdown by soundscape characteristics. We also describe how Scaper was used to generate audio stimuli for an audio labeling crowdsourcing experiment, and conclude with a discussion of Scaper's limitations and potential applications.}
       \field{booktitle}{IEEE Workshop on Applications of Signal Processing to Audio and Acoustics}
-      \field{isbn}{9781479909728}
-      \field{title}{{Acoustic scene classification using sparse feature learning and event-based pooling}}
-      \field{year}{2013}
+      \field{isbn}{9781538616321}
+      \field{title}{{Scaper: A library for soundscape synthesis and augmentation}}
+      \field{year}{2017}
       \verb{doi}
-      \verb 10.1109/WASPAA.2013.6701893
+      \verb 10.1109/WASPAA.2017.8170052
       \endverb
-      \keyw{acoustic scene classification,environmental sound,event detection,feature learning,max-pooling,restricted Boltzmann machine,sparse feature representation}
+      \keyw{Soundscape,sound event detection,synthesis}
+    \endentry
+    \entry{Jabbar2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=24bb986f645e282ec2b5895a9d5da9be}{%
+           family={Jabbar},
+           familyi={J\bibinitperiod},
+           given={Haider\bibnamedelima Khalaf},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=23e3d7dfa6202663e7696690db14b050}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Rafiqul\bibnamedelima Zaman},
+           giveni={R\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{907aadb37fc60b0f083f20db847f6e26}
+      \strng{fullhash}{907aadb37fc60b0f083f20db847f6e26}
+      \strng{bibnamehash}{907aadb37fc60b0f083f20db847f6e26}
+      \strng{authorbibnamehash}{907aadb37fc60b0f083f20db847f6e26}
+      \strng{authornamehash}{907aadb37fc60b0f083f20db847f6e26}
+      \strng{authorfullhash}{907aadb37fc60b0f083f20db847f6e26}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Machine learning is an important task for learning artificial neural networks, and we find in the learning one of the common problems of learning the Artificial Neural Network (ANN) is over-fitting and under-fitting to outlier points. In this paper we performed various methods in avoiding over-fitting and under-fitting; that is penalty and early stopping methods. A comparative study has been presented for the aforementioned methods to evaluate their performance within a range of specific parameters such as; speed of training, over-fitting and under-fitting avoidance, difficulty, capacity, time of training, and their accuracy. Besides these parameters we have included comparison between over-fitting and under-fitting. We found the early stopping method as being better as compared to the penalty method, as it can avoid over- fitting and under-fitting with respect to validation time. Besides we find that Under-fitting neural networks perform poorly on both training and test sets, but Over-fitting networks may do very well on training sets though terribly on test sets.}
+      \field{title}{{Methods to Avoid Over-Fitting and Under-Fitting in Supervised Machine Learning (Comparative Study)}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.3850/978-981-09-5247-1_017
+      \endverb
+    \endentry
+    \entry{Ko2015}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=7eb665ef290847db59d98ea2e27da5c8}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a34d953bcda61ddbf769b6d43c4ca1a1}{%
+           family={Peddinti},
+           familyi={P\bibinitperiod},
+           given={Vijayaditya},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e37bd3eba929f71a8a0351899f3870d5}{%
+           family={Povey},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d787f09b6c6cc374a9ad21fe9120fc1f}{%
+           family={Khudanpur},
+           familyi={K\bibinitperiod},
+           given={Sanjeev},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{55efd08ede4a7edabcb1697cb5b1385d}
+      \strng{fullhash}{a09e43355a1b62ea56cd57cdeb76c33a}
+      \strng{bibnamehash}{a09e43355a1b62ea56cd57cdeb76c33a}
+      \strng{authorbibnamehash}{a09e43355a1b62ea56cd57cdeb76c33a}
+      \strng{authornamehash}{55efd08ede4a7edabcb1697cb5b1385d}
+      \strng{authorfullhash}{a09e43355a1b62ea56cd57cdeb76c33a}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Data augmentation is a common strategy adopted to increase the quantity of training data, avoid overfitting and improve robustness of the models. In this paper, we investigate audio-level speech augmentation methods which directly process the raw signal. The method we particularly recommend is to change the speed of the audio signal, producing 3 versions of the original signal with speed factors of 0.9, 1.0 and 1.1. The proposed technique has a low implementation cost, making it easy to adopt. We present results on 4 different LVCSR tasks with training data ranging from 100 hours to 960 hours, to examine the effectiveness of audio augmentation in a variety of data scenarios. An average relative improvement of 4.3{\%} was observed across the 4 tasks.}
+      \field{booktitle}{Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH}
+      \field{issn}{19909772}
+      \field{title}{{Audio augmentation for speech recognition}}
+      \field{year}{2015}
+      \keyw{Data augmentation,Deep neural network,Speech recognition}
+    \endentry
+    \entry{Salamon2017a}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6f29e3fb8b241a304c6a9778479b58d2}{%
+           family={Salamon},
+           familyi={S\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dc1dca849ac4954f3a5b35d55cd40631}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{7336e492e72dd7809b20f0d19efea54c}
+      \strng{fullhash}{7336e492e72dd7809b20f0d19efea54c}
+      \strng{bibnamehash}{7336e492e72dd7809b20f0d19efea54c}
+      \strng{authorbibnamehash}{7336e492e72dd7809b20f0d19efea54c}
+      \strng{authornamehash}{7336e492e72dd7809b20f0d19efea54c}
+      \strng{authorfullhash}{7336e492e72dd7809b20f0d19efea54c}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The ability of deep convolutional neural networks (CNNs) to learn discriminative spectro-temporal patterns makes them well suited to environmental sound classification. However, the relative scarcity of labeled data has impeded the exploitation of this family of high-capacity models. This study has two primary contributions: first, we propose a deep CNN architecture for environmental sound classification. Second, we propose the use of audio data augmentation for overcoming the problem of data scarcity and explore the influence of different augmentations on the performance of the proposed CNN architecture. Combined with data augmentation, the proposed model produces state-of-the-art results for environmental sound classification. We show that the improved performance stems from the combination of a deep, high-capacity model and an augmented training set: this combination outperforms both the proposed CNN without augmentation and a 'shallow' dictionary learning model with augmentation. Finally, we examine the influence of each augmentation on the model's classification accuracy for each class, and observe that the accuracy for each class is influenced differently by each augmentation, suggesting that the performance of the model could be improved further by applying class-conditional data augmentation.}
+      \field{eprinttype}{arXiv}
+      \field{issn}{10709908}
+      \field{journaltitle}{IEEE Signal Processing Letters}
+      \field{title}{{Deep Convolutional Neural Networks and Data Augmentation for Environmental Sound Classification}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1109/LSP.2017.2657381
+      \endverb
+      \verb{eprint}
+      \verb 1608.04363
+      \endverb
+      \keyw{Deep convolutional neural networks (CNNs),deep learning,environmental sound classification,urban sound dataset}
+    \endentry
+    \entry{Wei2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1f85c92b69c96d9af718fcac49fc5c42}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Shengyun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2bf72581a89ace862b7958e11601965a}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Kele},
+           giveni={K\bibinitperiod}}}%
+        {{hash=be8ae62f392ee2e8bb8b8fce9b7894f6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Dezhi},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3e66a3cce020e46a9105535679cefde1}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={Feifan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=356e7b7c2a63b9a13bc494bb2b58e7ed}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Huaimin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ed01687b397aa60f29b0b4e861ac6a2d}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Qiuqiang},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{298dc4935f9c8cc1396f5ddedd216b3e}
+      \strng{fullhash}{f15fc897d7d59e92e7628b6269081393}
+      \strng{bibnamehash}{e1084880c202ae6335459e4893d839f5}
+      \strng{authorbibnamehash}{e1084880c202ae6335459e4893d839f5}
+      \strng{authornamehash}{298dc4935f9c8cc1396f5ddedd216b3e}
+      \strng{authorfullhash}{f15fc897d7d59e92e7628b6269081393}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Detection and Classification of Acoustic Scenes and Events 2018}
+      \field{title}{{SAMPLE MIXED-BASED DATA AUGMENTATION FOR DOMESTIC AUDIO TAGGING}}
+      \field{year}{2018}
     \endentry
     \entry{Pan2010}{misc}{}
       \name{author}{2}{}{%
@@ -2005,8 +2091,8 @@
       \strng{authorbibnamehash}{7a52fc90ff014c90d4b2e38788725d89}
       \strng{authornamehash}{a08c26f45ac7720fc96440b4ea7ebebb}
       \strng{authorfullhash}{ffe4ce4907b163158e179e33d2499150}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Detecting violence is an important task due to the amount of people who suffer its effects daily. There is a tendency to focus the problem either in real situations or in non real ones, but both of them are useful on its own right. Until this day there has not been clear effort to try to relate both environments. In this work we try to detect violent situations on two different acoustic databases through the use of crossed information from one of them into the other. The system has been divided into three stages: feature extraction, feature selection based on genetic algorithms and classification to take a binary decision. Results focus on comparing performance loss when a database is evaluated with features selected on itself, or selection based in the other database. In general, complex classifiers tend to suffer higher losses, whereas simple classifiers, such as linear and quadratic detectors, offers less than a 10{\%} loss in most situations.}
@@ -2126,54 +2212,6 @@
       \endverb
       \keyw{community violence,cultural contexts,domestic violence}
     \endentry
-    \entry{Salamon2017}{inproceedings}{}
-      \name{author}{5}{}{%
-        {{hash=6f29e3fb8b241a304c6a9778479b58d2}{%
-           family={Salamon},
-           familyi={S\bibinitperiod},
-           given={Justin},
-           giveni={J\bibinitperiod}}}%
-        {{hash=440f2ec19b7e6bd89e9b0e137b96153e}{%
-           family={MacConnell},
-           familyi={M\bibinitperiod},
-           given={Duncan},
-           giveni={D\bibinitperiod}}}%
-        {{hash=8aeab975280e4a1240315fc0e989af47}{%
-           family={Cartwright},
-           familyi={C\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-        {{hash=137297e0019ba55bca6f9b200782ae52}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=dc1dca849ac4954f3a5b35d55cd40631}{%
-           family={Bello},
-           familyi={B\bibinitperiod},
-           given={Juan\bibnamedelima Pablo},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \strng{namehash}{9180d64e469adf6b63b10942a5d23f46}
-      \strng{fullhash}{5e1fe6669f4ffd74d53112a012971882}
-      \strng{bibnamehash}{5e1fe6669f4ffd74d53112a012971882}
-      \strng{authorbibnamehash}{5e1fe6669f4ffd74d53112a012971882}
-      \strng{authornamehash}{9180d64e469adf6b63b10942a5d23f46}
-      \strng{authorfullhash}{5e1fe6669f4ffd74d53112a012971882}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Sound event detection (SED) in environmental recordings is a key topic of research in machine listening, with applications in noise monitoring for smart cities, self-driving cars, surveillance, bioa-coustic monitoring, and indexing of large multimedia collections. Developing new solutions for SED often relies on the availability of strongly labeled audio recordings, where the annotation includes the onset, offset and source of every event. Generating such precise annotations manually is very time consuming, and as a result existing datasets for SED with strong labels are scarce and limited in size. To address this issue, we present Scaper, an open-source library for soundscape synthesis and augmentation. Given a collection of iso-lated sound events, Scaper acts as a high-level sequencer that can generate multiple soundscapes from a single, probabilistically defined, 'specification'. To increase the variability of the output, Scaper supports the application of audio transformations such as pitch shifting and time stretching individually to every event. To illustrate the potential of the library, we generate a dataset of 10,000 sound-scapes and use it to compare the performance of two state-of-The-Art algorithms, including a breakdown by soundscape characteristics. We also describe how Scaper was used to generate audio stimuli for an audio labeling crowdsourcing experiment, and conclude with a discussion of Scaper's limitations and potential applications.}
-      \field{booktitle}{IEEE Workshop on Applications of Signal Processing to Audio and Acoustics}
-      \field{isbn}{9781538616321}
-      \field{title}{{Scaper: A library for soundscape synthesis and augmentation}}
-      \field{year}{2017}
-      \verb{doi}
-      \verb 10.1109/WASPAA.2017.8170052
-      \endverb
-      \keyw{Soundscape,sound event detection,synthesis}
-    \endentry
     \entry{Mapell2012}{misc}{}
       \name{author}{1}{}{%
         {{hash=3f02c19a413912033db647b913ccef77}{%
@@ -2268,8 +2306,8 @@
       \strng{authorbibnamehash}{d74a4cad455393c2fef7dc47d5466888}
       \strng{authornamehash}{d74a4cad455393c2fef7dc47d5466888}
       \strng{authorfullhash}{d74a4cad455393c2fef7dc47d5466888}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{TUT Rare sound events}}
@@ -2294,8 +2332,8 @@
       \strng{authorbibnamehash}{d78ce7a9be213be35fbe009a089746ae}
       \strng{authornamehash}{d78ce7a9be213be35fbe009a089746ae}
       \strng{authorfullhash}{d78ce7a9be213be35fbe009a089746ae}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{IEEE AASP Challenge: Detection and Classification of Acoustic Scenes and Events}}
@@ -3165,249 +3203,6 @@
       \verb 10.1002/wics.101
       \endverb
     \endentry
-    \entry{Levoy2012}{misc}{}
-      \name{author}{3}{}{%
-        {{hash=1315bf00f5fa82534be18df443fc255c}{%
-           family={Levoy},
-           familyi={L\bibinitperiod},
-           given={Marc},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b92eb745b074c8f7a07a44c26ffc3543}{%
-           family={Dektar},
-           familyi={D\bibinitperiod},
-           given={Katie},
-           giveni={K\bibinitperiod}}}%
-        {{hash=d9920ffa161bb88a78dfee84636fb7be}{%
-           family={Adams},
-           familyi={A\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
-      \strng{fullhash}{4d74d0f4dd3790b8b4c936a0a028f35e}
-      \strng{bibnamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
-      \strng{authorbibnamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
-      \strng{authornamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
-      \strng{authorfullhash}{4d74d0f4dd3790b8b4c936a0a028f35e}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Spatial Convolution}}
-      \field{year}{2012}
-      \verb{urlraw}
-      \verb https://graphics.stanford.edu/courses/cs178/applets/convolution.html
-      \endverb
-      \verb{url}
-      \verb https://graphics.stanford.edu/courses/cs178/applets/convolution.html
-      \endverb
-    \endentry
-    \entry{Rampurawala2019}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=47939fb0219b01dbf4ebd3dbaadf7447}{%
-           family={Rampurawala},
-           familyi={R\bibinitperiod},
-           given={Mohammed},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{47939fb0219b01dbf4ebd3dbaadf7447}
-      \strng{fullhash}{47939fb0219b01dbf4ebd3dbaadf7447}
-      \strng{bibnamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
-      \strng{authorbibnamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
-      \strng{authornamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
-      \strng{authorfullhash}{47939fb0219b01dbf4ebd3dbaadf7447}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Classification with TensorFlow and Dense Neural Networks}}
-      \field{year}{2019}
-    \endentry
-    \entry{Jabbar2015}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=24bb986f645e282ec2b5895a9d5da9be}{%
-           family={Jabbar},
-           familyi={J\bibinitperiod},
-           given={Haider\bibnamedelima Khalaf},
-           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=23e3d7dfa6202663e7696690db14b050}{%
-           family={Khan},
-           familyi={K\bibinitperiod},
-           given={Rafiqul\bibnamedelima Zaman},
-           giveni={R\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
-      }
-      \strng{namehash}{907aadb37fc60b0f083f20db847f6e26}
-      \strng{fullhash}{907aadb37fc60b0f083f20db847f6e26}
-      \strng{bibnamehash}{907aadb37fc60b0f083f20db847f6e26}
-      \strng{authorbibnamehash}{907aadb37fc60b0f083f20db847f6e26}
-      \strng{authornamehash}{907aadb37fc60b0f083f20db847f6e26}
-      \strng{authorfullhash}{907aadb37fc60b0f083f20db847f6e26}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Machine learning is an important task for learning artificial neural networks, and we find in the learning one of the common problems of learning the Artificial Neural Network (ANN) is over-fitting and under-fitting to outlier points. In this paper we performed various methods in avoiding over-fitting and under-fitting; that is penalty and early stopping methods. A comparative study has been presented for the aforementioned methods to evaluate their performance within a range of specific parameters such as; speed of training, over-fitting and under-fitting avoidance, difficulty, capacity, time of training, and their accuracy. Besides these parameters we have included comparison between over-fitting and under-fitting. We found the early stopping method as being better as compared to the penalty method, as it can avoid over- fitting and under-fitting with respect to validation time. Besides we find that Under-fitting neural networks perform poorly on both training and test sets, but Over-fitting networks may do very well on training sets though terribly on test sets.}
-      \field{title}{{Methods to Avoid Over-Fitting and Under-Fitting in Supervised Machine Learning (Comparative Study)}}
-      \field{year}{2015}
-      \verb{doi}
-      \verb 10.3850/978-981-09-5247-1_017
-      \endverb
-    \endentry
-    \entry{Kaski2011}{article}{}
-      \name{author}{2}{}{%
-        {{hash=a4e041fb1be6fc5ec0f43802c95087d2}{%
-           family={Kaski},
-           familyi={K\bibinitperiod},
-           given={Samuel},
-           giveni={S\bibinitperiod}}}%
-        {{hash=a14051cefe8817b817d29ffd2a5aa7ad}{%
-           family={Peltonen},
-           familyi={P\bibinitperiod},
-           given={Jaakko},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{e3f85673334154343d5bc138a399ef77}
-      \strng{fullhash}{e3f85673334154343d5bc138a399ef77}
-      \strng{bibnamehash}{e3f85673334154343d5bc138a399ef77}
-      \strng{authorbibnamehash}{e3f85673334154343d5bc138a399ef77}
-      \strng{authornamehash}{e3f85673334154343d5bc138a399ef77}
-      \strng{authorfullhash}{e3f85673334154343d5bc138a399ef77}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Dimensionality reduction is one of the basic operations in the toolbox of data analysts and designers of machine learning and pattern recognition systems. Given a large set of measured variables but few observations, an obvious idea is to reduce the degrees of freedom in the measurements by representing them with a smaller set of more condensed variables. Another reason for reducing the dimensionality is to reduce computational load in further processing. A third reason is visualization. {©} 2006 IEEE.}
-      \field{issn}{10535888}
-      \field{journaltitle}{IEEE Signal Processing Magazine}
-      \field{title}{{Dimensionality reduction for data visualization}}
-      \field{year}{2011}
-      \verb{doi}
-      \verb 10.1109/MSP.2010.940003
-      \endverb
-      \keyw{Data models,Data visualization,Information retrieval,Machine learning,Manifolds,Probabilistic logic,Visualization}
-    \endentry
-    \entry{AmatRodrigo2017}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=ed02ac72acfb015a248e2cba0202677d}{%
-           family={{Amat Rodrigo}},
-           familyi={A\bibinitperiod},
-           given={Joaqu{í}n},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{ed02ac72acfb015a248e2cba0202677d}
-      \strng{fullhash}{ed02ac72acfb015a248e2cba0202677d}
-      \strng{bibnamehash}{ed02ac72acfb015a248e2cba0202677d}
-      \strng{authorbibnamehash}{ed02ac72acfb015a248e2cba0202677d}
-      \strng{authornamehash}{ed02ac72acfb015a248e2cba0202677d}
-      \strng{authorfullhash}{ed02ac72acfb015a248e2cba0202677d}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{An{á}lisis de Componentes Principales (Principal Component Analysis, PCA) y t-SNE}}
-      \field{year}{2017}
-    \endentry
-    \entry{Hinton2003}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=9a8750ccdb2a4cf14d2655face1ce016}{%
-           family={Hinton},
-           familyi={H\bibinitperiod},
-           given={Geoffrey},
-           giveni={G\bibinitperiod}}}%
-        {{hash=709affbec617f6fb034be46e27fa4e34}{%
-           family={Roweis},
-           familyi={R\bibinitperiod},
-           given={Sam},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
-      \strng{fullhash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
-      \strng{bibnamehash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
-      \strng{authorbibnamehash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
-      \strng{authornamehash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
-      \strng{authorfullhash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We describe a probabilistic approach to the task of placing objects, described by high-dimensional vectors or by pairwise dissimilarities, in a low-dimensional space in a way that preserves neighbor identities. A Gaussian is centered on each object in the high-dimensional space and the densities under this Gaussian (or the given dissimilarities) are used to define a probability distribution over all the potential neighbors of the object. The aim of the embedding is to approximate this distribution as well as possible when the same operation is performed on the low-dimensional "images" of the objects. A natural cost function is a sum of Kullback-Leibler divergences, one per object, which leads to a simple gradient for adjusting the positions of the low-dimensional images. Unlike other dimensionality reduction methods, this probabilistic framework makes it easy to represent each object by a mixture of widely separated low-dimensional images. This allows ambiguous objects, like the document count vector for the word "bank", to have versions close to the images of both "river" and "finance" without forcing the images of outdoor concepts to be located close to those of corporate concepts.}
-      \field{booktitle}{Advances in Neural Information Processing Systems}
-      \field{isbn}{0262025507}
-      \field{issn}{10495258}
-      \field{title}{{Stochastic neighbor embedding}}
-      \field{year}{2003}
-    \endentry
-    \entry{VanDerMaaten2008}{article}{}
-      \name{author}{2}{}{%
-        {{hash=a33ababcca5b83a7777452957fb2eef2}{%
-           family={{Van Der Maaten}},
-           familyi={V\bibinitperiod},
-           given={Laurens},
-           giveni={L\bibinitperiod}}}%
-        {{hash=9a8750ccdb2a4cf14d2655face1ce016}{%
-           family={Hinton},
-           familyi={H\bibinitperiod},
-           given={Geoffrey},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{db0349d236640a0f89628c7e075d2cf7}
-      \strng{fullhash}{db0349d236640a0f89628c7e075d2cf7}
-      \strng{bibnamehash}{db0349d236640a0f89628c7e075d2cf7}
-      \strng{authorbibnamehash}{db0349d236640a0f89628c7e075d2cf7}
-      \strng{authornamehash}{db0349d236640a0f89628c7e075d2cf7}
-      \strng{authorfullhash}{db0349d236640a0f89628c7e075d2cf7}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We present a new technique called "t-SNE" that visualizes high-dimensional data by giving each datapoint a location in a two or three-dimensional map. The technique is a variation of Stochastic Neighbor Embedding (Hinton and Roweis, 2002) that is much easier to optimize, and produces significantly better visualizations by reducing the tendency to crowd points together in the center of the map. t-SNE is better than existing techniques at creating a single map that reveals structure at many different scales. This is particularly important for high-dimensional data that lie on several different, but related, low-dimensional manifolds, such as images of objects from multiple classes seen from multiple viewpoints. For visualizing the structure of very large data sets, we show how t-SNE can use random walks on neighborhood graphs to allow the implicit structure of all of the data to influence the way in which a subset of the data is displayed. We illustrate the performance of t-SNE on a wide variety of data sets and compare it with many other non-parametric visualization techniques, including Sammon mapping, Isomap, and Locally Linear Embedding. The visualizations produced by t-SNE are significantly better than those produced by the other techniques on almost all of the data sets.}
-      \field{issn}{15324435}
-      \field{journaltitle}{Journal of Machine Learning Research}
-      \field{title}{{Visualizing data using t-SNE}}
-      \field{year}{2008}
-      \keyw{Dimensionality reduction,Embedding algorithms,Manifold learning,Multidimensional scaling,Visualization}
-    \endentry
-    \entry{Wattenberg2016}{article}{}
-      \name{author}{3}{}{%
-        {{hash=c66133f96104e3c0dcd2f73e11469ab0}{%
-           family={Wattenberg},
-           familyi={W\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod}}}%
-        {{hash=d9ad2ba70a84203f22b0dab9080eedfc}{%
-           family={Viegas},
-           familyi={V\bibinitperiod},
-           given={Fernanda},
-           giveni={F\bibinitperiod}}}%
-        {{hash=7201a73ba867797477903e1eec2b65e4}{%
-           family={Johnson},
-           familyi={J\bibinitperiod},
-           given={Ian},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{a59d8b98f80ac712b9ab7240b7403c98}
-      \strng{fullhash}{a59d8b98f80ac712b9ab7240b7403c98}
-      \strng{bibnamehash}{a59d8b98f80ac712b9ab7240b7403c98}
-      \strng{authorbibnamehash}{a59d8b98f80ac712b9ab7240b7403c98}
-      \strng{authornamehash}{a59d8b98f80ac712b9ab7240b7403c98}
-      \strng{authorfullhash}{a59d8b98f80ac712b9ab7240b7403c98}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Distill}
-      \field{title}{{How to Use t-SNE Effectively}}
-      \field{year}{2016}
-      \verb{doi}
-      \verb 10.23915/distill.00002
-      \endverb
-      \verb{urlraw}
-      \verb http://distill.pub/2016/misread-tsne
-      \endverb
-      \verb{url}
-      \verb http://distill.pub/2016/misread-tsne
-      \endverb
-    \endentry
     \entry{Chawla2002}{article}{}
       \name{author}{4}{}{%
         {{hash=07f6b2699d3cab07b3a5b04353899cba}{%
@@ -3670,6 +3465,219 @@
       \endverb
       \verb{url}
       \verb https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+      \endverb
+    \endentry
+    \entry{Levoy2012}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=1315bf00f5fa82534be18df443fc255c}{%
+           family={Levoy},
+           familyi={L\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b92eb745b074c8f7a07a44c26ffc3543}{%
+           family={Dektar},
+           familyi={D\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d9920ffa161bb88a78dfee84636fb7be}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
+      \strng{fullhash}{4d74d0f4dd3790b8b4c936a0a028f35e}
+      \strng{bibnamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
+      \strng{authorbibnamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
+      \strng{authornamehash}{4d74d0f4dd3790b8b4c936a0a028f35e}
+      \strng{authorfullhash}{4d74d0f4dd3790b8b4c936a0a028f35e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Spatial Convolution}}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://graphics.stanford.edu/courses/cs178/applets/convolution.html
+      \endverb
+      \verb{url}
+      \verb https://graphics.stanford.edu/courses/cs178/applets/convolution.html
+      \endverb
+    \endentry
+    \entry{Rampurawala2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=47939fb0219b01dbf4ebd3dbaadf7447}{%
+           family={Rampurawala},
+           familyi={R\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{fullhash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{bibnamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{authorbibnamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{authornamehash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \strng{authorfullhash}{47939fb0219b01dbf4ebd3dbaadf7447}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Classification with TensorFlow and Dense Neural Networks}}
+      \field{year}{2019}
+    \endentry
+    \entry{Kaski2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a4e041fb1be6fc5ec0f43802c95087d2}{%
+           family={Kaski},
+           familyi={K\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a14051cefe8817b817d29ffd2a5aa7ad}{%
+           family={Peltonen},
+           familyi={P\bibinitperiod},
+           given={Jaakko},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3f85673334154343d5bc138a399ef77}
+      \strng{fullhash}{e3f85673334154343d5bc138a399ef77}
+      \strng{bibnamehash}{e3f85673334154343d5bc138a399ef77}
+      \strng{authorbibnamehash}{e3f85673334154343d5bc138a399ef77}
+      \strng{authornamehash}{e3f85673334154343d5bc138a399ef77}
+      \strng{authorfullhash}{e3f85673334154343d5bc138a399ef77}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dimensionality reduction is one of the basic operations in the toolbox of data analysts and designers of machine learning and pattern recognition systems. Given a large set of measured variables but few observations, an obvious idea is to reduce the degrees of freedom in the measurements by representing them with a smaller set of more condensed variables. Another reason for reducing the dimensionality is to reduce computational load in further processing. A third reason is visualization. {©} 2006 IEEE.}
+      \field{issn}{10535888}
+      \field{journaltitle}{IEEE Signal Processing Magazine}
+      \field{title}{{Dimensionality reduction for data visualization}}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1109/MSP.2010.940003
+      \endverb
+      \keyw{Data models,Data visualization,Information retrieval,Machine learning,Manifolds,Probabilistic logic,Visualization}
+    \endentry
+    \entry{AmatRodrigo2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ed02ac72acfb015a248e2cba0202677d}{%
+           family={{Amat Rodrigo}},
+           familyi={A\bibinitperiod},
+           given={Joaqu{í}n},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed02ac72acfb015a248e2cba0202677d}
+      \strng{fullhash}{ed02ac72acfb015a248e2cba0202677d}
+      \strng{bibnamehash}{ed02ac72acfb015a248e2cba0202677d}
+      \strng{authorbibnamehash}{ed02ac72acfb015a248e2cba0202677d}
+      \strng{authornamehash}{ed02ac72acfb015a248e2cba0202677d}
+      \strng{authorfullhash}{ed02ac72acfb015a248e2cba0202677d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{An{á}lisis de Componentes Principales (Principal Component Analysis, PCA) y t-SNE}}
+      \field{year}{2017}
+    \endentry
+    \entry{Hinton2003}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9a8750ccdb2a4cf14d2655face1ce016}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=709affbec617f6fb034be46e27fa4e34}{%
+           family={Roweis},
+           familyi={R\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
+      \strng{fullhash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
+      \strng{bibnamehash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
+      \strng{authorbibnamehash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
+      \strng{authornamehash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
+      \strng{authorfullhash}{ccd03e0d3825ac0bbd9c5ec8e4ff4089}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe a probabilistic approach to the task of placing objects, described by high-dimensional vectors or by pairwise dissimilarities, in a low-dimensional space in a way that preserves neighbor identities. A Gaussian is centered on each object in the high-dimensional space and the densities under this Gaussian (or the given dissimilarities) are used to define a probability distribution over all the potential neighbors of the object. The aim of the embedding is to approximate this distribution as well as possible when the same operation is performed on the low-dimensional "images" of the objects. A natural cost function is a sum of Kullback-Leibler divergences, one per object, which leads to a simple gradient for adjusting the positions of the low-dimensional images. Unlike other dimensionality reduction methods, this probabilistic framework makes it easy to represent each object by a mixture of widely separated low-dimensional images. This allows ambiguous objects, like the document count vector for the word "bank", to have versions close to the images of both "river" and "finance" without forcing the images of outdoor concepts to be located close to those of corporate concepts.}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{isbn}{0262025507}
+      \field{issn}{10495258}
+      \field{title}{{Stochastic neighbor embedding}}
+      \field{year}{2003}
+    \endentry
+    \entry{VanDerMaaten2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a33ababcca5b83a7777452957fb2eef2}{%
+           family={{Van Der Maaten}},
+           familyi={V\bibinitperiod},
+           given={Laurens},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9a8750ccdb2a4cf14d2655face1ce016}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{db0349d236640a0f89628c7e075d2cf7}
+      \strng{fullhash}{db0349d236640a0f89628c7e075d2cf7}
+      \strng{bibnamehash}{db0349d236640a0f89628c7e075d2cf7}
+      \strng{authorbibnamehash}{db0349d236640a0f89628c7e075d2cf7}
+      \strng{authornamehash}{db0349d236640a0f89628c7e075d2cf7}
+      \strng{authorfullhash}{db0349d236640a0f89628c7e075d2cf7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a new technique called "t-SNE" that visualizes high-dimensional data by giving each datapoint a location in a two or three-dimensional map. The technique is a variation of Stochastic Neighbor Embedding (Hinton and Roweis, 2002) that is much easier to optimize, and produces significantly better visualizations by reducing the tendency to crowd points together in the center of the map. t-SNE is better than existing techniques at creating a single map that reveals structure at many different scales. This is particularly important for high-dimensional data that lie on several different, but related, low-dimensional manifolds, such as images of objects from multiple classes seen from multiple viewpoints. For visualizing the structure of very large data sets, we show how t-SNE can use random walks on neighborhood graphs to allow the implicit structure of all of the data to influence the way in which a subset of the data is displayed. We illustrate the performance of t-SNE on a wide variety of data sets and compare it with many other non-parametric visualization techniques, including Sammon mapping, Isomap, and Locally Linear Embedding. The visualizations produced by t-SNE are significantly better than those produced by the other techniques on almost all of the data sets.}
+      \field{issn}{15324435}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{title}{{Visualizing data using t-SNE}}
+      \field{year}{2008}
+      \keyw{Dimensionality reduction,Embedding algorithms,Manifold learning,Multidimensional scaling,Visualization}
+    \endentry
+    \entry{Wattenberg2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c66133f96104e3c0dcd2f73e11469ab0}{%
+           family={Wattenberg},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d9ad2ba70a84203f22b0dab9080eedfc}{%
+           family={Viegas},
+           familyi={V\bibinitperiod},
+           given={Fernanda},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7201a73ba867797477903e1eec2b65e4}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{a59d8b98f80ac712b9ab7240b7403c98}
+      \strng{fullhash}{a59d8b98f80ac712b9ab7240b7403c98}
+      \strng{bibnamehash}{a59d8b98f80ac712b9ab7240b7403c98}
+      \strng{authorbibnamehash}{a59d8b98f80ac712b9ab7240b7403c98}
+      \strng{authornamehash}{a59d8b98f80ac712b9ab7240b7403c98}
+      \strng{authorfullhash}{a59d8b98f80ac712b9ab7240b7403c98}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Distill}
+      \field{title}{{How to Use t-SNE Effectively}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.23915/distill.00002
+      \endverb
+      \verb{urlraw}
+      \verb http://distill.pub/2016/misread-tsne
+      \endverb
+      \verb{url}
+      \verb http://distill.pub/2016/misread-tsne
       \endverb
     \endentry
     \entry{Kaw}{misc}{}
@@ -4079,8 +4087,8 @@
       \strng{authorbibnamehash}{642aac140393d4b62be0465bc9392fa6}
       \strng{authornamehash}{642aac140393d4b62be0465bc9392fa6}
       \strng{authorfullhash}{642aac140393d4b62be0465bc9392fa6}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Digital Signal Processing System Design}}

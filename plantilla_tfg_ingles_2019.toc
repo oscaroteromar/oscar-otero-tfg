@@ -17,15 +17,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Features and methods for \acrshort {asc} and \acrshort {aedc}}{4}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Transfer learning}{11}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.1}Data augmentation}{10}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Violent Event Detection}{12}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.2.2}Transfer learning}{11}{subsection.2.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}\acrlong {ved}}{12}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.1}Gender-based violence}{13}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.2}Our point of view}{14}{subsection.2.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Databases}{14}{section.2.4}% 
+\contentsline {section}{\numberline {2.4}Databases}{15}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Resources and Methods for Acoustic Violent Detection}{17}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
@@ -45,31 +47,33 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.3}\acrshort {vgg}ish model}{27}{subsection.3.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Our approach for Acoustic Violent Detection}{31}{chapter.4}% 
+\contentsline {section}{\numberline {3.3}Methodology}{30}{section.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Why \acrshort {vgg}ish}{31}{section.4.1}% 
+\contentsline {subsection}{\numberline {3.3.1}\acrfull {smote}}{30}{subsection.3.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Our approach}{32}{section.4.2}% 
+\contentsline {subsection}{\numberline {3.3.2}\acrfull {svm}}{31}{subsection.3.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Input data}{32}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {3.3.3}\acrlong {rnn} and \acrlong {lstm}}{32}{subsection.3.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Violent classes}{32}{subsection.4.2.1}% 
+\contentsline {chapter}{\numberline {4}Our approach for Acoustic Violent Detection}{37}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Downloading videos}{33}{figure.caption.35}% 
+\contentsline {section}{\numberline {4.1}Why \acrshort {vgg}ish}{37}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Extracting embeddings}{34}{subsection.4.2.2}% 
+\contentsline {section}{\numberline {4.2}Our approach}{38}{section.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}Assessing the differences between the two types of data access}{35}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.1}Input data}{38}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dimensionality reduction for visualization}{37}{figure.caption.39}% 
+\contentsline {subsubsection}{Violent classes}{38}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Methodology}{40}{section.4.3}% 
+\contentsline {subsubsection}{Downloading videos}{39}{figure.caption.38}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}\acrfull {smote}}{40}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Extracting embeddings}{40}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}\acrfull {svm}}{41}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Assessing the differences between the two types of data access}{41}{subsection.4.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}\acrlong {rnn} and \acrlong {lstm}}{42}{subsection.4.3.3}% 
+\contentsline {subsubsection}{Dimensionality reduction for visualization}{43}{figure.caption.42}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Reasons to use this methodology}{46}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Experiments}{47}{chapter.5}% 
 \defcounter {refsection}{0}\relax 
@@ -95,7 +99,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Future work}{70}{chapter.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{75}{chapter*.91}% 
+\contentsline {chapter}{Bibliography}{75}{chapter*.83}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {A}Appendix Metrics}{}{appendix.A}% 
 \defcounter {refsection}{0}\relax 
