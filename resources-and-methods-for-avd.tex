@@ -40,7 +40,17 @@
 	\input{ontology-fields.tex}
 	
 	For the field \textit{ID}, the identifiers are known as \acrfull{mid} and belong to the \textit{Knowledge Graph} designed by Google \cite{Singhal2012}. This is a knowledge base that Google services use to improve the quality of its search results and it is composed with information extracted from a wide variety of sources. The \acrshort{mid}s are the identifiers of the different elements that belong to this huge dictionary. For instance, the \acrshort{mid} of the word "Speech" is "/m/09x0r". Another field that deserves a special explanation is the one corresponding to \textit{Restrictions}. Within all the categories of sound events, there are two flags that indicate an exclusive behaviour that differ from a typical label: "blacklisted" and "abstract". The former refers to a class that has been hidden from labellers due to its confusing meaning. The latter has been used for those classes that are just employed as intermediate nodes in order to provide a better grouping inside the organization, and are not expected to be used in the implementation tasks. In total, out of the 632 categories, 56 have been categorized as "blacklisted" and 22, as "abstract".
+	
+\subsection{Labels quality}
+\label{subsection:labels-quality}
 
+	\todo{Small explanation about ratings}
+	
+	For the rating process, the video segments were proposed to the rating workers without any type of extra meta data. For each video, they had the purpose of indicating if the video belonged to one or more labels by setting whether a classes was \textit{present}, \textit{not present} or \textit{unsure}. The number of raters for each segment was three, and a majority-vote method was used in order to decided if the label was finally present in the video segment \cite{Gemmeke2017}.
+	
+	By the end of the process, 76.2\% of the votes were unanimous and the \textit{unsure} vote had been barely used. A small number of errors in during the label were found due to confusing labels, human mistakes and understanding silent and really soft audio sounds as different. Also, some labels were commonly misunderstood so they were removed from the ontology.
+	
+	In order to improve the quality of the labels, quality assessment has been performed internally in order to proceed to a rerating process. Apart from giving better instructions to the raters, a procedure to label the segments with clusters is also executed \cite{SoundUnderstandinggroup2017}. However, this stage is not completed yet, so we decided to ignore this fact and continue as the labels were equally qualified even thought this may have an effect in the final result.
 
 \subsection{Data access}
 \label{subsection:data-access}
@@ -175,7 +185,7 @@
 \section{Methodology}
 \label{section:methodology}
 
-	In this section, a theoretical explanation of the different algorithms and methods used in the experiments explained in chapter \ref{chapter:experiments} is included, apart from the \acrshort{cnn}, which has been already explained in subsection \ref{subsection:ann-cnn}. The reason of why choosing these techniques is commented in section \ref{section:reason-methodology}.
+	In this section, a theoretical explanation of the different algorithms and methods used in the experiments explained in chapter \ref{chapter:experiments} is included, apart from the \acrshort{cnn}, which has been already explained in subsection \ref{subsection:ann-cnn}. More details about the implementation of the four techniques and how they play a roll in the system are included in subsection \ref{section:our-system} and chapter \ref{chapter:experiments}.
 	
 	% Explain the methods used:
 	% 1) Data augmentation and SMOTE
@@ -188,3 +198,5 @@
 	\input{SVM.tex}
 	
 	\input{lstm.tex}
+	
+	

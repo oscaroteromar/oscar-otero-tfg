@@ -4,7 +4,7 @@
 	
 	For our final approach when implementing this system of acoustic gender-based violence detection we first need to select the classes we are going to use for the classification so as to obtain the corresponding embedding features with \acrshort{vgg}ish from the audio data, obtained from the database explained in section \ref{section:audioset}. Then, a supervised multiclass classification is performed for the different events and, finally, the soft output from this step is used as an input for a binary classifier so we can differentiate the audio from violent and non-violent.
 	
-	In this chapter we want to make clear why we think that the \acrshort{vgg}ish network is a good option for our problem in \ref{section:why-vggish}. Then, the procedure when starting to prepare the data and to extract the feature embeddings with this model is included in \ref{section:our-approach}. Also, the demonstration of the similarity between both types of embeddings previously mentioned in \ref{subsection:data-access} is described in \ref{subsection:exploring-differences-between-two-types-of-data-access}. Finally, the last section \ref{section:models} includes an explanation of the different algorithms that we use for the experiments explained in chapter \ref{chapter:experiments}.
+	In this chapter we want to make clear why we think that the \acrshort{vgg}ish network is a good option for our problem in \ref{section:why-vggish}. Then, the procedure when starting to prepare the data and to extract the feature embeddings with this model is included in \ref{section:our-approach}. Also, the demonstration of the similarity between both types of embeddings previously mentioned in \ref{subsection:data-access} is described in \ref{subsection:exploring-differences-between-two-types-of-data-access}. Finally, the last section \ref{section:reason-methodology} includes an explanation of the whole system that we use for the experiments explained in chapter \ref{chapter:experiments}.
 
 \section{Why \acrshort{vgg}ish}
 \label{section:why-vggish}
@@ -132,9 +132,9 @@
 				\hline
 				format / subset & \textbf{Train} & \textbf{Test} \\
 				\hline\hline
-				\textbf{Audio file} & 0.98 & 0.63 \\
+				\textbf{Audio file} & 1.00 & 0.70 \\
 				\hline
-				\textbf{.\textit{tfrecord}} & 1.0 & 0.72 \\
+				\textbf{.\textit{tfrecord}} & 0.98 & 0.64 \\
 				\hline
 			\end{tabular}
 		\end{center}
@@ -151,7 +151,7 @@
 		\label{fig:mesh5}
 	\end{wrapfigure}
 	
-	For the training phases, it can be appreciated that there may be an overfitting since the accuracy is perfect. In spite of this result, we did not give it so much importance since we just wanted to do a quick check of the similarity between the two types of data which can be appreciated due to the similarity of both metrics results.
+	For the training phases, it can be appreciated that there may be an overfitting since the accuracy is perfect. This means that the \acrshort{nn} stop improving its capacity of learning how to solve the problem in a certain moment of the training task. Instead, it does learn some behaviour pattern that the training data follows. This impacts negatively in the model since the new data that the system will have to learn from will look different and will not follow these same rules \cite{Jabbar2015}. In spite of this result, we did not give it so much importance since we just wanted to do a quick check of the similarity between the two types of data which can be appreciated due to the similarity of both metrics results.
 	
 \subsubsection{Dimensionality reduction for visualization}
 \label{subsection:dimensionality-reduction-for-visualization}
@@ -227,17 +227,34 @@
 		\label{fig:mesh52}
 	\end{figure}
 
-\section{Reasons to use this methodology}
-\label{section:reason-methodology}
+\section{Our system}
+\label{section:our-system}
 	
-	\todo{Debería poner ejemplos de aplicación al audio como hice en las CNNs o simplemente dejarlo así y ya tratarlo como una parte del estado del arte de related work}
+	In this section we are going to make a small explanation of the systems we have implemented. As explained at the beginning of this chapter, our mainly objective in this work is to perform a binary classification in which we can distinguish between violent and non-violent events. Before achieving this final result, a couple of steps take place from which we can make some pre processing of the data and also extract some conclusions about the behaviour of the embeddings selected. More information for the implementation will be found along chapter \ref{chapter:experiments}.
 	
-% Explain the methods used:
-% 1) Data augmentation and SMOTE
-% 2) SVM 
-% 4) CNN
-% 5) LSTM
-
+	First, we need to select the classes we are going to work with. For that purpose we use the system implemented explained in subsection \ref{subsection:violent-classes}. After these we end up with a couple of violent and non-violent classes that will be used in the classification task.
+	
+	Then, due to the unbalanced nature of the database we have chosen, some of these classes are more populated than others. We decided to solve this problem by using a data augmentation technique called \acrshort{smote} which generates samples for the minority classes in a synthetic way. A more detailed explanation can be found in \ref{subsection:smote}. We actually did not have a very wide range of possibilities when choosing if a synthetic manner of creating new data was the best idea. Since we are not working with original audio files for this work, we are just taking the already extracted embeddings provided in .\textit{tfrecord} format by the Audio Set website \cite{SoundUnderstandinggroup2017}, we could not apply some of the techniques of deforming or transforming the original signal, as previously explained in \ref{subsection:data-augmentation}. \acrshort{smote} is a common technique for this task with a robust algorithm that seems a good election.
+	
+	Then, after dividing the data in the corresponding sets for the classification, we wanted to see how was the behaviour of the embeddings in different ways. Then, the final decision was to perform a multiclass classification, as the small experiment described in \ref{subsection:exploring-differences-between-two-types-of-data-access},  with different techniques and see how they work with this type of data. In the following list, the algorithms already explained theoretically in section \ref{section:methodology} and \ref{subsection:ann-cnn} are included with the reason of why choosing them:
+	
+	\begin{itemize}
+		\item We decided to use \acrshort{svm} since we wanted to use a classifier algorithm that differs from neural models. This technique has been used largely in the literature \cite{Fu2011} and seems one of the most appropriated options when performing classification tasks. We also used this algorithm to perform the binary classification.
+		\item Another option was to use the simple \acrshort{cnn} model explained in figure \ref{fig:mesh5}. Since the data we are working with is a 2\acrshort{d} matrix for every segment of audio, we wanted to check the result of a convolution operation around each segment. The number of channels indicated in this case is 1, so every instance is considered as a single input "image".
+		\item As a last option, we wanted to try the concept of a \acrshort{lstm}, since this method takes as an advantage the fact of the input being a sequence. We could have used simpler \acrshort{rnn} but we decided to try this method since the concept they present are mainly the same.
+	\end{itemize}
+	
+	These three methods are used to perform a multi classification task for all the samples collected within the classes chosen. The output we get are the probabilities for each sample to belong to each class, i.e. the soft outputs. To evaluate the performance of this task, we convert them to hard values by choosing the higher probability. This will be also mentioned later in section \ref{section:input-data-preparation}. Actually, this is due to the softmax layer we include at the end of \acrshort{cnn} and \acrshort{lstm}. For the \acrshort{svm}, the outputs are naturally hard, we just need to indicate that we want to get soft ones in the prediction stage when declaring the model. So, depending on which classification task we are performing, we indicate hard or soft.
+	
+	For the binary classification, we use the soft probabilities mentioned above as input features for the binary \acrshort{svm}. In this case, we get the hard outputs \textit{0} or \textit{1}, depending if the observation is non-violent or violent. In figure \ref{fig:mesh54}, a block diagram of the whole system is included. This shows the whole treatment of the data since being an audio recording until the output of the classification.
+	
+	\begin{figure}[H]
+		\centering
+		\captionsetup{justification=centering}
+		\includegraphics[scale=0.5]{block-diagram-whole-model}
+		\caption{Block diagram of the whole model including both types of classification. We do not extract the embeddings, but this is a diagram of the whole model considering that we did extract them.}
+		\label{fig:mesh54}
+	\end{figure} 
 
 
 
