@@ -111,24 +111,24 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.80}% 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Example of confusion matrix\relax }}{}{figure.caption.83}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.81}% 
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {B.1}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.82}% 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Confusion matrix for a multiclass classification \cite {Kruger2018}\relax }}{}{figure.caption.84}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Cross-entropy loss function when the true label is equals to 1. As the probability of the predicted class approaches to 1, the loss function tends to zero. However, if it the probability is closer to 0.0, then the loss function increases heavily \cite {MLGlossary2017}.\relax }}{}{figure.caption.83}% 
+\contentsline {figure}{\numberline {B.1}{\ignorespaces K-fold cross-validation scheme. The data is first split into train and test, and then the train is split again with this method \cite {Scikit-learna}\relax }}{}{figure.caption.85}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {D.1}{\ignorespaces Audio signal in time domain\relax }}{}{figure.caption.84}% 
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Cross-entropy loss function when the true label is equals to 1. As the probability of the predicted class approaches to 1, the loss function tends to zero. However, if it the probability is closer to 0.0, then the loss function increases heavily \cite {MLGlossary2017}.\relax }}{}{figure.caption.86}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {D.2}{\ignorespaces STFT \cite {Gao2006}\relax }}{}{figure.caption.85}% 
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {D.3}{\ignorespaces Spectrogram of an audio signal. The x-axis corresponds to time, the y-axis to frequency and the colour of the plot to the amplitudes by following the colour bar on the right.\relax }}{}{figure.caption.86}% 
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Audio signal in time domain\relax }}{}{figure.caption.87}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {D.2}{\ignorespaces STFT \cite {Gao2006}\relax }}{}{figure.caption.88}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Spectrogram of an audio signal. The x-axis corresponds to time, the y-axis to frequency and the colour of the plot to the amplitudes by following the colour bar on the right.\relax }}{}{figure.caption.89}% 
 \contentsfinish 
 \contentsfinish 

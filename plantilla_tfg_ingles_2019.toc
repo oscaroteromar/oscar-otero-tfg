@@ -107,7 +107,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8.2}Economic resources}{77}{section.8.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{82}{chapter*.78}% 
+\contentsline {chapter}{Bibliography}{82}{chapter*.81}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {A}Appendix Metrics}{}{appendix.A}% 
 \defcounter {refsection}{0}\relax 
