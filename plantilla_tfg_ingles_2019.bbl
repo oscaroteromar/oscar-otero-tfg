@@ -129,74 +129,6 @@
       \verb 10.1157/13062524
       \endverb
     \endentry
-    \entry{Ruiz-Perez2006}{article}{}
-      \name{author}{9}{}{%
-        {{hash=f090fd7d1f63c90eb778d7842c5f1576}{%
-           family={Ruiz-P{é}rez},
-           familyi={R\bibinithyphendelim P\bibinitperiod},
-           given={Isabel},
-           giveni={I\bibinitperiod}}}%
-        {{hash=b14f25169a4155c70ee230b3c14cbba6}{%
-           family={Plazaola-Casta{ñ}o},
-           familyi={P\bibinithyphendelim C\bibinitperiod},
-           given={Juncal},
-           giveni={J\bibinitperiod}}}%
-        {{hash=6b46793f39d5b785b8d1c57b194d80fa}{%
-           family={{Á}lvarez-Kindel{á}n},
-           familyi={Á\bibinithyphendelim K\bibinitperiod},
-           given={Mar{í}a},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5039578bdab7e4d50279a872c32a347a}{%
-           family={Palomo-Pinto},
-           familyi={P\bibinithyphendelim P\bibinitperiod},
-           given={Marisa},
-           giveni={M\bibinitperiod}}}%
-        {{hash=098430126a15cde7d411b332a65aaf8c}{%
-           family={Arnalte-Barrera},
-           familyi={A\bibinithyphendelim B\bibinitperiod},
-           given={Mercedes},
-           giveni={M\bibinitperiod}}}%
-        {{hash=83591c24983cd40efc16d7d69372d590}{%
-           family={Bonet-Pla},
-           familyi={B\bibinithyphendelim P\bibinitperiod},
-           given={{Á}lvaro},
-           giveni={Á\bibinitperiod}}}%
-        {{hash=8bd4d0deed1de210586107225bd94b0f}{%
-           family={{De Santiago-Hernando}},
-           familyi={D\bibinitperiod},
-           given={Mar{í}a\bibnamedelima Luisa},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=0e4b6e487f03d421f4ce244f9888a1be}{%
-           family={Herranz-Torrubiano},
-           familyi={H\bibinithyphendelim T\bibinitperiod},
-           given={Ana},
-           giveni={A\bibinitperiod}}}%
-        {{hash=96b5fde8f5bdc1bc02872c8b8bc51837}{%
-           family={Garral{ó}n-Ruiz},
-           familyi={G\bibinithyphendelim R\bibinitperiod},
-           given={Luis\bibnamedelima Mar{í}a},
-           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{b30aa20324a429432b6c3dff86cacdb9}
-      \strng{fullhash}{eb630cd1f09b9ece98a58487a9ee314a}
-      \strng{bibnamehash}{7fae195f299d68c5f632dd6567c47ead}
-      \strng{authorbibnamehash}{7fae195f299d68c5f632dd6567c47ead}
-      \strng{authornamehash}{b30aa20324a429432b6c3dff86cacdb9}
-      \strng{authorfullhash}{eb630cd1f09b9ece98a58487a9ee314a}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Purpose: To measure the lifetime prevalence of physical, emotional, and sexual Intimate Partner Violence (IPV) in women attending general practice in Spain and to assess sociodemographic factors associated with the different types of abuse. Methods: The sample included 1402 randomly selected women, aged 18 to 65 years, attending general practice in three Spanish regions. A self-administered structured questionnaire specifically developed for the study was used. Given the overlap between the different types of lifetime abuse, various categories were created by combining the different types. Multiple logistic regression models were developed to identify the sociodemographic factors independently associated with the different categories of abuse. Results: Lifetime prevalence of IPV was 32{\%}, and 14.4{\%} referred having experienced emotional abuse alone. Factors independently associated with all categories of abuse included being separated/divorced/widowed, having three or more children, and lacking social support. Increasing age was protective for physical and emotional abuse (odds ratio = 0.96; 95{\%} confidence interval = 0.93-0.99). Women with the lowest monthly family income ({<} 600€) (1€ = 1.32{\$}) were most likely to experience all IPV categories, except for emotional abuse alone. Conclusions: IPV is a common problem in general practice. The identification of factors associated with this public health problem is essential for its prevention and treatment. {©} 2006 Elsevier Inc. All rights reserved.}
-      \field{issn}{10472797}
-      \field{journaltitle}{Annals of Epidemiology}
-      \field{title}{{Sociodemographic Associations of Physical, Emotional, and Sexual Intimate Partner Violence in Spanish Women}}
-      \field{year}{2006}
-      \verb{doi}
-      \verb 10.1016/j.annepidem.2005.03.007
-      \endverb
-      \keyw{Demography,Domestic Violence,Social Support,Spain,Spouse Abuse}
-    \endentry
     \entry{WorldHealtOrganization2012}{article}{}
       \name{author}{1}{}{%
         {{hash=2c116aad82d1de187a6d4bf87b9d63fc}{%
@@ -253,8 +185,8 @@
       \strng{authorbibnamehash}{a992290c6276908e1ac7861956318d97}
       \strng{authornamehash}{a992290c6276908e1ac7861956318d97}
       \strng{authorfullhash}{a992290c6276908e1ac7861956318d97}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Aggravated Sexual Assault Charges and Penalties}}
@@ -570,8 +502,8 @@
       \strng{authorbibnamehash}{aa4d25906bf690a96eae1cb147750dc0}
       \strng{authornamehash}{51f032f7845b62202f6963ef7fe3eec0}
       \strng{authorfullhash}{0f37c002b63f9b3c7d16889851da659f}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The human activity that takes place in meeting-rooms or class-rooms is reflected in a rich variety of acoustic events, either produced by the human body or by objects handled by humans, so the determination of both the identity of sounds and their position in time may help to detect and describe that human activity. Additionally, detection of sounds other than speech may be useful to enhance the robustness of speech technologies like automatic speech recognition. Automatic detection and classification of acoustic events is the objective of this thesis work. It aims at processing the acoustic signals collected by distant microphones in meeting-room or classroom environments to convert them into symbolic descriptions corresponding to a listener's perception of the different sound events that are present in the signals and their sources. First of all, the task of acoustic event classification is faced using Support Vector Machine (SVM) classifiers, which are motivated by the scarcity of training data. A confusion-matrix-based variable-feature-set clustering scheme is developed for the multiclass recognition problem, and tested on the gathered database. With it, a higher classification rate than the GMM-based technique is obtained, arriving to a large relative average error reduction with respect to the best result from the conventional binary tree scheme. Moreover, several ways to extend SVMs to sequence processing are compared, in an attempt to avoid the drawback of SVMs when dealing with audio data, i.e. their restriction to work with fixed-length vectors, observing that the dynamic time warping kernels work well for sounds that show a temporal structure. Furthermore, concepts and tools from the fuzzy theory are used to investigate, first, the importance of and degree of interaction among features, and second, ways to fuse the outputs of several classification systems. The developed AEC systems are tested also by participating in several international evaluations from 2004 to 2006, and the results are reported. The second main contribution of this thesis work is the development of systems for detection of acoustic events. The detection problem is more complex since it includes both classification and determination of the time intervals where the sound takes place. Two system versions are developed and tested on the datasets of the two CLEAR international evaluation campaigns in 2006 and 2007. Two kinds of databases are used: two databases of isolated acoustic events, and a database of interactive seminars containing a significant number of acoustic events of interest. Our developed systems, which consist of SVM-based classification within a sliding window plus post-processing, were the only submissions not using HMMs, and each of them obtained competitive results in the corresponding evaluation. Speech activity detection was also pursued in this thesis since, in fact, it is a – especially important – particular case of acoustic event detection. An enhanced SVM training approach for the speech activity detection task is developed, mainly to cope with the problem of dataset reduction. The resulting SVM-based system is tested with several NIST Rich Transcription (RT) evaluation datasets, and it shows better scores than our GMM-based system, which ranked among the best systems in the RT06 evaluation. Finally, it is worth mentioning a few side outcomes from this thesis work. As it has been carried out in the framework of the CHIL EU project, the author has been responsible for the organization of the above mentioned international evaluations in acoustic event classification and detection, taking a leading role in the specification of acoustic event classes, databases, and evaluation protocols, and, especially, in the proposal and implementation of the various metrics that have been used. Moreover, the detection systems have been implemented in the UPC's smart-room and work in real time for purposes of testing and demonstration.}
@@ -929,8 +861,8 @@
       \strng{authorbibnamehash}{9302244f8a6a6e012cbc74b32700b068}
       \strng{authornamehash}{1eb1fb8882bb3358ee563b9b23918ab0}
       \strng{authorfullhash}{9302244f8a6a6e012cbc74b32700b068}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Violence continues being an important problem in the society. Thousands of people suffer its effects every day and statistics show this number has maintained or almost increased recently. In the modern environment of smart cities there is a necessity to develop a system capable of detecting if a violent situation is taking place or not. In this paper we present an automatic acoustic violence detection system for smart cities, integrating both signal processing and pattern recognition techniques. The proposed software has been implemented in three steps: feature extraction in time and frequency domain, genetic algorithm implementation in order to select the best features, and classification to take a binary decision. Results derived from the experiments show that MFCCs are the best features for violence detection, and others like pitch or short time energy have also a good performance. In other words, features that can distinguish between voiced and unvoiced frames seem to be a good election for violence detection in real environments.}
@@ -1207,8 +1139,8 @@
       \strng{authorbibnamehash}{a9280d0daf614979f395b85e2d7a4fad}
       \strng{authornamehash}{a9280d0daf614979f395b85e2d7a4fad}
       \strng{authorfullhash}{a9280d0daf614979f395b85e2d7a4fad}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present a feature generation system designed to create audio features for supervised classification tasks. The main contribution to feature generation studies is the notion of analytical features (AFs), a construct designed to support the representation of knowledge about audio signal processing. We describe the most important aspects of AFs, in particular their dimensional type system, on which are based pattern-based random generators, heuristics, and rewriting rules. We show how AFs generalize or improve previous approaches used in feature generation. We report on several projects using AFs for difficult audio classification tasks, demonstrating their advantage over standard audio features. More generally, we propose analytical features as a paradigm to bring raw signals into the world of symbolic computation.}
@@ -1504,8 +1436,8 @@
       \strng{authorbibnamehash}{cd929bb8080f45eb200f5f8a43873185}
       \strng{authornamehash}{8e6daa751f60a7530f9c7824c7e7c37c}
       \strng{authorfullhash}{cd929bb8080f45eb200f5f8a43873185}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A considerable challenge in applying deep learning to audio classification is the scarcity of labeled data. An increasingly popular solution is to learn deep audio embeddings from large audio collections and use them to train shallow classifiers using small labeled datasets. Look, Listen, and Learn (L3-Net) is an embedding trained through self-supervised learning of audio-visual correspondence in videos as opposed to other embeddings requiring labeled data. This framework has the potential to produce powerful out-of-the-box embeddings for downstream audio classification tasks, but has a number of unexplained design choices that may impact the embeddings' behavior. In this paper we investigate how L3-Net design choices impact the performance of downstream audio classifiers trained with these embeddings. We show that audio-informed choices of input representation are important, and that using sufficient data for training the embedding is key. Surprisingly, we find that matching the content for training the embedding to the downstream task is not beneficial. Finally, we show that our best variant of the L3-Net embedding outperforms both the VGGish and SoundNet embeddings, while having fewer parameters and being trained on less data. Our implementation of the L3-Net embedding model as well as pre-trained models are made freely available online.}
@@ -2306,8 +2238,8 @@
       \strng{authorbibnamehash}{d74a4cad455393c2fef7dc47d5466888}
       \strng{authornamehash}{d74a4cad455393c2fef7dc47d5466888}
       \strng{authorfullhash}{d74a4cad455393c2fef7dc47d5466888}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{TUT Rare sound events}}
@@ -3852,6 +3784,46 @@
       \endverb
       \keyw{Ensemble methods,Multi-label classification,Problem transformation,Scalable methods}
     \endentry
+    \entry{Indeed2020}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=732f22f00a78ea9a4bc22a9ee9eca883}{%
+           family={Indeed},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{fullhash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{bibnamehash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{authorbibnamehash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{authornamehash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{authorfullhash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Salarios para empleos de Investigador/a en Espa{ñ}}}
+      \field{year}{2020}
+    \endentry
+    \entry{Indeed2020a}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=732f22f00a78ea9a4bc22a9ee9eca883}{%
+           family={Indeed},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{fullhash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{bibnamehash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{authorbibnamehash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{authornamehash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \strng{authorfullhash}{732f22f00a78ea9a4bc22a9ee9eca883}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Salarios para empleos de Jefe de proyecto en Espa{ñ}a}}
+      \field{year}{2020}
+    \endentry
     \entry{Scikit-learn}{misc}{}
       \name{author}{1}{}{%
         {{hash=ae928b07781d0af9cd222cc0af04ec88}{%
@@ -3995,8 +3967,8 @@
       \strng{authornamehash}{ae928b07781d0af9cd222cc0af04ec88}
       \strng{authorfullhash}{ae928b07781d0af9cd222cc0af04ec88}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Cross-validation: evaluating estimator performance}}
@@ -4013,8 +3985,8 @@
       \strng{authorbibnamehash}{430cbaf810fc16bb0ae0df792fe19485}
       \strng{authornamehash}{430cbaf810fc16bb0ae0df792fe19485}
       \strng{authorfullhash}{430cbaf810fc16bb0ae0df792fe19485}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Loss Functions}}
@@ -4040,8 +4012,8 @@
       \strng{authorbibnamehash}{2e3bebe46001e2ead557ff131246bc43}
       \strng{authornamehash}{2e3bebe46001e2ead557ff131246bc43}
       \strng{authorfullhash}{2e3bebe46001e2ead557ff131246bc43}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{How to apply machine learning and deep learning methods to audio analysis}}
@@ -4061,8 +4033,8 @@
       \strng{authorbibnamehash}{1a3febc90d8f073e62656f05ef6ec1b8}
       \strng{authornamehash}{1a3febc90d8f073e62656f05ef6ec1b8}
       \strng{authorfullhash}{1a3febc90d8f073e62656f05ef6ec1b8}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Intelligent Fault Diagnosis and Remaining Useful Life Prediction of Rotating Machinery provides a comprehensive introduction of intelligent fault diagnosis and RUL prediction based on the current achievements of the author's research group. The main contents include multi-domain signal processing and feature extraction, intelligent diagnosis models, clustering algorithms, hybrid intelligent diagnosis strategies, and RUL prediction approaches, etc. This book presents fundamental theories and advanced methods of identifying the occurrence, locations, and degrees of faults, and also includes information on how to predict the RUL of rotating machinery. Besides experimental demonstrations, many application cases are presented and illustrated to test the methods mentioned in the book. This valuable reference provides an essential guide on machinery fault diagnosis that helps readers understand basic concepts and fundamental theories. Academic researchers with mechanical engineering or computer science backgrounds, and engineers or practitioners who are in charge of machine safety, operation, and maintenance will find this book very useful. Provides a detailed background and roadmap of intelligent diagnosis and RUL prediction of rotating machinery, involving fault mechanisms, vibration characteristics, health indicators, and diagnosis and prognostics Presents basic theories, advanced methods, and the latest contributions in the field of intelligent fault diagnosis and RUL prediction Includes numerous application cases, and the methods, algorithms, and models introduced in the book are demonstrated by industrial experiences.}
