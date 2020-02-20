@@ -1,11 +1,11 @@
 % !TeX spellcheck = en_GB
 
-	In this chapter we are going to explain the different resources we have chosen to create an approach that allowed us to implement our final models. First, we include a detailed description of the database that we have chosen in section \ref{section:audioset}. Then, we comment and analyze the system we are going to employ so as to obtain high level features for our classification experiments in section \ref{section:feature-extractor}. In this point, the model is itemized step by step and also a theoretical explanation is included in \ref{subsection:ann-cnn}.
+	In this chapter we are going to explain the different resources we have chosen to create an approach that allowed us to implement our final models. First, we include a detailed description of the database that we have chosen in section \ref{section:audioset}. Then, we comment and analyze the system we are going to employ so as to obtain high level features for our classification experiments in section \ref{section:feature-extractor}. For this point, we first make an extensive explanation of the \acrshort{ann} and \acrshort{cnn} in \ref{subsection:ann-cnn}, then we can explain the model \acrshort{vgg} in \ref{subsection:vgg}, just to finally end in \ref{subsection:vggish} with the explanation of the model we used in: \acrshort{vgg}ish.
 	
 \section{Database: AudioSet}
 \label{section:audioset}
 
-\subsection{What is AudioSet} \todo{How cite? CPM: como misc, por ejemplo en la página web y con el artículo que la describe}
+\subsection{What is AudioSet} 
 \label{subsection:what-is-audioset}
 
 	Audio Set can be described as a large-scale sound dataset with the goal of putting the availability of audio and image data on the same level. It is composed by a huge variety of 2,084,320 manually-annotated audio events in video format and it is organized by following an ontology formed by 632 different audio classes. The data has been extracted from YouTube videos and the labelling process has been based on diverse factors such as metadata, context and content analysis. It has been developed by Google with the purpose of producing an audio event recognizer that can be applied to plenty of acoustic situations coming from the real world \cite{Gemmeke2017}.
@@ -15,7 +15,7 @@
 \subsection{Ontology}
 \label{subsecition:ontology}
 
-	In order to put this dataset together the events have been organized in an abstract hierarchy. This is composed by higher-level classes which describe a certain type of sound event and also act as parents of other labels that refer to more specific events. With this purpose, the relationship among different classes needs to be non-exclusive, so labelling similar audio events may result into a more general class, the parent, if there was ambiguity. This is also helpful for labellers due to group the clips in an easier and faster way.
+	In order to put this dataset together, the events have been organized in an abstract hierarchy. This is composed by higher-level classes which describe a certain type of sound event and also act as parents of other labels that refer to more specific events. With this purpose, the relationship among different classes needs to be non-exclusive, so labelling similar audio events may result into a more general class, the parent, if there is ambiguity. This is also helpful for labellers due to group the clips in an easier and faster way.
 	
 	The Audio Set Ontology was collected considering some fundamental guidelines explained below:
 	% List
@@ -43,14 +43,12 @@
 	
 \subsection{Labels quality}
 \label{subsection:labels-quality}
-
-	\todo{Small explanation about ratings}
 	
-	For the rating process, the video segments were proposed to the rating workers without any type of extra meta data. For each video, they had the purpose of indicating if the video belonged to one or more labels by setting whether a classes was \textit{present}, \textit{not present} or \textit{unsure}. The number of raters for each segment was three, and a majority-vote method was used in order to decided if the label was finally present in the video segment \cite{Gemmeke2017}.
+	For the rating process, the video segments were proposed to the rating workers without any type of extra meta data. For each video, they had the purpose of indicating if it belonged to one or more labels by setting whether a classes was \textit{present}, \textit{not present} or \textit{unsure}. The number of raters for each segment was three, and a majority-vote method was used in order to decided if the label was finally present in the video segment \cite{Gemmeke2017}.
 	
-	By the end of the process, 76.2\% of the votes were unanimous and the \textit{unsure} vote had been barely used. A small number of errors in during the label were found due to confusing labels, human mistakes and understanding silent and really soft audio sounds as different. Also, some labels were commonly misunderstood so they were removed from the ontology.
+	By the end of the process, 76.2\% of the votes were unanimous and the \textit{unsure} vote had been barely used. A small number of errors during this stage were found due to confusing labels, human mistakes and understanding silent and really soft audio sounds as different. Also, some labels were commonly misunderstood so they were removed from the ontology.
 	
-	In order to improve the quality of the labels, quality assessment has been performed internally in order to proceed to a rerating process. Apart from giving better instructions to the raters, a procedure to label the segments with clusters is also executed \cite{SoundUnderstandinggroup2017}. However, this stage is not completed yet, so we decided to ignore this fact and continue as the labels were equally qualified even thought this may have an effect in the final result.
+	With the intention of improving the quality of the labels, quality assessment has been performed internally in order to proceed to a rerating process. Apart from giving better instructions to the raters, a procedure to tag the segments with clusters is also executed \cite{SoundUnderstandinggroup2017}. However, this stage is not completed yet, so we decided to ignore this fact and continue as the labels were equally qualified even thought this may have an effect in the final result.
 
 \subsection{Data access}
 \label{subsection:data-access}
@@ -111,7 +109,7 @@
 \subsection{\acrfull{vgg} model}
 \label{subsection:vgg}
 
-	\acrshort{cnn} are usually able to achieve really good results and even improve human skills on \acrlong{cv} tasks, for example, on recognizing object in an image. With the exponential growth of the researching works on this field, some challenges have appeared so as to promote the creation of new systems and test their efficiency and results. This is the case of the \acrfull{ilsvrc}, based on the database of the same name, ImageNet. As a solution for the proposed exercise, the investigators from the \acrfull{vgg} in the University of Oxford implemented a new system achieving the first position and winning the challenge in 2014 \cite{ImageNet2014}. The work they proposed consists of a study of the depth in a \acrlong{convnet} architecture and how this can affect to the accuracy on the goal of large-scale image recognition \cite{Simonyan2015}. To try this, it was necessary to increase the number of layers in the network, which was viable due to use a small size of convolutional filters in all of them.
+	\acrshort{cnn} are usually able to achieve really good results and even improve human skills on \acrlong{cv} tasks, for example, on recognizing object in an image. With the exponential growth of the researching works on this field, some challenges have appeared so as to promote the creation of new systems and test their efficiency and results. This is the case of the \acrfull{ilsvrc}, based on the database of the same name, ImageNet. As a solution for the proposed exercise, the investigators from the \acrfull{vgg} in the University of Oxford implemented a new system achieving the first position and winning the challenge in 2014 \cite{ImageNet2014}. The work they proposed consists in a study of the depth in a \acrlong{convnet} architecture and how this can affect to the accuracy on the goal of large-scale image recognition \cite{Simonyan2015}. To try this, it was necessary to increase the number of layers in the network, which was viable due to use a small size of convolutional filters in all of them.
 
 	For the training step of their system, they used an input image with standard size of $224 \times 224$ in \acrshort{rgb} format. The principles to build the architecture are detailed below:
 	
@@ -167,12 +165,12 @@
 	\begin{enumerate}
 		\item In the first place, after loading the input audio, the sample rate and the number of channels are checked to be 16 kHz and monochannel, otherwise the file is transformed to satisfy these conditions.
 		\item When the data is ready, the next step is computing the spectrogram. For this, it is necessary to calculate first the \acrfull{stft} of the signal. The operation is performed by using a sliding Hanning window of 25 ms with a hop size of 10 ms. As a result, just the magnitudes that correspond to the positive frequencies are retained, since the ones corresponding to the negative part of the spectrogram are redundant.
-		\item  Transforming the spectrogram to Mel scale is what follows. To do so, they compute all mel frequency bins that are going to modify the values of the spectrogram in frequency domain by following a hertz to mel conversion formula, that can be found in appendix \ref{section:spectrogram-mel-scale}. The result is a mel spectrogram from 125 Hz to 7,500 Hz divided in 64 bins.
+		\item  Transforming the spectrogram to Mel scale is what follows. To do so, they compute all mel frequency bins that are going to modify the values of the spectrogram in frequency domain by following a hertz to mel conversion formula, that can be found in appendix \ref{appendix:spectrogram-mel-scale}. The result is a mel spectrogram from 125 Hz to 7,500 Hz divided in 64 bins.
 		\item Then, the log-mel spectrogram is calculated by doing the logarithm of the previous result plus a small offset value to avoid the logarithm of $0$.
 		\item As a final step, they compute a framing operation over the log-mel spectrogram. The resulting are non-overlapping examples of 0.96 seconds, in which 64 mel bands and 96 frames are contained, each frame with a duration of 10 ms.
 	\end{enumerate}
 
-	Therefore, the result obtained is an ensemble of 10 frames, approximately one per second, each of them with size $96 \times 64$, i.e, 96 frames and 64 mel bands. It is worth to mention that this result size is obtained with the default parameters the system code is provided. These could be changed in order to obtain embeddings with a higher number of rows and an overlapping phase between them. Since, for our work, a comparison of the two formats was done, which can be found in subsection \ref{subsection:exploring-differences-between-two-types-of-data-access}, and the already extracted embeddings in .\textit{tfrecord} format follow the standard shape, we have not done more research in these parameters. \todo{new explanation of the parameters}
+	Therefore, the result obtained is an ensemble of 10 frames, approximately one per second, each of them with size $96 \times 64$, i.e, 96 frames and 64 mel bands. It is worth to mention that this result size is obtained with the default parameters the system code is provided. These could be changed in order to obtain embeddings with a higher number of frames and an overlapping phase between them. Since, for our work, a comparison of the two formats was done, which can be found in subsection \ref{subsection:exploring-differences-between-two-types-of-data-access}, and the already extracted embeddings in .\textit{tfrecord} format follow the standard shape, we have not done more research in this aspect. 
 
 \subsubsection*{Embedding stage}
 

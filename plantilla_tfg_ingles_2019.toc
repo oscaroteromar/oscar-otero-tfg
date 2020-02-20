@@ -47,7 +47,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.2}\acrfull {vgg} model}{27}{subsection.3.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}\acrshort {vgg}ish model}{28}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.3}\acrshort {vgg}ish model}{29}{subsection.3.2.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Methodology}{31}{section.3.3}% 
 \defcounter {refsection}{0}\relax 
@@ -67,13 +67,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Violent classes}{39}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Downloading videos}{40}{figure.caption.37}% 
+\contentsline {subsubsection}{Downloading videos}{40}{figure.caption.28}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}Extracting embeddings}{41}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.3}Assessing the differences between the two types of data access}{42}{subsection.4.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Dimensionality reduction for visualization}{44}{figure.caption.41}% 
+\contentsline {subsubsection}{Dimensionality reduction for visualization}{44}{figure.caption.32}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Our system}{47}{section.4.3}% 
 \defcounter {refsection}{0}\relax 
@@ -107,7 +107,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8.2}Economic resources}{77}{section.8.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{82}{chapter*.81}% 
+\contentsline {chapter}{Bibliography}{81}{chapter*.69}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {A}Appendix Metrics}{}{appendix.A}% 
 \defcounter {refsection}{0}\relax 

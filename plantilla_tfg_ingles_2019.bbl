@@ -221,7 +221,6 @@
       \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
@@ -1323,6 +1322,34 @@
       \endverb
       \keyw{Acoustic signal processing,classification algorithms,feature extraction,music information retrieval}
     \endentry
+    \entry{Kwon2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=59ca71d2ee0e7f3676e362fd9fce1c4e}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Seoyun\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{fullhash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{bibnamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{authorbibnamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{authornamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \strng{authorfullhash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An artificial neural network (ANN) is a type of artificial intelligence technology which implements more complex data-analysis features into existing applications by an intelligent, human-like application of knowledge. ANN can be considered as a mathematical or computational model based on biological (brain) neural networks. ANN is an adaptive system that changes its structure based on external or internal information that is processed within the network during the learning stage. ANNs implement algorithms that attempt to achieve neurologically-related processes and performances such as learning from experience, making generalizations from similar situations and judging states where poor results were achieved in the past. This new and important book gathers the most current research from across the globe in the study of artificial neural networks. {©} 2011 by Nova Science Publishers, Inc. All rights reserved.}
+      \field{booktitle}{Artificial Neural Networks}
+      \field{isbn}{9781617615535}
+      \field{issn}{0272-989X}
+      \field{title}{{Artificial neural networks}}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.4324/9781315154282-3
+      \endverb
+    \endentry
     \entry{Zhuang2010}{article}{}
       \name{author}{4}{}{%
         {{hash=bb08304736118c5f8829b8457a67e583}{%
@@ -1436,8 +1463,8 @@
       \strng{authorbibnamehash}{cd929bb8080f45eb200f5f8a43873185}
       \strng{authornamehash}{8e6daa751f60a7530f9c7824c7e7c37c}
       \strng{authorfullhash}{cd929bb8080f45eb200f5f8a43873185}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A considerable challenge in applying deep learning to audio classification is the scarcity of labeled data. An increasingly popular solution is to learn deep audio embeddings from large audio collections and use them to train shallow classifiers using small labeled datasets. Look, Listen, and Learn (L3-Net) is an embedding trained through self-supervised learning of audio-visual correspondence in videos as opposed to other embeddings requiring labeled data. This framework has the potential to produce powerful out-of-the-box embeddings for downstream audio classification tasks, but has a number of unexplained design choices that may impact the embeddings' behavior. In this paper we investigate how L3-Net design choices impact the performance of downstream audio classifiers trained with these embeddings. We show that audio-informed choices of input representation are important, and that using sufficient data for training the embedding is key. Surprisingly, we find that matching the content for training the embedding to the downstream task is not beneficial. Finally, we show that our best variant of the L3-Net embedding outperforms both the VGGish and SoundNet embeddings, while having fewer parameters and being trained on less data. Our implementation of the L3-Net embedding model as well as pre-trained models are made freely available online.}
@@ -2036,28 +2063,6 @@
       \verb 10.5220/0006195004560462
       \endverb
       \keyw{Audio processing,Feature selection,Fictional environment,Real environment,Violence detection}
-    \endentry
-    \entry{UnitedNations1989}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
-           family={{United Nations}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
-      \field{extraname}{2}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{No Title}}
-      \field{year}{1989}
-      \field{pages}{11}
-      \range{pages}{1}
     \endentry
     \entry{WHO2013}{book}{}
       \name{author}{1}{}{%
@@ -2714,34 +2719,6 @@
       \endverb
       \verb{url}
       \verb http://arxiv.org/abs/1609.08675
-      \endverb
-    \endentry
-    \entry{Kwon2011}{book}{}
-      \name{author}{1}{}{%
-        {{hash=59ca71d2ee0e7f3676e362fd9fce1c4e}{%
-           family={Kwon},
-           familyi={K\bibinitperiod},
-           given={Seoyun\bibnamedelima J.},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{fullhash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{bibnamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{authorbibnamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{authornamehash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \strng{authorfullhash}{59ca71d2ee0e7f3676e362fd9fce1c4e}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{An artificial neural network (ANN) is a type of artificial intelligence technology which implements more complex data-analysis features into existing applications by an intelligent, human-like application of knowledge. ANN can be considered as a mathematical or computational model based on biological (brain) neural networks. ANN is an adaptive system that changes its structure based on external or internal information that is processed within the network during the learning stage. ANNs implement algorithms that attempt to achieve neurologically-related processes and performances such as learning from experience, making generalizations from similar situations and judging states where poor results were achieved in the past. This new and important book gathers the most current research from across the globe in the study of artificial neural networks. {©} 2011 by Nova Science Publishers, Inc. All rights reserved.}
-      \field{booktitle}{Artificial Neural Networks}
-      \field{isbn}{9781617615535}
-      \field{issn}{0272-989X}
-      \field{title}{{Artificial neural networks}}
-      \field{year}{2011}
-      \verb{doi}
-      \verb 10.4324/9781315154282-3
       \endverb
     \endentry
     \entry{Deng2014}{misc}{}
